@@ -5,6 +5,7 @@ import re
 import sys
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin, urlparse
+from pathlib import Path
 
 URL_DEFAULT = "https://newsibly.nz/?region=national&mode=category"
 HOST = "newsibly.nz"
