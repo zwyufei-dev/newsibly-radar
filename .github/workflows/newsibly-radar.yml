@@ -33,8 +33,8 @@ jobs:
       - name: Run Newsibly reader
         run: |
           python newsibly_reader.py \
-            --limit 20 \
-            --save newsibly_latest20.json \
+            --limit 50 \
+            --save newsibly_latest50.json \
             --archive newsibly_archive24h.json
 
       - name: Commit results
@@ -43,10 +43,10 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
 
           git add \
-            newsibly_latest20.json \
+            newsibly_latest50.json \
             newsibly_archive24h.json
 
           git diff --cached --quiet || \
-            git commit -m "Update Newsibly 24h pool"
+            git commit -m "Update Newsibly Latest 50 and 24h pool"
 
           git push
