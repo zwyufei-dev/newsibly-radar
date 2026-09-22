@@ -1,32 +1,408 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-09-22T22:53:09.137185+00:00",
-  "count": 61,
+  "updated_at_utc": "2026-09-22T23:12:14.278932+00:00",
+  "count": 76,
   "items": [
     {
-      "rank": 2,
+      "rank": 6,
       "title": "Simeon Brown: Health Minister on the surgery waitlist's 41% decrease from peak, drop in number of people waiting over 4 months for treatment",
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/simeon-brown-health-minister-on-the-surgery-waitlists-41-decrease-from-peak-drop-in-number-of-people-waiting-over-4-months-for-treatment",
       "source": "newstalkzb.co.nz",
       "card_text": "Simeon Brown: Health Minister on the surgery waitlist's 41% decrease from peak, drop in number of people waiting over 4 months for treatment",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "title": "Three Years Of Landlord Tax Cuts. Now He Keeps Them.",
       "url": "https://goodoil.news/three-years-of-landlord-tax-cuts-now-he-keeps-them",
       "source": "goodoil.news",
       "card_text": "Three Years Of Landlord Tax Cuts. Now He Keeps Them.",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
     },
     {
-      "rank": 4,
+      "rank": 24,
       "title": "Middlemore Hospital staff declare healthcare 'crisis'",
       "url": "https://rnz.co.nz/news/indonz_featured/1517487/middlemore-hospital-staff-declare-healthcare-crisis",
       "source": "rnz.co.nz",
       "card_text": "Middlemore Hospital staff declare healthcare 'crisis'",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Government celebrates health target gains as ED waits remain stubbornly high",
+      "url": "https://stuff.co.nz/politics/361036924/government-celebrates-health-target-gains-ed-waits-remain-stubbornly-high",
+      "source": "stuff.co.nz",
+      "card_text": "Government celebrates health target gains as ED waits remain stubbornly high",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "RMA Goneburger: Property Rights Now The Law Of The Land",
+      "url": "https://scoop.co.nz/stories/PA2609/S00229/rma-goneburger-property-rights-now-the-law-of-the-land.htm",
+      "source": "scoop.co.nz",
+      "card_text": "RMA Goneburger: Property Rights Now The Law Of The Land",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Households, housing market may be casualties of Reserve Bank tackling inflation",
+      "url": "https://rnz.co.nz/news/business/1526144/households-housing-market-may-be-casualties-of-reserve-bank-tackling-inflation",
+      "source": "rnz.co.nz",
+      "card_text": "Households, housing market may be casualties of Reserve Bank tackling inflation",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?",
+      "url": "https://nzherald.co.nz/business/economy/inside-economics-if-the-economy-still-sucks-why-is-the-rbnz-hiking-rates/premium/LKPEE3UP7JFJRDFDDGBJEQE55Y",
+      "source": "nzherald.co.nz",
+      "card_text": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Government agencies budgeting tens of millions for AI",
+      "url": "https://newstalkzb.co.nz/news/politics/government-agencies-budgeting-tens-of-millions-for-ai",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Government agencies budgeting tens of millions for AI",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Understaffed surgical wards linked to 182 preventable hospital deaths each year",
+      "url": "https://thepress.co.nz/politics/361083554/understaffed-surgical-wards-linked-182-preventable-hospital-deaths-each-year",
+      "source": "thepress.co.nz",
+      "card_text": "Understaffed surgical wards linked to 182 preventable hospital deaths each year",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US to build two military bases in Greenland under new deal with Denmark",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Greens’ lobbying crackdown wouldn’t hurt conservative war chest – expert",
+      "url": "https://newsroom.co.nz/2026/09/23/greens-lobbying-crackdown-wouldnt-hurt-conservative-war-chest-expert",
+      "source": "newsroom.co.nz",
+      "card_text": "Greens’ lobbying crackdown wouldn’t hurt conservative war chest – expert",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Watch: Review finds Reserve Bank’s Covid-19 response went “too strong for too long” | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=i7bcaISiOyM",
+      "source": "youtube.com",
+      "card_text": "Watch: Review finds Reserve Bank’s Covid-19 response went “too strong for too long” | Stuff.co.nz",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Sunk cost of MBIE’s botched IT project rises to more than $50m",
+      "url": "https://nzherald.co.nz/nz/politics/sunk-cost-of-mbies-botched-it-project-rises-to-more-than-50m/42VYN7VJBJESTF5LGJF6YVIPLE",
+      "source": "nzherald.co.nz",
+      "card_text": "Sunk cost of MBIE’s botched IT project rises to more than $50m",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Government’s AI plan for public sector cuts questioned by tech leaders",
+      "url": "https://businessdesk.co.nz/article/opinion/governments-ai-plan-for-public-sector-cuts-questioned-by-tech-leaders",
+      "source": "businessdesk.co.nz",
+      "card_text": "Government’s AI plan for public sector cuts questioned by tech leaders",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Benefit Payment Bungle: Labour Demands Answers From Upston",
+      "url": "https://waateanews.com/2026/09/23/benefit-payment-bungle-labour-demands-answers-from-upston",
+      "source": "waateanews.com",
+      "card_text": "Benefit Payment Bungle: Labour Demands Answers From Upston",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Nicola Willis: Finance Minister on the independent review into the Reserve Bank's performance during Covid",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/nicola-willis-finance-minister-on-the-independent-review-into-the-reserve-banks-performance-during-covid",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Nicola Willis: Finance Minister on the independent review into the Reserve Bank's performance during Covid",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Corporate heavy hitters tell MPs: ‘hands off our businesses’",
+      "url": "https://thepress.co.nz/business/361085053/business-leaders-unite-against-election-policies-threaten-property-rights",
+      "source": "thepress.co.nz",
+      "card_text": "Corporate heavy hitters tell MPs: ‘hands off our businesses’",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Trump muses whether to 'annihilate' Iran, tries to rebrand AI in wide-ranging UN General Assembly speech",
+      "url": "https://stuff.co.nz/world-news/361036959/united-nations-general-assembly-kicks-trump-front-world-leaders",
+      "source": "stuff.co.nz",
+      "card_text": "Trump muses whether to 'annihilate' Iran, tries to rebrand AI in wide-ranging UN General Assembly speech",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "url": "https://bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "UN turmoil and Iran threats frame a steady night on world markets",
+      "url": "https://thepress.co.nz/business/361085311/un-turmoil-and-iran-threats-frame-steady-night-world-markets",
+      "source": "thepress.co.nz",
+      "card_text": "UN turmoil and Iran threats frame a steady night on world markets",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Christchurch Hospital ED treats 14,582 patients in corridors in one year",
+      "url": "https://nzherald.co.nz/nz/christchurch-hospital-ed-treats-14582-patients-in-corridors-in-one-year/NFDAP2GPPZDGJBE4QQCBPZUHJI",
+      "source": "nzherald.co.nz",
+      "card_text": "Christchurch Hospital ED treats 14,582 patients in corridors in one year",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Contaminated water sources may be contributing to fertility issues",
+      "url": "https://odt.co.nz/news/dunedin/contaminated-water-sources-may-be-contributing-to-fertility-issues-fvmt14st",
+      "source": "odt.co.nz",
+      "card_text": "Contaminated water sources may be contributing to fertility issues",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "ECan staff recommend hundreds of Canterbury nitrate-affected water users pay for own treatment",
+      "url": "https://thepress.co.nz/nz-news/361084487/ecan-staff-recommend-hundreds-canterbury-nitrate-affected-water-users-pay-own-treatment",
+      "source": "thepress.co.nz",
+      "card_text": "ECan staff recommend hundreds of Canterbury nitrate-affected water users pay for own treatment",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Santana tailings seepage calculations wrong, claims academic",
+      "url": "https://odt.co.nz/otago/central-otago/santana-tailings-seepage-calculations-wrong-claims-academic-gg762821",
+      "source": "odt.co.nz",
+      "card_text": "Santana tailings seepage calculations wrong, claims academic",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Environment Southland rejects request for data centre review",
+      "url": "https://rnz.co.nz/news/science-and-technology/1525951/environment-southland-rejects-request-for-data-centre-review",
+      "source": "rnz.co.nz",
+      "card_text": "Environment Southland rejects request for data centre review",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Will RMA reforms finally get houses built? Developers aren't so sure",
+      "url": "https://thepress.co.nz/business/361084665/will-rma-reforms-finally-get-houses-built-developers-arent-so-sure",
+      "source": "thepress.co.nz",
+      "card_text": "Will RMA reforms finally get houses built? Developers aren't so sure",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "‘It’s striking’: first-home buyers are skipping the bottom rung of the property ladder",
+      "url": "https://stuff.co.nz/home-property/361036767/its-striking-more-first-home-buyers-skipping-bottom-rung-property-ladder",
+      "source": "stuff.co.nz",
+      "card_text": "‘It’s striking’: first-home buyers are skipping the bottom rung of the property ladder",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Christchurch developer abandons $80m student housing project after airport dispute",
+      "url": "https://thepress.co.nz/nz-news/361084286/christchurch-developer-abandons-80m-student-housing-project-after-airport-dispute",
+      "source": "thepress.co.nz",
+      "card_text": "Christchurch developer abandons $80m student housing project after airport dispute",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "'The new norm': Christchurch Hospital’s ED treating more patients in corridors",
+      "url": "https://newstalkzb.co.nz/news/national/the-new-norm-christchurch-hospital-s-ed-treating-more-patients-in-corridors",
+      "source": "newstalkzb.co.nz",
+      "card_text": "'The new norm': Christchurch Hospital’s ED treating more patients in corridors",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Training for firefighting crews on real fires halted last year",
+      "url": "https://rnz.co.nz/news/emergencies/1526031/training-for-firefighting-crews-on-real-fires-halted-last-year",
+      "source": "rnz.co.nz",
+      "card_text": "Training for firefighting crews on real fires halted last year",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Concern over voters dropping off the electoral roll",
+      "url": "https://thepress.co.nz/nz-news/361084589/concern-over-voters-dropping-electoral-roll",
+      "source": "thepress.co.nz",
+      "card_text": "Concern over voters dropping off the electoral roll",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Storm strengthened by super El Niño hits Japan, killing four",
+      "url": "https://stuff.co.nz/world-news/361037014/storm-strengthened-super-el-nino-hits-japan-killing-four",
+      "source": "stuff.co.nz",
+      "card_text": "Storm strengthened by super El Niño hits Japan, killing four",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Business of Government: IT woes, OIA reforms and more",
+      "url": "https://businessdesk.co.nz/article/business-of-government/business-of-government-it-woes-oia-reforms-and-more",
+      "source": "businessdesk.co.nz",
+      "card_text": "Business of Government: IT woes, OIA reforms and more",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Labour’s West Coast candidate endorses fast-tracked Waitaha hydro dam",
+      "url": "https://newsroom.co.nz/2026/09/23/labours-west-coast-candidate-endorses-fast-tracked-waitaha-hydro-dam",
+      "source": "newsroom.co.nz",
+      "card_text": "Labour’s West Coast candidate endorses fast-tracked Waitaha hydro dam",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "MBIE confirms botched biometric projects costs blown out to $50.7 million",
+      "url": "https://odt.co.nz/news/national/mbie-confirms-botched-biometric-projects-costs-blown-out-to-507-million-yp6em91l",
+      "source": "odt.co.nz",
+      "card_text": "MBIE confirms botched biometric projects costs blown out to $50.7 million",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "url": "https://bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Nearly 100,000 patients had health data exposed. Now two agencies have been ordered to fix security",
+      "url": "https://stuff.co.nz/nz-news/361037084/nearly-100000-patients-had-health-data-exposed-now-two-agencies-have-been-ordered-fix-security",
+      "source": "stuff.co.nz",
+      "card_text": "Nearly 100,000 patients had health data exposed. Now two agencies have been ordered to fix security",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Post code lottery still alive and well in health sector, latest figures show",
+      "url": "https://rnz.co.nz/news/health/1529599/post-code-lottery-still-alive-and-well-in-health-sector-latest-figures-show",
+      "source": "rnz.co.nz",
+      "card_text": "Post code lottery still alive and well in health sector, latest figures show",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Election Hoon: How should the supermarkets duopoly be broken up?",
+      "url": "https://thekaka.substack.com/p/election-hoon-how-should-the-supermarkets",
+      "source": "thekaka.substack.com",
+      "card_text": "Election Hoon: How should the supermarkets duopoly be broken up?",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Willis: Breakup of NZ’s biggest power companies risks 'massive instability'",
+      "url": "https://interest.co.nz/public-policy/140359/nationals-nicola-willis-says-breaking-new-zealand%E2%80%99s-major-power-gentailers",
+      "source": "interest.co.nz",
+      "card_text": "Willis: Breakup of NZ’s biggest power companies risks 'massive instability'",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "KMD Brands reports $414m loss after Rip Curl and Kathmandu impairments",
+      "url": "https://nzherald.co.nz/business/companies/retail/kmd-brands-reports-414m-loss-after-rip-curl-and-kathmandu-impairments/premium/BX4WBXP4L5CFFJ76JBODOXHODQ",
+      "source": "nzherald.co.nz",
+      "card_text": "KMD Brands reports $414m loss after Rip Curl and Kathmandu impairments",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Sweeping changes to Fiji's governance recommended by Constitution Commission",
+      "url": "https://rnz.co.nz/news/pacific/1522583/sweeping-changes-to-fiji-s-governance-recommended-by-constitution-commission",
+      "source": "rnz.co.nz",
+      "card_text": "Sweeping changes to Fiji's governance recommended by Constitution Commission",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Moved On, But To Where? Wāhine Māori Housing Crisis Doesn’t End At Retirement",
+      "url": "https://waateanews.com/2026/09/23/moved-on-but-to-where-wahine-maori-housing-crisis-doesnt-end-at-retirement",
+      "source": "waateanews.com",
+      "card_text": "Moved On, But To Where? Wāhine Māori Housing Crisis Doesn’t End At Retirement",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Indian businesses eye investment opportunities after signing of free trade agreement",
+      "url": "https://rnz.co.nz/news/indonz_featured/1529163/indian-businesses-eye-investment-opportunities-after-signing-of-free-trade-agreement",
+      "source": "rnz.co.nz",
+      "card_text": "Indian businesses eye investment opportunities after signing of free trade agreement",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Super Rugby future: Three options on table as New Zealand Rugby seeks $20m in cuts",
+      "url": "https://nzherald.co.nz/sport/rugby/super-rugby/super-rugby-future-three-options-on-table-as-new-zealand-rugby-seeks-20m-in-cuts/premium/A4QYVHPHS5DQZDGLVKAQSB54PI",
+      "source": "nzherald.co.nz",
+      "card_text": "Super Rugby future: Three options on table as New Zealand Rugby seeks $20m in cuts",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Burnside High left to fix up old buildings after Ministry of Education abandons promised post-quake rebuild",
+      "url": "https://thepress.co.nz/nz-news/361084197/burnside-high-left-fix-old-buildings-after-ministry-education-abandons-promised-post-quake-rebuild",
+      "source": "thepress.co.nz",
+      "card_text": "Burnside High left to fix up old buildings after Ministry of Education abandons promised post-quake rebuild",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "One dead in Far North multi-vehicle crash",
+      "url": "https://rnz.co.nz/news/emergencies_local/1528069/one-dead-in-far-north-multi-vehicle-crash",
+      "source": "rnz.co.nz",
+      "card_text": "One dead in Far North multi-vehicle crash",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "National Ticketing Solution rolls out in Canterbury",
+      "url": "https://beehive.govt.nz/release/national-ticketing-solution-rolls-out-canterbury",
+      "source": "beehive.govt.nz",
+      "card_text": "National Ticketing Solution rolls out in Canterbury",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Eight Iwi, One Kaupapa: Te Tōpuni Ngārahu Looks Beyond Taranaki Maunga",
+      "url": "https://waateanews.com/2026/09/23/eight-iwi-one-kaupapa-te-topuni-ngarahu-looks-beyond-taranaki-maunga",
+      "source": "waateanews.com",
+      "card_text": "Eight Iwi, One Kaupapa: Te Tōpuni Ngārahu Looks Beyond Taranaki Maunga",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Health Targets: Shorter Waits For South Islanders",
+      "url": "https://scoop.co.nz/stories/PA2609/S00236/health-targets-shorter-waits-for-south-islanders.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Health Targets: Shorter Waits For South Islanders",
+      "discovered_at_utc": "2026-09-22T23:12:14.278932+00:00"
     },
     {
       "rank": 27,
@@ -37,83 +413,11 @@
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
-      "rank": 5,
-      "title": "Government celebrates health target gains as ED waits remain stubbornly high",
-      "url": "https://stuff.co.nz/politics/361036924/government-celebrates-health-target-gains-ed-waits-remain-stubbornly-high",
-      "source": "stuff.co.nz",
-      "card_text": "Government celebrates health target gains as ED waits remain stubbornly high",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "RMA Goneburger: Property Rights Now The Law Of The Land",
-      "url": "https://scoop.co.nz/stories/PA2609/S00229/rma-goneburger-property-rights-now-the-law-of-the-land.htm",
-      "source": "scoop.co.nz",
-      "card_text": "RMA Goneburger: Property Rights Now The Law Of The Land",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "Households, housing market may be casualties of Reserve Bank tackling inflation",
-      "url": "https://rnz.co.nz/news/business/1526144/households-housing-market-may-be-casualties-of-reserve-bank-tackling-inflation",
-      "source": "rnz.co.nz",
-      "card_text": "Households, housing market may be casualties of Reserve Bank tackling inflation",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?",
-      "url": "https://nzherald.co.nz/business/economy/inside-economics-if-the-economy-still-sucks-why-is-the-rbnz-hiking-rates/premium/LKPEE3UP7JFJRDFDDGBJEQE55Y",
-      "source": "nzherald.co.nz",
-      "card_text": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "Government agencies budgeting tens of millions for AI",
-      "url": "https://newstalkzb.co.nz/news/politics/government-agencies-budgeting-tens-of-millions-for-ai",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Government agencies budgeting tens of millions for AI",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Understaffed surgical wards linked to 182 preventable hospital deaths each year",
-      "url": "https://thepress.co.nz/politics/361083554/understaffed-surgical-wards-linked-182-preventable-hospital-deaths-each-year",
-      "source": "thepress.co.nz",
-      "card_text": "Understaffed surgical wards linked to 182 preventable hospital deaths each year",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "url": "https://bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US to build two military bases in Greenland under new deal with Denmark",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
       "rank": 9,
       "title": "Labour’s election pitch: Better starts now… only it looks pretty much the same",
       "url": "https://thespinoff.co.nz/politics/22-09-2026/labours-election-pitch-expect-better-but-dont-expect-too-much",
       "source": "thespinoff.co.nz",
       "card_text": "Labour’s election pitch: Better starts now… only it looks pretty much the same",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Greens’ lobbying crackdown wouldn’t hurt conservative war chest – expert",
-      "url": "https://newsroom.co.nz/2026/09/23/greens-lobbying-crackdown-wouldnt-hurt-conservative-war-chest-expert",
-      "source": "newsroom.co.nz",
-      "card_text": "Greens’ lobbying crackdown wouldn’t hurt conservative war chest – expert",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Watch: Review finds Reserve Bank’s Covid-19 response went “too strong for too long” | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=i7bcaISiOyM",
-      "source": "youtube.com",
-      "card_text": "Watch: Review finds Reserve Bank’s Covid-19 response went “too strong for too long” | Stuff.co.nz",
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
@@ -133,75 +437,11 @@
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
-      "rank": 14,
-      "title": "Sunk cost of MBIE’s botched IT project rises to more than $50m",
-      "url": "https://nzherald.co.nz/nz/politics/sunk-cost-of-mbies-botched-it-project-rises-to-more-than-50m/42VYN7VJBJESTF5LGJF6YVIPLE",
-      "source": "nzherald.co.nz",
-      "card_text": "Sunk cost of MBIE’s botched IT project rises to more than $50m",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Government’s AI plan for public sector cuts questioned by tech leaders",
-      "url": "https://businessdesk.co.nz/article/opinion/governments-ai-plan-for-public-sector-cuts-questioned-by-tech-leaders",
-      "source": "businessdesk.co.nz",
-      "card_text": "Government’s AI plan for public sector cuts questioned by tech leaders",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Benefit Payment Bungle: Labour Demands Answers From Upston",
-      "url": "https://waateanews.com/2026/09/23/benefit-payment-bungle-labour-demands-answers-from-upston",
-      "source": "waateanews.com",
-      "card_text": "Benefit Payment Bungle: Labour Demands Answers From Upston",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Nicola Willis: Finance Minister on the independent review into the Reserve Bank's performance during Covid",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/nicola-willis-finance-minister-on-the-independent-review-into-the-reserve-banks-performance-during-covid",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Nicola Willis: Finance Minister on the independent review into the Reserve Bank's performance during Covid",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Corporate heavy hitters tell MPs: ‘hands off our businesses’",
-      "url": "https://thepress.co.nz/business/361085053/business-leaders-unite-against-election-policies-threaten-property-rights",
-      "source": "thepress.co.nz",
-      "card_text": "Corporate heavy hitters tell MPs: ‘hands off our businesses’",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
       "rank": 20,
       "title": "‘Squeamish’ no more: Mt Maunganui military drone maker Syos taps three local funds for capital",
       "url": "https://nzherald.co.nz/business/squeamish-no-more-mt-maunganui-military-drone-maker-syos-taps-three-local-funds-for-capital/premium/PVR6EOHG35GWRKTNCZPY6J5XPQ",
       "source": "nzherald.co.nz",
       "card_text": "‘Squeamish’ no more: Mt Maunganui military drone maker Syos taps three local funds for capital",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Trump muses whether to 'annihilate' Iran, tries to rebrand AI in wide-ranging UN General Assembly speech",
-      "url": "https://stuff.co.nz/world-news/361036959/united-nations-general-assembly-kicks-trump-front-world-leaders",
-      "source": "stuff.co.nz",
-      "card_text": "Trump muses whether to 'annihilate' Iran, tries to rebrand AI in wide-ranging UN General Assembly speech",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "url": "https://bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "UN turmoil and Iran threats frame a steady night on world markets",
-      "url": "https://thepress.co.nz/business/361085311/un-turmoil-and-iran-threats-frame-steady-night-world-markets",
-      "source": "thepress.co.nz",
-      "card_text": "UN turmoil and Iran threats frame a steady night on world markets",
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
@@ -213,14 +453,6 @@
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
-      "rank": 25,
-      "title": "Christchurch Hospital ED treats 14,582 patients in corridors in one year",
-      "url": "https://nzherald.co.nz/nz/christchurch-hospital-ed-treats-14582-patients-in-corridors-in-one-year/NFDAP2GPPZDGJBE4QQCBPZUHJI",
-      "source": "nzherald.co.nz",
-      "card_text": "Christchurch Hospital ED treats 14,582 patients in corridors in one year",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
       "rank": 26,
       "title": "How more than half a billion dollars was knocked off health funding bid",
       "url": "https://thepress.co.nz/politics/361081727/how-more-half-billion-dollars-was-knocked-health-funding-bid",
@@ -229,91 +461,11 @@
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
-      "rank": 28,
-      "title": "Contaminated water sources may be contributing to fertility issues",
-      "url": "https://odt.co.nz/news/dunedin/contaminated-water-sources-may-be-contributing-to-fertility-issues-fvmt14st",
-      "source": "odt.co.nz",
-      "card_text": "Contaminated water sources may be contributing to fertility issues",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "ECan staff recommend hundreds of Canterbury nitrate-affected water users pay for own treatment",
-      "url": "https://thepress.co.nz/nz-news/361084487/ecan-staff-recommend-hundreds-canterbury-nitrate-affected-water-users-pay-own-treatment",
-      "source": "thepress.co.nz",
-      "card_text": "ECan staff recommend hundreds of Canterbury nitrate-affected water users pay for own treatment",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Santana tailings seepage calculations wrong, claims academic",
-      "url": "https://odt.co.nz/otago/central-otago/santana-tailings-seepage-calculations-wrong-claims-academic-gg762821",
-      "source": "odt.co.nz",
-      "card_text": "Santana tailings seepage calculations wrong, claims academic",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Environment Southland rejects request for data centre review",
-      "url": "https://rnz.co.nz/news/science-and-technology/1525951/environment-southland-rejects-request-for-data-centre-review",
-      "source": "rnz.co.nz",
-      "card_text": "Environment Southland rejects request for data centre review",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Will RMA reforms finally get houses built? Developers aren't so sure",
-      "url": "https://thepress.co.nz/business/361084665/will-rma-reforms-finally-get-houses-built-developers-arent-so-sure",
-      "source": "thepress.co.nz",
-      "card_text": "Will RMA reforms finally get houses built? Developers aren't so sure",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "‘It’s striking’: first-home buyers are skipping the bottom rung of the property ladder",
-      "url": "https://stuff.co.nz/home-property/361036767/its-striking-more-first-home-buyers-skipping-bottom-rung-property-ladder",
-      "source": "stuff.co.nz",
-      "card_text": "‘It’s striking’: first-home buyers are skipping the bottom rung of the property ladder",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Christchurch developer abandons $80m student housing project after airport dispute",
-      "url": "https://thepress.co.nz/nz-news/361084286/christchurch-developer-abandons-80m-student-housing-project-after-airport-dispute",
-      "source": "thepress.co.nz",
-      "card_text": "Christchurch developer abandons $80m student housing project after airport dispute",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "'The new norm': Christchurch Hospital’s ED treating more patients in corridors",
-      "url": "https://newstalkzb.co.nz/news/national/the-new-norm-christchurch-hospital-s-ed-treating-more-patients-in-corridors",
-      "source": "newstalkzb.co.nz",
-      "card_text": "'The new norm': Christchurch Hospital’s ED treating more patients in corridors",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Training for firefighting crews on real fires halted last year",
-      "url": "https://rnz.co.nz/news/emergencies/1526031/training-for-firefighting-crews-on-real-fires-halted-last-year",
-      "source": "rnz.co.nz",
-      "card_text": "Training for firefighting crews on real fires halted last year",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
       "rank": 37,
       "title": "Developing El Niño becomes strongest on record weeks before expected peak",
       "url": "https://bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Concern over voters dropping off the electoral roll",
-      "url": "https://thepress.co.nz/nz-news/361084589/concern-over-voters-dropping-electoral-roll",
-      "source": "thepress.co.nz",
-      "card_text": "Concern over voters dropping off the electoral roll",
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
@@ -338,14 +490,6 @@
       "url": "https://waateanews.com/2026/09/23/gps-sound-alarm-over-nz-first-health-policy-shift",
       "source": "waateanews.com",
       "card_text": "Gps Sound Alarm Over NZ First Health Policy Shift",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 43,
-      "title": "Storm strengthened by super El Niño hits Japan, killing four",
-      "url": "https://stuff.co.nz/world-news/361037014/storm-strengthened-super-el-nino-hits-japan-killing-four",
-      "source": "stuff.co.nz",
-      "card_text": "Storm strengthened by super El Niño hits Japan, killing four",
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
@@ -381,22 +525,6 @@
       "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
     },
     {
-      "rank": 48,
-      "title": "Business of Government: IT woes, OIA reforms and more",
-      "url": "https://businessdesk.co.nz/article/business-of-government/business-of-government-it-woes-oia-reforms-and-more",
-      "source": "businessdesk.co.nz",
-      "card_text": "Business of Government: IT woes, OIA reforms and more",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "Labour’s West Coast candidate endorses fast-tracked Waitaha hydro dam",
-      "url": "https://newsroom.co.nz/2026/09/23/labours-west-coast-candidate-endorses-fast-tracked-waitaha-hydro-dam",
-      "source": "newsroom.co.nz",
-      "card_text": "Labour’s West Coast candidate endorses fast-tracked Waitaha hydro dam",
-      "discovered_at_utc": "2026-09-22T22:53:09.137185+00:00"
-    },
-    {
       "rank": 50,
       "title": "‘Extreme care’ cautioned after overnight snowfall closed State Highway",
       "url": "https://thepress.co.nz/nz-news/361085307/motorists-urged-take-extreme-care-after-overnight-snowfall-closed-state-highway",
@@ -410,14 +538,6 @@
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/pollies-nationals-mark-mitchell-and-labours-ginny-andersen-on-nationals-anti-labour-crime-ads-labours-u-turn-on-the-landlord-tax-cut-last-week-in-the-house",
       "source": "newstalkzb.co.nz",
       "card_text": "Pollies: National's Mark Mitchell and Labour's Ginny Andersen on National's anti-Labour crime ads, Labour's u-turn on the landlord tax cut, last week in the House",
-      "discovered_at_utc": "2026-09-22T22:23:40.859078+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "MBIE confirms botched biometric projects costs blown out to $50.7 million",
-      "url": "https://odt.co.nz/news/national/mbie-confirms-botched-biometric-projects-costs-blown-out-to-507-million-yp6em91l",
-      "source": "odt.co.nz",
-      "card_text": "MBIE confirms botched biometric projects costs blown out to $50.7 million",
       "discovered_at_utc": "2026-09-22T22:23:40.859078+00:00"
     },
     {
