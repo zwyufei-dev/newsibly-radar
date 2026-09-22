@@ -1,4 +1,3 @@
-
 name: Newsibly Radar
 
 on:
@@ -28,9 +27,8 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run Newsibly reader
-  run: |
-    python newsibly_reader.py --limit 20
-    mv newsibly_latest15.json newsibly_latest20.json
+        run: |
+          python newsibly_reader.py --limit 20 > newsibly_latest20.json
 
       - name: Commit results
         run: |
