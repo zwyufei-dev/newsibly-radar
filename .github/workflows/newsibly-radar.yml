@@ -1,1 +1,40 @@
 
+name: Newsibly Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4 requests
+          playwright install --with-deps chromium
+
+      - name: Run Newsibly reader
+        run: |
+          python newsibly_reader.py --limit 20 --save newsibly_latest20.json
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsibly_latest20.json
+          git diff --cached --quiet || git commit -m "Update Newsibly latest 20"
+          git push
