@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 
-URL_DEFAULT = "https://newsibly.nz/?region=national&mode=category"
+URL_DEFAULT = "https://newsibly.nz/?mode=latest"
 HOST = "newsibly.nz"
 
 
@@ -199,26 +199,23 @@ def read_with_playwright(
             on_response
         )
 
-        # 只进行一次正常访问。
-        # 不进行激进重试。
         page.goto(
             url,
             wait_until="domcontentloaded",
             timeout=60000,
         )
 
-        # 给动态页面留出加载时间。
         page.wait_for_timeout(8000)
 
-        # 触发懒加载。
-        for _ in range(5):
+        # 多滚几次，让 Latest 动态加载更多新闻。
+        for _ in range(10):
 
             page.mouse.wheel(
                 0,
-                1600
+                1800
             )
 
-            page.wait_for_timeout(700)
+            page.wait_for_timeout(800)
 
         html = page.content()
 
@@ -317,7 +314,7 @@ def update_archive(
 
     by_url = {}
 
-    # 保留过去24小时内的旧数据
+    # 保留过去24小时内的数据
     for item in existing:
 
         url = item.get("url")
@@ -346,8 +343,7 @@ def update_archive(
 
             by_url[url] = item
 
-    # 加入本次抓取的新数据
-    # 如果同一篇新闻再次出现，则刷新发现时间
+    # 加入本次抓到的新新闻
     for item in new_items:
 
         record = dict(item)
@@ -399,12 +395,12 @@ def main():
     ap.add_argument(
         "--limit",
         type=int,
-        default=20
+        default=50
     )
 
     ap.add_argument(
         "--save",
-        default="newsibly_latest20.json"
+        default="newsibly_latest50.json"
     )
 
     ap.add_argument(
@@ -435,8 +431,6 @@ def main():
 
     except Exception as exc:
 
-        # 抓取失败时：
-        # 不覆盖之前成功的文件。
         print(
             "Newsibly read failed; "
             "preserving previous files: "
@@ -449,7 +443,7 @@ def main():
     payload = {
         "source": "Newsibly",
         "feed_url": args.url,
-        "region": "national",
+        "mode": "latest",
         "retrieved_at_utc": (
             now.isoformat()
         ),
@@ -460,7 +454,7 @@ def main():
         ),
     }
 
-    # 最新20条
+    # 最新50条
     save_json(
         args.save,
         payload
