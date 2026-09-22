@@ -1,43 +1,18 @@
 #!/usr/bin/env python3
-"""
-Newsibly feed reader
-====================
-
-Reads Newsibly's National / Category page and extracts the latest article cards.
-Because Newsibly appears to render its feed dynamically, this tool uses Playwright
-(headless Chromium) first, then falls back to requests/BeautifulSoup.
-
-Install:
-    pip install playwright requests beautifulsoup4
-    playwright install chromium
-
-Usage:
-    python newsibly_reader.py
-    python newsibly_reader.py --url "https://newsibly.nz/?region=national&mode=category" --limit 10
-    python newsibly_reader.py --headed   # useful for debugging
-
-Output:
-    JSON to stdout by default.
-
-Notes:
-- This does not invent article URLs. It only reports URLs actually exposed by the page.
-- It records the page URL and timestamp so the result can be audited.
-- If Newsibly changes its DOM/API, use --headed and inspect the saved HTML.
-"""
-
 import argparse
 import json
 import re
 import sys
-import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin, urlparse
 
 URL_DEFAULT = "https://newsibly.nz/?region=national&mode=category"
 HOST = "newsibly.nz"
 
+
 def clean(s):
     return re.sub(r"\s+", " ", (s or "")).strip()
+
 
 def valid_url(url):
     if not url:
@@ -45,43 +20,31 @@ def valid_url(url):
     p = urlparse(url)
     return p.scheme in ("http", "https") and bool(p.netloc)
 
+
 def extract_from_html(html, base_url, limit):
-    try:
-        from bs4 import BeautifulSoup
-    except ImportError:
-        return []
+    from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(html, "html.parser")
-    results = []
-    seen = set()
+    results, seen = [], set()
 
-    # Prefer links that leave Newsibly for an original publisher.
-    # Also accept Newsibly article links as a fallback.
-    links = soup.find_all("a", href=True)
+    ignored_titles = {
+        "latest", "top stories", "my region", "search", "apply filter",
+        "clear filters", "raw feed", "home", "about", "login"
+    }
 
-    for a in links:
+    for a in soup.find_all("a", href=True):
         href = urljoin(base_url, a.get("href", ""))
         title = clean(a.get_text(" ", strip=True))
-        if not valid_url(href) or not title:
-            continue
-        if href in seen:
+
+        if not valid_url(href) or not title or href in seen:
             continue
 
         parsed = urlparse(href)
         same_host = parsed.netloc.endswith(HOST)
 
-        # Ignore navigation/UI links.
-        if title.lower() in {
-            "latest", "top stories", "my region", "search", "apply filter",
-            "clear filters", "raw feed", "home", "about", "login"
-        }:
+        if title.lower() in ignored_titles or len(title) < 18:
             continue
 
-        # Avoid tiny UI labels.
-        if len(title) < 18:
-            continue
-
-        # A news article link is usually either external or a Newsibly article path.
         looks_article = (not same_host) or any(
             token in parsed.path.lower()
             for token in ("/article", "/news", "/story", "/stories")
@@ -89,7 +52,6 @@ def extract_from_html(html, base_url, limit):
         if not looks_article:
             continue
 
-        # Find nearby metadata from the card/container.
         node = a
         container = None
         for _ in range(5):
@@ -101,13 +63,13 @@ def extract_from_html(html, base_url, limit):
                 container = node
                 break
 
-        card_text = clean(container.get_text(" ", strip=True)) if container else title
-
         results.append({
+            "rank": len(results) + 1,
             "title": title,
             "url": href,
             "source": "" if same_host else parsed.netloc,
-            "card_text": card_text,
+            "card_text": clean(container.get_text(" ", strip=True))
+            if container else title,
         })
         seen.add(href)
 
@@ -116,122 +78,152 @@ def extract_from_html(html, base_url, limit):
 
     return results
 
-def playwright_read(url, limit, headed=False, wait_ms=5000):
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        return None, "Playwright is not installed."
 
-    captured = []
+def read_with_playwright(url, limit, headed=False):
+    from playwright.sync_api import sync_playwright
+
+    json_endpoints = []
+
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=not headed, executable_path="/usr/bin/chromium")
+        browser = p.chromium.launch(headless=not headed)
         page = browser.new_page(
-            viewport={"width": 1440, "height": 1600},
+            viewport={"width": 1440, "height": 1800},
             user_agent=(
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "Mozilla/5.0 (X11; Linux x86_64) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/140.0 Safari/537.36"
             ),
         )
 
-        # Capture JSON responses; this can reveal the dynamic feed without guessing.
         def on_response(resp):
             ctype = (resp.headers.get("content-type") or "").lower()
             if "json" in ctype:
-                captured.append(resp.url)
+                json_endpoints.append(resp.url)
 
         page.on("response", on_response)
-        page.goto(url, wait_until="domcontentloaded", timeout=30000)
-        page.wait_for_timeout(wait_ms)
 
-        # Give lazy-loaded cards a chance to appear.
-        for _ in range(4):
-            page.mouse.wheel(0, 1800)
-            page.wait_for_timeout(1000)
+        # One normal browser visit. No aggressive retry loop.
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(8000)
+
+        # Trigger lazy loading.
+        for _ in range(5):
+            page.mouse.wheel(0, 1600)
+            page.wait_for_timeout(700)
 
         html = page.content()
-        page.screenshot(path="newsibly_debug.png", full_page=True)
-        with open("newsibly_page.html", "w", encoding="utf-8") as f:
-            f.write(html)
-
+        items = extract_from_html(html, url, limit)
         browser.close()
 
-    items = extract_from_html(html, url, limit)
-    return {
+    if not items:
+        raise RuntimeError("Newsibly page loaded but no article items were extracted.")
+
+    return items, sorted(set(json_endpoints))
+
+
+def load_json(path, default):
+    p = Path(path)
+    if not p.exists():
+        return default
+    try:
+        with p.open("r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return default
+
+
+def save_json(path, payload):
+    tmp = Path(str(path) + ".tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    tmp.replace(path)
+
+
+def update_archive(archive_path, new_items, now, hours=24):
+    existing_payload = load_json(archive_path, {"items": []})
+    existing = existing_payload.get("items", [])
+
+    cutoff = now - timedelta(hours=hours)
+    by_url = {}
+
+    # Keep existing records that are still within the rolling window.
+    for item in existing:
+        url = item.get("url")
+        ts = item.get("discovered_at_utc")
+        if not url or not ts:
+            continue
+        try:
+            discovered = datetime.fromisoformat(ts.replace("Z", "+00:00"))
+        except Exception:
+            continue
+        if discovered >= cutoff:
+            by_url[url] = item
+
+    # Refresh timestamps for articles seen again.
+    for item in new_items:
+        record = dict(item)
+        record["discovered_at_utc"] = now.isoformat()
+        by_url[record["url"]] = record
+
+    items = sorted(
+        by_url.values(),
+        key=lambda x: x.get("discovered_at_utc", ""),
+        reverse=True,
+    )
+
+    payload = {
+        "source": "Newsibly",
+        "window": "rolling_24_hours",
+        "updated_at_utc": now.isoformat(),
+        "count": len(items),
         "items": items,
-        "json_endpoints_observed": sorted(set(captured)),
-        "html_file": "newsibly_page.html",
-        "screenshot_file": "newsibly_debug.png",
-    }, None
+    }
+    save_json(archive_path, payload)
+    return len(items)
 
-def requests_read(url, limit):
-    try:
-        import requests
-    except ImportError:
-        return None, "requests is not installed."
-
-    try:
-        r = requests.get(
-            url,
-            timeout=30,
-            headers={
-                "User-Agent": (
-                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                    "AppleWebKit/537.36 (KHTML, like Gecko) "
-                    "Chrome/140.0 Safari/537.36"
-                )
-            },
-        )
-        r.raise_for_status()
-        items = extract_from_html(r.text, url, limit)
-        return {"items": items, "status_code": r.status_code}, None
-    except Exception as e:
-        return None, str(e)
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--url", default=URL_DEFAULT)
-    ap.add_argument("--limit", type=int, default=10)
+    ap.add_argument("--limit", type=int, default=20)
+    ap.add_argument("--save", default="newsibly_latest20.json")
+    ap.add_argument("--archive", default="newsibly_archive24h.json")
     ap.add_argument("--headed", action="store_true")
     args = ap.parse_args()
 
-    result = {
-        "requested_url": args.url,
-        "retrieved_at_utc": datetime.now(timezone.utc).isoformat(),
-        "limit": args.limit,
-        "method": None,
-        "items": [],
-        "json_endpoints_observed": [],
-        "warnings": [],
+    now = datetime.now(timezone.utc)
+
+    try:
+        items, endpoints = read_with_playwright(
+            args.url, args.limit, args.headed
+        )
+    except Exception as exc:
+        # Important: do not overwrite the last successful latest20/archive.
+        print(f"Newsibly read failed; preserving previous files: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    payload = {
+        "source": "Newsibly",
+        "feed_url": args.url,
+        "region": "national",
+        "retrieved_at_utc": now.isoformat(),
+        "count": len(items),
+        "items": items,
+        "json_endpoints_observed": endpoints,
     }
 
-    pw, err = playwright_read(args.url, args.limit, args.headed)
-    if pw and pw.get("items"):
-        result["method"] = "playwright"
-        result["items"] = pw["items"][:args.limit]
-        result["json_endpoints_observed"] = pw.get("json_endpoints_observed", [])
-        result["debug_files"] = {
-            "html": pw["html_file"],
-            "screenshot": pw["screenshot_file"],
-        }
-    else:
-        if err:
-            result["warnings"].append("Playwright: " + err)
+    save_json(args.save, payload)
+    archive_count = update_archive(args.archive, items, now, hours=24)
 
-        req, err2 = requests_read(args.url, args.limit)
-        if req and req.get("items"):
-            result["method"] = "requests"
-            result["items"] = req["items"][:args.limit]
-        else:
-            if err2:
-                result["warnings"].append("Requests: " + err2)
-            result["warnings"].append(
-                "No article cards were exposed. Newsibly may be rendering the feed "
-                "through a client-side API. Run with --headed and inspect "
-                "json_endpoints_observed/newsibly_page.html."
-            )
+    print(json.dumps({
+        "status": "success",
+        "latest_count": len(items),
+        "archive24h_count": archive_count,
+        "latest_file": args.save,
+        "archive_file": args.archive,
+        "retrieved_at_utc": now.isoformat(),
+    }, ensure_ascii=False, indent=2))
 
-    print(json.dumps(result, ensure_ascii=False, indent=2))
 
 if __name__ == "__main__":
     main()
