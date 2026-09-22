@@ -1,124 +1,145 @@
 {
-  "requested_url": "https://newsibly.nz/?region=national&mode=category",
-  "retrieved_at_utc": "2026-09-22T21:56:42.423306+00:00",
-  "limit": 20,
-  "method": "playwright",
+  "source": "Newsibly",
+  "feed_url": "https://newsibly.nz/?region=national&mode=category",
+  "region": "national",
+  "retrieved_at_utc": "2026-09-22T22:18:14.033577+00:00",
+  "count": 20,
   "items": [
     {
+      "rank": 1,
+      "title": "Pollies: National's Mark Mitchell and Labour's Ginny Andersen on National's anti-Labour crime ads, Labour's u-turn on the landlord tax cut, last week in the House",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/pollies-nationals-mark-mitchell-and-labours-ginny-andersen-on-nationals-anti-labour-crime-ads-labours-u-turn-on-the-landlord-tax-cut-last-week-in-the-house",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Pollies: National's Mark Mitchell and Labour's Ginny Andersen on National's anti-Labour crime ads, Labour's u-turn on the landlord tax cut, last week in the House"
+    },
+    {
+      "rank": 2,
+      "title": "MBIE confirms botched biometric projects costs blown out to $50.7 million",
+      "url": "https://odt.co.nz/news/national/mbie-confirms-botched-biometric-projects-costs-blown-out-to-507-million-yp6em91l",
+      "source": "odt.co.nz",
+      "card_text": "MBIE confirms botched biometric projects costs blown out to $50.7 million"
+    },
+    {
+      "rank": 3,
       "title": "Daylight saving 2026: When it starts, why we observe it and how to change the time on your phone",
       "url": "https://rnz.co.nz/news/science-and-technology/1528181/daylight-saving-2026-when-it-starts-why-we-observe-it-and-how-to-change-the-time-on-your-phone",
       "source": "rnz.co.nz",
       "card_text": "Daylight saving 2026: When it starts, why we observe it and how to change the time on your phone"
     },
     {
+      "rank": 4,
       "title": "Simeon Brown acknowledges ‘the pressure is real’ but health targets moving in right direction",
       "url": "https://nzherald.co.nz/nz/politics/simeon-brown-acknowledges-the-pressure-is-real-but-health-targets-moving-in-right-direction/M6Y5LOKVIZEXRM5KVRMZMSC3QA",
       "source": "nzherald.co.nz",
       "card_text": "Simeon Brown acknowledges ‘the pressure is real’ but health targets moving in right direction"
     },
     {
+      "rank": 5,
       "title": "Butter chicken tsunami",
       "url": "https://pointofordernz.wordpress.com/2026/09/23/butter-chicken-tsunami",
       "source": "pointofordernz.wordpress.com",
       "card_text": "Butter chicken tsunami Twelve years ago I had an Indian flatmate on contract to an IT company. He’d already worked in the United Kingdom and the United States and found New Zealand to be the most welcoming country he had lived in. I doubt he would say that now. Now we have reports of anti-Indian racist grafitti outside … Continue reading Butter chicken tsunami → Point of Order Today 9:17 am Opinion"
     },
     {
+      "rank": 6,
       "title": "Yet another reason the Waitangi Tribunal must go",
       "url": "https://pointofordernz.wordpress.com/2026/09/23/yet-another-reason-the-waitangi-tribunal-must-go",
       "source": "pointofordernz.wordpress.com",
       "card_text": "Yet another reason the Waitangi Tribunal must go"
     },
     {
+      "rank": 7,
       "title": "Lisa Hopkins: Business Events Industry Aotearoa CEO on the Government's plan to create a coordinated National Events Strategy",
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/lisa-hopkins-business-events-industry-aotearoa-ceo-on-the-governments-plan-to-create-a-coordinated-national-events-strategy",
       "source": "newstalkzb.co.nz",
       "card_text": "Lisa Hopkins: Business Events Industry Aotearoa CEO on the Government's plan to create a coordinated National Events Strategy"
     },
     {
+      "rank": 8,
       "title": "Simeon Brown: Health Minister on the surgery waitlist's 41% decrease from peak, drop in number of people waiting over 4 months for treatment",
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/simeon-brown-health-minister-on-the-surgery-waitlists-41-decrease-from-peak-drop-in-number-of-people-waiting-over-4-months-for-treatment",
       "source": "newstalkzb.co.nz",
       "card_text": "Simeon Brown: Health Minister on the surgery waitlist's 41% decrease from peak, drop in number of people waiting over 4 months for treatment"
     },
     {
-      "title": "‘Had a gutsful’: Education Ministry whistleblower says OIA subversion not an isolated incident",
-      "url": "https://odt.co.nz/news/national/had-a-gutsful-education-ministry-whistleblower-says-oia-subversion-not-an-isolated-incident-tzkjcayx",
-      "source": "odt.co.nz",
-      "card_text": "‘Had a gutsful’: Education Ministry whistleblower says OIA subversion not an isolated incident"
-    },
-    {
+      "rank": 9,
       "title": "Three Years Of Landlord Tax Cuts. Now He Keeps Them.",
       "url": "https://goodoil.news/three-years-of-landlord-tax-cuts-now-he-keeps-them",
       "source": "goodoil.news",
       "card_text": "Three Years Of Landlord Tax Cuts. Now He Keeps Them."
     },
     {
+      "rank": 10,
       "title": "Middlemore Hospital staff declare healthcare 'crisis'",
       "url": "https://rnz.co.nz/news/indonz_featured/1517487/middlemore-hospital-staff-declare-healthcare-crisis",
       "source": "rnz.co.nz",
       "card_text": "Middlemore Hospital staff declare healthcare 'crisis'"
     },
     {
+      "rank": 11,
       "title": "Health Targets: Five Out Of Five Moving In The Right Direction",
       "url": "https://scoop.co.nz/stories/PA2609/S00230/health-targets-five-out-of-five-moving-in-the-right-direction.htm",
       "source": "scoop.co.nz",
       "card_text": "Health Targets: Five Out Of Five Moving In The Right Direction"
     },
     {
+      "rank": 12,
       "title": "Government celebrates health target gains as ED waits remain stubbornly high",
       "url": "https://stuff.co.nz/politics/361036924/government-celebrates-health-target-gains-ed-waits-remain-stubbornly-high",
       "source": "stuff.co.nz",
       "card_text": "Government celebrates health target gains as ED waits remain stubbornly high"
     },
     {
+      "rank": 13,
       "title": "Pre-Māori settlement claims: Historians dismiss Chinese explorer theories",
       "url": "https://newstalkzb.co.nz/news/national/pre-m%C4%81ori-settlement-claims-historians-dismiss-chinese-explorer-theories",
       "source": "newstalkzb.co.nz",
       "card_text": "Pre-Māori settlement claims: Historians dismiss Chinese explorer theories"
     },
     {
+      "rank": 14,
       "title": "RMA Goneburger: Property Rights Now The Law Of The Land",
       "url": "https://scoop.co.nz/stories/PA2609/S00229/rma-goneburger-property-rights-now-the-law-of-the-land.htm",
       "source": "scoop.co.nz",
       "card_text": "RMA Goneburger: Property Rights Now The Law Of The Land"
     },
     {
+      "rank": 15,
       "title": "The places New Zealanders want to work the most",
       "url": "https://rnz.co.nz/news/business/1525953/the-places-new-zealanders-want-to-work-the-most",
       "source": "rnz.co.nz",
       "card_text": "The places New Zealanders want to work the most"
     },
     {
+      "rank": 16,
       "title": "My hardest decision: Selling my trusty ‘95 Toyota TownAce",
       "url": "https://thepress.co.nz/business/361084034/my-hardest-decision-selling-my-trusty-95-toyota-townace",
       "source": "thepress.co.nz",
       "card_text": "My hardest decision: Selling my trusty ‘95 Toyota TownAce"
     },
     {
-      "title": "Nicky Hager’s Dirty Work: Taxpayers’ Union, Three Waters and a ‘rotten stench’",
-      "url": "https://thespinoff.co.nz/the-bulletin/22-09-2026/nicky-hagers-dirty-work-taxpayers-union-three-waters-and-a-rotten-stench",
-      "source": "thespinoff.co.nz",
-      "card_text": "Nicky Hager’s Dirty Work: Taxpayers’ Union, Three Waters and a ‘rotten stench’"
-    },
-    {
+      "rank": 17,
       "title": "RMA Era Ends As New System Passes Parliament",
       "url": "https://scoop.co.nz/stories/PA2609/S00228/rma-era-ends-as-new-system-passes-parliament.htm",
       "source": "scoop.co.nz",
       "card_text": "RMA Era Ends As New System Passes Parliament"
     },
     {
+      "rank": 18,
       "title": "Households, housing market may be casualties of Reserve Bank tackling inflation",
       "url": "https://rnz.co.nz/news/business/1526144/households-housing-market-may-be-casualties-of-reserve-bank-tackling-inflation",
       "source": "rnz.co.nz",
       "card_text": "Households, housing market may be casualties of Reserve Bank tackling inflation"
     },
     {
+      "rank": 19,
       "title": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?",
       "url": "https://nzherald.co.nz/business/economy/inside-economics-if-the-economy-still-sucks-why-is-the-rbnz-hiking-rates/premium/LKPEE3UP7JFJRDFDDGBJEQE55Y",
       "source": "nzherald.co.nz",
       "card_text": "Inside Economics: If the economy still sucks, why is the RBNZ hiking rates?"
     },
     {
+      "rank": 20,
       "title": "Government agencies budgeting tens of millions for AI",
       "url": "https://newstalkzb.co.nz/news/politics/government-agencies-budgeting-tens-of-millions-for-ai",
       "source": "newstalkzb.co.nz",
@@ -130,10 +151,5 @@
     "https://newsibly.nz/api/meta",
     "https://newsibly.nz/api/sources",
     "https://newsibly.nz/cdn-cgi/speculation"
-  ],
-  "warnings": [],
-  "debug_files": {
-    "html": "newsibly_page.html",
-    "screenshot": "newsibly_debug.png"
-  }
+  ]
 }
