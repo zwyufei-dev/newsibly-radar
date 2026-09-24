@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-09-24T01:29:57.380657+00:00",
-  "count": 219,
+  "updated_at_utc": "2026-09-24T01:46:09.115625+00:00",
+  "count": 243,
   "items": [
+    {
+      "rank": 19,
+      "title": "Iran's president delivers wartime address at UN: We have been 'victims of terrorism' | Stuff",
+      "url": "https://stuff.co.nz/world-news/361037452/irans-president-delivers-wartime-address-un-we-have-been",
+      "source": "stuff.co.nz",
+      "card_text": "Iran's president delivers wartime address at UN: We have been 'victims of terrorism' | Stuff",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Police withdrawal from mental health jobs dangerous for workers and patients - PSA",
+      "url": "https://rnz.co.nz/news/health/1548596/police-withdrawal-from-mental-health-jobs-dangerous-for-workers-and-patients-psa",
+      "source": "rnz.co.nz",
+      "card_text": "Police withdrawal from mental health jobs dangerous for workers and patients - PSA",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "How New Zealanders really feel about tax – exclusive poll results",
+      "url": "https://thespinoff.co.nz/politics/23-09-2026/how-new-zealanders-really-feel-about-tax-exclusive-poll-results",
+      "source": "thespinoff.co.nz",
+      "card_text": "How New Zealanders really feel about tax – exclusive poll results",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Bank scrutiny of parental leave complicates mortgages for first-home buyers",
+      "url": "https://newsroom.co.nz/2026/09/24/bank-scrutiny-of-parental-leave-complicates-mortgages-for-first-home-buyers",
+      "source": "newsroom.co.nz",
+      "card_text": "Bank scrutiny of parental leave complicates mortgages for first-home buyers",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "One hour of maths, no phones, new curriculum: The Coalition’s school report card",
+      "url": "https://stuff.co.nz/nz-news/361037179/report-card-government-promised-huge-changes-education-was-it-successful",
+      "source": "stuff.co.nz",
+      "card_text": "One hour of maths, no phones, new curriculum: The Coalition’s school report card",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "NZ cyber threat report warns of rising risk from AI turbo-charging crime",
+      "url": "https://nzherald.co.nz/business/cyber-threat-report-warns-of-rising-risk-from-ai-turbo-charging-cybercrime/RUH7DCS2BJA5FMNPEL3PJKOJ3E",
+      "source": "nzherald.co.nz",
+      "card_text": "NZ cyber threat report warns of rising risk from AI turbo-charging crime",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Black Ferns power duo return in nick of time for huge England test at Twickenham",
+      "url": "https://thepress.co.nz/sport/361085506/kaipo-olsen-baker-ayesha-leti-iiga-return-black-ferns-face-england-wxv-global-series-twickenham",
+      "source": "thepress.co.nz",
+      "card_text": "Black Ferns power duo return in nick of time for huge England test at Twickenham",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Bringing Aotea back to life through a te ao Māori lens",
+      "url": "https://rnz.co.nz/news/te-ao-maori/1549658/bringing-aotea-back-to-life-through-a-te-ao-maori-lens",
+      "source": "rnz.co.nz",
+      "card_text": "Bringing Aotea back to life through a te ao Māori lens",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Shane Jones: Associate Energy Minister on the LNG import terminal decision being put on hold due to the upcoming election",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/shane-jones-associate-energy-minister-on-the-lng-import-terminal-decision-being-put-on-hold-due-to-the-upcoming-election",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Shane Jones: Associate Energy Minister on the LNG import terminal decision being put on hold due to the upcoming election",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "url": "https://bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Youth mental health target data reported for first time",
+      "url": "https://beehive.govt.nz/release/youth-mental-health-target-data-reported-first-time",
+      "source": "beehive.govt.nz",
+      "card_text": "Youth mental health target data reported for first time",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Ready for $4/l diesel & 6% fixed mortgage rates?",
+      "url": "https://thekaka.substack.com/p/ready-for-4l-diesel-and-6-fixed-mortgage",
+      "source": "thekaka.substack.com",
+      "card_text": "Ready for $4/l diesel & 6% fixed mortgage rates?",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Fifty-one business leaders ask political parties to respect property rights",
+      "url": "https://pointofordernz.wordpress.com/2026/09/24/fifty-one-business-leaders-ask-political-parties-to-respect-property-rights",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Fifty-one business leaders ask political parties to respect property rights",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "This Could Change The Way Victims Get Justice",
+      "url": "https://webworm.co/tika",
+      "source": "webworm.co",
+      "card_text": "This Could Change The Way Victims Get Justice",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Wattie Watson: Professional Firefighters' Union National Secretary on the policy announcements to reset, review Fire and Emergency NZ",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/wattie-watson-professional-firefighters-union-national-secretary-on-the-policy-announcements-to-reset-review-fire-and-emergency-nz",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Wattie Watson: Professional Firefighters' Union National Secretary on the policy announcements to reset, review Fire and Emergency NZ",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Elliott Smith: Newstalk ZB's Lead Rugby Commentator on the NZ Rugby Summit looking at how to cut outgoing costs",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/elliott-smith-newstalk-zbs-lead-rugby-commentator-on-the-nz-rugby-summit-looking-at-how-to-cut-outgoing-costs",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Elliott Smith: Newstalk ZB's Lead Rugby Commentator on the NZ Rugby Summit looking at how to cut outgoing costs",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Climate: Report predicts El Niño death toll of almost half a million",
+      "url": "https://rnz.co.nz/news/environment/1549711/climate-report-predicts-el-nino-death-toll-of-almost-half-a-million",
+      "source": "rnz.co.nz",
+      "card_text": "Climate: Report predicts El Niño death toll of almost half a million",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Firefighters' union says FENZ shake-up can't wait until after election",
+      "url": "https://odt.co.nz/news/national/firefighters-union-says-fenz-shake-up-cant-wait-until-after-election-kv2xunce",
+      "source": "odt.co.nz",
+      "card_text": "Firefighters' union says FENZ shake-up can't wait until after election",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Safety Cuts Under Fire: Msd Workers Warn Fewer Guards Could Put Lives At Risk",
+      "url": "https://waateanews.com/2026/09/24/safety-cuts-under-fire-msd-workers-warn-fewer-guards-could-put-lives-at-risk",
+      "source": "waateanews.com",
+      "card_text": "Safety Cuts Under Fire: Msd Workers Warn Fewer Guards Could Put Lives At Risk",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Another bank lifts mortgage rates as one-year special climbs above 5%",
+      "url": "https://stuff.co.nz/money/361037629/another-bank-lifts-mortgage-rates-one-year-special-climbs-above-5",
+      "source": "stuff.co.nz",
+      "card_text": "Another bank lifts mortgage rates as one-year special climbs above 5%",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Papuan civilians shot in latest security forces violence in Yahukimo",
+      "url": "https://rnz.co.nz/news/pacific/1551510/papuan-civilians-shot-in-latest-security-forces-violence-in-yahukimo",
+      "source": "rnz.co.nz",
+      "card_text": "Papuan civilians shot in latest security forces violence in Yahukimo",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Black Ferns confirm return of star duo in starting XV for England test",
+      "url": "https://stuff.co.nz/sport/361036243/ayesha-leti-iiga-and-kaipo-olsen-baker-return-start-black-ferns-against-england",
+      "source": "stuff.co.nz",
+      "card_text": "Black Ferns confirm return of star duo in starting XV for England test",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns",
+      "url": "https://rnz.co.nz/news/science-and-technology/1551281/great-time-to-be-blind-visually-impaired-hail-ai-smart-glasses-despite-privacy-concerns",
+      "source": "rnz.co.nz",
+      "card_text": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Sewage spreading a ‘mistake ORC can’t admit’",
+      "url": "https://odt.co.nz/otago/wanaka/sewage-spreading-a-mistake-orc-cant-admit-pxa3fmgl",
+      "source": "odt.co.nz",
+      "card_text": "Sewage spreading a ‘mistake ORC can’t admit’",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "From Five Birds To Number One: Karure Crowned Aotearoa’s Favourite Manu",
+      "url": "https://waateanews.com/2026/09/24/from-five-birds-to-number-one-karure-crowned-aotearoas-favourite-manu",
+      "source": "waateanews.com",
+      "card_text": "From Five Birds To Number One: Karure Crowned Aotearoa’s Favourite Manu",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "url": "https://bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Iran's president tells Trump it will never 'bend the knee'",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "url": "https://bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Protecting whenua Māori without holding whānau back",
+      "url": "https://beehive.govt.nz/release/protecting-whenua-maori-without-holding-whanau-back",
+      "source": "beehive.govt.nz",
+      "card_text": "Protecting whenua Māori without holding whānau back",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Mistrust a factor as childhood vaccination rates fall, campaign aims 'to empower whānau'",
+      "url": "https://rnz.co.nz/news/health/1553347/mistrust-a-factor-as-childhood-vaccination-rates-fall-campaign-aims-to-empower-whanau",
+      "source": "rnz.co.nz",
+      "card_text": "Mistrust a factor as childhood vaccination rates fall, campaign aims 'to empower whānau'",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "David Wills: Nurses' Society National Director on the reduced police ED handover time for mental health callouts",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/david-wills-nurses-society-national-director-on-the-reduced-police-ed-handover-time-for-mental-health-callouts",
+      "source": "newstalkzb.co.nz",
+      "card_text": "David Wills: Nurses' Society National Director on the reduced police ED handover time for mental health callouts",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Deloitte look at Fletcher Building books confirmed Golden Bay strife",
+      "url": "https://businessdesk.co.nz/article/infrastructure/deloitte-look-at-fletcher-building-books-confirmed-golden-bay-strife",
+      "source": "businessdesk.co.nz",
+      "card_text": "Deloitte look at Fletcher Building books confirmed Golden Bay strife",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "NCSC warns leaders need to prepare as AI transforms cyber threats",
+      "url": "https://reseller.co.nz/article/4225793/ncsc-warns-leaders-need-to-prepare-as-ai-transforms-cyber-threats.html",
+      "source": "reseller.co.nz",
+      "card_text": "NCSC warns leaders need to prepare as AI transforms cyber threats",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Cardiac Lab Upgrade Complete At Auckland City Hospital",
+      "url": "https://scoop.co.nz/stories/PA2609/S00262/cardiac-lab-upgrade-complete-at-auckland-city-hospital.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Cardiac Lab Upgrade Complete At Auckland City Hospital",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "NZ First proposes cutting company tax rate for smaller businesses",
+      "url": "https://chrislynchmedia.com/news-items/nz-first-proposes-cutting-company-tax-rate-for-smaller-businesses",
+      "source": "chrislynchmedia.com",
+      "card_text": "NZ First proposes cutting company tax rate for smaller businesses",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "‘Not set a date’ – Rabuka says Fiji election timing depends on constitutional reform",
+      "url": "https://asiapacificreport.nz/2026/09/24/not-set-a-date-rabuka-says-fiji-election-timing-depends-on-constitutional-reform",
+      "source": "asiapacificreport.nz",
+      "card_text": "‘Not set a date’ – Rabuka says Fiji election timing depends on constitutional reform",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "New pump to boost water resilience",
+      "url": "https://cambridgenews.nz/2026/09/new-pump-to-boost-water-resilience",
+      "source": "cambridgenews.nz",
+      "card_text": "New pump to boost water resilience A new $958,000 pump will be installed upstream of the damaged Te Tahi Reservoir on Mt Pirongia to strengthen water supply resilience for western Waipā ahead of summer. The 93-megalitre reservoir in the Ōtorohanga district,... Cambridge News Today 12:00 pm Environment",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Stuff to host the Kingmakers’ Debate",
+      "url": "https://stoppress.co.nz/news/stuff-to-host-the-kingmakers-debate",
+      "source": "stoppress.co.nz",
+      "card_text": "Stuff to host the Kingmakers’ Debate The Press Kingmakers’ debate, hosted by Stuff, will bring together five party leaders on October 1 ahead of the 2026 election. StopPress Today 12:08 pm Politics",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "John Cockburn: New Zealand Association of Bakers President on the delay to the Government's LNG import terminal deal",
+      "url": "https://newstalkzb.co.nz/on-air/kerre-woodham-mornings/audio/john-cockburn-new-zealand-association-of-bakers-president-on-the-delay-to-the-governments-lng-import-terminal-deal",
+      "source": "newstalkzb.co.nz",
+      "card_text": "John Cockburn: New Zealand Association of Bakers President on the delay to the Government's LNG import terminal deal",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Wenda calls on ‘brave’ Pacific to raise West Papua at UNGA after six killed in new Indonesian massacre",
+      "url": "https://asiapacificreport.nz/2026/09/24/wenda-calls-on-pacific-to-raise-west-papua-at-unga-after-six-killed-in-new-indonesian-massacre",
+      "source": "asiapacificreport.nz",
+      "card_text": "Wenda calls on ‘brave’ Pacific to raise West Papua at UNGA after six killed in new Indonesian massacre",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Nick Bewley: Newstalk ZB Sports Reporter on the New Zealand Rugby summit",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/nick-bewley-newstalk-zb-sports-reporter-on-the-new-zealand-rugby-summit",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Nick Bewley: Newstalk ZB Sports Reporter on the New Zealand Rugby summit",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Health NZ moves to fix Canterbury recruitment issue after hiring freeze claims",
+      "url": "https://chrislynchmedia.com/news-items/health-nz-moves-to-fix-canterbury-recruitment-issue-after-hiring-freeze-claims",
+      "source": "chrislynchmedia.com",
+      "card_text": "Health NZ moves to fix Canterbury recruitment issue after hiring freeze claims",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "url": "https://bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Scott Technology admits failings over Dunedin dad’s death in meat processing machine",
+      "url": "https://odt.co.nz/news/dunedin/scott-technology-admits-failings-in-dunedin-dads-death-in-meat-processing-machine-a99tqw9c",
+      "source": "odt.co.nz",
+      "card_text": "Scott Technology admits failings over Dunedin dad’s death in meat processing machine",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Southland teens accused of harming child who later died face new charges, police say",
+      "url": "https://odt.co.nz/news/southland/southland-teens-accused-of-harming-child-who-later-died-face-new-charges-police-say-juskxk58",
+      "source": "odt.co.nz",
+      "card_text": "Southland teens accused of harming child who later died face new charges, police say",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Teens accused of harming child who later died face new charges, police say",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1553348/teens-accused-of-harming-child-who-later-died-face-new-charges-police-say",
+      "source": "rnz.co.nz",
+      "card_text": "Teens accused of harming child who later died face new charges, police say",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Dunedin robotics company pleads guilty over the fatal crushing of a father of two",
+      "url": "https://stuff.co.nz/nz-news/361037562/dunedin-robotics-company-pleads-guilty-over-fatal-crushing-father-two",
+      "source": "stuff.co.nz",
+      "card_text": "Dunedin robotics company pleads guilty over the fatal crushing of a father of two",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Auckland Deputy Mayor floats law change as million-dollar Ōrākei boatsheds rise over public coastline",
+      "url": "https://newstalkzb.co.nz/news/national/auckland-deputy-mayor-floats-law-change-as-million-dollar-%C5%8Dr%C4%81kei-boatsheds-rise-over-public-coastline",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Auckland Deputy Mayor floats law change as million-dollar Ōrākei boatsheds rise over public coastline",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Crime Proceeds To Help Victims And Their Pets Escape Violence",
+      "url": "https://scoop.co.nz/stories/PA2609/S00260/crime-proceeds-to-help-victims-and-their-pets-escape-violence.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Crime Proceeds To Help Victims And Their Pets Escape Violence",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Crime proceeds to help victims and their pets escape violence",
+      "url": "https://beehive.govt.nz/release/crime-proceeds-help-victims-and-their-pets-escape-violence",
+      "source": "beehive.govt.nz",
+      "card_text": "Crime proceeds to help victims and their pets escape violence",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Tackling Leptospirosis",
+      "url": "https://ruralnewsgroup.co.nz/dairy-news/dairy-farm-health/leptospirosis-control-nz-dairy-herds",
+      "source": "ruralnewsgroup.co.nz",
+      "card_text": "Tackling Leptospirosis Leptospirosis is one of the most significant health threats to New Zealand dairy herds and the families who work with them. Putting simple control measures in place, including vaccinating calves early, is key to protecting humans and animals against this serious and costly disease. An infectious bacterial disease, spread mainly through urine, leptospirosis can cause devastating losses in stock: abortions, weak or... Rural News Group Today 11:55 am Rural",
+      "discovered_at_utc": "2026-09-24T01:46:09.115625+00:00"
+    },
     {
       "rank": 48,
       "title": "What it means for global warming to exceed 1.5°C",
@@ -29,43 +429,11 @@
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
-      "rank": 16,
-      "title": "Iran's president delivers wartime address at UN: We have been 'victims of terrorism' | Stuff",
-      "url": "https://stuff.co.nz/world-news/361037452/irans-president-delivers-wartime-address-un-we-have-been",
-      "source": "stuff.co.nz",
-      "card_text": "Iran's president delivers wartime address at UN: We have been 'victims of terrorism' | Stuff",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
       "rank": 17,
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "url": "https://bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Poland accuses Russian military helicopter of violating its airspace",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Police withdrawal from mental health jobs dangerous for workers and patients - PSA",
-      "url": "https://rnz.co.nz/news/health/1548596/police-withdrawal-from-mental-health-jobs-dangerous-for-workers-and-patients-psa",
-      "source": "rnz.co.nz",
-      "card_text": "Police withdrawal from mental health jobs dangerous for workers and patients - PSA",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "How New Zealanders really feel about tax – exclusive poll results",
-      "url": "https://thespinoff.co.nz/politics/23-09-2026/how-new-zealanders-really-feel-about-tax-exclusive-poll-results",
-      "source": "thespinoff.co.nz",
-      "card_text": "How New Zealanders really feel about tax – exclusive poll results",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "Bank scrutiny of parental leave complicates mortgages for first-home buyers",
-      "url": "https://newsroom.co.nz/2026/09/24/bank-scrutiny-of-parental-leave-complicates-mortgages-for-first-home-buyers",
-      "source": "newsroom.co.nz",
-      "card_text": "Bank scrutiny of parental leave complicates mortgages for first-home buyers",
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
@@ -82,22 +450,6 @@
       "url": "https://thepress.co.nz/nz-news/361085508/ecan-votes-not-investigate-polluter-pays-approach-nitrates",
       "source": "thepress.co.nz",
       "card_text": "ECan votes not to investigate polluter-pays approach to nitrates, declares ‘emergency’ resolved",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "One hour of maths, no phones, new curriculum: The Coalition’s school report card",
-      "url": "https://stuff.co.nz/nz-news/361037179/report-card-government-promised-huge-changes-education-was-it-successful",
-      "source": "stuff.co.nz",
-      "card_text": "One hour of maths, no phones, new curriculum: The Coalition’s school report card",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "NZ cyber threat report warns of rising risk from AI turbo-charging crime",
-      "url": "https://nzherald.co.nz/business/cyber-threat-report-warns-of-rising-risk-from-ai-turbo-charging-cybercrime/RUH7DCS2BJA5FMNPEL3PJKOJ3E",
-      "source": "nzherald.co.nz",
-      "card_text": "NZ cyber threat report warns of rising risk from AI turbo-charging crime",
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
@@ -125,94 +477,6 @@
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
-      "rank": 22,
-      "title": "Black Ferns power duo return in nick of time for huge England test at Twickenham",
-      "url": "https://thepress.co.nz/sport/361085506/kaipo-olsen-baker-ayesha-leti-iiga-return-black-ferns-face-england-wxv-global-series-twickenham",
-      "source": "thepress.co.nz",
-      "card_text": "Black Ferns power duo return in nick of time for huge England test at Twickenham",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Bringing Aotea back to life through a te ao Māori lens",
-      "url": "https://rnz.co.nz/news/te-ao-maori/1549658/bringing-aotea-back-to-life-through-a-te-ao-maori-lens",
-      "source": "rnz.co.nz",
-      "card_text": "Bringing Aotea back to life through a te ao Māori lens",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Shane Jones: Associate Energy Minister on the LNG import terminal decision being put on hold due to the upcoming election",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/shane-jones-associate-energy-minister-on-the-lng-import-terminal-decision-being-put-on-hold-due-to-the-upcoming-election",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Shane Jones: Associate Energy Minister on the LNG import terminal decision being put on hold due to the upcoming election",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "url": "https://bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Youth mental health target data reported for first time",
-      "url": "https://beehive.govt.nz/release/youth-mental-health-target-data-reported-first-time",
-      "source": "beehive.govt.nz",
-      "card_text": "Youth mental health target data reported for first time",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Ready for $4/l diesel & 6% fixed mortgage rates?",
-      "url": "https://thekaka.substack.com/p/ready-for-4l-diesel-and-6-fixed-mortgage",
-      "source": "thekaka.substack.com",
-      "card_text": "Ready for $4/l diesel & 6% fixed mortgage rates?",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Fifty-one business leaders ask political parties to respect property rights",
-      "url": "https://pointofordernz.wordpress.com/2026/09/24/fifty-one-business-leaders-ask-political-parties-to-respect-property-rights",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Fifty-one business leaders ask political parties to respect property rights",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "This Could Change The Way Victims Get Justice",
-      "url": "https://webworm.co/tika",
-      "source": "webworm.co",
-      "card_text": "This Could Change The Way Victims Get Justice",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Wattie Watson: Professional Firefighters' Union National Secretary on the policy announcements to reset, review Fire and Emergency NZ",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/wattie-watson-professional-firefighters-union-national-secretary-on-the-policy-announcements-to-reset-review-fire-and-emergency-nz",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Wattie Watson: Professional Firefighters' Union National Secretary on the policy announcements to reset, review Fire and Emergency NZ",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Elliott Smith: Newstalk ZB's Lead Rugby Commentator on the NZ Rugby Summit looking at how to cut outgoing costs",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/elliott-smith-newstalk-zbs-lead-rugby-commentator-on-the-nz-rugby-summit-looking-at-how-to-cut-outgoing-costs",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Elliott Smith: Newstalk ZB's Lead Rugby Commentator on the NZ Rugby Summit looking at how to cut outgoing costs",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Climate: Report predicts El Niño death toll of almost half a million",
-      "url": "https://rnz.co.nz/news/environment/1549711/climate-report-predicts-el-nino-death-toll-of-almost-half-a-million",
-      "source": "rnz.co.nz",
-      "card_text": "Climate: Report predicts El Niño death toll of almost half a million",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
       "rank": 44,
       "title": "Watch: Health Minister outlines major step in fighting NZ’s deadliest cancer | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=qr2eNZNLaUA",
@@ -226,22 +490,6 @@
       "url": "https://cambridgenews.nz/2026/09/twelve-get-connected",
       "source": "cambridgenews.nz",
       "card_text": "Twelve get connected More than 700 Cambridge and Leamington residents were contacted by Waipā District Council about future transport plans, but only about a dozen have responded. Cambridge Community Board chair Charlotte FitzPatrick asked Waipā District Council growth,... Cambridge News Today 5:00 am Transport",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "Firefighters' union says FENZ shake-up can't wait until after election",
-      "url": "https://odt.co.nz/news/national/firefighters-union-says-fenz-shake-up-cant-wait-until-after-election-kv2xunce",
-      "source": "odt.co.nz",
-      "card_text": "Firefighters' union says FENZ shake-up can't wait until after election",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Safety Cuts Under Fire: Msd Workers Warn Fewer Guards Could Put Lives At Risk",
-      "url": "https://waateanews.com/2026/09/24/safety-cuts-under-fire-msd-workers-warn-fewer-guards-could-put-lives-at-risk",
-      "source": "waateanews.com",
-      "card_text": "Safety Cuts Under Fire: Msd Workers Warn Fewer Guards Could Put Lives At Risk",
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
@@ -261,14 +509,6 @@
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
-      "rank": 14,
-      "title": "Another bank lifts mortgage rates as one-year special climbs above 5%",
-      "url": "https://stuff.co.nz/money/361037629/another-bank-lifts-mortgage-rates-one-year-special-climbs-above-5",
-      "source": "stuff.co.nz",
-      "card_text": "Another bank lifts mortgage rates as one-year special climbs above 5%",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
       "rank": 15,
       "title": "US economy runs hot, and everything shoots up, including the price of petrol in NZ",
       "url": "https://thepress.co.nz/business/361086295/us-economy-runs-hot-and-everything-shoots-including-price-petrol-nz",
@@ -277,35 +517,11 @@
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
-      "rank": 18,
-      "title": "Papuan civilians shot in latest security forces violence in Yahukimo",
-      "url": "https://rnz.co.nz/news/pacific/1551510/papuan-civilians-shot-in-latest-security-forces-violence-in-yahukimo",
-      "source": "rnz.co.nz",
-      "card_text": "Papuan civilians shot in latest security forces violence in Yahukimo",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
       "rank": 19,
       "title": "RAF jet narrowly misses homes as it crashes and explodes",
       "url": "https://nzherald.co.nz/world/raf-jet-narrowly-misses-homes-as-it-crashes-and-explodes/RP5G5QFQWNDMTDCB3KWFSGFC74",
       "source": "nzherald.co.nz",
       "card_text": "RAF jet narrowly misses homes as it crashes and explodes",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Black Ferns confirm return of star duo in starting XV for England test",
-      "url": "https://stuff.co.nz/sport/361036243/ayesha-leti-iiga-and-kaipo-olsen-baker-return-start-black-ferns-against-england",
-      "source": "stuff.co.nz",
-      "card_text": "Black Ferns confirm return of star duo in starting XV for England test",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns",
-      "url": "https://rnz.co.nz/news/science-and-technology/1551281/great-time-to-be-blind-visually-impaired-hail-ai-smart-glasses-despite-privacy-concerns",
-      "source": "rnz.co.nz",
-      "card_text": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns",
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
@@ -370,22 +586,6 @@
       "url": "https://interest.co.nz/investing/140364/nz-super-fund-expects-its-investment-approach-be-examined-and-times-challenged",
       "source": "interest.co.nz",
       "card_text": "NZ Super Fund boss says the sovereign fund 'punches above its weight'",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Sewage spreading a ‘mistake ORC can’t admit’",
-      "url": "https://odt.co.nz/otago/wanaka/sewage-spreading-a-mistake-orc-cant-admit-pxa3fmgl",
-      "source": "odt.co.nz",
-      "card_text": "Sewage spreading a ‘mistake ORC can’t admit’",
-      "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "From Five Birds To Number One: Karure Crowned Aotearoa’s Favourite Manu",
-      "url": "https://waateanews.com/2026/09/24/from-five-birds-to-number-one-karure-crowned-aotearoas-favourite-manu",
-      "source": "waateanews.com",
-      "card_text": "From Five Birds To Number One: Karure Crowned Aotearoa’s Favourite Manu",
       "discovered_at_utc": "2026-09-24T01:29:57.380657+00:00"
     },
     {
@@ -490,14 +690,6 @@
       "url": "https://thepress.co.nz/nz-news/361085786/positive-results-three-out-five-health-targets-nelson-marlborough",
       "source": "thepress.co.nz",
       "card_text": "Positive results in three out of five health targets for Nelson Marlborough",
-      "discovered_at_utc": "2026-09-23T23:25:48.718474+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "url": "https://bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Iran's president tells Trump it will never 'bend the knee'",
       "discovered_at_utc": "2026-09-23T23:25:48.718474+00:00"
     },
     {
