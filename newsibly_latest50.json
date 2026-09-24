@@ -2,36 +2,36 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-24T13:58:49.816332+00:00",
+  "retrieved_at_utc": "2026-09-24T14:20:17.459191+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
-      "url": "https://stuff.co.nz/world-news/361037964/russian-strikes-kill-8-ukraine-un-debates-how-e",
+      "title": "Trump and Xi Jinping head into Washington summit with both leaders thinking time is on their side",
+      "url": "https://stuff.co.nz/world-news/361037981/trump-and-xi-jinping-head-washington-summit-both-l",
       "source": "stuff.co.nz",
-      "card_text": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war"
+      "card_text": "Trump and Xi Jinping head into Washington summit with both leaders thinking time is on their side"
     },
     {
       "rank": 2,
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
+      "card_text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting"
     },
     {
       "rank": 3,
-      "title": "National eyes structural reform of FENZ while Labour promises independent review including of funding",
-      "url": "https://interest.co.nz/insurance/140387/labour-and-acts-brooke-van-velden-suggest-alternatives-fenzs-funding-insurance",
-      "source": "interest.co.nz",
-      "card_text": "National eyes structural reform of FENZ while Labour promises independent review including of funding"
-    },
-    {
-      "rank": 4,
       "title": "Coalition disagreement understood to be behind halt to local government reforms",
       "url": "https://newstalkzb.co.nz/news/politics/coalition-disagreement-understood-to-be-behind-halt-to-local-government-reforms",
       "source": "newstalkzb.co.nz",
       "card_text": "Coalition disagreement understood to be behind halt to local government reforms"
+    },
+    {
+      "rank": 4,
+      "title": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=YMGbsPoJAmg",
+      "source": "youtube.com",
+      "card_text": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz"
     },
     {
       "rank": 5,
@@ -42,66 +42,66 @@
     },
     {
       "rank": 6,
-      "title": "Super may consume 30% of the tax take!",
-      "url": "https://kiwiblog.co.nz/2026/09/super_may_consume_30_of_the_tax_take.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "Super may consume 30% of the tax take! The Post reports: A new paper examining the future of New Zealand Superannuation has found that, if left unchanged, the scheme could consume more than 30% of the Government’s tax revenue every year by 2065 and will be unsustainable in its current form. The paper, published in the International Review of Public Administration in late […] The post Super may consume 30% of the tax take! first appeared on Kiwiblog . Kiwiblog Yesterday Politics"
-    },
-    {
-      "rank": 7,
-      "title": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=YMGbsPoJAmg",
-      "source": "youtube.com",
-      "card_text": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz"
-    },
-    {
-      "rank": 8,
-      "title": "National’s LNG terminal tax is on hold (for the moment).",
-      "url": "https://thestandard.nz/nationals-lng-terminal-tax-is-on-hold-for-the-moment",
-      "source": "thestandard.nz",
-      "card_text": "National’s LNG terminal tax is on hold (for the moment)."
-    },
-    {
-      "rank": 9,
       "title": "Māori delegates defend controversial ‘Indigenous’ trips to Israel",
       "url": "https://asiapacificreport.nz/2026/09/24/maori-delegates-defend-controversial-indigenous-trips-to-israel",
       "source": "asiapacificreport.nz",
       "card_text": "Māori delegates defend controversial ‘Indigenous’ trips to Israel"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "Super may consume 30% of the tax take!",
+      "url": "https://kiwiblog.co.nz/2026/09/super_may_consume_30_of_the_tax_take.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "Super may consume 30% of the tax take! The Post reports: A new paper examining the future of New Zealand Superannuation has found that, if left unchanged, the scheme could consume more than 30% of the Government’s tax revenue every year by 2065 and will be unsustainable in its current form. The paper, published in the International Review of Public Administration in late […] The post Super may consume 30% of the tax take! first appeared on Kiwiblog . Kiwiblog Yesterday Politics"
+    },
+    {
+      "rank": 8,
       "title": "Burnside High says major rebuild was ‘defunded’, ministry says it was never funded",
       "url": "https://thepress.co.nz/nz-news/361086555/burnside-high-says-major-rebuild-was-defunded-ministry-says-it-was-never-funded",
       "source": "thepress.co.nz",
       "card_text": "Burnside High says major rebuild was ‘defunded’, ministry says it was never funded"
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "title": "National’s LNG terminal tax is on hold (for the moment).",
+      "url": "https://thestandard.nz/nationals-lng-terminal-tax-is-on-hold-for-the-moment",
+      "source": "thestandard.nz",
+      "card_text": "National’s LNG terminal tax is on hold (for the moment)."
+    },
+    {
+      "rank": 10,
       "title": "Making a mark on dyslexia",
       "url": "https://cambridgenews.nz/2026/09/making-a-mark-on-dyslexia",
       "source": "cambridgenews.nz",
       "card_text": "Making a mark on dyslexia Learning Matters expects to spend up to three years updating New Zealand’s Dyslexia-Friendly Quality Mark before broadening the accreditation from tertiary education into schools, early learning and workplaces. The Te Awamutu-based literacy organisation was awarded... Cambridge News Yesterday Education"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Tonga included in new US-Pacific push against illegal fishing as Australia boosts regional security funding",
       "url": "https://kanivatonga.co.nz/2026/09/tonga-included-in-new-us-pacific-push-against-illegal-fishing-as-australia-boosts-regional-security-funding",
       "source": "kanivatonga.co.nz",
       "card_text": "Tonga included in new US-Pacific push against illegal fishing as Australia boosts regional security funding"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "NCSC warns leaders need to prepare as AI transforms cyber threats",
       "url": "https://reseller.co.nz/article/4225793/ncsc-warns-leaders-need-to-prepare-as-ai-transforms-cyber-threats.html",
       "source": "reseller.co.nz",
       "card_text": "NCSC warns leaders need to prepare as AI transforms cyber threats"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "New Zealand agrees to put almost $24 million into military satellite US is building",
       "url": "https://nzherald.co.nz/nz/new-zealand-agrees-to-put-almost-24-million-into-military-satellite-us-is-building/VQTVXEIUKVHMHI34PPSDAH47JA",
       "source": "nzherald.co.nz",
       "card_text": "New Zealand agrees to put almost $24 million into military satellite US is building"
+    },
+    {
+      "rank": 14,
+      "title": "National eyes structural reform of FENZ while Labour promises independent review including of funding",
+      "url": "https://interest.co.nz/insurance/140387/labour-and-acts-brooke-van-velden-suggest-alternatives-fenzs-funding-insurance",
+      "source": "interest.co.nz",
+      "card_text": "National eyes structural reform of FENZ while Labour promises independent review including of funding"
     },
     {
       "rank": 15,
@@ -112,10 +112,10 @@
     },
     {
       "rank": 16,
-      "title": "Dogs, dinosaurs and Twilight: Chris Hipkins hits the campaign trail in Hamilton",
-      "url": "https://stuff.co.nz/politics/361037908/dogs-dinosaurs-and-twilight-day-out-campaign-chris-hipkins-hamilton",
-      "source": "stuff.co.nz",
-      "card_text": "Dogs, dinosaurs and Twilight: Chris Hipkins hits the campaign trail in Hamilton"
+      "title": "USD broadly stronger; AUD underperforms",
+      "url": "https://interest.co.nz/currencies/140388/carnage-global-bond-markets-rates-surge-fresh-multi-decade-highs-higher-oil",
+      "source": "interest.co.nz",
+      "card_text": "USD broadly stronger; AUD underperforms Interest Yesterday"
     },
     {
       "rank": 17,
@@ -126,234 +126,234 @@
     },
     {
       "rank": 18,
-      "title": "Air NZ shareholders get no sausage rolls, no earnings guidance, no London flights any time soon",
-      "url": "https://nzherald.co.nz/business/companies/airlines/air-nz-shareholders-get-no-sausage-rolls-no-earnings-guidance-no-london-flights-any-time-soon/premium/M2BNVHDRHZG3ZPW2QBLS6H6MCY",
-      "source": "nzherald.co.nz",
-      "card_text": "Air NZ shareholders get no sausage rolls, no earnings guidance, no London flights any time soon"
+      "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+      "url": "https://stuff.co.nz/world-news/361037964/russian-strikes-kill-8-ukraine-un-debates-how-e",
+      "source": "stuff.co.nz",
+      "card_text": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war"
     },
     {
       "rank": 19,
-      "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-      "url": "https://stuff.co.nz/world-news/361037959/gulf-nations-have-found-ways-keep-oil-flowing-through",
-      "source": "stuff.co.nz",
-      "card_text": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting"
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
     },
     {
       "rank": 20,
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "url": "https://bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan"
-    },
-    {
-      "rank": 21,
       "title": "Israeli bulldozers crush Palestinian olive trees ahead of harvest",
       "url": "https://odt.co.nz/news/world/israeli-bulldozers-smash-palestinian-olive-trees-ahead-of-harvest-dg7g6vv0",
       "source": "odt.co.nz",
       "card_text": "Israeli bulldozers crush Palestinian olive trees ahead of harvest"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "Watch: Shattered communities rebuild from scratch after Nepal floods wipe away livelihoods | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=YW3labz1ZyA",
       "source": "youtube.com",
       "card_text": "Watch: Shattered communities rebuild from scratch after Nepal floods wipe away livelihoods | Stuff.co.nz"
     },
     {
+      "rank": 22,
+      "title": "FIFA's Infantino pledges 'culture of dialogue' after uproar over secretive World Cup sell-off plan",
+      "url": "https://stuff.co.nz/sport/361037975/fifas-infantino-pledges-culture-dialogue-after-uproar-ove",
+      "source": "stuff.co.nz",
+      "card_text": "FIFA's Infantino pledges 'culture of dialogue' after uproar over secretive World Cup sell-off plan"
+    },
+    {
       "rank": 23,
-      "title": "Cartriona Robinson: National Cyber Security Centre head on NZ's first North Korean cyber security threat",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/cartriona-robinson-national-cyber-security-centre-head-on-nzs-first-north-korean-cyber-security-threat",
+      "title": "Steve Lancaster: NZ Rugby CEO pushes back against reports that All Blacks and British and Irish Lions could play across the ditch in 2029",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/steve-lancaster-nz-rugby-ceo-pushes-back-against-reports-that-all-blacks-and-british-and-irish-lions-could-play-across-the-ditch-in-2029",
       "source": "newstalkzb.co.nz",
-      "card_text": "Cartriona Robinson: National Cyber Security Centre head on NZ's first North Korean cyber security threat"
+      "card_text": "Steve Lancaster: NZ Rugby CEO pushes back against reports that All Blacks and British and Irish Lions could play across the ditch in 2029"
     },
     {
       "rank": 24,
+      "title": "Nick Bewley: Newstalk ZB Sports Reporter on the New Zealand Rugby summit",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/nick-bewley-newstalk-zb-sports-reporter-on-the-new-zealand-rugby-summit",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Nick Bewley: Newstalk ZB Sports Reporter on the New Zealand Rugby summit"
+    },
+    {
+      "rank": 25,
       "title": "It took 20 years to start regulating social media – will AI controls come sooner?",
       "url": "https://nzherald.co.nz/business/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner/NZYHPBFXRNCU3I3QDEYL6ZYKBM",
       "source": "nzherald.co.nz",
       "card_text": "It took 20 years to start regulating social media – will AI controls come sooner?"
     },
     {
-      "rank": 25,
+      "rank": 26,
+      "title": "Cartriona Robinson: National Cyber Security Centre head on NZ's first North Korean cyber security threat",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/cartriona-robinson-national-cyber-security-centre-head-on-nzs-first-north-korean-cyber-security-threat",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Cartriona Robinson: National Cyber Security Centre head on NZ's first North Korean cyber security threat"
+    },
+    {
+      "rank": 27,
       "title": "Warning AI could harm children more than social media",
       "url": "https://odt.co.nz/news/world/warning-ai-could-harm-children-more-than-social-media-ixi7d9ss",
       "source": "odt.co.nz",
       "card_text": "Warning AI could harm children more than social media"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "title": "Health insurance disputes rise 91% as premiums rise and insurers limit cover for treatment",
       "url": "https://nzherald.co.nz/business/personal-finance/health-insurance-disputes-rise-91-as-premiums-rise-and-insurers-limit-cover-for-treatment/premium/WV366YBXZBFW5D5C55ACVVPVRU",
       "source": "nzherald.co.nz",
       "card_text": "Health insurance disputes rise 91% as premiums rise and insurers limit cover for treatment"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "title": "Children missing out on eye care due to high costs",
       "url": "https://rnz.co.nz/news/health/1558348/children-missing-out-on-eye-care-due-to-high-costs",
       "source": "rnz.co.nz",
       "card_text": "Children missing out on eye care due to high costs"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "title": "David Wills: Nurses' Society National Director on the reduced police ED handover time for mental health callouts",
       "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/david-wills-nurses-society-national-director-on-the-reduced-police-ed-handover-time-for-mental-health-callouts",
       "source": "newstalkzb.co.nz",
       "card_text": "David Wills: Nurses' Society National Director on the reduced police ED handover time for mental health callouts"
     },
     {
-      "rank": 29,
-      "title": "Climate: Report predicts El Niño death toll of almost half a million",
-      "url": "https://rnz.co.nz/news/environment/1549711/climate-report-predicts-el-nino-death-toll-of-almost-half-a-million",
-      "source": "rnz.co.nz",
-      "card_text": "Climate: Report predicts El Niño death toll of almost half a million"
-    },
-    {
-      "rank": 30,
-      "title": "Thousands feel Hawke’s Bay quake",
-      "url": "https://nzherald.co.nz/hawkes-bay-today/news/thousands-feel-hawkes-bay-quake/XGYMHVWWLVDXNHJY6ZVNHUSBRY",
-      "source": "nzherald.co.nz",
-      "card_text": "Thousands feel Hawke’s Bay quake NZ Herald Yesterday"
-    },
-    {
       "rank": 31,
-      "title": "Government backs gas exploration project off Southland coast",
-      "url": "https://odt.co.nz/business/government-backs-gas-exploration-project-off-southland-coast-d0fmmzx3",
-      "source": "odt.co.nz",
-      "card_text": "Government backs gas exploration project off Southland coast"
+      "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+      "url": "https://stuff.co.nz/world-news/361037959/gulf-nations-have-found-ways-keep-oil-flowing-through",
+      "source": "stuff.co.nz",
+      "card_text": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting"
     },
     {
       "rank": 32,
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "url": "https://bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump offers warm welcome as China's Xi arrives for US visit"
+      "title": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'",
+      "url": "https://stuff.co.nz/world-news/361037984/venezuelas-acting-leader-un-first-address-promises-el",
+      "source": "stuff.co.nz",
+      "card_text": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'"
     },
     {
       "rank": 33,
-      "title": "Coalition disagreement understood to be behind halt to local government reforms",
-      "url": "https://nzherald.co.nz/nz/wellington/coalition-disagreement-understood-to-be-behind-halt-to-local-government-reforms/377JQXXEMFCG5G2G73XLNIS4JU",
-      "source": "nzherald.co.nz",
-      "card_text": "Coalition disagreement understood to be behind halt to local government reforms"
-    },
-    {
-      "rank": 34,
-      "title": "34 arrested in nationwide drug busts",
-      "url": "https://odt.co.nz/news/national/34-arrested-in-nationwide-drug-busts-v1yrkx73",
-      "source": "odt.co.nz",
-      "card_text": "34 arrested in nationwide drug busts A large amount of various drugs have been seized by police after more than 80 search warrants were executed across the country. Otago Daily Times Yesterday Crime"
-    },
-    {
-      "rank": 35,
-      "title": "Auckland Transport explores changes to level crossing after student's death",
-      "url": "https://rnz.co.nz/news/community/1558816/auckland-transport-explores-changes-to-level-crossing-after-student-s-death",
-      "source": "rnz.co.nz",
-      "card_text": "Auckland Transport explores changes to level crossing after student's death"
-    },
-    {
-      "rank": 36,
-      "title": "Myriad of drugs seized after more than 80 search warrants executed across country",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1558548/myriad-of-drugs-seized-after-more-than-80-search-warrants-executed-across-country",
-      "source": "rnz.co.nz",
-      "card_text": "Myriad of drugs seized after more than 80 search warrants executed across country"
-    },
-    {
-      "rank": 37,
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "url": "https://bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat"
     },
     {
-      "rank": 38,
+      "rank": 34,
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "url": "https://bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan"
+    },
+    {
+      "rank": 35,
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "url": "https://bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump offers warm welcome as China's Xi arrives for US visit"
+    },
+    {
+      "rank": 36,
+      "title": "Coalition disagreement understood to be behind halt to local government reforms",
+      "url": "https://nzherald.co.nz/nz/wellington/coalition-disagreement-understood-to-be-behind-halt-to-local-government-reforms/377JQXXEMFCG5G2G73XLNIS4JU",
+      "source": "nzherald.co.nz",
+      "card_text": "Coalition disagreement understood to be behind halt to local government reforms"
+    },
+    {
+      "rank": 37,
       "title": "Far-right UK activist arrested after migrant dinghy slashed in the English Channel",
       "url": "https://stuff.co.nz/world-news/361037970/farright-uk-activist-arrested-after-migrant-dinghy-slashed-i",
       "source": "stuff.co.nz",
       "card_text": "Far-right UK activist arrested after migrant dinghy slashed in the English Channel"
     },
     {
+      "rank": 38,
+      "title": "34 arrested in nationwide drug busts",
+      "url": "https://odt.co.nz/news/national/34-arrested-in-nationwide-drug-busts-v1yrkx73",
+      "source": "odt.co.nz",
+      "card_text": "34 arrested in nationwide drug busts A large amount of various drugs have been seized by police after more than 80 search warrants were executed across the country. Otago Daily Times Yesterday Crime"
+    },
+    {
       "rank": 39,
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "url": "https://bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Judge temporarily overturns Trump's White House media ban"
+      "title": "Auckland Transport explores changes to level crossing after student's death",
+      "url": "https://rnz.co.nz/news/community/1558816/auckland-transport-explores-changes-to-level-crossing-after-student-s-death",
+      "source": "rnz.co.nz",
+      "card_text": "Auckland Transport explores changes to level crossing after student's death"
     },
     {
       "rank": 40,
-      "title": "Election 2026: The official battle for your vote begins now – The Front Page",
-      "url": "https://nzherald.co.nz/nz/election-2026-the-official-battle-for-your-vote-begins-now-the-front-page/V5SQQTNEVBE6DBO4JOTWHY7DS4",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: The official battle for your vote begins now – The Front Page"
-    },
-    {
-      "rank": 41,
       "title": "Judge blocks Trump's White House media ban",
       "url": "https://odt.co.nz/news/world/judge-blocks-trumps-white-house-media-ban-nwdl36pp",
       "source": "odt.co.nz",
       "card_text": "Judge blocks Trump's White House media ban"
     },
     {
+      "rank": 41,
+      "title": "Thousands feel Hawke’s Bay quake",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/thousands-feel-hawkes-bay-quake/XGYMHVWWLVDXNHJY6ZVNHUSBRY",
+      "source": "nzherald.co.nz",
+      "card_text": "Thousands feel Hawke’s Bay quake Thousands of people felt a light earthquake that struck Hawke’s Bay on Thursday night. NZ Herald Yesterday Environment"
+    },
+    {
       "rank": 42,
-      "title": "USD broadly stronger; AUD underperforms",
-      "url": "https://interest.co.nz/currencies/140388/carnage-global-bond-markets-rates-surge-fresh-multi-decade-highs-higher-oil",
-      "source": "interest.co.nz",
-      "card_text": "USD broadly stronger; AUD underperforms Carnage in global bond markets; rates surge to fresh multi-decade highs. Higher oil prices, prospect of US diesel export ban, strong US and European PMI data all in the mix overnight. Equity markets weaker, but unremarkable falls Interest Yesterday Business"
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "url": "https://bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Judge temporarily overturns Trump's White House media ban"
     },
     {
       "rank": 43,
-      "title": "Glimmer of hope in fight against kauri dieback",
-      "url": "https://rnz.co.nz/news/environment/1558052/glimmer-of-hope-in-fight-against-kauri-dieback",
-      "source": "rnz.co.nz",
-      "card_text": "Glimmer of hope in fight against kauri dieback"
-    },
-    {
-      "rank": 44,
       "title": "Watch: Tech-powered justice: How the new Tika platform targets serial abusers | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=hZnuXHjF3dA",
       "source": "youtube.com",
       "card_text": "Watch: Tech-powered justice: How the new Tika platform targets serial abusers | Stuff.co.nz"
     },
     {
+      "rank": 44,
+      "title": "Breakfast briefing: US bond yields hit 20 year highs",
+      "url": "https://interest.co.nz/economy/140384/us-pmis-surprise-markets-us-treasury-yields-leap-taiwans-data-stays-impressive-india",
+      "source": "interest.co.nz",
+      "card_text": "Breakfast briefing: US bond yields hit 20 year highs"
+    },
+    {
       "rank": 45,
+      "title": "Dogs, dinosaurs and Twilight: Chris Hipkins hits the campaign trail in Hamilton",
+      "url": "https://stuff.co.nz/politics/361037908/dogs-dinosaurs-and-twilight-day-out-campaign-chris-hipkins-hamilton",
+      "source": "stuff.co.nz",
+      "card_text": "Dogs, dinosaurs and Twilight: Chris Hipkins hits the campaign trail in Hamilton"
+    },
+    {
+      "rank": 46,
       "title": "Protecting whenua Māori without holding whānau back",
       "url": "https://beehive.govt.nz/release/protecting-whenua-maori-without-holding-whanau-back",
       "source": "beehive.govt.nz",
       "card_text": "Protecting whenua Māori without holding whānau back"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "Air NZ defends Wilson, plans for life after Walsh and sees recovery ahead",
       "url": "https://businessdesk.co.nz/article/markets/air-nz-defends-wilson-plans-for-life-after-walsh-and-sees-recovery-ahead",
       "source": "businessdesk.co.nz",
       "card_text": "Air NZ defends Wilson, plans for life after Walsh and sees recovery ahead"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Independence at a cost",
       "url": "https://cambridgenews.nz/2026/09/independence-at-a-cost",
       "source": "cambridgenews.nz",
       "card_text": "Independence at a cost Independent commissioners are being used increasingly for resource consent hearings where there may be a perceived conflict of interest for council. Asked by Cambridge Community Board deputy chair Andrew Myers whether the use of independent... Cambridge News Yesterday Politics"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "Cardiac Lab Upgrade Complete At Auckland City Hospital",
       "url": "https://scoop.co.nz/stories/PA2609/S00262/cardiac-lab-upgrade-complete-at-auckland-city-hospital.htm",
       "source": "scoop.co.nz",
       "card_text": "Cardiac Lab Upgrade Complete At Auckland City Hospital"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Health NZ and VML Wellington launch national campaign to face and fight meth",
       "url": "https://stoppress.co.nz/campaigns/health-nz-and-vml-wellington-launch-national-campaign-to-face-and-fight-meth",
       "source": "stoppress.co.nz",
       "card_text": "Health NZ and VML Wellington launch national campaign to face and fight meth"
-    },
-    {
-      "rank": 50,
-      "title": "‘Not set a date’ – Rabuka says Fiji election timing depends on constitutional reform",
-      "url": "https://asiapacificreport.nz/2026/09/24/not-set-a-date-rabuka-says-fiji-election-timing-depends-on-constitutional-reform",
-      "source": "asiapacificreport.nz",
-      "card_text": "‘Not set a date’ – Rabuka says Fiji election timing depends on constitutional reform"
     }
   ],
   "json_endpoints_observed": [
