@@ -2,50 +2,50 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-24T20:15:34.129246+00:00",
+  "retrieved_at_utc": "2026-09-24T20:33:59.757248+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "US Senate to vote on ending Iran war",
+      "url": "https://thepress.co.nz/business/361087152/us-senate-vote-ending-iran-war",
+      "source": "thepress.co.nz",
+      "card_text": "US Senate to vote on ending Iran war The US Senate is preparing to vote for the ending of the Iran war. An affirmative vote, known as a War Powers Resolution, would direct President Donald Trump to remove US troops from Iran -- unless Congress explicitly approves the war. The Press Today 7:27 am World"
+    },
+    {
+      "rank": 2,
       "title": "Rma Replacement Passes: Forest & Bird Warns Of Environmental Fallout",
       "url": "https://waateanews.com/2026/09/25/rma-replacement-passes-forest-bird-warns-of-environmental-fallout",
       "source": "waateanews.com",
       "card_text": "Rma Replacement Passes: Forest & Bird Warns Of Environmental Fallout"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Xi, Trump hold Washington summit heavy on fanfare, light on substance",
+      "url": "https://rnz.co.nz/news/world/1565402/trump-xi-summit-in-washington-begins-with-great-fanfare-but-low-expectations",
+      "source": "rnz.co.nz",
+      "card_text": "Xi, Trump hold Washington summit heavy on fanfare, light on substance"
+    },
+    {
+      "rank": 4,
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "url": "https://bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says"
+    },
+    {
+      "rank": 5,
       "title": "Inquiry calls for National Ports Strategy, ComCom oversight of ports",
       "url": "https://businessdesk.co.nz/article/infrastructure/inquiry-calls-for-national-ports-strategy-comcom-oversight-of-ports",
       "source": "businessdesk.co.nz",
       "card_text": "Inquiry calls for National Ports Strategy, ComCom oversight of ports"
     },
     {
-      "rank": 3,
-      "title": "The Big Read: Reserve Bank report reignites dual mandate debate",
-      "url": "https://thepress.co.nz/business/361085477/big-read-reserve-bank-report-reignites-dual-mandate-debate",
-      "source": "thepress.co.nz",
-      "card_text": "The Big Read: Reserve Bank report reignites dual mandate debate"
-    },
-    {
-      "rank": 4,
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "url": "https://bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Trump hails 'truly great friendship' with Xi Jinping as the Chinese leader begins his state visit",
       "url": "https://stuff.co.nz/world-news/361037981/trump-and-xi-jinping-head-washington-summit-both-l",
       "source": "stuff.co.nz",
       "card_text": "Trump hails 'truly great friendship' with Xi Jinping as the Chinese leader begins his state visit"
-    },
-    {
-      "rank": 6,
-      "title": "Mayors left stunned by Government's council amalgamation U-turn",
-      "url": "https://rnz.co.nz/news/politics/1564050/mayors-left-stunned-by-government-s-council-amalgamation-u-turn",
-      "source": "rnz.co.nz",
-      "card_text": "Mayors left stunned by Government's council amalgamation U-turn"
     },
     {
       "rank": 7,
@@ -70,73 +70,73 @@
     },
     {
       "rank": 10,
-      "title": "Coalition disagreement understood to be behind halt to local government reforms",
-      "url": "https://newstalkzb.co.nz/news/politics/coalition-disagreement-understood-to-be-behind-halt-to-local-government-reforms",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Coalition disagreement understood to be behind halt to local government reforms"
+      "title": "Dr Eke hits back at PM Fakafanua, says bridge-delay blame ‘untrue’ amid $7m ‘penalty’ claim",
+      "url": "https://kanivatonga.co.nz/2026/09/dr-eke-hits-back-at-pm-fakafanua-says-bridge-delay-blame-untrue-amid-7m-penalty-claim",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Dr Eke hits back at PM Fakafanua, says bridge-delay blame ‘untrue’ amid $7m ‘penalty’ claim"
     },
     {
       "rank": 11,
+      "title": "Early Bird: Healthcare concerns rise, but confidence in both Labour & National fall",
+      "url": "https://thekaka.substack.com/p/early-bird-healthcare-concerns-rise",
+      "source": "thekaka.substack.com",
+      "card_text": "Early Bird: Healthcare concerns rise, but confidence in both Labour & National fall"
+    },
+    {
+      "rank": 12,
       "title": "Māori delegates defend controversial ‘Indigenous’ trips to Israel",
       "url": "https://asiapacificreport.nz/2026/09/24/maori-delegates-defend-controversial-indigenous-trips-to-israel",
       "source": "asiapacificreport.nz",
       "card_text": "Māori delegates defend controversial ‘Indigenous’ trips to Israel"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=YMGbsPoJAmg",
       "source": "youtube.com",
       "card_text": "Watch: 'A year of delivery' for Fonterra as company sees $3.4b profit | Stuff.co.nz"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "National’s LNG terminal tax is on hold (for the moment).",
       "url": "https://thestandard.nz/nationals-lng-terminal-tax-is-on-hold-for-the-moment",
       "source": "thestandard.nz",
       "card_text": "National’s LNG terminal tax is on hold (for the moment)."
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Making a mark on dyslexia",
       "url": "https://cambridgenews.nz/2026/09/making-a-mark-on-dyslexia",
       "source": "cambridgenews.nz",
       "card_text": "Making a mark on dyslexia Learning Matters expects to spend up to three years updating New Zealand’s Dyslexia-Friendly Quality Mark before broadening the accreditation from tertiary education into schools, early learning and workplaces. The Te Awamutu-based literacy organisation was awarded... Cambridge News Yesterday Education"
     },
     {
-      "rank": 15,
-      "title": "Tonga included in new US-Pacific push against illegal fishing as Australia boosts regional security funding",
-      "url": "https://kanivatonga.co.nz/2026/09/tonga-included-in-new-us-pacific-push-against-illegal-fishing-as-australia-boosts-regional-security-funding",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Tonga included in new US-Pacific push against illegal fishing as Australia boosts regional security funding"
+      "rank": 16,
+      "title": "Media Insider: Government overrode official advice in push to scrap Broadcasting Standards Authority",
+      "url": "https://nzherald.co.nz/business/media-insider/media-insider-government-overrode-official-advice-in-push-to-scrap-broadcasting-standards-authority/premium/CY5PVY6FANHMFFQ3IDQ6LOWVRQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Media Insider: Government overrode official advice in push to scrap Broadcasting Standards Authority"
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "title": "Mayors left stunned by Government's council amalgamation U-turn",
+      "url": "https://rnz.co.nz/news/politics/1564050/mayors-left-stunned-by-government-s-council-amalgamation-u-turn",
+      "source": "rnz.co.nz",
+      "card_text": "Mayors left stunned by Government's council amalgamation U-turn"
+    },
+    {
+      "rank": 18,
       "title": "Foodstuffs CFO challenges National’s $560 grocery savings claim",
       "url": "https://businessdesk.co.nz/article/policy/foodstuffs-cfo-challenges-nationals-560-grocery-savings-claim",
       "source": "businessdesk.co.nz",
       "card_text": "Foodstuffs CFO challenges National’s $560 grocery savings claim"
     },
     {
-      "rank": 17,
-      "title": "New survey shows two-thirds of Kiwis want wealth tax, Labour’s control of main issues slipping",
-      "url": "https://nzherald.co.nz/nz/politics/new-survey-shows-two-thirds-of-kiwis-want-wealth-tax-labours-control-of-main-issues-slipping/NNCXRCXCQNDWDCBYZZXNJJ2JLE",
-      "source": "nzherald.co.nz",
-      "card_text": "New survey shows two-thirds of Kiwis want wealth tax, Labour’s control of main issues slipping"
-    },
-    {
-      "rank": 18,
-      "title": "‘A complete waste of time’: Southern mayors filthy over govt’s merger halt",
-      "url": "https://odt.co.nz/news/dunedin/a-complete-waste-of-time-southern-mayors-filthy-over-govts-merger-halt-qusw3znn",
-      "source": "odt.co.nz",
-      "card_text": "‘A complete waste of time’: Southern mayors filthy over govt’s merger halt"
-    },
-    {
       "rank": 19,
-      "title": "Controversial Dunedin councillor Benedict Ong to run as independent in general election",
-      "url": "https://rnz.co.nz/news/politics_election-2026/1563676/controversial-dunedin-councillor-benedict-ong-to-run-as-independent-in-general-election",
-      "source": "rnz.co.nz",
-      "card_text": "Controversial Dunedin councillor Benedict Ong to run as independent in general election"
+      "title": "The Big Read: Reserve Bank report reignites dual mandate debate",
+      "url": "https://thepress.co.nz/business/361085477/big-read-reserve-bank-report-reignites-dual-mandate-debate",
+      "source": "thepress.co.nz",
+      "card_text": "The Big Read: Reserve Bank report reignites dual mandate debate"
     },
     {
       "rank": 20,
@@ -161,10 +161,10 @@
     },
     {
       "rank": 23,
-      "title": "New Zealand’s financial markets watchdog admits its holiday pay method breached employment law",
-      "url": "https://stuff.co.nz/nz-news/361037864/new-zealands-financial-markets-watchdog-admits-holiday-pay-method-breached-employment-law",
-      "source": "stuff.co.nz",
-      "card_text": "New Zealand’s financial markets watchdog admits its holiday pay method breached employment law"
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting"
     },
     {
       "rank": 24,
@@ -175,185 +175,185 @@
     },
     {
       "rank": 25,
-      "title": "Israeli bulldozers crush Palestinian olive trees ahead of harvest",
-      "url": "https://odt.co.nz/news/world/israeli-bulldozers-smash-palestinian-olive-trees-ahead-of-harvest-dg7g6vv0",
-      "source": "odt.co.nz",
-      "card_text": "Israeli bulldozers crush Palestinian olive trees ahead of harvest"
+      "title": "Dozens of delegates walk out on Netanyahu as he makes fiery speech to UN",
+      "url": "https://nzherald.co.nz/world/dozens-of-delegates-walk-out-on-netanyahu-as-he-makes-fiery-speech-to-un/KAWPDMHNUJEOLFF4KIODQM35VU",
+      "source": "nzherald.co.nz",
+      "card_text": "Dozens of delegates walk out on Netanyahu as he makes fiery speech to UN"
     },
     {
       "rank": 26,
-      "title": "Watch: Shattered communities rebuild from scratch after Nepal floods wipe away livelihoods | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=YW3labz1ZyA",
-      "source": "youtube.com",
-      "card_text": "Watch: Shattered communities rebuild from scratch after Nepal floods wipe away livelihoods | Stuff.co.nz"
+      "title": "Northern Mariana Islands' mayors unite against seabed mining",
+      "url": "https://rnz.co.nz/news/pacific/1565117/northern-mariana-islands-mayors-unite-against-seabed-mining",
+      "source": "rnz.co.nz",
+      "card_text": "Northern Mariana Islands' mayors unite against seabed mining"
     },
     {
       "rank": 27,
-      "title": "New crew, same Burling as practice racing gets underway for America’s Cup preliminary regatta",
-      "url": "https://stuff.co.nz/sport/361037995/new-crew-same-burling-practice-racing-gets-underway-americas-cup-preliminary-regatta",
-      "source": "stuff.co.nz",
-      "card_text": "New crew, same Burling as practice racing gets underway for America’s Cup preliminary regatta"
+      "title": "Black Ferns icon confirms return to rugby, four months after birth of first child",
+      "url": "https://thepress.co.nz/sport/361087160/black-ferns-icon-sarah-hirini-makes-return-rugby-la-olympics-re-signs-nzr-until-2028",
+      "source": "thepress.co.nz",
+      "card_text": "Black Ferns icon confirms return to rugby, four months after birth of first child"
     },
     {
       "rank": 28,
+      "title": "Burling leads hat-trick of wins in ominous America’s Cup performance for Luna Rossa",
+      "url": "https://stuff.co.nz/sport/361037995/new-crew-same-burling-practice-racing-gets-underway-americas-cup-preliminary-regatta",
+      "source": "stuff.co.nz",
+      "card_text": "Burling leads hat-trick of wins in ominous America’s Cup performance for Luna Rossa"
+    },
+    {
+      "rank": 29,
       "title": "Steve Lancaster: NZ Rugby CEO pushes back against reports that All Blacks and British and Irish Lions could play across the ditch in 2029",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/steve-lancaster-nz-rugby-ceo-pushes-back-against-reports-that-all-blacks-and-british-and-irish-lions-could-play-across-the-ditch-in-2029",
       "source": "newstalkzb.co.nz",
       "card_text": "Steve Lancaster: NZ Rugby CEO pushes back against reports that All Blacks and British and Irish Lions could play across the ditch in 2029"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "FIFA's Infantino pledges 'culture of dialogue' after uproar over secretive World Cup sell-off plan",
       "url": "https://stuff.co.nz/sport/361037975/fifas-infantino-pledges-culture-dialogue-after-uproar-ove",
       "source": "stuff.co.nz",
       "card_text": "FIFA's Infantino pledges 'culture of dialogue' after uproar over secretive World Cup sell-off plan"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Giant Southland AI data centre set for major redesign",
       "url": "https://newsroom.co.nz/2026/09/25/southland-data-centre-set-for-major-redesign",
       "source": "newsroom.co.nz",
       "card_text": "Giant Southland AI data centre set for major redesign"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "Warning AI could harm children more than social media",
       "url": "https://odt.co.nz/news/world/warning-ai-could-harm-children-more-than-social-media-ixi7d9ss",
       "source": "odt.co.nz",
       "card_text": "Warning AI could harm children more than social media"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "It took 20 years to start regulating social media – will AI controls come sooner?",
       "url": "https://nzherald.co.nz/business/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner/NZYHPBFXRNCU3I3QDEYL6ZYKBM",
       "source": "nzherald.co.nz",
       "card_text": "It took 20 years to start regulating social media – will AI controls come sooner?"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "Health Data Breach: Privacy Watchdog Orders Major Security Overhaul",
       "url": "https://waateanews.com/2026/09/25/health-data-breach-privacy-watchdog-orders-major-security-overhaul",
       "source": "waateanews.com",
       "card_text": "Health Data Breach: Privacy Watchdog Orders Major Security Overhaul"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "Ngāruawāhia homicide: Coroner refers circumstances of Maria Morgan’s death to Health and Disability Commissioner",
       "url": "https://nzherald.co.nz/nz/ngaruawahia-homicide-coroner-refers-circumstances-of-maria-morgans-death-to-hdc/6VORFG6R6ZGGNGM5IAKFIJFMBM",
       "source": "nzherald.co.nz",
       "card_text": "Ngāruawāhia homicide: Coroner refers circumstances of Maria Morgan’s death to Health and Disability Commissioner"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Dannevirke residents demand accountability over state of healthcare",
       "url": "https://rnz.co.nz/news/health/1563980/dannevirke-residents-demand-accountability-over-state-of-healthcare",
       "source": "rnz.co.nz",
       "card_text": "Dannevirke residents demand accountability over state of healthcare"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Nitrate Battle Heads To Court: Canterbury Water Consent Faces Appeal",
       "url": "https://waateanews.com/2026/09/25/nitrate-battle-heads-to-court-canterbury-water-consent-faces-appeal",
       "source": "waateanews.com",
       "card_text": "Nitrate Battle Heads To Court: Canterbury Water Consent Faces Appeal"
     },
     {
-      "rank": 37,
-      "title": "Minister refuses to divulge curriculum feedback amid OIA secrecy claims",
-      "url": "https://rnz.co.nz/news/politics/1563981/minister-refuses-to-divulge-curriculum-feedback-amid-oia-secrecy-claims",
-      "source": "rnz.co.nz",
-      "card_text": "Minister refuses to divulge curriculum feedback amid OIA secrecy claims"
-    },
-    {
       "rank": 38,
-      "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
-      "url": "https://stuff.co.nz/world-news/361037964/russian-strikes-kill-8-ukraine-un-debates-how-e",
-      "source": "stuff.co.nz",
-      "card_text": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war"
-    },
-    {
-      "rank": 39,
-      "title": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'",
-      "url": "https://stuff.co.nz/world-news/361037984/venezuelas-acting-leader-un-first-address-promises-el",
-      "source": "stuff.co.nz",
-      "card_text": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'"
-    },
-    {
-      "rank": 40,
-      "title": "The country’s priciest rent: the region that’s overtaken Auckland and BOP.",
-      "url": "https://stuff.co.nz/home-property/361037594/countrys-priciest-rent-region-thats-overtaken-auckland-and-bop",
-      "source": "stuff.co.nz",
-      "card_text": "The country’s priciest rent: the region that’s overtaken Auckland and BOP."
-    },
-    {
-      "rank": 41,
       "title": "Weather: Cold fronts bring windy, showery start to school holidays",
       "url": "https://nzherald.co.nz/nz/weather-cold-fronts-bring-windy-showery-start-to-school-holidays/6AS4N7QGXJAY3HCZAW4RXZUJDA",
       "source": "nzherald.co.nz",
       "card_text": "Weather: Cold fronts bring windy, showery start to school holidays"
     },
     {
-      "rank": 42,
-      "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-      "url": "https://stuff.co.nz/world-news/361037959/gulf-nations-have-found-ways-keep-oil-flowing-through",
-      "source": "stuff.co.nz",
-      "card_text": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting"
-    },
-    {
-      "rank": 43,
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "url": "https://bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat"
-    },
-    {
-      "rank": 44,
-      "title": "Fare capping not supported except for Queenstown ferry",
-      "url": "https://odt.co.nz/news/dunedin/fare-capping-not-supported-except-for-queenstown-ferry-buk2mdf8",
-      "source": "odt.co.nz",
-      "card_text": "Fare capping not supported except for Queenstown ferry"
-    },
-    {
-      "rank": 45,
+      "rank": 39,
       "title": "Family of man who fatally stabbed grandmother tried to get him mental health help",
       "url": "https://rnz.co.nz/news/crime-and-justice/1563674/family-of-man-who-fatally-stabbed-grandmother-tried-to-get-him-mental-health-help",
       "source": "rnz.co.nz",
       "card_text": "Family of man who fatally stabbed grandmother tried to get him mental health help"
     },
     {
+      "rank": 40,
+      "title": "The country’s priciest rent: the region that’s overtaken Auckland and BOP",
+      "url": "https://stuff.co.nz/home-property/361037594/countrys-priciest-rent-region-thats-overtaken-auckland-and-bop",
+      "source": "stuff.co.nz",
+      "card_text": "The country’s priciest rent: the region that’s overtaken Auckland and BOP"
+    },
+    {
+      "rank": 41,
+      "title": "Allegations of favouritism, 'unsustainable' workloads at Education Ministry's curriculum division",
+      "url": "https://rnz.co.nz/news/education/1558865/allegations-of-favouritism-unsustainable-workloads-at-education-ministry-s-curriculum-division",
+      "source": "rnz.co.nz",
+      "card_text": "Allegations of favouritism, 'unsustainable' workloads at Education Ministry's curriculum division"
+    },
+    {
+      "rank": 42,
+      "title": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'",
+      "url": "https://stuff.co.nz/world-news/361037984/venezuelas-acting-leader-un-first-address-promises-el",
+      "source": "stuff.co.nz",
+      "card_text": "Venezuela's acting leader, at UN for first address, promises elections at the 'right moment'"
+    },
+    {
+      "rank": 43,
+      "title": "Denniston Coal Plan Hits Roadblock As Forest & Bird Calls For Mine To Be Dumped",
+      "url": "https://waateanews.com/2026/09/25/denniston-coal-plan-hits-roadblock-as-forest-bird-calls-for-mine-to-be-dumped",
+      "source": "waateanews.com",
+      "card_text": "Denniston Coal Plan Hits Roadblock As Forest & Bird Calls For Mine To Be Dumped"
+    },
+    {
+      "rank": 44,
+      "title": "Māori words in curriculum shouldn't be controversial, principals say",
+      "url": "https://odt.co.nz/news/national/maori-words-in-curriculum-shouldnt-be-controversial-principals-say-dsj8if48",
+      "source": "odt.co.nz",
+      "card_text": "Māori words in curriculum shouldn't be controversial, principals say"
+    },
+    {
+      "rank": 45,
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "url": "https://bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class"
+    },
+    {
       "rank": 46,
+      "title": "Minister refuses to divulge curriculum feedback amid OIA secrecy claims",
+      "url": "https://rnz.co.nz/news/politics/1563981/minister-refuses-to-divulge-curriculum-feedback-amid-oia-secrecy-claims",
+      "source": "rnz.co.nz",
+      "card_text": "Minister refuses to divulge curriculum feedback amid OIA secrecy claims"
+    },
+    {
+      "rank": 47,
+      "title": "Levin crash: Driver dies after car and truck collision on State Highway 57",
+      "url": "https://nzherald.co.nz/nz/crash-involving-truck-and-car-blocks-state-highway-57-leaves-person-in-critical-condition/6QWKSDBG3BA35AFP2UAX66XNIM",
+      "source": "nzherald.co.nz",
+      "card_text": "Levin crash: Driver dies after car and truck collision on State Highway 57"
+    },
+    {
+      "rank": 48,
       "title": "Peter McBride on Fonterra’s big year and his own future",
       "url": "https://businessdesk.co.nz/article/primary-sector/peter-mcbride-on-fonterras-big-year-and-his-own-future",
       "source": "businessdesk.co.nz",
       "card_text": "Peter McBride on Fonterra’s big year and his own future"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "title": "Fonterra re-assesses its climate targets after Mainland sale",
       "url": "https://thepress.co.nz/business/361086813/fonterra-re-assesses-climate-targets-after-mainland-sale-draws-flak-greenpeace-rising-emissions",
       "source": "thepress.co.nz",
       "card_text": "Fonterra re-assesses its climate targets after Mainland sale"
     },
     {
-      "rank": 48,
-      "title": "Taonga Call Them To Oxford: Three Māori Leaders Win Prestigious Fellowship",
-      "url": "https://waateanews.com/2026/09/25/taonga-call-them-to-oxford-three-maori-leaders-win-prestigious-fellowship",
-      "source": "waateanews.com",
-      "card_text": "Taonga Call Them To Oxford: Three Māori Leaders Win Prestigious Fellowship"
-    },
-    {
-      "rank": 49,
+      "rank": 50,
       "title": "National eyes structural reform of FENZ while Labour promises independent review including of funding",
       "url": "https://interest.co.nz/insurance/140387/labour-and-acts-brooke-van-velden-suggest-alternatives-fenzs-funding-insurance",
       "source": "interest.co.nz",
       "card_text": "National eyes structural reform of FENZ while Labour promises independent review including of funding"
-    },
-    {
-      "rank": 50,
-      "title": "Government officials think scrapping the BSA is a really bad idea",
-      "url": "https://thespinoff.co.nz/media/24-09-2026/government-officials-think-scrapping-the-bsa-is-a-really-bad-idea",
-      "source": "thespinoff.co.nz",
-      "card_text": "Government officials think scrapping the BSA is a really bad idea"
     }
   ],
   "json_endpoints_observed": [
