@@ -2,15 +2,15 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-25T14:58:52.439322+00:00",
+  "retrieved_at_utc": "2026-09-25T15:20:41.604110+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Internet restricted after fighting breaks out in Ethiopia's Tigray region"
+      "card_text": "Man shot during 2024 Trump campaign rally in Butler dies"
     },
     {
       "rank": 2,
@@ -21,38 +21,38 @@
     },
     {
       "rank": 3,
+      "title": "Hurricane Nolo threatening Hawaii with heavy rain as Polo churns near Mexico",
+      "url": "https://stuff.co.nz/world-news/361038533/hurricane-nolo-threatening-hawaii-heavy-rain-polo-ch",
+      "source": "stuff.co.nz",
+      "card_text": "Hurricane Nolo threatening Hawaii with heavy rain as Polo churns near Mexico"
+    },
+    {
+      "rank": 4,
+      "title": "Watch: Nepal PM says floods ‘a warning to the world’ about climate change | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=RcCzxHsitqs",
+      "source": "youtube.com",
+      "card_text": "Watch: Nepal PM says floods ‘a warning to the world’ about climate change | Stuff.co.nz"
+    },
+    {
+      "rank": 5,
       "title": "‘They just have to get out’ – civilians pay the price for West Papua conflict",
       "url": "https://asiapacificreport.nz/2026/09/25/they-just-have-to-get-out-civilians-pay-the-price-for-west-papua-conflict",
       "source": "asiapacificreport.nz",
       "card_text": "‘They just have to get out’ – civilians pay the price for West Papua conflict"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Two people seriously burned, one in custody, after family harm incident in Northland’s Whangārei",
       "url": "https://rnz.co.nz/news/emergencies_local/1575774/two-people-seriously-burned-one-in-custody-after-family-harm-incident-in-northland-s-whangarei",
       "source": "rnz.co.nz",
       "card_text": "Two people seriously burned, one in custody, after family harm incident in Northland’s Whangārei"
     },
     {
-      "rank": 5,
-      "title": "Watch: Northland gears up for challenging drought, fire season as El Niño takes hold | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=oI51Dkj7rpo",
-      "source": "youtube.com",
-      "card_text": "Watch: Northland gears up for challenging drought, fire season as El Niño takes hold | Stuff.co.nz"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "Watch: RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
       "url": "https://youtube.com/watch?v=4UOzOz_AhgI",
       "source": "youtube.com",
       "card_text": "Watch: RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules"
-    },
-    {
-      "rank": 7,
-      "title": "Final results of Russia's election show the Kremlin party won a record number of parliament seats",
-      "url": "https://stuff.co.nz/world-news/361038518/final-results-russias-election-show-kremlin-party-won",
-      "source": "stuff.co.nz",
-      "card_text": "Final results of Russia's election show the Kremlin party won a record number of parliament seats"
     },
     {
       "rank": 8,
@@ -63,17 +63,17 @@
     },
     {
       "rank": 9,
-      "title": "Bathurst plans to resubmit 6500ha West Coast coal mine application",
-      "url": "https://thepress.co.nz/nz-news/361087234/bathurst-plans-resubmit-6500ha-west-coast-coal-mine-application",
-      "source": "thepress.co.nz",
-      "card_text": "Bathurst plans to resubmit 6500ha West Coast coal mine application"
-    },
-    {
-      "rank": 10,
       "title": "Two quick education notes.",
       "url": "https://kiwiblog.co.nz/2026/09/two_quick_education_notes.html",
       "source": "kiwiblog.co.nz",
       "card_text": "Two quick education notes. 1. More good news on attendance now that Term 2 2026 data is official. “Nationally, 64.3% of students met the criteria for regular attendance (present more than90% of the term). This is an increase of 5.9 percentage points from Term 2 2025.” 69.5% was the pre-covid high (2015) and it is very good to see […] The post Two quick education notes. first appeared on Kiwiblog . Kiwiblog Yesterday Education"
+    },
+    {
+      "rank": 10,
+      "title": "Bathurst plans to resubmit 6500ha West Coast coal mine application",
+      "url": "https://thepress.co.nz/nz-news/361087234/bathurst-plans-resubmit-6500ha-west-coast-coal-mine-application",
+      "source": "thepress.co.nz",
+      "card_text": "Bathurst plans to resubmit 6500ha West Coast coal mine application"
     },
     {
       "rank": 11,
@@ -161,31 +161,31 @@
     },
     {
       "rank": 23,
-      "title": "Watch: Nepal PM says floods ‘a warning to the world’ about climate change | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=RcCzxHsitqs",
-      "source": "youtube.com",
-      "card_text": "Watch: Nepal PM says floods ‘a warning to the world’ about climate change | Stuff.co.nz"
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Internet restricted after fighting breaks out in Ethiopia's Tigray region"
     },
     {
       "rank": 24,
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "url": "https://bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Pomp and toasts: Day 2 of Trump and Xi in DC"
+      "title": "Final results of Russia's election show the Kremlin party won a record number of parliament seats",
+      "url": "https://stuff.co.nz/world-news/361038518/final-results-russias-election-show-kremlin-party-won",
+      "source": "stuff.co.nz",
+      "card_text": "Final results of Russia's election show the Kremlin party won a record number of parliament seats"
     },
     {
       "rank": 25,
-      "title": "Ukraine's Zelenskyy says he urged Trump to enlist China's help in ending Russia's invasion",
-      "url": "https://stuff.co.nz/world-news/361038513/ukraines-zelenskyy-says-he-urged-trump-enlist-chinas-help",
-      "source": "stuff.co.nz",
-      "card_text": "Ukraine's Zelenskyy says he urged Trump to enlist China's help in ending Russia's invasion"
+      "title": "‘Baseless lies meant to sanitise his genocide’ – Mayor Mamdani hits back after Netanyahu’s attacks during UN speech",
+      "url": "https://asiapacificreport.nz/2026/09/25/baseless-lies-meant-to-sanitise-his-genocide-mayor-mamdani-hits-back-after-netanyahus-attacks-during-un-speech",
+      "source": "asiapacificreport.nz",
+      "card_text": "‘Baseless lies meant to sanitise his genocide’ – Mayor Mamdani hits back after Netanyahu’s attacks during UN speech"
     },
     {
       "rank": 26,
-      "title": "Selling the Iran war: Purges, polygraphs and propaganda",
-      "url": "https://asiapacificreport.nz/2026/09/25/selling-the-iran-war-purges-polygraphs-and-propaganda",
-      "source": "asiapacificreport.nz",
-      "card_text": "Selling the Iran war: Purges, polygraphs and propaganda"
+      "title": "AI and apology for clergy abuse on Pope’s agenda",
+      "url": "https://odt.co.nz/news/world/ai-and-apology-for-clergy-abuse-on-popes-agenda-td2rrmfl",
+      "source": "odt.co.nz",
+      "card_text": "AI and apology for clergy abuse on Pope’s agenda"
     },
     {
       "rank": 27,
@@ -259,101 +259,101 @@
     },
     {
       "rank": 37,
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "url": "https://bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Special agents' blood and urine test results stolen in FBI hack"
+    },
+    {
+      "rank": 38,
+      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+      "url": "https://bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Pomp and toasts: Day 2 of Trump and Xi in DC"
+    },
+    {
+      "rank": 39,
+      "title": "Ukraine's Zelenskyy says he urged Trump to enlist China's help in ending Russia's invasion",
+      "url": "https://stuff.co.nz/world-news/361038513/ukraines-zelenskyy-says-he-urged-trump-enlist-chinas-help",
+      "source": "stuff.co.nz",
+      "card_text": "Ukraine's Zelenskyy says he urged Trump to enlist China's help in ending Russia's invasion"
+    },
+    {
+      "rank": 40,
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "url": "https://bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Netanyahu defends Israeli military action as delegates walk out before UN speech"
     },
     {
-      "rank": 38,
-      "title": "Region braces for risk of ‘catastrophic’ water shortages as El Niño looms",
-      "url": "https://stuff.co.nz/nz-news/361038470/farmers-firefighters-and-locals-brace-tough-northland-drought-season",
-      "source": "stuff.co.nz",
-      "card_text": "Region braces for risk of ‘catastrophic’ water shortages as El Niño looms"
-    },
-    {
-      "rank": 39,
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "url": "https://bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "rank": 41,
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "url": "https://bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Trump and Xi exchange warm words at state dinner but little progress on key issues"
+      "card_text": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
     },
     {
-      "rank": 40,
+      "rank": 42,
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US backs Elon Musk's bid to overturn €120m EU fine against X"
+    },
+    {
+      "rank": 43,
+      "title": "Watch: Northland gears up for challenging drought, fire season as El Niño takes hold | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=oI51Dkj7rpo",
+      "source": "youtube.com",
+      "card_text": "Watch: Northland gears up for challenging drought, fire season as El Niño takes hold | Stuff.co.nz"
+    },
+    {
+      "rank": 44,
       "title": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
       "url": "https://stuff.co.nz/world-news/361038497/man-who-was-shot-during-2024-trump-campaign-rally-butler",
       "source": "stuff.co.nz",
       "card_text": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died"
     },
     {
-      "rank": 41,
-      "title": "‘Baseless lies meant to sanitise his genocide’ – Mayor Mamdani hits back after Netanyahu’s attacks during UN speech",
-      "url": "https://asiapacificreport.nz/2026/09/25/baseless-lies-meant-to-sanitise-his-genocide-mayor-mamdani-hits-back-after-netanyahus-attacks-during-un-speech",
-      "source": "asiapacificreport.nz",
-      "card_text": "‘Baseless lies meant to sanitise his genocide’ – Mayor Mamdani hits back after Netanyahu’s attacks during UN speech"
-    },
-    {
-      "rank": 42,
-      "title": "AI and apology for clergy abuse on Pope’s agenda",
-      "url": "https://odt.co.nz/news/world/ai-and-apology-for-clergy-abuse-on-popes-agenda-td2rrmfl",
-      "source": "odt.co.nz",
-      "card_text": "AI and apology for clergy abuse on Pope’s agenda"
-    },
-    {
-      "rank": 43,
-      "title": "Marmite smears, live locusts to celebrate Orana Wildlife Park's 50th birthday",
-      "url": "https://rnz.co.nz/news/environment/1574525/marmite-smears-live-locusts-to-celebrate-orana-wildlife-park-s-50th-birthday",
-      "source": "rnz.co.nz",
-      "card_text": "Marmite smears, live locusts to celebrate Orana Wildlife Park's 50th birthday"
-    },
-    {
-      "rank": 44,
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "url": "https://bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Xi got Trump's red carpet welcome - but not everything he wanted"
-    },
-    {
       "rank": 45,
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "url": "https://bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump and Xi exchange warm words at state dinner but little progress on key issues"
+    },
+    {
+      "rank": 46,
+      "title": "Selling the Iran war: Purges, polygraphs and propaganda",
+      "url": "https://asiapacificreport.nz/2026/09/25/selling-the-iran-war-purges-polygraphs-and-propaganda",
+      "source": "asiapacificreport.nz",
+      "card_text": "Selling the Iran war: Purges, polygraphs and propaganda"
+    },
+    {
+      "rank": 47,
+      "title": "Controversial councillor Benedict Ong to have tilt at Parliament",
+      "url": "https://odt.co.nz/news/dunedin/controversial-councillor-to-have-tilt-at-parliament-ynv2xy5n",
+      "source": "odt.co.nz",
+      "card_text": "Controversial councillor Benedict Ong to have tilt at Parliament"
+    },
+    {
+      "rank": 48,
       "title": "Nationwide petition seeks to halt fast track housing bids outside district plans",
       "url": "https://chrislynchmedia.com/news-items/nationwide-petition-seeks-to-halt-fast-track-housing-bids-outside-district-plans",
       "source": "chrislynchmedia.com",
       "card_text": "Nationwide petition seeks to halt fast track housing bids outside district plans"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "title": "Growth of frontline mental health workers to continue",
       "url": "https://beehive.govt.nz/release/growth-frontline-mental-health-workers-continue",
       "source": "beehive.govt.nz",
       "card_text": "Growth of frontline mental health workers to continue"
     },
     {
-      "rank": 47,
+      "rank": 50,
       "title": "Curriculum Trust Crisis: Māori Education Leader Calls For Power To Be Shared",
       "url": "https://waateanews.com/2026/09/25/curriculum-trust-crisis-maori-education-leader-calls-for-power-to-be-shared",
       "source": "waateanews.com",
       "card_text": "Curriculum Trust Crisis: Māori Education Leader Calls For Power To Be Shared"
-    },
-    {
-      "rank": 48,
-      "title": "Watch: Election 2026: Is National and Labour’s Boring Campaign Helping Minor Parties?",
-      "url": "https://youtube.com/watch?v=B22dQ2zMVqU",
-      "source": "youtube.com",
-      "card_text": "Watch: Election 2026: Is National and Labour’s Boring Campaign Helping Minor Parties?"
-    },
-    {
-      "rank": 49,
-      "title": "Health experts issue six prescriptions for our struggling system",
-      "url": "https://newsroom.co.nz/2026/09/25/health-experts-issue-six-prescriptions-for-our-struggling-system",
-      "source": "newsroom.co.nz",
-      "card_text": "Health experts issue six prescriptions for our struggling system"
-    },
-    {
-      "rank": 50,
-      "title": "ANZ Bank poised to slice 100-plus IT roles",
-      "url": "https://businessdesk.co.nz/article/finance/anz-bank-poised-to-slice-100-plus-it-roles",
-      "source": "businessdesk.co.nz",
-      "card_text": "ANZ Bank poised to slice 100-plus IT roles"
     }
   ],
   "json_endpoints_observed": [
