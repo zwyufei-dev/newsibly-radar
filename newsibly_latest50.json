@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-26T08:15:14.745878+00:00",
+  "retrieved_at_utc": "2026-09-26T08:32:50.682301+00:00",
   "count": 50,
   "items": [
     {
@@ -49,24 +49,24 @@
     },
     {
       "rank": 7,
-      "title": "Super may consume 30% of the tax take!",
-      "url": "https://pointofordernz.wordpress.com/2026/09/26/super-may-consume-30-of-the-tax-take",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Super may consume 30% of the tax take! The Post reports: A new paper examining the future of New Zealand Superannuation has found that, if left unchanged, the scheme could consume more than 30% of the Government’s tax revenue every year by 2065 and will be unsustainable in its current form. The paper, published in the International Review of Public Administration in late … Continue reading Super may consume 30% of the tax take! → Point of Order Today 8:54 am Politics"
-    },
-    {
-      "rank": 8,
       "title": "Fakafanua tells UN Pacific must not become staging ground for military escalation, major-power rivalry",
       "url": "https://kanivatonga.co.nz/2026/09/fakafanua-tells-un-pacific-must-not-become-staging-ground-for-military-escalation-major-power-rivalry",
       "source": "kanivatonga.co.nz",
       "card_text": "Fakafanua tells UN Pacific must not become staging ground for military escalation, major-power rivalry"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Clocks Spring Forward One Hour Tonight",
       "url": "https://whatsoninvers.nz/clocks-spring-forward-one-hour-tonight",
       "source": "whatsoninvers.nz",
       "card_text": "Clocks Spring Forward One Hour Tonight Invercargill loses an hour of sleep tonight. Clocks spring forward at 2am Sunday, September 27, jumping straight to 3am — and no, you don't get it back until April 4. Daylight saving has been New Zealand's twice-yearly ritual since 1927, when entomologist George Hudson lobbied to What's On Invers Today 5:39 pm Culture"
+    },
+    {
+      "rank": 9,
+      "title": "Super may consume 30% of the tax take!",
+      "url": "https://pointofordernz.wordpress.com/2026/09/26/super-may-consume-30-of-the-tax-take",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Super may consume 30% of the tax take! The Post reports: A new paper examining the future of New Zealand Superannuation has found that, if left unchanged, the scheme could consume more than 30% of the Government’s tax revenue every year by 2065 and will be unsustainable in its current form. The paper, published in the International Review of Public Administration in late … Continue reading Super may consume 30% of the tax take! → Point of Order Today 8:54 am Politics"
     },
     {
       "rank": 10,
@@ -119,17 +119,17 @@
     },
     {
       "rank": 17,
+      "title": "8000 door knocks, a league table and a bit of rain - inside the first weekend of the election campaign",
+      "url": "https://thepress.co.nz/politics/361087923/8000-doors-league-table-and-bit-rain-inside-first-weekend-election-campaign",
+      "source": "thepress.co.nz",
+      "card_text": "8000 door knocks, a league table and a bit of rain - inside the first weekend of the election campaign"
+    },
+    {
+      "rank": 18,
       "title": "Union Takes Aim At Luxon With Election Campaign",
       "url": "https://waateanews.com/2026/09/26/union-takes-aim-at-luxon-with-election-campaign",
       "source": "waateanews.com",
       "card_text": "Union Takes Aim At Luxon With Election Campaign"
-    },
-    {
-      "rank": 18,
-      "title": "Labour's Chris Hipkins targets Auckland turnout ahead of campaign launch",
-      "url": "https://odt.co.nz/news/national/labours-chris-hipkins-targets-auckland-turnout-ahead-of-campaign-launch-jfmyneg1",
-      "source": "odt.co.nz",
-      "card_text": "Labour's Chris Hipkins targets Auckland turnout ahead of campaign launch"
     },
     {
       "rank": 19,
@@ -161,17 +161,17 @@
     },
     {
       "rank": 23,
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "url": "https://bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Black woman found hanging from tree was dead before body was 'staged', police say"
+      "card_text": "Bangkok roads submerged as flood disaster declared"
     },
     {
       "rank": 24,
-      "title": "Iran proposes a deal to reopen the Strait of Hormuz in a week – but there are some conditions",
-      "url": "https://stuff.co.nz/world-news/361038552/iran-proposes-deal-reopen-strait-hormuz-7-day",
+      "title": "‘Totally unacceptable’: Trump’s warning to Xi during state visit",
+      "url": "https://stuff.co.nz/world-news/361038689/trump-asks-xi-stop-helping-iran",
       "source": "stuff.co.nz",
-      "card_text": "Iran proposes a deal to reopen the Strait of Hormuz in a week – but there are some conditions"
+      "card_text": "‘Totally unacceptable’: Trump’s warning to Xi during state visit"
     },
     {
       "rank": 25,
@@ -266,38 +266,38 @@
     },
     {
       "rank": 38,
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
+      "url": "https://bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Bangkok declares disaster as heavy rains spark flooding"
+    },
+    {
+      "rank": 39,
+      "title": "Kāinga Ora decision to sell off Wellington housing blocks disappoints locals",
+      "url": "https://rnz.co.nz/news/community/1596920/kainga-ora-decision-to-sell-off-wellington-housing-blocks-disappoints-locals",
+      "source": "rnz.co.nz",
+      "card_text": "Kāinga Ora decision to sell off Wellington housing blocks disappoints locals"
+    },
+    {
+      "rank": 40,
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "url": "https://bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Black woman found hanging from tree was dead before body was 'staged', police say"
+    },
+    {
+      "rank": 41,
       "title": "Police issue fresh appeal for missing Christchurch man last seen three weeks ago",
       "url": "https://stuff.co.nz/nz-news/361038709/police-issue-fresh-appeal-missing-christchurch-man-last-seen-three-weeks-ago",
       "source": "stuff.co.nz",
       "card_text": "Police issue fresh appeal for missing Christchurch man last seen three weeks ago"
     },
     {
-      "rank": 39,
-      "title": "Counties Manukau shock Northland to win Ranfurly Shield for second time",
-      "url": "https://nzherald.co.nz/sport/rugby/npc/northland-v-counties-manukau-live-updates-can-taniwha-lock-up-ranfurly-shield-for-the-season/ASUSWS44H5DNBBTAU7AQCVBYNI",
-      "source": "nzherald.co.nz",
-      "card_text": "Counties Manukau shock Northland to win Ranfurly Shield for second time"
-    },
-    {
-      "rank": 40,
+      "rank": 42,
       "title": "Teen gets 58 percent off his sentence after six armed robberies, burglaries across Auckland, Waikato, Rotorua",
       "url": "https://rnz.co.nz/news/crime-and-justice/1593476/teen-gets-58-percent-off-his-sentence-after-six-armed-robberies-burglaries-across-auckland-waikato-rotorua",
       "source": "rnz.co.nz",
       "card_text": "Teen gets 58 percent off his sentence after six armed robberies, burglaries across Auckland, Waikato, Rotorua"
-    },
-    {
-      "rank": 41,
-      "title": "Search for missing Brazilian woman in Queenstown enters sixth day",
-      "url": "https://nzherald.co.nz/nz/search-for-missing-brazilian-woman-in-queenstown-enters-sixth-day/55SSETUJFJDR7HDWP6U4YZRB74",
-      "source": "nzherald.co.nz",
-      "card_text": "Search for missing Brazilian woman in Queenstown enters sixth day"
-    },
-    {
-      "rank": 42,
-      "title": "Te Kaupapa: The Rma Is Gone — But What Does Its Replacement Mean For Māori?",
-      "url": "https://waateanews.com/2026/09/26/te-kaupapa-the-rma-is-gone-but-what-does-its-replacement-mean-for-maori",
-      "source": "waateanews.com",
-      "card_text": "Te Kaupapa: The Rma Is Gone — But What Does Its Replacement Mean For Māori?"
     },
     {
       "rank": 43,
@@ -308,24 +308,24 @@
     },
     {
       "rank": 44,
-      "title": "‘Totally unacceptable’: Trump’s warning to Xi during state visit",
-      "url": "https://stuff.co.nz/world-news/361038689/trump-asks-xi-stop-helping-iran",
-      "source": "stuff.co.nz",
-      "card_text": "‘Totally unacceptable’: Trump’s warning to Xi during state visit"
-    },
-    {
-      "rank": 45,
       "title": "$2m Grant Secures Matakana Island Lifeline",
       "url": "https://scoop.co.nz/stories/PA2609/S00274/2m-grant-secures-matakana-island-lifeline.htm",
       "source": "scoop.co.nz",
       "card_text": "$2m Grant Secures Matakana Island Lifeline"
     },
     {
+      "rank": 45,
+      "title": "Labour's Chris Hipkins targets Auckland turnout ahead of campaign launch",
+      "url": "https://odt.co.nz/news/national/labours-chris-hipkins-targets-auckland-turnout-ahead-of-campaign-launch-jfmyneg1",
+      "source": "odt.co.nz",
+      "card_text": "Labour's Chris Hipkins targets Auckland turnout ahead of campaign launch"
+    },
+    {
       "rank": 46,
-      "title": "Jayleb-Che Dean disappearance: Teacher’s family organises Tokoroa walk for one-year mark",
-      "url": "https://newstalkzb.co.nz/news/national/jayleb-che-dean-disappearance-teacher-s-family-organises-tokoroa-walk-for-one-year-mark",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Jayleb-Che Dean disappearance: Teacher’s family organises Tokoroa walk for one-year mark"
+      "title": "Pay Equity Poll: Voters Open To Delaying Fiscal Targets",
+      "url": "https://waateanews.com/2026/09/26/pay-equity-poll-voters-open-to-delaying-fiscal-targets",
+      "source": "waateanews.com",
+      "card_text": "Pay Equity Poll: Voters Open To Delaying Fiscal Targets"
     },
     {
       "rank": 47,
