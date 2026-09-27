@@ -2,22 +2,22 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-27T18:58:00.807571+00:00",
+  "retrieved_at_utc": "2026-09-27T19:15:41.997854+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "Two Charged With Murder Of Southland Child",
+      "url": "https://whatsoninvers.nz/two-charged-with-murder-of-southland-child",
+      "source": "whatsoninvers.nz",
+      "card_text": "Two Charged With Murder Of Southland Child"
+    },
+    {
+      "rank": 2,
       "title": "Comcom Warns Bid Riggers: We’re Coming For You",
       "url": "https://waateanews.com/2026/09/28/comcom-warns-bid-riggers-were-coming-for-you",
       "source": "waateanews.com",
       "card_text": "Comcom Warns Bid Riggers: We’re Coming For You"
-    },
-    {
-      "rank": 2,
-      "title": "This lawyer hospitalised his son, kept practising and was paid $500k of public money",
-      "url": "https://stuff.co.nz/nz-news/361038178/lawyer-hospitalised-his-son-kept-practising-and-was-paid-500k-public-money",
-      "source": "stuff.co.nz",
-      "card_text": "This lawyer hospitalised his son, kept practising and was paid $500k of public money"
     },
     {
       "rank": 3,
@@ -35,52 +35,52 @@
     },
     {
       "rank": 5,
-      "title": "Pareora SH1 fatal: Coroner says NZTA failed to fix slippery lane",
-      "url": "https://nzherald.co.nz/nz/pareora-sh1-fatal-coroner-says-nzta-failed-to-fix-slippery-lane/NFQJ6FLHNJCFBOPJK7ZVPXUGUQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Pareora SH1 fatal: Coroner says NZTA failed to fix slippery lane"
-    },
-    {
-      "rank": 6,
       "title": "Fonterra follows the milk south",
       "url": "https://businessdesk.co.nz/article/primary-sector/fonterra-follows-the-milk-south",
       "source": "businessdesk.co.nz",
       "card_text": "Fonterra follows the milk south Fonterra Co-operative Group is following the milk, committing $1 billion to expand its South Island processing network as production continues to grow in the region. Its South Island collections have risen steadily in recent years, with its existing network nearing capacity during peak periods. BusinessDesk Today 5:00 am Rural"
     },
     {
+      "rank": 6,
+      "title": "The state of play after 46 of 71 seats",
+      "url": "https://kiwiblog.co.nz/2026/09/the_state_of_play_after_46_of_71_seats.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "The state of play after 46 of 71 seats I have now analysed 46 of the 71 electorate races on my Patreon, and have just started to enter Auckland. So it includes everything south of the Bombay Hills, and five of the seven Māori seats to date. This is how I have the state of play so far. Once I have done all 71 […] The post The state of play after 46 of 71 seats first appeared on Kiwiblog . Kiwiblog Today 7:00 am Opinion"
+    },
+    {
       "rank": 7,
+      "title": "News Briefing: 28 September 2026",
+      "url": "https://democracyproject.org.nz/p/news-briefing-28-september-2026",
+      "source": "democracyproject.org.nz",
+      "card_text": "News Briefing: 28 September 2026 ELECTION 2026: CAMPAIGN LAUNCHES Democracy Project Today 6:52 am Politics"
+    },
+    {
+      "rank": 8,
       "title": "Watch: ‘No new taxes’ from National and a new policy from Labour as election campaigns launch | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=u4QCBs89pKE",
       "source": "youtube.com",
       "card_text": "Watch: ‘No new taxes’ from National and a new policy from Labour as election campaigns launch | Stuff.co.nz"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
       "url": "https://goodoil.news/rma-reform-passed-chris-bishop-on-fast-track-consents-housing-rules",
       "source": "goodoil.news",
       "card_text": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Generate jumps in June as KiwiSaver tops $150bn…",
       "url": "https://investmentnews.co.nz/investment-news/generate-jumps-in-june-as-kiwisaver-tops-150bn",
       "source": "investmentnews.co.nz",
       "card_text": "Generate jumps in June as KiwiSaver tops $150bn…"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "“My babies are too young to lose their Mum” Terminal cancer found weeks after women’s symptoms labelled ‘psychiatric phenomenon’",
       "url": "https://chrislynchmedia.com/news-items/my-babies-are-too-young-to-lose-their-mum-terminal-cancer-found-weeks-after-womens-symptoms-labelled-psychiatric-phenomenon",
       "source": "chrislynchmedia.com",
       "card_text": "“My babies are too young to lose their Mum” Terminal cancer found weeks after women’s symptoms labelled ‘psychiatric phenomenon’"
-    },
-    {
-      "rank": 11,
-      "title": "'A lot more activity' - significant rise in people trafficking investigations",
-      "url": "https://rnz.co.nz/news/politics/1616273/a-lot-more-activity-significant-rise-in-people-trafficking-investigations",
-      "source": "rnz.co.nz",
-      "card_text": "'A lot more activity' - significant rise in people trafficking investigations"
     },
     {
       "rank": 12,
@@ -91,269 +91,269 @@
     },
     {
       "rank": 13,
-      "title": "Democracy Briefing: The campaign to engineer a National overhang",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-campaign-to",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: The campaign to engineer a National overhang"
+      "title": "Revealed: The Inland Revenue advice Nicola Willis received as National weighs income tax cuts",
+      "url": "https://nzherald.co.nz/business/personal-finance/tax/revealed-the-inland-revenue-advice-nicola-willis-received-as-national-weighs-income-tax-cuts/premium/JRLYSL4Y4NFYBISARZ3GHLFTVE",
+      "source": "nzherald.co.nz",
+      "card_text": "Revealed: The Inland Revenue advice Nicola Willis received as National weighs income tax cuts"
     },
     {
       "rank": 14,
-      "title": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters",
-      "url": "https://newstalkzb.co.nz/on-air/the-weekend-collective/politics-central/kieran-mcanulty-labour-campaign-chair-on-what-their-election-campaign-can-offer-voters",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters"
+      "title": "Sir John Key delivers National's most memorable line, as Hipkins comes out swinging (and swearing)",
+      "url": "https://stuff.co.nz/politics/361038927/pledge-card-vs-policy-inside-battle-campaign-launches",
+      "source": "stuff.co.nz",
+      "card_text": "Sir John Key delivers National's most memorable line, as Hipkins comes out swinging (and swearing)"
     },
     {
       "rank": 15,
-      "title": "Stanford gets caught out",
-      "url": "https://thestandard.nz/stanford-gets-caught-out",
-      "source": "thestandard.nz",
-      "card_text": "Stanford gets caught out This week, a video emerged of a senior official telling staff not to document draft curriculum rewrites exchanged between Erica Stanford’s office and the Ministry of Education, to avoid OIA disclosure. Recent changes also suggest education is being politicised in an offensive way. The Standard Yesterday Education"
-    },
-    {
-      "rank": 16,
       "title": "Independent panel to lead DCC representation review",
       "url": "https://odt.co.nz/news/dunedin/independent-panel-to-lead-dcc-representation-review-ghrawhpc",
       "source": "odt.co.nz",
       "card_text": "Independent panel to lead DCC representation review"
     },
     {
-      "rank": 17,
-      "title": "Election 2026: What stood out at National, Labour’s campaign launches",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-what-stood-out-at-national-labours-campaign-launches/premium/6BMCLJ3TCFE63PYPPNVR55PBU4",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: What stood out at National, Labour’s campaign launches"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "title": "NZDF counter-drone acquisition frustrates local industry",
       "url": "https://businessdesk.co.nz/article/technology/nzdf-counter-drone-acquisition-frustrates-local-industry",
       "source": "businessdesk.co.nz",
       "card_text": "NZDF counter-drone acquisition frustrates local industry"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "title": "This is how expensive NZ has become. A staggering breakdown of 32 common items",
       "url": "https://stuff.co.nz/money/361038326/how-expensive-nz-has-become-heres-staggering-breakdown-32-common-items",
       "source": "stuff.co.nz",
       "card_text": "This is how expensive NZ has become. A staggering breakdown of 32 common items"
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "title": "Fonterra Hits Earnings Target A Year Early",
+      "url": "https://whatsoninvers.nz/fonterra-hits-earnings-target-a-year-early",
+      "source": "whatsoninvers.nz",
+      "card_text": "Fonterra Hits Earnings Target A Year Early"
+    },
+    {
+      "rank": 19,
       "title": "Reforms tipped to boost dietary supplement exports by $500m but snag still at ministry level",
       "url": "https://businessdesk.co.nz/article/primary-sector/reforms-tipped-to-boost-dietary-supplement-exports-by-500m-but-snag-still-at-ministry-level",
       "source": "businessdesk.co.nz",
       "card_text": "Reforms tipped to boost dietary supplement exports by $500m but snag still at ministry level"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Law change could unlock withheld reports behind $821m Lyttelton Port expansion",
       "url": "https://thepress.co.nz/business/361084544/law-change-could-unlock-withheld-reports-behind-821m-lyttelton-port-expansion",
       "source": "thepress.co.nz",
       "card_text": "Law change could unlock withheld reports behind $821m Lyttelton Port expansion"
     },
     {
-      "rank": 22,
-      "title": "‘Quite sad that it’s leaving Dunedin’: Manufacturer heads to Christchurch after 89 years in city",
-      "url": "https://odt.co.nz/business/quite-sad-that-its-leaving-dunedin-manufacturer-heads-to-christchurch-after-89-years-in-city-mk2aouy6",
-      "source": "odt.co.nz",
-      "card_text": "‘Quite sad that it’s leaving Dunedin’: Manufacturer heads to Christchurch after 89 years in city"
-    },
-    {
-      "rank": 23,
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "url": "https://bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ten climbers missing after avalanche hits Himalayan base camp"
-    },
-    {
-      "rank": 24,
+      "rank": 21,
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "url": "https://bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Venezuela releases dozens of political prisoners as election calls grow"
     },
     {
-      "rank": 25,
+      "rank": 22,
+      "title": "Five arrested in suspected terror plot near UK air base used for US strikes on Iran",
+      "url": "https://stuff.co.nz/world-news/361039015/5-men-arrested-near-uk-air-base-used-us-iran-war-su",
+      "source": "stuff.co.nz",
+      "card_text": "Five arrested in suspected terror plot near UK air base used for US strikes on Iran"
+    },
+    {
+      "rank": 23,
+      "title": "Watch: 11-man Wallabies beat Springboks in extraordinary upset",
+      "url": "https://stuff.co.nz/sport/361038491/live-wallabies-v-springboks-one-rugby-test",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: 11-man Wallabies beat Springboks in extraordinary upset"
+    },
+    {
+      "rank": 24,
       "title": "‘Know we’ve got greatness in us’: Black Ferns buoyed by agonising England loss",
       "url": "https://thepress.co.nz/sport/361087955/know-weve-got-greatness-us-black-ferns-buoyed-agonising-england-loss",
       "source": "thepress.co.nz",
       "card_text": "‘Know we’ve got greatness in us’: Black Ferns buoyed by agonising England loss"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out",
       "url": "https://odt.co.nz/news/opinion/stripped-titles-compensating-rivals-how-the-manchester-city-cheating-scandal-could-play-out-h0qiwcyp",
       "source": "odt.co.nz",
       "card_text": "Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out"
     },
     {
-      "rank": 27,
-      "title": "Wallabies beat Springboks in extraordinary upset",
-      "url": "https://stuff.co.nz/sport/361038491/live-wallabies-v-springboks-one-rugby-test",
+      "rank": 26,
+      "title": "Watch: 12-man Knights stun Panthers to reach grand final after Cleary breaks leg",
+      "url": "https://stuff.co.nz/sport/361036248/knights-stun-panthers-book-nrl-final-place-after-cleary-injury-sending",
       "source": "stuff.co.nz",
-      "card_text": "Wallabies beat Springboks in extraordinary upset"
+      "card_text": "Watch: 12-man Knights stun Panthers to reach grand final after Cleary breaks leg"
+    },
+    {
+      "rank": 27,
+      "title": "Flood resilience work along Southland's Mataura River progresses, mayor wants more",
+      "url": "https://rnz.co.nz/news/country/1621575/flood-resilience-work-along-southland-s-mataura-river-progresses-mayor-wants-more",
+      "source": "rnz.co.nz",
+      "card_text": "Flood resilience work along Southland's Mataura River progresses, mayor wants more"
     },
     {
       "rank": 28,
-      "title": "Watch: Knights stun Panthers to book NRL grand final place",
-      "url": "https://stuff.co.nz/sport/361036248/knights-stun-panthers-book-nrl-final-place-after-cleary-injury-sending",
-      "source": "stuff.co.nz",
-      "card_text": "Watch: Knights stun Panthers to book NRL grand final place"
+      "title": "DOC’s bark worse than its bite when it comes to prosecutions",
+      "url": "https://thepress.co.nz/nz-news/361086938/just-twenty-two-wildlife-act-convictions-six-years",
+      "source": "thepress.co.nz",
+      "card_text": "DOC’s bark worse than its bite when it comes to prosecutions"
     },
     {
       "rank": 29,
+      "title": "Sea level rise is reshaping a California beach town and threatening a key rail line",
+      "url": "https://stuff.co.nz/world-news/361039043/sea-level-rise-reshaping-california-beach-town-and-thre",
+      "source": "stuff.co.nz",
+      "card_text": "Sea level rise is reshaping a California beach town and threatening a key rail line"
+    },
+    {
+      "rank": 30,
       "title": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa",
       "url": "https://asiapacificreport.nz/2026/09/27/greenpeace-seabed-mining-activists-protest-on-board-nz-research-vessel-tangaroa",
       "source": "asiapacificreport.nz",
       "card_text": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa"
     },
     {
-      "rank": 30,
-      "title": "Yacht sinks after collision with whale",
-      "url": "https://stuff.co.nz/nz-news/361038855/yacht-sinks-after-collision-whale",
-      "source": "stuff.co.nz",
-      "card_text": "Yacht sinks after collision with whale Stuff Yesterday"
-    },
-    {
       "rank": 31,
-      "title": "Native bird hospital short on funds despite government cash injection",
-      "url": "https://rnz.co.nz/news/environment/1601307/native-bird-hospital-short-on-funds-despite-government-cash-injection",
-      "source": "rnz.co.nz",
-      "card_text": "Native bird hospital short on funds despite government cash injection"
-    },
-    {
-      "rank": 32,
-      "title": "‘No income, nowhere to go’: Hundreds of prisoners being released into homelessness",
-      "url": "https://thepress.co.nz/nz-news/361077929/outreach-workers-repor-growing-number-prisoners-being-released-homelessness",
-      "source": "thepress.co.nz",
-      "card_text": "‘No income, nowhere to go’: Hundreds of prisoners being released into homelessness"
-    },
-    {
-      "rank": 33,
-      "title": "Franco v FMA: Steel & Tube investor claims watchdog turned him from whistleblower to target",
-      "url": "https://businessdesk.co.nz/article/markets/franco-v-fma-steel-tube-investor-claims-watchdog-turned-him-from-whistleblower-to-target",
-      "source": "businessdesk.co.nz",
-      "card_text": "Franco v FMA: Steel & Tube investor claims watchdog turned him from whistleblower to target"
-    },
-    {
-      "rank": 34,
-      "title": "Witness describes moments before person critically injured on Tunnel Road",
-      "url": "https://chrislynchmedia.com/news-items/witness-describes-moments-before-person-critically-injured-on-tunnel-road",
-      "source": "chrislynchmedia.com",
-      "card_text": "Witness describes moments before person critically injured on Tunnel Road"
-    },
-    {
-      "rank": 35,
-      "title": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home",
-      "url": "https://nzherald.co.nz/nz/crime/swanson-arsons-parihaka-oconnor-sentenced-for-burning-down-auckland-home/TRQAF77MWFBHTCBKWIAQM2PSH4",
-      "source": "nzherald.co.nz",
-      "card_text": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home"
-    },
-    {
-      "rank": 36,
-      "title": "Poor road surface contributed to fatal South Canterbury crash",
-      "url": "https://thepress.co.nz/nz-news/361087034/coroner-calls-return-shelved-road-safety-work-fatal-highway-crash-site",
-      "source": "thepress.co.nz",
-      "card_text": "Poor road surface contributed to fatal South Canterbury crash"
-    },
-    {
-      "rank": 37,
       "title": "Ten years without power: How the capital’s community housing is failing its most vulnerable",
       "url": "https://thepress.co.nz/politics/361086191/ten-years-without-power-how-wellingtons-social-housing-system-failing-its-most-vulnerable",
       "source": "thepress.co.nz",
       "card_text": "Ten years without power: How the capital’s community housing is failing its most vulnerable"
     },
     {
-      "rank": 38,
+      "rank": 32,
       "title": "Rents Turn Up Again As Otago Hits $700 A Week",
       "url": "https://waateanews.com/2026/09/28/rents-turn-up-again-as-otago-hits-700-a-week",
       "source": "waateanews.com",
       "card_text": "Rents Turn Up Again As Otago Hits $700 A Week"
     },
     {
-      "rank": 39,
+      "rank": 33,
+      "title": "Ministry delays rules on too-hot homes",
+      "url": "https://rnz.co.nz/news/community/1619940/ministry-delays-rules-on-too-hot-homes",
+      "source": "rnz.co.nz",
+      "card_text": "Ministry delays rules on too-hot homes RNZ Today 7:21 am"
+    },
+    {
+      "rank": 34,
+      "title": "This lawyer hospitalised his son, kept practising and was paid $500k of public money",
+      "url": "https://stuff.co.nz/nz-news/361038178/lawyer-hospitalised-his-son-kept-practising-and-was-paid-500k-public-money",
+      "source": "stuff.co.nz",
+      "card_text": "This lawyer hospitalised his son, kept practising and was paid $500k of public money"
+    },
+    {
+      "rank": 35,
+      "title": "Poor road surface contributed to fatal South Canterbury crash",
+      "url": "https://thepress.co.nz/nz-news/361087034/coroner-calls-return-shelved-road-safety-work-fatal-highway-crash-site",
+      "source": "thepress.co.nz",
+      "card_text": "Poor road surface contributed to fatal South Canterbury crash"
+    },
+    {
+      "rank": 36,
+      "title": "'Those opportunities don't happen frequently': Panel calls for changes to NCEA replacement",
+      "url": "https://rnz.co.nz/news/education/1620616/those-opportunities-don-t-happen-frequently-panel-calls-for-changes-to-ncea-replacement",
+      "source": "rnz.co.nz",
+      "card_text": "'Those opportunities don't happen frequently': Panel calls for changes to NCEA replacement"
+    },
+    {
+      "rank": 37,
       "title": "Officials crack on behind closed doors to limit the OIA, under cover of election",
       "url": "https://newsroom.co.nz/2026/09/28/officials-crack-on-behind-closed-doors-to-limit-reach-of-the-oia-under-cover-of-election",
       "source": "newsroom.co.nz",
       "card_text": "Officials crack on behind closed doors to limit the OIA, under cover of election"
     },
     {
-      "rank": 40,
-      "title": "Snow batters South Island highways, but windy phenomenon on the way, meteorologist says",
-      "url": "https://thepress.co.nz/nz-news/361084404/snow-batters-south-island-highways-windy-phenomenon-way-meteorologist-says",
+      "rank": 38,
+      "title": "‘No income, nowhere to go’: Hundreds of prisoners being released into homelessness",
+      "url": "https://thepress.co.nz/nz-news/361077929/outreach-workers-repor-growing-number-prisoners-being-released-homelessness",
       "source": "thepress.co.nz",
-      "card_text": "Snow batters South Island highways, but windy phenomenon on the way, meteorologist says"
+      "card_text": "‘No income, nowhere to go’: Hundreds of prisoners being released into homelessness"
+    },
+    {
+      "rank": 39,
+      "title": "Afghanistan says 28 fighters killed, 32 captured after crossing from Pakistan",
+      "url": "https://stuff.co.nz/world-news/361039046/afghanistan-says-28-fighters-killed-32-captured-after-crossi",
+      "source": "stuff.co.nz",
+      "card_text": "Afghanistan says 28 fighters killed, 32 captured after crossing from Pakistan"
+    },
+    {
+      "rank": 40,
+      "title": "Commissioner asks: Does it need to get tougher to withdraw money from KiwiSaver?",
+      "url": "https://rnz.co.nz/news/personal-finance/1620675/commissioner-asks-does-it-need-to-get-tougher-to-withdraw-money-from-kiwisaver",
+      "source": "rnz.co.nz",
+      "card_text": "Commissioner asks: Does it need to get tougher to withdraw money from KiwiSaver?"
     },
     {
       "rank": 41,
+      "title": "Shanan Halbert: Labour's Tertiary Education Spokesperson explains student loan policy",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/shanan-halbert-labours-tertiary-education-spokesperson-explains-student-loan-policy",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Shanan Halbert: Labour's Tertiary Education Spokesperson explains student loan policy"
+    },
+    {
+      "rank": 42,
+      "title": "NZ and migration partner countries shelve plans to share citizens' criminal convictions",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1620249/nz-and-migration-partner-countries-shelve-plans-to-share-citizens-criminal-convictions",
+      "source": "rnz.co.nz",
+      "card_text": "NZ and migration partner countries shelve plans to share citizens' criminal convictions"
+    },
+    {
+      "rank": 43,
+      "title": "Report warns businesses to prepare for era of damaging cyber security attacks",
+      "url": "https://newsroom.co.nz/2026/09/28/report-warns-businesses-to-prepare-for-era-of-damaging-cyber-security-attacks",
+      "source": "newsroom.co.nz",
+      "card_text": "Report warns businesses to prepare for era of damaging cyber security attacks"
+    },
+    {
+      "rank": 44,
       "title": "Four rescued after capsize north of Stewart Island",
       "url": "https://odt.co.nz/news/southland/four-rescued-after-capsize-north-of-stewart-island-n1z6elgj",
       "source": "odt.co.nz",
       "card_text": "Four rescued after capsize north of Stewart Island"
     },
     {
-      "rank": 42,
-      "title": "Two-thirds of Kiwis think politicians don’t care about people like them",
-      "url": "https://stuff.co.nz/politics/361038445/two-thirds-kiwis-think-politicians-dont-care-about-people-them",
-      "source": "stuff.co.nz",
-      "card_text": "Two-thirds of Kiwis think politicians don’t care about people like them"
-    },
-    {
-      "rank": 43,
-      "title": "Capital gains tax a ‘complete waste of time’ as revenue tool – Deloitte tax partner",
-      "url": "https://newsroom.co.nz/2026/09/28/capital-gains-tax-a-complete-waste-of-time-as-revenue-tool-deloitte-tax-partner",
-      "source": "newsroom.co.nz",
-      "card_text": "Capital gains tax a ‘complete waste of time’ as revenue tool – Deloitte tax partner"
-    },
-    {
-      "rank": 44,
-      "title": "PREFU: Clear fiscal outlook may not emerge until Budget 2027",
-      "url": "https://businessdesk.co.nz/article/economy/prefu-clear-fiscal-outlook-may-not-emerge-until-budget-2027",
-      "source": "businessdesk.co.nz",
-      "card_text": "PREFU: Clear fiscal outlook may not emerge until Budget 2027"
-    },
-    {
       "rank": 45,
+      "title": "Election 2026: What stood out at National, Labour’s campaign launches",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-what-stood-out-at-national-labours-campaign-launches/premium/6BMCLJ3TCFE63PYPPNVR55PBU4",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: What stood out at National, Labour’s campaign launches"
+    },
+    {
+      "rank": 46,
+      "title": "Franco v FMA: Steel & Tube investor claims watchdog turned him from whistleblower to target",
+      "url": "https://businessdesk.co.nz/article/markets/franco-v-fma-steel-tube-investor-claims-watchdog-turned-him-from-whistleblower-to-target",
+      "source": "businessdesk.co.nz",
+      "card_text": "Franco v FMA: Steel & Tube investor claims watchdog turned him from whistleblower to target"
+    },
+    {
+      "rank": 47,
+      "title": "Have Your Say On Invercargill Parking Rules",
+      "url": "https://whatsoninvers.nz/have-your-say-on-invercargill-parking-rules",
+      "source": "whatsoninvers.nz",
+      "card_text": "Have Your Say On Invercargill Parking Rules"
+    },
+    {
+      "rank": 48,
+      "title": "John Small: Commerce Commission Chair on clampdown of cartel behaviour and bid rigging",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/john-small-commerce-commission-chair-on-clampdown-of-cartel-behaviour-and-bid-rigging",
+      "source": "newstalkzb.co.nz",
+      "card_text": "John Small: Commerce Commission Chair on clampdown of cartel behaviour and bid rigging"
+    },
+    {
+      "rank": 49,
       "title": "Gore mayor leaves councillors off key emails",
       "url": "https://thepress.co.nz/nz-news/361086456/gore-mayor-leaves-councillors-key-emails",
       "source": "thepress.co.nz",
       "card_text": "Gore mayor leaves councillors off key emails"
     },
     {
-      "rank": 46,
-      "title": "‘Really stupid’ to make hurried fast-track decisions, says academic",
-      "url": "https://odt.co.nz/news/really-stupid-to-make-hurried-fast-track-decisions-says-academic-y16m8wwm",
-      "source": "odt.co.nz",
-      "card_text": "‘Really stupid’ to make hurried fast-track decisions, says academic"
-    },
-    {
-      "rank": 47,
+      "rank": 50,
       "title": "$2 Million Lifeline For Matakana Island Wharf",
       "url": "https://waateanews.com/2026/09/28/2-million-lifeline-for-matakana-island-wharf",
       "source": "waateanews.com",
       "card_text": "$2 Million Lifeline For Matakana Island Wharf"
-    },
-    {
-      "rank": 48,
-      "title": "Weather: Snow possible down to 600m as cold southwesterlies arrive after snowy Sunday",
-      "url": "https://nzherald.co.nz/nz/weather-snow-possible-down-to-600m-as-cold-southwesterlies-arrive-after-snowy-sunday/XAQJG5LZNZBELCYPBP6EWHSPAA",
-      "source": "nzherald.co.nz",
-      "card_text": "Weather: Snow possible down to 600m as cold southwesterlies arrive after snowy Sunday"
-    },
-    {
-      "rank": 49,
-      "title": "How a capital gains tax could affect your investments – and what you can do about it",
-      "url": "https://stuff.co.nz/money/361038217/how-capital-gains-tax-could-affect-your-investments-and-what-you-can-do-about-it",
-      "source": "stuff.co.nz",
-      "card_text": "How a capital gains tax could affect your investments – and what you can do about it"
-    },
-    {
-      "rank": 50,
-      "title": "ASIC loses patience with private credit",
-      "url": "https://investmentnews.co.nz/investment-news/asic-loses-patience-with-private-credit",
-      "source": "investmentnews.co.nz",
-      "card_text": "ASIC loses patience with private credit The Australian Securities and Investments Commission (ASIC) is readying for a crackdown on private credit funds as the collapse of a large property development company sends ripples through the sector. In a speech delivered at a property finance industry conference last week, Simone Constant, ASIC commissioner, said many private credit funds still failed to meet... [Read More...] Investment News Yesterday Business"
     }
   ],
   "json_endpoints_observed": [
