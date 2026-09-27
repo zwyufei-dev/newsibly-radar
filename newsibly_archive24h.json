@@ -1,23 +1,415 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-09-27T09:53:53.020782+00:00",
-  "count": 156,
+  "updated_at_utc": "2026-09-27T10:13:39.442008+00:00",
+  "count": 161,
   "items": [
-    {
-      "rank": 38,
-      "title": "Beacon And Radio Saved Four North Of Stewart Island",
-      "url": "https://whatsoninvers.nz/beacon-and-radio-saved-four-north-of-stewart-island",
-      "source": "whatsoninvers.nz",
-      "card_text": "Beacon And Radio Saved Four North Of Stewart Island",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
     {
       "rank": 11,
       "title": "Books need to be balanced before taxes are cut, says David Seymour",
       "url": "https://interest.co.nz/economy/140421/david-seymour-balancing-books-tax-cuts-how-he-plans-save-more-24b-public-service-and",
       "source": "interest.co.nz",
       "card_text": "Books need to be balanced before taxes are cut, says David Seymour",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Nurse Shortages Cost Lives: NZ Study Links Understaffing To Post-Surgery Deaths",
+      "url": "https://waateanews.com/2026/09/27/nurse-shortages-cost-lives-nz-study-links-understaffing-to-post-surgery-deaths",
+      "source": "waateanews.com",
+      "card_text": "Nurse Shortages Cost Lives: NZ Study Links Understaffing To Post-Surgery Deaths",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Inside New Zealand’s organ shortage and the families left waiting",
+      "url": "https://stuff.co.nz/health/361037330/inside-new-zealands-organ-shortage-and-families-left-waiting",
+      "source": "stuff.co.nz",
+      "card_text": "Inside New Zealand’s organ shortage and the families left waiting",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Midwives sound alarm",
+      "url": "https://odt.co.nz/otago/queenstown/midwives-sound-alarm-i4f1w9rr",
+      "source": "odt.co.nz",
+      "card_text": "Midwives sound alarm Otago Daily Times Today 5:00 am",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Mystical shaman who oversaw collapsed investment fund living in Wānaka",
+      "url": "https://odt.co.nz/otago/wanaka/mystical-shaman-who-oversaw-collapsed-investment-fund-living-in-wanaka-rkz8taa0",
+      "source": "odt.co.nz",
+      "card_text": "Mystical shaman who oversaw collapsed investment fund living in Wānaka",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Police Mental Health Withdrawal Under Fire As Worker Safety Fears Grow",
+      "url": "https://waateanews.com/2026/09/27/police-mental-health-withdrawal-under-fire-as-worker-safety-fears-grow",
+      "source": "waateanews.com",
+      "card_text": "Police Mental Health Withdrawal Under Fire As Worker Safety Fears Grow",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Council seeks fix for flood-hit plant",
+      "url": "https://odt.co.nz/otago/queenstown/council-seeks-fix-for-flood-hit-plant-ehxat3e7",
+      "source": "odt.co.nz",
+      "card_text": "Council seeks fix for flood-hit plant Otago Daily Times Today 5:00 am",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "url": "https://bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Native bird hospital short on funds despite government cash injection",
+      "url": "https://rnz.co.nz/news/environment/1601307/native-bird-hospital-short-on-funds-despite-government-cash-injection",
+      "source": "rnz.co.nz",
+      "card_text": "Native bird hospital short on funds despite government cash injection",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "‘I thought, oh my god I look fabulous’: Inside the dangerous rush for black market peptides",
+      "url": "https://thepress.co.nz/nz-news/361084291/untested-unregulated-and-just-click-away-black-market-peptides-put-pressure-health-services",
+      "source": "thepress.co.nz",
+      "card_text": "‘I thought, oh my god I look fabulous’: Inside the dangerous rush for black market peptides",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Warning over Aussie tourism tap",
+      "url": "https://odt.co.nz/otago/queenstown/warning-over-aussie-tourism-tap-yjb93oca",
+      "source": "odt.co.nz",
+      "card_text": "Warning over Aussie tourism tap Otago Daily Times Today 5:00 am",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Immigration NZ says Reece Salmon did not disclose UK prison sentence on NZeTA",
+      "url": "https://newstalkzb.co.nz/news/national/immigration-nz-says-reece-salmon-did-not-disclose-uk-prison-sentence-on-nzeta",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Immigration NZ says Reece Salmon did not disclose UK prison sentence on NZeTA",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Commerce Commission cracks down on cartels in public procurement",
+      "url": "https://rnz.co.nz/news/business/1605970/commerce-commission-cracks-down-on-cartels-in-public-procurement",
+      "source": "rnz.co.nz",
+      "card_text": "Commerce Commission cracks down on cartels in public procurement",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "ACT’s Waitangi Tribunal policy",
+      "url": "https://kiwiblog.co.nz/2026/09/acts_waitangi_tribunal_policy.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "ACT’s Waitangi Tribunal policy Kiwiblog Today 11:00 am",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Watch: Commerce Commission boss reveals $360 million bid-rigging problem",
+      "url": "https://youtube.com/watch?v=3cCBIBauQeE",
+      "source": "youtube.com",
+      "card_text": "Watch: Commerce Commission boss reveals $360 million bid-rigging problem",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Watch: Election 2026: How Auckland holds the keys to the next parliament",
+      "url": "https://youtube.com/watch?v=qAyrKKHcTpw",
+      "source": "youtube.com",
+      "card_text": "Watch: Election 2026: How Auckland holds the keys to the next parliament",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Democrats are busy planning for power. Impeaching Trump again is not off the table",
+      "url": "https://stuff.co.nz/world-news/361038838/house-democrats-plan-vast-oversight-trump-administration",
+      "source": "stuff.co.nz",
+      "card_text": "Democrats are busy planning for power. Impeaching Trump again is not off the table",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Yacht sinks after collision with whale",
+      "url": "https://stuff.co.nz/nz-news/361038855/yacht-sinks-after-collision-whale",
+      "source": "stuff.co.nz",
+      "card_text": "Yacht sinks after collision with whale Stuff Today 12:00 pm",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Watch: Election 2026: The 'lucky' electorate with a four-way race",
+      "url": "https://youtube.com/watch?v=b08yO9Rbets",
+      "source": "youtube.com",
+      "card_text": "Watch: Election 2026: The 'lucky' electorate with a four-way race",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Stanford gets caught out",
+      "url": "https://thestandard.nz/stanford-gets-caught-out",
+      "source": "thestandard.nz",
+      "card_text": "Stanford gets caught out This week, a video emerged of a senior official telling staff not to document draft curriculum rewrites exchanged between Erica Stanford’s office and the Ministry of Education, to avoid OIA disclosure. Recent changes also suggest education is being politicised in an offensive way. The Standard Today 2:28 pm Education",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa",
+      "url": "https://asiapacificreport.nz/2026/09/27/greenpeace-seabed-mining-activists-protest-on-board-nz-research-vessel-tangaroa",
+      "source": "asiapacificreport.nz",
+      "card_text": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Maritime NZ co-ordinates rescue of four sailors after yacht struck by whale in South Pacific Ocean",
+      "url": "https://newstalkzb.co.nz/news/national/maritime-nz-co-ordinates-rescue-of-four-sailors-after-yacht-struck-by-whale-in-south-pacific-ocean",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Maritime NZ co-ordinates rescue of four sailors after yacht struck by whale in South Pacific Ocean",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Two seriously injured after car hits pole in Halswell",
+      "url": "https://chrislynchmedia.com/news-items/two-seriously-injured-after-car-hits-pole-in-halswell",
+      "source": "chrislynchmedia.com",
+      "card_text": "Two seriously injured after car hits pole in Halswell",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Midnight fire consumes old house, vintage car in Spring Creek, Marlborough",
+      "url": "https://thepress.co.nz/nz-news/361088010/midnight-fire-consumes-old-house-vintage-car-spring-creek-marlborough",
+      "source": "thepress.co.nz",
+      "card_text": "Midnight fire consumes old house, vintage car in Spring Creek, Marlborough",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Call for Sams Creek to be included in Kahurangi National Park",
+      "url": "https://rnz.co.nz/news/environment/1598905/call-for-sams-creek-to-be-included-in-kahurangi-national-park",
+      "source": "rnz.co.nz",
+      "card_text": "Call for Sams Creek to be included in Kahurangi National Park",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Leaked Video Sparks Curriculum Transparency Row",
+      "url": "https://waateanews.com/2026/09/27/leaked-video-sparks-curriculum-transparency-row",
+      "source": "waateanews.com",
+      "card_text": "Leaked Video Sparks Curriculum Transparency Row",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters",
+      "url": "https://newstalkzb.co.nz/on-air/the-weekend-collective/politics-central/kieran-mcanulty-labour-campaign-chair-on-what-their-election-campaign-can-offer-voters",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Labour To Cut Student Debt",
+      "url": "https://scoop.co.nz/stories/PA2609/S00278/labour-to-cut-student-debt.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Labour To Cut Student Debt Scoop Today 3:44 pm",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Six dead after explosion destroys building in central Athens",
+      "url": "https://odt.co.nz/news/world/six-dead-after-explosion-destroys-building-in-central-athens-il5emi2u",
+      "source": "odt.co.nz",
+      "card_text": "Six dead after explosion destroys building in central Athens",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Te Awamutu mourners brave rain to remember young person killed in railway incident",
+      "url": "https://nzherald.co.nz/waikato-news/news/te-awamutu-mourners-brave-rain-to-remember-young-person-killed-in-railway-incident/33T72RYLHBFBBNOG3664ZT6ZEE",
+      "source": "nzherald.co.nz",
+      "card_text": "Te Awamutu mourners brave rain to remember young person killed in railway incident",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Two youths arrested after fleeing police in stolen car",
+      "url": "https://chrislynchmedia.com/news-items/two-youths-arrested-after-fleeing-police-in-stolen-car",
+      "source": "chrislynchmedia.com",
+      "card_text": "Two youths arrested after fleeing police in stolen car",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Motorcyclist seriously hurt in Oamaru crash",
+      "url": "https://odt.co.nz/otago/north-otago/motorcyclist-seriously-hurt-in-oamaru-crash-xuc6c637",
+      "source": "odt.co.nz",
+      "card_text": "Motorcyclist seriously hurt in Oamaru crash",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "‘Your sorrow is shared’ - Vigil held for Te Awamutu train accident victim",
+      "url": "https://thepress.co.nz/nz-news/361088048/your-sorrow-shared-vigil-held-te-awamutu-train-accident-victim",
+      "source": "thepress.co.nz",
+      "card_text": "‘Your sorrow is shared’ - Vigil held for Te Awamutu train accident victim",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Stanford sought curriculum feedback in ‘random’ phone call",
+      "url": "https://thepress.co.nz/nz-news/361087882/stanford-sought-curriculum-feedback-random-phone-call",
+      "source": "thepress.co.nz",
+      "card_text": "Stanford sought curriculum feedback in ‘random’ phone call",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Reading Revolution Or Reality Check? New Data Challenges Literacy Success Claims",
+      "url": "https://waateanews.com/2026/09/27/reading-revolution-or-reality-check-new-data-challenges-literacy-success-claims",
+      "source": "waateanews.com",
+      "card_text": "Reading Revolution Or Reality Check? New Data Challenges Literacy Success Claims",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Bangkok roads submerged as flood disaster declared",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Democracy Briefing: The campaign to engineer a National overhang",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-campaign-to",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: The campaign to engineer a National overhang",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Tornado smashes car windows, cuts woman's arm on Kapiti Coast",
+      "url": "https://rnz.co.nz/news/regions/1615542/tornado-smashes-car-windows-cuts-woman-s-arm-on-kapiti-coast",
+      "source": "rnz.co.nz",
+      "card_text": "Tornado smashes car windows, cuts woman's arm on Kapiti Coast",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "A $20m headstart: Why Warriors feel like they're everywhere compared to Super",
+      "url": "https://thepress.co.nz/sport/361086312/rugby-woven-new-zealands-fabric-warriors-are-dominating-spending-battle-against-super",
+      "source": "thepress.co.nz",
+      "card_text": "A $20m headstart: Why Warriors feel like they're everywhere compared to Super",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
+      "url": "https://goodoil.news/rma-reform-passed-chris-bishop-on-fast-track-consents-housing-rules",
+      "source": "goodoil.news",
+      "card_text": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "'A lot more activity' - significant rise in people trafficking investigations",
+      "url": "https://rnz.co.nz/news/politics/1616273/a-lot-more-activity-significant-rise-in-people-trafficking-investigations",
+      "source": "rnz.co.nz",
+      "card_text": "'A lot more activity' - significant rise in people trafficking investigations",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Greens say change won’t come from reheating the same political nachos",
+      "url": "https://newsroom.co.nz/2026/09/27/greens-say-change-wont-come-from-reheating-the-political-nachos",
+      "source": "newsroom.co.nz",
+      "card_text": "Greens say change won’t come from reheating the same political nachos",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home",
+      "url": "https://nzherald.co.nz/nz/crime/swanson-arsons-parihaka-oconnor-sentenced-for-burning-down-auckland-home/TRQAF77MWFBHTCBKWIAQM2PSH4",
+      "source": "nzherald.co.nz",
+      "card_text": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Four killed in helicopter crash near Montreal",
+      "url": "https://bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Four killed in helicopter crash near Montreal",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Watch: ‘No new taxes’ from National and a new policy from Labour as election campaigns launch | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=u4QCBs89pKE",
+      "source": "youtube.com",
+      "card_text": "Watch: ‘No new taxes’ from National and a new policy from Labour as election campaigns launch | Stuff.co.nz",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "“My babies are too young to lose their Mum” Terminal cancer found weeks after women’s symptoms labelled ‘psychiatric phenomenon’",
+      "url": "https://chrislynchmedia.com/news-items/my-babies-are-too-young-to-lose-their-mum-terminal-cancer-found-weeks-after-womens-symptoms-labelled-psychiatric-phenomenon",
+      "source": "chrislynchmedia.com",
+      "card_text": "“My babies are too young to lose their Mum” Terminal cancer found weeks after women’s symptoms labelled ‘psychiatric phenomenon’",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Skilled jobs unfilled; entry-level jobs scarce",
+      "url": "https://odt.co.nz/otago/north-otago/significant-skills-shortage-in-waitaki-as-300-applications-received-for-one-position-lsbnhii6",
+      "source": "odt.co.nz",
+      "card_text": "Skilled jobs unfilled; entry-level jobs scarce",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Watch: Knights stun Panthers to book NRL grand final place",
+      "url": "https://stuff.co.nz/sport/361036248/knights-stun-panthers-book-nrl-final-place-after-cleary-injury-sending",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: Knights stun Panthers to book NRL grand final place",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Witness describes moments before person critically injured on Tunnel Road",
+      "url": "https://chrislynchmedia.com/news-items/witness-describes-moments-before-person-critically-injured-on-tunnel-road",
+      "source": "chrislynchmedia.com",
+      "card_text": "Witness describes moments before person critically injured on Tunnel Road",
+      "discovered_at_utc": "2026-09-27T10:13:39.442008+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Beacon And Radio Saved Four North Of Stewart Island",
+      "url": "https://whatsoninvers.nz/beacon-and-radio-saved-four-north-of-stewart-island",
+      "source": "whatsoninvers.nz",
+      "card_text": "Beacon And Radio Saved Four North Of Stewart Island",
       "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
     },
     {
@@ -29,107 +421,11 @@
       "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
     },
     {
-      "rank": 24,
-      "title": "Nurse Shortages Cost Lives: NZ Study Links Understaffing To Post-Surgery Deaths",
-      "url": "https://waateanews.com/2026/09/27/nurse-shortages-cost-lives-nz-study-links-understaffing-to-post-surgery-deaths",
-      "source": "waateanews.com",
-      "card_text": "Nurse Shortages Cost Lives: NZ Study Links Understaffing To Post-Surgery Deaths",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Inside New Zealand’s organ shortage and the families left waiting",
-      "url": "https://stuff.co.nz/health/361037330/inside-new-zealands-organ-shortage-and-families-left-waiting",
-      "source": "stuff.co.nz",
-      "card_text": "Inside New Zealand’s organ shortage and the families left waiting",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Midwives sound alarm",
-      "url": "https://odt.co.nz/otago/queenstown/midwives-sound-alarm-i4f1w9rr",
-      "source": "odt.co.nz",
-      "card_text": "Midwives sound alarm Otago Daily Times Today 5:00 am",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
       "rank": 14,
       "title": "$25 Million Question: Auckland Council Puts Community Grants Under Review",
       "url": "https://waateanews.com/2026/09/27/25-million-question-auckland-council-puts-community-grants-under-review",
       "source": "waateanews.com",
       "card_text": "$25 Million Question: Auckland Council Puts Community Grants Under Review",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Mystical shaman who oversaw collapsed investment fund living in Wānaka",
-      "url": "https://odt.co.nz/otago/wanaka/mystical-shaman-who-oversaw-collapsed-investment-fund-living-in-wanaka-rkz8taa0",
-      "source": "odt.co.nz",
-      "card_text": "Mystical shaman who oversaw collapsed investment fund living in Wānaka",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Police Mental Health Withdrawal Under Fire As Worker Safety Fears Grow",
-      "url": "https://waateanews.com/2026/09/27/police-mental-health-withdrawal-under-fire-as-worker-safety-fears-grow",
-      "source": "waateanews.com",
-      "card_text": "Police Mental Health Withdrawal Under Fire As Worker Safety Fears Grow",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Council seeks fix for flood-hit plant",
-      "url": "https://odt.co.nz/otago/queenstown/council-seeks-fix-for-flood-hit-plant-ehxat3e7",
-      "source": "odt.co.nz",
-      "card_text": "Council seeks fix for flood-hit plant Otago Daily Times Today 5:00 am",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "url": "https://bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Native bird hospital short on funds despite government cash injection",
-      "url": "https://rnz.co.nz/news/environment/1601307/native-bird-hospital-short-on-funds-despite-government-cash-injection",
-      "source": "rnz.co.nz",
-      "card_text": "Native bird hospital short on funds despite government cash injection",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "‘I thought, oh my god I look fabulous’: Inside the dangerous rush for black market peptides",
-      "url": "https://thepress.co.nz/nz-news/361084291/untested-unregulated-and-just-click-away-black-market-peptides-put-pressure-health-services",
-      "source": "thepress.co.nz",
-      "card_text": "‘I thought, oh my god I look fabulous’: Inside the dangerous rush for black market peptides",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Warning over Aussie tourism tap",
-      "url": "https://odt.co.nz/otago/queenstown/warning-over-aussie-tourism-tap-yjb93oca",
-      "source": "odt.co.nz",
-      "card_text": "Warning over Aussie tourism tap Otago Daily Times Today 5:00 am",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "url": "https://bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "Immigration NZ says Reece Salmon did not disclose UK prison sentence on NZeTA",
-      "url": "https://newstalkzb.co.nz/news/national/immigration-nz-says-reece-salmon-did-not-disclose-uk-prison-sentence-on-nzeta",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Immigration NZ says Reece Salmon did not disclose UK prison sentence on NZeTA",
       "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
     },
     {
@@ -141,267 +437,11 @@
       "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
     },
     {
-      "rank": 15,
-      "title": "Commerce Commission cracks down on cartels in public procurement",
-      "url": "https://rnz.co.nz/news/business/1605970/commerce-commission-cracks-down-on-cartels-in-public-procurement",
-      "source": "rnz.co.nz",
-      "card_text": "Commerce Commission cracks down on cartels in public procurement",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "ACT’s Waitangi Tribunal policy",
-      "url": "https://kiwiblog.co.nz/2026/09/acts_waitangi_tribunal_policy.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "ACT’s Waitangi Tribunal policy ACT have released their policy on abolishing the Waitangi Tribunal once it has concluded the historical Treaty claims, and remove its jurisdiction. over contemporary issues. There have been 1,070 contemporary claims made to the Waitangi Tribunal. So far I can only find one of those claims (the 1995 Kiwifruit Marketing Claim) that did not find […] The post ACT’s Waitangi Tribunal policy first appeared on Kiwiblog . Kiwiblog Today 11:00 am Politics",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Watch: Commerce Commission boss reveals $360 million bid-rigging problem",
-      "url": "https://youtube.com/watch?v=3cCBIBauQeE",
-      "source": "youtube.com",
-      "card_text": "Watch: Commerce Commission boss reveals $360 million bid-rigging problem",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Watch: Election 2026: How Auckland holds the keys to the next parliament",
-      "url": "https://youtube.com/watch?v=qAyrKKHcTpw",
-      "source": "youtube.com",
-      "card_text": "Watch: Election 2026: How Auckland holds the keys to the next parliament",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Democrats are busy planning for power. Impeaching Trump again is not off the table",
-      "url": "https://stuff.co.nz/world-news/361038838/house-democrats-plan-vast-oversight-trump-administration",
-      "source": "stuff.co.nz",
-      "card_text": "Democrats are busy planning for power. Impeaching Trump again is not off the table",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Yacht sinks after collision with whale",
-      "url": "https://stuff.co.nz/nz-news/361038855/yacht-sinks-after-collision-whale",
-      "source": "stuff.co.nz",
-      "card_text": "Yacht sinks after collision with whale Stuff Today 12:00 pm",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Watch: Election 2026: The 'lucky' electorate with a four-way race",
-      "url": "https://youtube.com/watch?v=b08yO9Rbets",
-      "source": "youtube.com",
-      "card_text": "Watch: Election 2026: The 'lucky' electorate with a four-way race",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Stanford gets caught out",
-      "url": "https://thestandard.nz/stanford-gets-caught-out",
-      "source": "thestandard.nz",
-      "card_text": "Stanford gets caught out This week, a video emerged of a senior official telling staff not to document draft curriculum rewrites exchanged between Erica Stanford’s office and the Ministry of Education, to avoid OIA disclosure. Recent changes also suggest education is being politicised in an offensive way. The Standard Today 2:28 pm Education",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa",
-      "url": "https://asiapacificreport.nz/2026/09/27/greenpeace-seabed-mining-activists-protest-on-board-nz-research-vessel-tangaroa",
-      "source": "asiapacificreport.nz",
-      "card_text": "Greenpeace seabed mining activists protest on board NZ research vessel Tangaroa",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "Maritime NZ co-ordinates rescue of four sailors after yacht struck by whale in South Pacific Ocean",
-      "url": "https://newstalkzb.co.nz/news/national/maritime-nz-co-ordinates-rescue-of-four-sailors-after-yacht-struck-by-whale-in-south-pacific-ocean",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Maritime NZ co-ordinates rescue of four sailors after yacht struck by whale in South Pacific Ocean",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Two seriously injured after car hits pole in Halswell",
-      "url": "https://chrislynchmedia.com/news-items/two-seriously-injured-after-car-hits-pole-in-halswell",
-      "source": "chrislynchmedia.com",
-      "card_text": "Two seriously injured after car hits pole in Halswell",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Midnight fire consumes old house, vintage car in Spring Creek, Marlborough",
-      "url": "https://thepress.co.nz/nz-news/361088010/midnight-fire-consumes-old-house-vintage-car-spring-creek-marlborough",
-      "source": "thepress.co.nz",
-      "card_text": "Midnight fire consumes old house, vintage car in Spring Creek, Marlborough",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Call for Sams Creek to be included in Kahurangi National Park",
-      "url": "https://rnz.co.nz/news/environment/1598905/call-for-sams-creek-to-be-included-in-kahurangi-national-park",
-      "source": "rnz.co.nz",
-      "card_text": "Call for Sams Creek to be included in Kahurangi National Park",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 43,
-      "title": "Leaked Video Sparks Curriculum Transparency Row",
-      "url": "https://waateanews.com/2026/09/27/leaked-video-sparks-curriculum-transparency-row",
-      "source": "waateanews.com",
-      "card_text": "Leaked Video Sparks Curriculum Transparency Row",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters",
-      "url": "https://newstalkzb.co.nz/on-air/the-weekend-collective/politics-central/kieran-mcanulty-labour-campaign-chair-on-what-their-election-campaign-can-offer-voters",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Kieran McAnulty: Labour campaign chair on what their election campaign can offer voters",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Labour To Cut Student Debt",
-      "url": "https://scoop.co.nz/stories/PA2609/S00278/labour-to-cut-student-debt.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Labour To Cut Student Debt Scoop Today 3:44 pm",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Six dead after explosion destroys building in central Athens",
-      "url": "https://odt.co.nz/news/world/six-dead-after-explosion-destroys-building-in-central-athens-il5emi2u",
-      "source": "odt.co.nz",
-      "card_text": "Six dead after explosion destroys building in central Athens",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "Te Awamutu mourners brave rain to remember young person killed in railway incident",
-      "url": "https://nzherald.co.nz/waikato-news/news/te-awamutu-mourners-brave-rain-to-remember-young-person-killed-in-railway-incident/33T72RYLHBFBBNOG3664ZT6ZEE",
-      "source": "nzherald.co.nz",
-      "card_text": "Te Awamutu mourners brave rain to remember young person killed in railway incident",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Two youths arrested after fleeing police in stolen car",
-      "url": "https://chrislynchmedia.com/news-items/two-youths-arrested-after-fleeing-police-in-stolen-car",
-      "source": "chrislynchmedia.com",
-      "card_text": "Two youths arrested after fleeing police in stolen car",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Motorcyclist seriously hurt in Oamaru crash",
-      "url": "https://odt.co.nz/otago/north-otago/motorcyclist-seriously-hurt-in-oamaru-crash-xuc6c637",
-      "source": "odt.co.nz",
-      "card_text": "Motorcyclist seriously hurt in Oamaru crash",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "‘Your sorrow is shared’ - Vigil held for Te Awamutu train accident victim",
-      "url": "https://thepress.co.nz/nz-news/361088048/your-sorrow-shared-vigil-held-te-awamutu-train-accident-victim",
-      "source": "thepress.co.nz",
-      "card_text": "‘Your sorrow is shared’ - Vigil held for Te Awamutu train accident victim",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 42,
-      "title": "Stanford sought curriculum feedback in ‘random’ phone call",
-      "url": "https://thepress.co.nz/nz-news/361087882/stanford-sought-curriculum-feedback-random-phone-call",
-      "source": "thepress.co.nz",
-      "card_text": "Stanford sought curriculum feedback in ‘random’ phone call",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Reading Revolution Or Reality Check? New Data Challenges Literacy Success Claims",
-      "url": "https://waateanews.com/2026/09/27/reading-revolution-or-reality-check-new-data-challenges-literacy-success-claims",
-      "source": "waateanews.com",
-      "card_text": "Reading Revolution Or Reality Check? New Data Challenges Literacy Success Claims",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Bangkok roads submerged as flood disaster declared",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Democracy Briefing: The campaign to engineer a National overhang",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-campaign-to",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: The campaign to engineer a National overhang",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "Tornado smashes car windows, cuts woman's arm on Kapiti Coast",
-      "url": "https://rnz.co.nz/news/regions/1615542/tornado-smashes-car-windows-cuts-woman-s-arm-on-kapiti-coast",
-      "source": "rnz.co.nz",
-      "card_text": "Tornado smashes car windows, cuts woman's arm on Kapiti Coast",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "A $20m headstart: Why Warriors feel like they're everywhere compared to Super",
-      "url": "https://thepress.co.nz/sport/361086312/rugby-woven-new-zealands-fabric-warriors-are-dominating-spending-battle-against-super",
-      "source": "thepress.co.nz",
-      "card_text": "A $20m headstart: Why Warriors feel like they're everywhere compared to Super",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
-      "url": "https://goodoil.news/rma-reform-passed-chris-bishop-on-fast-track-consents-housing-rules",
-      "source": "goodoil.news",
-      "card_text": "RMA Reform Passed: Chris Bishop On Fast Track Consents & Housing Rules",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "'A lot more activity' - significant rise in people trafficking investigations",
-      "url": "https://rnz.co.nz/news/politics/1616273/a-lot-more-activity-significant-rise-in-people-trafficking-investigations",
-      "source": "rnz.co.nz",
-      "card_text": "'A lot more activity' - significant rise in people trafficking investigations",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Greens say change won’t come from reheating the same political nachos",
-      "url": "https://newsroom.co.nz/2026/09/27/greens-say-change-wont-come-from-reheating-the-political-nachos",
-      "source": "newsroom.co.nz",
-      "card_text": "Greens say change won’t come from reheating the same political nachos",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
       "rank": 22,
       "title": "12-man Knights regain lead over Panthers after Cleary’s season-ending injury",
       "url": "https://stuff.co.nz/sport/361036248/live-panthers-v-knights-nrl-preliminary-final",
       "source": "stuff.co.nz",
       "card_text": "12-man Knights regain lead over Panthers after Cleary’s season-ending injury",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home",
-      "url": "https://nzherald.co.nz/nz/crime/swanson-arsons-parihaka-oconnor-sentenced-for-burning-down-auckland-home/TRQAF77MWFBHTCBKWIAQM2PSH4",
-      "source": "nzherald.co.nz",
-      "card_text": "Swanson arsons: Parihaka O’Connor sentenced for burning down Auckland home",
-      "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "Four killed in helicopter crash near Montreal",
-      "url": "https://bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Four killed in helicopter crash near Montreal",
       "discovered_at_utc": "2026-09-27T09:53:53.020782+00:00"
     },
     {
