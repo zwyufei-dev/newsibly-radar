@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-28T13:46:51.079658+00:00",
+  "retrieved_at_utc": "2026-09-28T14:16:36.314009+00:00",
   "count": 50,
   "items": [
     {
@@ -42,24 +42,24 @@
     },
     {
       "rank": 6,
+      "title": "Gap between NZ & Aussie benchmark interest rates set to widen",
+      "url": "https://interest.co.nz/public-policy/140386/whats-behind-big-gap-between-new-zealands-ocr-and-australias-cash-rate",
+      "source": "interest.co.nz",
+      "card_text": "Gap between NZ & Aussie benchmark interest rates set to widen"
+    },
+    {
+      "rank": 7,
       "title": "National’s Economic Plan Backs Kiwis To Get Ahead",
       "url": "https://scoop.co.nz/stories/PA2609/S00288/nationals-economic-plan-backs-kiwis-to-get-ahead.htm",
       "source": "scoop.co.nz",
       "card_text": "National’s Economic Plan Backs Kiwis To Get Ahead"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Yes, voters favoured scrapping the Maori Health Authority – but the Waitangi Tribunal wants it resurrected",
       "url": "https://pointofordernz.wordpress.com/2026/09/28/yes-voters-favoured-scrapping-the-maori-health-authority-but-the-waitangi-tribunal-wants-it-resurrected",
       "source": "pointofordernz.wordpress.com",
       "card_text": "Yes, voters favoured scrapping the Maori Health Authority – but the Waitangi Tribunal wants it resurrected"
-    },
-    {
-      "rank": 8,
-      "title": "Gap between NZ & Aussie benchmark interest rates set to widen",
-      "url": "https://interest.co.nz/public-policy/140386/whats-behind-big-gap-between-new-zealands-ocr-and-australias-cash-rate",
-      "source": "interest.co.nz",
-      "card_text": "Gap between NZ & Aussie benchmark interest rates set to widen"
     },
     {
       "rank": 9,
@@ -77,17 +77,17 @@
     },
     {
       "rank": 11,
+      "title": "Watch: Does Rennie Dare Pick Leicester AND Timoci? | ARP",
+      "url": "https://youtube.com/watch?v=kgSu8FikqnA",
+      "source": "youtube.com",
+      "card_text": "Watch: Does Rennie Dare Pick Leicester AND Timoci? | ARP"
+    },
+    {
+      "rank": 12,
       "title": "Jack Tame on getting ghosted by Christopher Luxon",
       "url": "https://thespinoff.co.nz/politics/28-09-2026/jack-tame-on-getting-ghosted-by-christopher-luxon",
       "source": "thespinoff.co.nz",
       "card_text": "Jack Tame on getting ghosted by Christopher Luxon"
-    },
-    {
-      "rank": 12,
-      "title": "Political donor to seek fast-track approval for $3.7b coal-to-fertiliser project",
-      "url": "https://newsroom.co.nz/2026/09/28/political-donor-to-seek-fast-track-approval-for-3-7b-coal-to-fertiliser-project-in-southland",
-      "source": "newsroom.co.nz",
-      "card_text": "Political donor to seek fast-track approval for $3.7b coal-to-fertiliser project"
     },
     {
       "rank": 13,
@@ -217,143 +217,143 @@
     },
     {
       "rank": 31,
+      "title": "Political donor to seek fast-track approval for $3.7b coal-to-fertiliser project",
+      "url": "https://newsroom.co.nz/2026/09/28/political-donor-to-seek-fast-track-approval-for-3-7b-coal-to-fertiliser-project-in-southland",
+      "source": "newsroom.co.nz",
+      "card_text": "Political donor to seek fast-track approval for $3.7b coal-to-fertiliser project"
+    },
+    {
+      "rank": 32,
       "title": "ECan backs flood recovery, calls for Govt support",
       "url": "https://odt.co.nz/canterbury/north-canterbury/ecan-backs-flood-recovery-calls-for-govt-support-r7diyym5",
       "source": "odt.co.nz",
       "card_text": "ECan backs flood recovery, calls for Govt support"
     },
     {
-      "rank": 32,
+      "rank": 33,
+      "title": "SpaceX's supersized Starship launches toward orbit for the first time",
+      "url": "https://stuff.co.nz/world-news/361039545/spacexs-supersized-starship-launches-toward-orbit-fi",
+      "source": "stuff.co.nz",
+      "card_text": "SpaceX's supersized Starship launches toward orbit for the first time"
+    },
+    {
+      "rank": 34,
+      "title": "Iran denies involvement after 5 British men arrested over suspected attack at US-operated air force base",
+      "url": "https://stuff.co.nz/world-news/361039509/british-police-investigate-whether-arrests-near-usrun-air-ba",
+      "source": "stuff.co.nz",
+      "card_text": "Iran denies involvement after 5 British men arrested over suspected attack at US-operated air force base"
+    },
+    {
+      "rank": 35,
+      "title": "Netanyahu asked Emirati leader to deny reports he'd been warned about October 7 threat",
+      "url": "https://stuff.co.nz/world-news/361039537/netanyahu-meets-emirati-leader-secret-weekend-trip",
+      "source": "stuff.co.nz",
+      "card_text": "Netanyahu asked Emirati leader to deny reports he'd been warned about October 7 threat"
+    },
+    {
+      "rank": 36,
       "title": "Nvidia unveils security platform to stop AI agents from going rogue",
       "url": "https://stuff.co.nz/world-news/361039530/nvidia-unveils-security-platform-stop-ai-agents-goin",
       "source": "stuff.co.nz",
       "card_text": "Nvidia unveils security platform to stop AI agents from going rogue"
     },
     {
-      "rank": 33,
+      "rank": 37,
       "title": "Trump-Xi summit: What wasn't said might matter the most",
       "url": "https://bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Trump-Xi summit: What wasn't said might matter the most"
     },
     {
-      "rank": 34,
+      "rank": 38,
       "title": "‘We will turn Putin’s new foot soldiers into stewed meat’, vows Ukraine’s drone chief",
       "url": "https://stuff.co.nz/world-news/361039497/we-will-turn-putins-new-foot-soldiers-stewed-meat",
       "source": "stuff.co.nz",
       "card_text": "‘We will turn Putin’s new foot soldiers into stewed meat’, vows Ukraine’s drone chief"
     },
     {
-      "rank": 35,
+      "rank": 39,
+      "title": "While discussing Taiwan, Trump asked Xi if China wanted to buy US weapons",
+      "url": "https://stuff.co.nz/world-news/361039479/trump-asked-xi-if-china-wanted-buy-us-weapons-ambassador-says",
+      "source": "stuff.co.nz",
+      "card_text": "While discussing Taiwan, Trump asked Xi if China wanted to buy US weapons"
+    },
+    {
+      "rank": 40,
       "title": "Christchurch man admits force-feeding, beating and violating children in last-minute plea",
       "url": "https://thepress.co.nz/nz-news/361088458/christchurch-man-admits-force-feeding-beating-and-violating-children-last-minute-plea",
       "source": "thepress.co.nz",
       "card_text": "Christchurch man admits force-feeding, beating and violating children in last-minute plea"
     },
     {
-      "rank": 36,
+      "rank": 41,
       "title": "Police sergeant in court for allegedly injuring woman in Bay of Plenty cell",
       "url": "https://newstalkzb.co.nz/news/national/police-sergeant-in-court-for-allegedly-injuring-woman-in-bay-of-plenty-cell",
       "source": "newstalkzb.co.nz",
       "card_text": "Police sergeant in court for allegedly injuring woman in Bay of Plenty cell"
     },
     {
-      "rank": 37,
+      "rank": 42,
       "title": "MBIE mandarins (it seems) have left Ministers out in the cold when it comes to overheated housing",
       "url": "https://pointofordernz.wordpress.com/2026/09/28/mbie-mandarins-it-seems-have-left-ministers-out-in-the-cold-when-it-comes-to-overheated-housing",
       "source": "pointofordernz.wordpress.com",
       "card_text": "MBIE mandarins (it seems) have left Ministers out in the cold when it comes to overheated housing"
     },
     {
-      "rank": 38,
+      "rank": 43,
       "title": "Winston Peters warms to overhang strategy: ‘You don’t just carry on with previous ways’",
       "url": "https://thespinoff.co.nz/politics/28-09-2026/winston-peters-warms-to-overhang-strategy-you-dont-just-carry-on-with-previous-ways",
       "source": "thespinoff.co.nz",
       "card_text": "Winston Peters warms to overhang strategy: ‘You don’t just carry on with previous ways’"
     },
     {
-      "rank": 39,
+      "rank": 44,
       "title": "Who Holds The Media To Account? Bsa Abolition Raises Big Questions For Public Trust",
       "url": "https://waateanews.com/2026/09/28/who-holds-the-media-to-account-bsa-abolition-raises-big-questions-for-public-trust",
       "source": "waateanews.com",
       "card_text": "Who Holds The Media To Account? Bsa Abolition Raises Big Questions For Public Trust"
     },
     {
-      "rank": 40,
+      "rank": 45,
       "title": "Sale among options as councillors prepare for secret Enable briefing",
       "url": "https://chrislynchmedia.com/news-items/sale-among-options-as-christchurch-councillors-prepare-for-secret-enable-briefing",
       "source": "chrislynchmedia.com",
       "card_text": "Sale among options as councillors prepare for secret Enable briefing"
     },
     {
-      "rank": 41,
+      "rank": 46,
       "title": "Labour goes after student loan debt, National goes after tax",
       "url": "https://interest.co.nz/public-policy/140432/labour-promises-wipe-small-student-loans-and-cut-debt-10-nationals-nicola",
       "source": "interest.co.nz",
       "card_text": "Labour goes after student loan debt, National goes after tax"
     },
     {
-      "rank": 42,
+      "rank": 47,
       "title": "Watch: Nepal flood victims fear they could be forced to leave their homes | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=6nc_bIAQPug",
       "source": "youtube.com",
       "card_text": "Watch: Nepal flood victims fear they could be forced to leave their homes | Stuff.co.nz"
     },
     {
-      "rank": 43,
+      "rank": 48,
       "title": "Shundi Group sells Auckland properties as companies face debt turmoil",
       "url": "https://businessdesk.co.nz/article/property/shundi-group-sells-auckland-properties-as-companies-face-debt-turmoil",
       "source": "businessdesk.co.nz",
       "card_text": "Shundi Group sells Auckland properties as companies face debt turmoil"
     },
     {
-      "rank": 44,
+      "rank": 49,
       "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "url": "https://bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "One dead as nor'easter storm pummels New York and New Jersey"
     },
     {
-      "rank": 45,
+      "rank": 50,
       "title": "ACC & MSD blocking refunds to sick & injured",
       "url": "https://thekaka.substack.com/p/acc-and-msd-blocking-refunds-to-sick",
       "source": "thekaka.substack.com",
       "card_text": "ACC & MSD blocking refunds to sick & injured"
-    },
-    {
-      "rank": 46,
-      "title": "Quick Hit: Don’t Write It Down",
-      "url": "https://goodoil.news/quick-hit-dont-write-it-down",
-      "source": "goodoil.news",
-      "card_text": "Quick Hit: Don’t Write It Down A curriculum lead was filmed telling staff the minister’s feedback was “OIA-able” and should stay out of writing. Now the chief ombudsman is formally investigating, and Erica Stanford says it’s a matter for her chief executive. The Good Oil Yesterday Politics"
-    },
-    {
-      "rank": 47,
-      "title": "680 new homes in doubt as planner rejects $77m racecourse move",
-      "url": "https://stuff.co.nz/home-property/361039162/planner-urges-rejection-racecourse-shift-could-open-land-680-homes",
-      "source": "stuff.co.nz",
-      "card_text": "680 new homes in doubt as planner rejects $77m racecourse move"
-    },
-    {
-      "rank": 48,
-      "title": "CCTV footage shows youths attacking Ōamaru home, tormenting a solo mum and child",
-      "url": "https://stuff.co.nz/nz-news/361039315/watch-eggs-rocks-and-broken-glass-solo-mum-and-child-trapped-home",
-      "source": "stuff.co.nz",
-      "card_text": "CCTV footage shows youths attacking Ōamaru home, tormenting a solo mum and child"
-    },
-    {
-      "rank": 49,
-      "title": "Murder trial begins for Phillip Beale accused of killing mother Joan Beale in Papatoetoe",
-      "url": "https://nzherald.co.nz/nz/crime/murder-trial-begins-for-phillip-beale-accused-of-killing-mother-joan-beale-in-papatoetoe/W7EPM3Z6URD2ZLMLI6ZK5YIWZM",
-      "source": "nzherald.co.nz",
-      "card_text": "Murder trial begins for Phillip Beale accused of killing mother Joan Beale in Papatoetoe"
-    },
-    {
-      "rank": 50,
-      "title": "Jury selected for trial of men following deadly daylight Wairarapa shooting",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1630159/jury-selected-for-trial-of-men-following-deadly-daylight-wairarapa-shooting",
-      "source": "rnz.co.nz",
-      "card_text": "Jury selected for trial of men following deadly daylight Wairarapa shooting"
     }
   ],
   "json_endpoints_observed": [
