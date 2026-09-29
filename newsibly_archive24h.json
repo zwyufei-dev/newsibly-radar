@@ -1,24 +1,408 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-09-29T05:59:08.724125+00:00",
-  "count": 218,
+  "updated_at_utc": "2026-09-29T06:25:40.859808+00:00",
+  "count": 237,
   "items": [
     {
-      "rank": 9,
+      "rank": 39,
       "title": "Willis eyes real spending cuts to fund tax cuts",
       "url": "https://thekaka.substack.com/p/willis-eyes-real-spending-cuts-to",
       "source": "thekaka.substack.com",
       "card_text": "Willis eyes real spending cuts to fund tax cuts",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
     },
     {
-      "rank": 10,
+      "rank": 40,
       "title": "Quick Hit: Tradies Pay the Lawyers’ Loans",
       "url": "https://goodoil.news/quick-hit-tradies-pay-the-lawyers-loans",
       "source": "goodoil.news",
       "card_text": "Quick Hit: Tradies Pay the Lawyers’ Loans",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Moxon: Māori Health Needs a Reset After Tribunal Findings",
+      "url": "https://waateanews.com/2026/09/29/moxon-maori-health-needs-a-reset-after-tribunal-findings",
+      "source": "waateanews.com",
+      "card_text": "Moxon: Māori Health Needs a Reset After Tribunal Findings",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Christchurch Hospital staff ‘not allowed’ to use the word ‘crisis’, nurse says",
+      "url": "https://thepress.co.nz/nz-news/361088880/christchurch-hospital-staff-not-allowed-use-word-crisis-nurse-says-thats-exactly-what-it",
+      "source": "thepress.co.nz",
+      "card_text": "Christchurch Hospital staff ‘not allowed’ to use the word ‘crisis’, nurse says",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "url": "https://bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Watch: Trump's threat to ban US diesel exports could be nuclear for global markets - economist| Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=j89uaPWCtMQ",
+      "source": "youtube.com",
+      "card_text": "Watch: Trump's threat to ban US diesel exports could be nuclear for global markets - economist| Stuff.co.nz",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Pacific leaders urge Jakarta to allow UN rights visit to West Papua",
+      "url": "https://asiapacificreport.nz/2026/09/29/pacific-leaders-urge-jakarta-to-allow-un-rights-visit-to-west-papua",
+      "source": "asiapacificreport.nz",
+      "card_text": "Pacific leaders urge Jakarta to allow UN rights visit to West Papua",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Watch: Labour’s student debt plan praised by students, as National says working class will pay| Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=91wky4U_CtE",
+      "source": "youtube.com",
+      "card_text": "Watch: Labour’s student debt plan praised by students, as National says working class will pay| Stuff.co.nz",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Fijian Drua cuts costs and puts investment plans on hold amid Super Rugby uncertainty",
+      "url": "https://rnz.co.nz/news/pacific/1645100/fijian-drua-cuts-costs-and-puts-investment-plans-on-hold-amid-super-rugby-uncertainty",
+      "source": "rnz.co.nz",
+      "card_text": "Fijian Drua cuts costs and puts investment plans on hold amid Super Rugby uncertainty",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "'We're coming to get you': A rural town tackling its meth problem",
+      "url": "https://rnz.co.nz/news/community/1637931/we-re-coming-to-get-you-a-rural-town-tackling-its-meth-problem",
+      "source": "rnz.co.nz",
+      "card_text": "'We're coming to get you': A rural town tackling its meth problem",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Housing market slowdown appears baked in, Treasury pre-election forecast shows",
+      "url": "https://thepress.co.nz/politics/361089255/housing-market-slowdown-appears-baked-treasury-pre-election-forecast-shows",
+      "source": "thepress.co.nz",
+      "card_text": "Housing market slowdown appears baked in, Treasury pre-election forecast shows",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Nicola Willis high on a surplus of inflation and unemployment",
+      "url": "https://thestandard.nz/nicola-willis-high-on-a-surplus-of-inflation-and-unemployment",
+      "source": "thestandard.nz",
+      "card_text": "Nicola Willis high on a surplus of inflation and unemployment",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
+      "url": "https://newstalkzb.co.nz/news/national/bay-of-plenty-regional-council-to-launch-30k-probe-into-lake-rotorua-forever-chemical-contamination",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
+      "url": "https://nzherald.co.nz/rotorua-daily-post/news/bay-of-plenty-regional-council-launch-30k-probe-into-lake-rotorua-forever-chemical-contamination/XHV5UP7YKBFXNFGWOC54BQMDFY",
+      "source": "nzherald.co.nz",
+      "card_text": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Speech - Red Meat Conference 2026",
+      "url": "https://scoop.co.nz/stories/PA2609/S00296/speech-red-meat-conference-2026.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Speech - Red Meat Conference 2026 Scoop Today 2:51 pm",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "New Zealand is falling behind on tech regulations",
+      "url": "https://thespinoff.co.nz/analysis/29-09-2026/new-zealand-is-falling-behind-on-tech-regulations",
+      "source": "thespinoff.co.nz",
+      "card_text": "New Zealand is falling behind on tech regulations",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Dramatic footage shows yacht sinking and rescue of crew after whale strike in Pacific Ocean",
+      "url": "https://newstalkzb.co.nz/news/national/dramatic-footage-shows-yacht-sinking-and-rescue-of-crew-after-whale-strike-in-pacific-ocean",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Dramatic footage shows yacht sinking and rescue of crew after whale strike in Pacific Ocean",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Funding Boost To Cut Food Waste And Emissions",
+      "url": "https://scoop.co.nz/stories/PA2609/S00297/funding-boost-to-cut-food-waste-and-emissions.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Funding Boost To Cut Food Waste And Emissions",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Watch: NZ Election Poll Surge: Left Bloc Takes Lead as Greens Hit Record High",
+      "url": "https://youtube.com/watch?v=fkVpGVW6Aks",
+      "source": "youtube.com",
+      "card_text": "Watch: NZ Election Poll Surge: Left Bloc Takes Lead as Greens Hit Record High",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Port unions demand halt to $821m Lyttelton expansion after parliamentary warning",
+      "url": "https://chrislynchmedia.com/news-items/port-unions-demand-halt-to-821m-lyttelton-expansion-after-parliamentary-warning",
+      "source": "chrislynchmedia.com",
+      "card_text": "Port unions demand halt to $821m Lyttelton expansion after parliamentary warning",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
+      "url": "https://odt.co.nz/news/marlborough/prepare-now-marlborough-braces-for-elevated-el-nino-fire-season-yflhvday",
+      "source": "odt.co.nz",
+      "card_text": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Election 2026: Labour won’t detail cost of pay equity change in pre-election plan",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-labour-wont-detail-cost-of-pay-equity-change-in-pre-election-plan/premium/YIVRK6HBVVE4ZOJD6VQSUKZAZE",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: Labour won’t detail cost of pay equity change in pre-election plan",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "NZ Treasury sends bond market a positive surprise with reduced borrowing plan",
+      "url": "https://nzherald.co.nz/business/markets/nz-treasury-sends-bond-market-a-positive-surprise-with-reduced-borrowing-plan/premium/DZ7X6MYZ4JFRVD5K6H4OLU5YHA",
+      "source": "nzherald.co.nz",
+      "card_text": "NZ Treasury sends bond market a positive surprise with reduced borrowing plan",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Kiwis star confirmed to miss NRL grand final over Cleary tackle",
+      "url": "https://stuff.co.nz/sport/361039984/knights-hooker-phoenix-crossland-out-nrl-grand-final-over-nathan-cleary-tackle",
+      "source": "stuff.co.nz",
+      "card_text": "Kiwis star confirmed to miss NRL grand final over Cleary tackle",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Last remaining GP at Horowhenua's Taitoko Health clinic resigns",
+      "url": "https://rnz.co.nz/news/health/1651683/last-remaining-gp-at-horowhenua-s-taitoko-health-clinic-resigns",
+      "source": "rnz.co.nz",
+      "card_text": "Last remaining GP at Horowhenua's Taitoko Health clinic resigns",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "$750m market on the line as US threatens NZ lamb with 30% tariff",
+      "url": "https://thepress.co.nz/business/361089449/nz-lamb-exporters-hold-their-breath-us-ruling-could-wallop-another-30-tariff-them",
+      "source": "thepress.co.nz",
+      "card_text": "$750m market on the line as US threatens NZ lamb with 30% tariff",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Council backs Bathurst bid to expand Stockton coal mine near Westport",
+      "url": "https://thepress.co.nz/business/361089518/council-backs-bathurst-bid-expand-stockton-coal-mine-near-westport",
+      "source": "thepress.co.nz",
+      "card_text": "Council backs Bathurst bid to expand Stockton coal mine near Westport",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Feedlot petition calls for parliamentary inquiry as concerns grow",
+      "url": "https://odt.co.nz/news/marlborough/feedlot-petition-calls-for-parliamentary-inquiry-as-concerns-grow-ekhfsdss",
+      "source": "odt.co.nz",
+      "card_text": "Feedlot petition calls for parliamentary inquiry as concerns grow",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Nicola Willis’ good news forecast has an MMP problem",
+      "url": "https://thepress.co.nz/politics/361089033/prefu-nicola-willis-good-news-forecast-has-mmp-problem",
+      "source": "thepress.co.nz",
+      "card_text": "Nicola Willis’ good news forecast has an MMP problem",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Drury gets new specialist school and land for a new primary school",
+      "url": "https://beehive.govt.nz/release/drury-gets-new-specialist-school-and-land-new-primary-school",
+      "source": "beehive.govt.nz",
+      "card_text": "Drury gets new specialist school and land for a new primary school",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Controversial University of Otago course put on hold",
+      "url": "https://odt.co.nz/otago/queenstown/controversial-university-of-otago-course-put-on-hold-vcil0uek",
+      "source": "odt.co.nz",
+      "card_text": "Controversial University of Otago course put on hold",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Five-week delays in cancer diagnoses as specialists overwhelmed with work",
+      "url": "https://rnz.co.nz/news/health/1653504/five-week-delays-in-cancer-diagnoses-as-specialists-overwhelmed-with-work",
+      "source": "rnz.co.nz",
+      "card_text": "Five-week delays in cancer diagnoses as specialists overwhelmed with work",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "The New Firearms System In NZ Has Taken Effect",
+      "url": "https://goodoil.news/the-new-firearms-system-in-nz-has-taken-effect",
+      "source": "goodoil.news",
+      "card_text": "The New Firearms System In NZ Has Taken Effect",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Is the NZ economy really getting better, or is it just better than expected? - The Front Page",
+      "url": "https://nzherald.co.nz/nz/is-the-nz-economy-really-getting-better-or-is-it-just-better-than-expected-the-front-page/L6PO3RPZCVGONPV7LQTRA7IWWY",
+      "source": "nzherald.co.nz",
+      "card_text": "Is the NZ economy really getting better, or is it just better than expected? - The Front Page",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "The pre-election books have been opened. Do they bring cause to cheer?",
+      "url": "https://thespinoff.co.nz/politics/29-09-2026/the-pre-election-books-have-been-opened-do-they-bring-cause-to-cheer",
+      "source": "thespinoff.co.nz",
+      "card_text": "The pre-election books have been opened. Do they bring cause to cheer?",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Māori seat poll: Electorates hang in balance as Willie Jackson tackles vote-splitting",
+      "url": "https://newsroom.co.nz/2026/09/29/maori-seat-poll-electorates-hang-in-balance-as-willie-jackson-tackles-vote-splitting",
+      "source": "newsroom.co.nz",
+      "card_text": "Māori seat poll: Electorates hang in balance as Willie Jackson tackles vote-splitting",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "‘Fiscal drag’ + ‘sinking lid’ = early(er) surpluses",
+      "url": "https://thekaka.substack.com/p/fiscal-drag-sinking-lid-earlyer-surpluses",
+      "source": "thekaka.substack.com",
+      "card_text": "‘Fiscal drag’ + ‘sinking lid’ = early(er) surpluses",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Nicola Willis: Finance Minister on the pre-election opening of the Government books",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/nicola-willis-finance-minister-on-the-pre-election-opening-of-the-government-books",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Nicola Willis: Finance Minister on the pre-election opening of the Government books",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Electricity bills set to increase for Wellingtonians",
+      "url": "https://rnz.co.nz/news/regions/1653642/electricity-bills-set-to-increase-for-wellingtonians",
+      "source": "rnz.co.nz",
+      "card_text": "Electricity bills set to increase for Wellingtonians",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Woolworths confirms plan to move 130 jobs to Australia",
+      "url": "https://odt.co.nz/business/woolworths-confirms-plan-to-move-130-jobs-to-australia-asaf31ro",
+      "source": "odt.co.nz",
+      "card_text": "Woolworths confirms plan to move 130 jobs to Australia",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "url": "https://bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "We're in this together, Earth's leaders told each other at the UN. But how does that work, exactly?",
+      "url": "https://stuff.co.nz/world-news/361040055/were-together-earths-leaders-told-each-other",
+      "source": "stuff.co.nz",
+      "card_text": "We're in this together, Earth's leaders told each other at the UN. But how does that work, exactly?",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Danniverke’s Eileen Mary Residential Care and Retirement Village criticised over poor care and delayed cancer diagnosis",
+      "url": "https://nzherald.co.nz/nz/danniverkes-eileen-mary-residential-care-and-retirement-village-criticised-over-poor-care-and-delayed-cancer-diagnosis/OFWYIUYBKRBZZCJDAG3J5WFE5Q",
+      "source": "nzherald.co.nz",
+      "card_text": "Danniverke’s Eileen Mary Residential Care and Retirement Village criticised over poor care and delayed cancer diagnosis",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Sewage spills onto Otago road and properties after wastewater pipe vandalised",
+      "url": "https://stuff.co.nz/nz-news/361040101/sewage-spills-otago-road-and-properties-after-wastewater-pipe-vandalised",
+      "source": "stuff.co.nz",
+      "card_text": "Sewage spills onto Otago road and properties after wastewater pipe vandalised",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Government more confident it can stay within its greenhouse gas budgets",
+      "url": "https://rnz.co.nz/news/environment/1652529/government-more-confident-it-can-stay-within-its-greenhouse-gas-budgets",
+      "source": "rnz.co.nz",
+      "card_text": "Government more confident it can stay within its greenhouse gas budgets",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Boat carrying 2000 litres of diesel sinks in Marlborough Sounds",
+      "url": "https://stuff.co.nz/nz-news/361040090/boat-carrying-2000-litres-diesel-sinks-marlborough-sounds",
+      "source": "stuff.co.nz",
+      "card_text": "Boat carrying 2000 litres of diesel sinks in Marlborough Sounds",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "NZ's revised dairy welfare code finally revealed",
+      "url": "https://rnz.co.nz/news/country/1653060/nz-s-revised-dairy-welfare-code-finally-revealed",
+      "source": "rnz.co.nz",
+      "card_text": "NZ's revised dairy welfare code finally revealed",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "NZ sharemarket falls over 1% despite Hallenstein's solid result",
+      "url": "https://businessdesk.co.nz/article/market-close/nz-sharemarket-falls-over-1-despite-hallensteins-solid-result",
+      "source": "businessdesk.co.nz",
+      "card_text": "NZ sharemarket falls over 1% despite Hallenstein's solid result",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Gloriavale teacher censured after striking student with vacuum cleaner pipe",
+      "url": "https://odt.co.nz/news/west-coast/gloriavale-teacher-censured-after-striking-student-with-vacuum-cleaner-pipe-e08lyx8h",
+      "source": "odt.co.nz",
+      "card_text": "Gloriavale teacher censured after striking student with vacuum cleaner pipe",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Associates dumped drugs and guns as fatally injured man carried from Wairarapa shooting",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1652885/associates-dumped-drugs-and-guns-as-fatally-injured-man-carried-from-wairarapa-shooting",
+      "source": "rnz.co.nz",
+      "card_text": "Associates dumped drugs and guns as fatally injured man carried from Wairarapa shooting",
+      "discovered_at_utc": "2026-09-29T06:25:40.859808+00:00"
     },
     {
       "rank": 41,
@@ -29,43 +413,11 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 5,
-      "title": "Moxon: Māori Health Needs a Reset After Tribunal Findings",
-      "url": "https://waateanews.com/2026/09/29/moxon-maori-health-needs-a-reset-after-tribunal-findings",
-      "source": "waateanews.com",
-      "card_text": "Moxon: Māori Health Needs a Reset After Tribunal Findings",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Christchurch Hospital staff ‘not allowed’ to use the word ‘crisis’, nurse says",
-      "url": "https://thepress.co.nz/nz-news/361088880/christchurch-hospital-staff-not-allowed-use-word-crisis-nurse-says-thats-exactly-what-it",
-      "source": "thepress.co.nz",
-      "card_text": "Christchurch Hospital staff ‘not allowed’ to use the word ‘crisis’, nurse says",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 19,
       "title": "Mass drownings spike in Australia ahead of summer's 'perfect storm'",
       "url": "https://odt.co.nz/news/world/mass-drownings-spike-in-australia-ahead-of-summers-perfect-storm-kiejze1k",
       "source": "odt.co.nz",
       "card_text": "Mass drownings spike in Australia ahead of summer's 'perfect storm'",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "url": "https://bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Watch: Trump's threat to ban US diesel exports could be nuclear for global markets - economist| Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=j89uaPWCtMQ",
-      "source": "youtube.com",
-      "card_text": "Watch: Trump's threat to ban US diesel exports could be nuclear for global markets - economist| Stuff.co.nz",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -85,43 +437,11 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 12,
-      "title": "Pacific leaders urge Jakarta to allow UN rights visit to West Papua",
-      "url": "https://asiapacificreport.nz/2026/09/29/pacific-leaders-urge-jakarta-to-allow-un-rights-visit-to-west-papua",
-      "source": "asiapacificreport.nz",
-      "card_text": "Pacific leaders urge Jakarta to allow UN rights visit to West Papua",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Watch: Labour’s student debt plan praised by students, as National says working class will pay| Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=91wky4U_CtE",
-      "source": "youtube.com",
-      "card_text": "Watch: Labour’s student debt plan praised by students, as National says working class will pay| Stuff.co.nz",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 15,
       "title": "Legal action hovers over restart to FENZ restructure",
       "url": "https://rnz.co.nz/news/business/1644753/legal-action-hovers-over-restart-to-fenz-restructure",
       "source": "rnz.co.nz",
       "card_text": "Legal action hovers over restart to FENZ restructure",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Fijian Drua cuts costs and puts investment plans on hold amid Super Rugby uncertainty",
-      "url": "https://rnz.co.nz/news/pacific/1645100/fijian-drua-cuts-costs-and-puts-investment-plans-on-hold-amid-super-rugby-uncertainty",
-      "source": "rnz.co.nz",
-      "card_text": "Fijian Drua cuts costs and puts investment plans on hold amid Super Rugby uncertainty",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "'We're coming to get you': A rural town tackling its meth problem",
-      "url": "https://rnz.co.nz/news/community/1637931/we-re-coming-to-get-you-a-rural-town-tackling-its-meth-problem",
-      "source": "rnz.co.nz",
-      "card_text": "'We're coming to get you': A rural town tackling its meth problem",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -133,43 +453,11 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 2,
-      "title": "Housing market slowdown appears baked in, Treasury pre-election forecast shows",
-      "url": "https://thepress.co.nz/politics/361089255/housing-market-slowdown-appears-baked-treasury-pre-election-forecast-shows",
-      "source": "thepress.co.nz",
-      "card_text": "Housing market slowdown appears baked in, Treasury pre-election forecast shows",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Nicola Willis high on a surplus of inflation and unemployment",
-      "url": "https://thestandard.nz/nicola-willis-high-on-a-surplus-of-inflation-and-unemployment",
-      "source": "thestandard.nz",
-      "card_text": "Nicola Willis high on a surplus of inflation and unemployment",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 32,
       "title": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
       "url": "https://thepress.co.nz/nz-news/361075942/prepare-now-marlborough-braces-elevated-el-nino-fire-season",
       "source": "thepress.co.nz",
       "card_text": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
-      "url": "https://newstalkzb.co.nz/news/national/bay-of-plenty-regional-council-to-launch-30k-probe-into-lake-rotorua-forever-chemical-contamination",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
-      "url": "https://nzherald.co.nz/rotorua-daily-post/news/bay-of-plenty-regional-council-launch-30k-probe-into-lake-rotorua-forever-chemical-contamination/XHV5UP7YKBFXNFGWOC54BQMDFY",
-      "source": "nzherald.co.nz",
-      "card_text": "Bay of Plenty Regional Council to launch $30k probe into Lake Rotorua ‘forever chemical’ contamination",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -181,22 +469,6 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 45,
-      "title": "Speech - Red Meat Conference 2026",
-      "url": "https://scoop.co.nz/stories/PA2609/S00296/speech-red-meat-conference-2026.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Speech - Red Meat Conference 2026 Scoop Today 2:51 pm",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "New Zealand is falling behind on tech regulations",
-      "url": "https://thespinoff.co.nz/analysis/29-09-2026/new-zealand-is-falling-behind-on-tech-regulations",
-      "source": "thespinoff.co.nz",
-      "card_text": "New Zealand is falling behind on tech regulations",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 40,
       "title": "Govt agrees to public service reform over untracked Māori funding",
       "url": "https://newsroom.co.nz/2026/09/29/govt-agrees-to-public-service-reform-over-untracked-maori-funding",
@@ -205,67 +477,11 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 17,
-      "title": "Dramatic footage shows yacht sinking and rescue of crew after whale strike in Pacific Ocean",
-      "url": "https://newstalkzb.co.nz/news/national/dramatic-footage-shows-yacht-sinking-and-rescue-of-crew-after-whale-strike-in-pacific-ocean",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Dramatic footage shows yacht sinking and rescue of crew after whale strike in Pacific Ocean",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 50,
       "title": "Is now the time to move tax brackets?",
       "url": "https://rnz.co.nz/news/business/1637709/is-now-the-time-to-move-tax-brackets",
       "source": "rnz.co.nz",
       "card_text": "Is now the time to move tax brackets? RNZ Today 10:26 am",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "Funding Boost To Cut Food Waste And Emissions",
-      "url": "https://scoop.co.nz/stories/PA2609/S00297/funding-boost-to-cut-food-waste-and-emissions.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Funding Boost To Cut Food Waste And Emissions",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Watch: NZ Election Poll Surge: Left Bloc Takes Lead as Greens Hit Record High",
-      "url": "https://youtube.com/watch?v=fkVpGVW6Aks",
-      "source": "youtube.com",
-      "card_text": "Watch: NZ Election Poll Surge: Left Bloc Takes Lead as Greens Hit Record High",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Port unions demand halt to $821m Lyttelton expansion after parliamentary warning",
-      "url": "https://chrislynchmedia.com/news-items/port-unions-demand-halt-to-821m-lyttelton-expansion-after-parliamentary-warning",
-      "source": "chrislynchmedia.com",
-      "card_text": "Port unions demand halt to $821m Lyttelton expansion after parliamentary warning",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
-      "url": "https://odt.co.nz/news/marlborough/prepare-now-marlborough-braces-for-elevated-el-nino-fire-season-yflhvday",
-      "source": "odt.co.nz",
-      "card_text": "‘Prepare now’: Marlborough braces for ‘elevated’ El Niño fire season",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Election 2026: Labour won’t detail cost of pay equity change in pre-election plan",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-labour-wont-detail-cost-of-pay-equity-change-in-pre-election-plan/premium/YIVRK6HBVVE4ZOJD6VQSUKZAZE",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Labour won’t detail cost of pay equity change in pre-election plan",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "NZ Treasury sends bond market a positive surprise with reduced borrowing plan",
-      "url": "https://nzherald.co.nz/business/markets/nz-treasury-sends-bond-market-a-positive-surprise-with-reduced-borrowing-plan/premium/DZ7X6MYZ4JFRVD5K6H4OLU5YHA",
-      "source": "nzherald.co.nz",
-      "card_text": "NZ Treasury sends bond market a positive surprise with reduced borrowing plan",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -282,22 +498,6 @@
       "url": "https://thepress.co.nz/sport/361088958/fehi-fineanganofo-agrees-new-contract-remain-all-blacks-hurricanes-until-end-2027",
       "source": "thepress.co.nz",
       "card_text": "He’s staying: Fehi Fineanganofo agrees new deal to remain in NZ rugby another year",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Kiwis star confirmed to miss NRL grand final over Cleary tackle",
-      "url": "https://stuff.co.nz/sport/361039984/knights-hooker-phoenix-crossland-out-nrl-grand-final-over-nathan-cleary-tackle",
-      "source": "stuff.co.nz",
-      "card_text": "Kiwis star confirmed to miss NRL grand final over Cleary tackle",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Last remaining GP at Horowhenua's Taitoko Health clinic resigns",
-      "url": "https://rnz.co.nz/news/health/1651683/last-remaining-gp-at-horowhenua-s-taitoko-health-clinic-resigns",
-      "source": "rnz.co.nz",
-      "card_text": "Last remaining GP at Horowhenua's Taitoko Health clinic resigns",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -325,14 +525,6 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 31,
-      "title": "$750m market on the line as US threatens NZ lamb with 30% tariff",
-      "url": "https://thepress.co.nz/business/361089449/nz-lamb-exporters-hold-their-breath-us-ruling-could-wallop-another-30-tariff-them",
-      "source": "thepress.co.nz",
-      "card_text": "$750m market on the line as US threatens NZ lamb with 30% tariff",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 35,
       "title": "A National Party member was told the campaign launch was full - but hundreds of seats were empty",
       "url": "https://stuff.co.nz/nz-news/361039617/national-party-member-was-told-campaign-launch-was-full-hundreds-seats-were-empty",
@@ -357,22 +549,6 @@
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
-      "rank": 43,
-      "title": "Council backs Bathurst bid to expand Stockton coal mine near Westport",
-      "url": "https://thepress.co.nz/business/361089518/council-backs-bathurst-bid-expand-stockton-coal-mine-near-westport",
-      "source": "thepress.co.nz",
-      "card_text": "Council backs Bathurst bid to expand Stockton coal mine near Westport",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Feedlot petition calls for parliamentary inquiry as concerns grow",
-      "url": "https://odt.co.nz/news/marlborough/feedlot-petition-calls-for-parliamentary-inquiry-as-concerns-grow-ekhfsdss",
-      "source": "odt.co.nz",
-      "card_text": "Feedlot petition calls for parliamentary inquiry as concerns grow",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
       "rank": 46,
       "title": "'History making': More user-pays loos for the Mackenzie",
       "url": "https://stuff.co.nz/travel/361039914/history-making-more-user-pays-loos-mackenzie",
@@ -386,14 +562,6 @@
       "url": "https://nzherald.co.nz/business/what-happens-if-the-ai-bubble-bursts/premium/HD5CPNGEABBVRJHIHNXV5T3DQY",
       "source": "nzherald.co.nz",
       "card_text": "What happens if the AI bubble bursts? NZ Herald Today 4:00 pm",
-      "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "Nicola Willis’ good news forecast has an MMP problem",
-      "url": "https://thepress.co.nz/politics/361089033/prefu-nicola-willis-good-news-forecast-has-mmp-problem",
-      "source": "thepress.co.nz",
-      "card_text": "Nicola Willis’ good news forecast has an MMP problem",
       "discovered_at_utc": "2026-09-29T05:59:08.724125+00:00"
     },
     {
@@ -442,14 +610,6 @@
       "url": "https://whatsoninvers.nz/city-greenlit-for-more-medium-density-homes",
       "source": "whatsoninvers.nz",
       "card_text": "City Greenlit For More Medium-density Homes",
-      "discovered_at_utc": "2026-09-29T04:14:59.162895+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Drury gets new specialist school and land for a new primary school",
-      "url": "https://beehive.govt.nz/release/drury-gets-new-specialist-school-and-land-new-primary-school",
-      "source": "beehive.govt.nz",
-      "card_text": "Drury gets new specialist school and land for a new primary school",
       "discovered_at_utc": "2026-09-29T04:14:59.162895+00:00"
     },
     {
@@ -570,14 +730,6 @@
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/stephen-mcneil-building-research-association-senior-building-physicist-on-the-overheating-problem-in-new-builds-review-pushed-back-to-2031",
       "source": "newstalkzb.co.nz",
       "card_text": "Stephen McNeil: Building Research Association Senior Building Physicist on the overheating problem in new-builds, review pushed back to 2031",
-      "discovered_at_utc": "2026-09-29T04:14:59.162895+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Controversial University of Otago course put on hold",
-      "url": "https://odt.co.nz/otago/queenstown/controversial-university-of-otago-course-put-on-hold-vcil0uek",
-      "source": "odt.co.nz",
-      "card_text": "Controversial University of Otago course put on hold",
       "discovered_at_utc": "2026-09-29T04:14:59.162895+00:00"
     },
     {
