@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-09-30T22:03:45.237825+00:00",
-  "count": 226,
+  "updated_at_utc": "2026-09-30T22:21:31.505883+00:00",
+  "count": 245,
   "items": [
+    {
+      "rank": 44,
+      "title": "Surplus first, tax cuts second",
+      "url": "https://interest.co.nz/economy/140469/surplus-priority-national-act-ahead-tax-cuts-government-books-paint-slightly-rosier",
+      "source": "interest.co.nz",
+      "card_text": "Surplus first, tax cuts second Surplus a 'priority' for National, ACT ahead of tax cuts, as Government books paint slightly rosier picture ahead of election Interest Yesterday Politics",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
+      "url": "https://chrislynchmedia.com/news-items/air-nz-flight-descended-dangerously-low-as-investigation-exposes-safety-and-regulatory-failures",
+      "source": "chrislynchmedia.com",
+      "card_text": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Investigation highlights safety gaps after Air NZ plane flew below safe altitude",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1665143/investigation-highlights-safety-gaps-after-air-nz-plane-flew-below-safe-altitude",
+      "source": "rnz.co.nz",
+      "card_text": "Investigation highlights safety gaps after Air NZ plane flew below safe altitude",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Auckland Transport Shake-Up: Council Takes Back Roads, Parking and Planning",
+      "url": "https://waateanews.com/2026/10/01/auckland-transport-shake-up-council-takes-back-roads-parking-and-planning",
+      "source": "waateanews.com",
+      "card_text": "Auckland Transport Shake-Up: Council Takes Back Roads, Parking and Planning",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Health NZ says it ‘cannot easily access’ board papers",
+      "url": "https://newsroom.co.nz/2026/10/01/health-nz-says-it-cannot-easily-access-board-papers",
+      "source": "newsroom.co.nz",
+      "card_text": "Health NZ says it ‘cannot easily access’ board papers",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Councils on the shelf",
+      "url": "https://cambridgenews.nz/2026/10/councils-on-the-shelf",
+      "source": "cambridgenews.nz",
+      "card_text": "Councils on the shelf Waipā mayor Mike Pettit says councils have every right to be frustrated after being pushed to deliver Head Start proposals at speed, only for the government to pause the decision-making process. Pettit’s comments come after... Cambridge News Today 5:00 am Politics",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "The battle for Te Tai Tokerau: Four candidates, one seat and a Māori political split",
+      "url": "https://thespinoff.co.nz/atea/30-09-2026/the-battle-for-te-tai-tokerau-four-candidates-one-seat-and-a-maori-political-split",
+      "source": "thespinoff.co.nz",
+      "card_text": "The battle for Te Tai Tokerau: Four candidates, one seat and a Māori political split",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Across the House, Aotearoa Mourns Adrian Rurawhe",
+      "url": "https://waateanews.com/2026/10/01/across-the-house-aotearoa-mourns-adrian-rurawhe",
+      "source": "waateanews.com",
+      "card_text": "Across the House, Aotearoa Mourns Adrian Rurawhe",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "'Stakes could not be higher': Concern over claim NZ breached FTA climate commitments",
+      "url": "https://rnz.co.nz/news/politics/1665147/stakes-could-not-be-higher-concern-over-claim-nz-breached-fta-climate-commitments",
+      "source": "rnz.co.nz",
+      "card_text": "'Stakes could not be higher': Concern over claim NZ breached FTA climate commitments",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "‘Very, very tight race’ puts election on a knife edge",
+      "url": "https://newsroom.co.nz/2026/10/01/very-very-tight-race-puts-election-on-a-knife-edge",
+      "source": "newsroom.co.nz",
+      "card_text": "‘Very, very tight race’ puts election on a knife edge",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Centrix data show financial hardship rising again among Kiwis but mortgage stress eases",
+      "url": "https://nzherald.co.nz/business/centrix-data-show-financial-hardship-rising-again-among-kiwis-but-mortgage-stress-eases/H5LLSTOAIRCWBK3DNCISFH26HQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Centrix data show financial hardship rising again among Kiwis but mortgage stress eases",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "url": "https://bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Coroner’s finding: Placenta condition missed multiple times by Rotorua Hospital before baby’s death",
+      "url": "https://nzherald.co.nz/nz/coroners-finding-placenta-condition-missed-multiple-times-by-rotorua-hospital-before-babys-death/LXGENUZJYZFTVPHR4TVZUL4CF4",
+      "source": "nzherald.co.nz",
+      "card_text": "Coroner’s finding: Placenta condition missed multiple times by Rotorua Hospital before baby’s death",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Council ups weed budget",
+      "url": "https://cambridgenews.nz/2026/10/council-ups-weed-budget",
+      "source": "cambridgenews.nz",
+      "card_text": "Council ups weed budget Waikato Regional Council has topped up its budget to control an invasive weed in Lake Karāpiro. It has set aside another $85,000 for a 2026-27 hornwort spraying programme. Hornwort is regarded as the country’s worst... Cambridge News Today 7:00 am Environment",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Labour Targets National Over PREFU Numbers and Fiscal Rules",
+      "url": "https://waateanews.com/2026/10/01/labour-targets-national-over-prefu-numbers-and-fiscal-rules",
+      "source": "waateanews.com",
+      "card_text": "Labour Targets National Over PREFU Numbers and Fiscal Rules",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "url": "https://stuff.co.nz/world-news/361040817/russia-warns-nato-possible-nuclear-response-if-kalining",
+      "source": "stuff.co.nz",
+      "card_text": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "How to cut public sector jobs? A much more aggressive approach to AI",
+      "url": "https://rnz.co.nz/news/politics/1667042/how-to-cut-public-sector-jobs-a-much-more-aggressive-approach-to-ai",
+      "source": "rnz.co.nz",
+      "card_text": "How to cut public sector jobs? A much more aggressive approach to AI",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Heartland shareholders approve $620m buy of TSB Bank",
+      "url": "https://businessdesk.co.nz/article/finance/heartland-shareholders-approve-620m-buy-of-tsb-bank",
+      "source": "businessdesk.co.nz",
+      "card_text": "Heartland shareholders approve $620m buy of TSB Bank",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Early Bird: Business hiring craters in late Sept",
+      "url": "https://thekaka.substack.com/p/early-bird-business-hiring-craters",
+      "source": "thekaka.substack.com",
+      "card_text": "Early Bird: Business hiring craters in late Sept",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
+      "url": "https://thespinoff.co.nz/the-bulletin/30-09-2026/hanging-in-the-balance-hutt-south-mt-albert-and-a-potential-overhang",
+      "source": "thespinoff.co.nz",
+      "card_text": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Australia bans card surcharges - will we follow suit?",
+      "url": "https://rnz.co.nz/news/business/1665489/australia-bans-card-surcharges-will-we-follow-suit",
+      "source": "rnz.co.nz",
+      "card_text": "Australia bans card surcharges - will we follow suit?",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Markets advance on back of ‘much lighter than expected’ US inflation data",
+      "url": "https://thepress.co.nz/business/361090393/markets-advance-back-much-lighter-expected-us-inflation-data",
+      "source": "thepress.co.nz",
+      "card_text": "Markets advance on back of ‘much lighter than expected’ US inflation data",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Heroes save over 100 lives",
+      "url": "https://kiwiblog.co.nz/2026/10/heroes_save_over_100_lives.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "Heroes save over 100 lives Kiwiblog Today 7:25 am",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Call for urgent action to improve dementia care",
+      "url": "https://rnz.co.nz/news/health/1665514/call-for-urgent-action-to-improve-dementia-care",
+      "source": "rnz.co.nz",
+      "card_text": "Call for urgent action to improve dementia care",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "John Bonning: Waikato Hospital Emergency Medicine Specialist on the report revealing the surge in emergency department admissions, growing pressures",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/john-bonning-waikato-hospital-emergency-medicine-specialist-on-the-report-revealing-the-surge-in-emergency-department-admissions-growing-pressures",
+      "source": "newstalkzb.co.nz",
+      "card_text": "John Bonning: Waikato Hospital Emergency Medicine Specialist on the report revealing the surge in emergency department admissions, growing pressures",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Free breast screening extends to women aged 71 from today",
+      "url": "https://beehive.govt.nz/release/free-breast-screening-extends-women-aged-71-today",
+      "source": "beehive.govt.nz",
+      "card_text": "Free breast screening extends to women aged 71 from today",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "New school property agency begins operations",
+      "url": "https://beehive.govt.nz/release/new-school-property-agency-begins-operations",
+      "source": "beehive.govt.nz",
+      "card_text": "New school property agency begins operations",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Democracy Briefing: Lobbying reform finally has leverage",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-lobbying-reform",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: Lobbying reform finally has leverage",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Flight attendant who does ‘one load of washing a week’ stunned by new $300 water bill",
+      "url": "https://thepress.co.nz/nz-news/361090091/selwyn-water-billing-review-finds-2700-properties-may-have-been-incorrectly-charged-nearly-3-million",
+      "source": "thepress.co.nz",
+      "card_text": "Flight attendant who does ‘one load of washing a week’ stunned by new $300 water bill",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Slate of new digital credentials planned amidst delays in filling Govt.nz wallet",
+      "url": "https://businessdesk.co.nz/article/politics/slate-of-new-digital-credentials-planned-amidst-delays-in-filling-govtnz-wallet",
+      "source": "businessdesk.co.nz",
+      "card_text": "Slate of new digital credentials planned amidst delays in filling Govt.nz wallet",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "ACT’s Waitangi Tribunal policy",
+      "url": "https://pointofordernz.wordpress.com/2026/10/01/acts-waitangi-tribunal-policy",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "ACT’s Waitangi Tribunal policy David Farrar writes – ACT have released their policy on abolishing the Waitangi Tribunal once it has concluded the historical Treaty claims, and remove its jurisdiction. over contemporary issues. There have been 1,070 contemporary claims made to the Waitangi Tribunal. So far I can only find one of those claims (the 1995 Kiwifruit Marketing Claim) … Continue reading ACT’s Waitangi Tribunal policy → Point of Order Today 9:07 am Politics",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Free Breast Screening Extends To Women Aged 71 From Today",
+      "url": "https://scoop.co.nz/stories/PA2610/S00006/free-breast-screening-extends-to-women-aged-71-from-today.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Free Breast Screening Extends To Women Aged 71 From Today",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "New explorer seeks second petroleum permit",
+      "url": "https://beehive.govt.nz/release/new-explorer-seeks-second-petroleum-permit",
+      "source": "beehive.govt.nz",
+      "card_text": "New explorer seeks second petroleum permit",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Election 2026 Policy Grid: Education, health, housing, tax – every major party policy so far",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-education-health-housing-tax-every-major-party-policy-so-far/premium/FWB6GDGKLVAIRBHCPDWFQ7ISX4",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 Policy Grid: Education, health, housing, tax – every major party policy so far",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Oregon lines up majority control of NZ King Salmon",
+      "url": "https://businessdesk.co.nz/article/markets/oregon-lines-up-majority-control-of-nz-king-salmon",
+      "source": "businessdesk.co.nz",
+      "card_text": "Oregon lines up majority control of NZ King Salmon",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Tuvalu appoints first woman Governor-General ahead of 48th Independence Day",
+      "url": "https://rnz.co.nz/news/pacific/1667715/tuvalu-appoints-first-woman-governor-general-ahead-of-48th-independence-day",
+      "source": "rnz.co.nz",
+      "card_text": "Tuvalu appoints first woman Governor-General ahead of 48th Independence Day",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "El Niño takes hold and is on track to be one of strongest on record",
+      "url": "https://stuff.co.nz/nz-news/361040866/el-nino-takes-hold-and-track-be-one-strongest-record",
+      "source": "stuff.co.nz",
+      "card_text": "El Niño takes hold and is on track to be one of strongest on record",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Kauri Come Home: 2,000 Young Trees Return to Te Wao Nui o Tiriwā",
+      "url": "https://waateanews.com/2026/10/01/kauri-come-home-2000-young-trees-return-to-te-wao-nui-o-tiriwa",
+      "source": "waateanews.com",
+      "card_text": "Kauri Come Home: 2,000 Young Trees Return to Te Wao Nui o Tiriwā",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Central Otago council dumps plans to truck human waste to local farm",
+      "url": "https://nzherald.co.nz/the-country/news/central-otago-council-dumps-plans-to-truck-human-waste-to-local-farm/2LRQNE7UFJDUHCV22KSFMBNHYM",
+      "source": "nzherald.co.nz",
+      "card_text": "Central Otago council dumps plans to truck human waste to local farm",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Auckland sellers get real: Asking prices below $1m",
+      "url": "https://rnz.co.nz/news/business/1665146/auckland-sellers-get-real-asking-prices-below-1m",
+      "source": "rnz.co.nz",
+      "card_text": "Auckland sellers get real: Asking prices below $1m",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Planning changes to support Wellington’s growth",
+      "url": "https://beehive.govt.nz/release/planning-changes-support-wellingtons-growth",
+      "source": "beehive.govt.nz",
+      "card_text": "Planning changes to support Wellington’s growth",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Health NZ begins to republish adverse event data, the results expose gaps in care",
+      "url": "https://thepress.co.nz/nz-news/361089723/health-nz-begins-republish-adverse-event-data-results-expose-gaps-care",
+      "source": "thepress.co.nz",
+      "card_text": "Health NZ begins to republish adverse event data, the results expose gaps in care",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
+      "url": "https://thepress.co.nz/nz-news/361090442/cashmere-club-loses-bar-licence-three-months-following-members-utterly-preventable-death",
+      "source": "thepress.co.nz",
+      "card_text": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Mother charged over death of three-year-old son in Devonport to keep name secret until trial",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1667874/mother-charged-over-death-of-three-year-old-son-in-devonport-to-keep-name-secret-until-trial",
+      "source": "rnz.co.nz",
+      "card_text": "Mother charged over death of three-year-old son in Devonport to keep name secret until trial",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "New ACOPs Clarify Health And Safety Responsibilities On Farms",
+      "url": "https://scoop.co.nz/stories/PA2610/S00005/new-acops-clarify-health-and-safety-responsibilities-on-farms.htm",
+      "source": "scoop.co.nz",
+      "card_text": "New ACOPs Clarify Health And Safety Responsibilities On Farms",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Solomon Islands pledges free universal education by 2027",
+      "url": "https://rnz.co.nz/news/pacific/1667533/solomon-islands-pledges-free-universal-education-by-2027",
+      "source": "rnz.co.nz",
+      "card_text": "Solomon Islands pledges free universal education by 2027",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Kathryn McCallum: Canterbury University Associate Professor of Digital Education on teachers warn AI could replace human judgement in classrooms",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/kathryn-mccallum-canterbury-university-associate-professor-of-digital-education-on-teachers-warn-ai-could-replace-human-judgement-in-classrooms",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Kathryn McCallum: Canterbury University Associate Professor of Digital Education on teachers warn AI could replace human judgement in classrooms",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "University of Otago remains steady in rankings, but environment becoming ‘increasingly difficult’",
+      "url": "https://odt.co.nz/news/dunedin/university-of-otago-remains-steady-in-rankings-but-environment-becoming-increasingly-difficult-umwh16qk",
+      "source": "odt.co.nz",
+      "card_text": "University of Otago remains steady in rankings, but environment becoming ‘increasingly difficult’",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Inside the drug court aiming to rehabilitate - not incarcerate",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1665868/inside-the-drug-court-aiming-to-rehabilitate-not-incarcerate",
+      "source": "rnz.co.nz",
+      "card_text": "Inside the drug court aiming to rehabilitate - not incarcerate",
+      "discovered_at_utc": "2026-09-30T22:21:31.505883+00:00"
+    },
     {
       "rank": 26,
       "title": "Chinese AI tool told researchers how to make bioweapons",
@@ -34,22 +434,6 @@
       "url": "https://stuff.co.nz/world-news/361040689/russia-pounds-kyiv-region-killing-4-and-targeting-po",
       "source": "stuff.co.nz",
       "card_text": "Russia pounds the Kyiv region, killing 4 and targeting the power grid",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Surplus first, tax cuts second",
-      "url": "https://interest.co.nz/economy/140469/surplus-priority-national-act-ahead-tax-cuts-government-books-paint-slightly-rosier",
-      "source": "interest.co.nz",
-      "card_text": "Surplus first, tax cuts second Surplus a 'priority' for National, ACT ahead of tax cuts, as Government books paint slightly rosier picture ahead of election Interest Yesterday Politics",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
@@ -93,38 +477,6 @@
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
-      "rank": 3,
-      "title": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
-      "url": "https://chrislynchmedia.com/news-items/air-nz-flight-descended-dangerously-low-as-investigation-exposes-safety-and-regulatory-failures",
-      "source": "chrislynchmedia.com",
-      "card_text": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Investigation highlights safety gaps after Air NZ plane flew below safe altitude",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1665143/investigation-highlights-safety-gaps-after-air-nz-plane-flew-below-safe-altitude",
-      "source": "rnz.co.nz",
-      "card_text": "Investigation highlights safety gaps after Air NZ plane flew below safe altitude",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Auckland Transport Shake-Up: Council Takes Back Roads, Parking and Planning",
-      "url": "https://waateanews.com/2026/10/01/auckland-transport-shake-up-council-takes-back-roads-parking-and-planning",
-      "source": "waateanews.com",
-      "card_text": "Auckland Transport Shake-Up: Council Takes Back Roads, Parking and Planning",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Health NZ says it ‘cannot easily access’ board papers",
-      "url": "https://newsroom.co.nz/2026/10/01/health-nz-says-it-cannot-easily-access-board-papers",
-      "source": "newsroom.co.nz",
-      "card_text": "Health NZ says it ‘cannot easily access’ board papers",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
       "rank": 34,
       "title": "Central Otago councillors vote against dumping human waste on Lauder farmland",
       "url": "https://odt.co.nz/otago/wanaka/central-otago-councillors-vote-against-dumping-human-waste-on-lauder-farmland-rtr85sh6",
@@ -133,83 +485,11 @@
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
-      "rank": 11,
-      "title": "Councils on the shelf",
-      "url": "https://cambridgenews.nz/2026/10/councils-on-the-shelf",
-      "source": "cambridgenews.nz",
-      "card_text": "Councils on the shelf Waipā mayor Mike Pettit says councils have every right to be frustrated after being pushed to deliver Head Start proposals at speed, only for the government to pause the decision-making process. Pettit’s comments come after... Cambridge News Today 5:00 am Politics",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "The battle for Te Tai Tokerau: Four candidates, one seat and a Māori political split",
-      "url": "https://thespinoff.co.nz/atea/30-09-2026/the-battle-for-te-tai-tokerau-four-candidates-one-seat-and-a-maori-political-split",
-      "source": "thespinoff.co.nz",
-      "card_text": "The battle for Te Tai Tokerau: Four candidates, one seat and a Māori political split",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Across the House, Aotearoa Mourns Adrian Rurawhe",
-      "url": "https://waateanews.com/2026/10/01/across-the-house-aotearoa-mourns-adrian-rurawhe",
-      "source": "waateanews.com",
-      "card_text": "Across the House, Aotearoa Mourns Adrian Rurawhe",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "'Stakes could not be higher': Concern over claim NZ breached FTA climate commitments",
-      "url": "https://rnz.co.nz/news/politics/1665147/stakes-could-not-be-higher-concern-over-claim-nz-breached-fta-climate-commitments",
-      "source": "rnz.co.nz",
-      "card_text": "'Stakes could not be higher': Concern over claim NZ breached FTA climate commitments",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "‘Very, very tight race’ puts election on a knife edge",
-      "url": "https://newsroom.co.nz/2026/10/01/very-very-tight-race-puts-election-on-a-knife-edge",
-      "source": "newsroom.co.nz",
-      "card_text": "‘Very, very tight race’ puts election on a knife edge",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "Centrix data show financial hardship rising again among Kiwis but mortgage stress eases",
-      "url": "https://nzherald.co.nz/business/centrix-data-show-financial-hardship-rising-again-among-kiwis-but-mortgage-stress-eases/H5LLSTOAIRCWBK3DNCISFH26HQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Centrix data show financial hardship rising again among Kiwis but mortgage stress eases",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "url": "https://bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
       "rank": 24,
       "title": "Business of Tech: Inside Auckland University, the innovation engine",
       "url": "https://businessdesk.co.nz/article/technology/business-of-tech-inside-auckland-university-the-innovation-engine",
       "source": "businessdesk.co.nz",
       "card_text": "Business of Tech: Inside Auckland University, the innovation engine",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Coroner’s finding: Placenta condition missed multiple times by Rotorua Hospital before baby’s death",
-      "url": "https://nzherald.co.nz/nz/coroners-finding-placenta-condition-missed-multiple-times-by-rotorua-hospital-before-babys-death/LXGENUZJYZFTVPHR4TVZUL4CF4",
-      "source": "nzherald.co.nz",
-      "card_text": "Coroner’s finding: Placenta condition missed multiple times by Rotorua Hospital before baby’s death",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Council ups weed budget",
-      "url": "https://cambridgenews.nz/2026/10/council-ups-weed-budget",
-      "source": "cambridgenews.nz",
-      "card_text": "Council ups weed budget Cambridge News Today 7:00 am",
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
@@ -229,14 +509,6 @@
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
-      "rank": 46,
-      "title": "Labour Targets National Over PREFU Numbers and Fiscal Rules",
-      "url": "https://waateanews.com/2026/10/01/labour-targets-national-over-prefu-numbers-and-fiscal-rules",
-      "source": "waateanews.com",
-      "card_text": "Labour Targets National Over PREFU Numbers and Fiscal Rules",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
       "rank": 27,
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
@@ -245,99 +517,11 @@
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
-      "rank": 1,
-      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
-      "url": "https://stuff.co.nz/world-news/361040817/russia-warns-nato-possible-nuclear-response-if-kalining",
-      "source": "stuff.co.nz",
-      "card_text": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "How to cut public sector jobs? A much more aggressive approach to AI",
-      "url": "https://rnz.co.nz/news/politics/1667042/how-to-cut-public-sector-jobs-a-much-more-aggressive-approach-to-ai",
-      "source": "rnz.co.nz",
-      "card_text": "How to cut public sector jobs? A much more aggressive approach to AI",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
       "rank": 5,
       "title": "News Briefing: 1 October 2026",
       "url": "https://democracyproject.org.nz/p/news-briefing-1-october-2026",
       "source": "democracyproject.org.nz",
       "card_text": "News Briefing: 1 October 2026 PARLIAMENT, GOVERNMENT, PUBLIC SERVICE Bryce Edwards (Democracy Project): Lobbying reform finally has leverage Greg Treadwell (The Conversation): Education Ministry inquiry the latest sign NZ’s Official Information Act isn’t working Emma Stanford (Stuff): Trans-Tasman races and secret audits: What an OIA reveals about NZ’s $8m Michelin deal Kate MacNamara (Herald): Fletcher Building cement plant: Officials... Democracy Project Today 7:40 am Politics",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Heartland shareholders approve $620m buy of TSB Bank",
-      "url": "https://businessdesk.co.nz/article/finance/heartland-shareholders-approve-620m-buy-of-tsb-bank",
-      "source": "businessdesk.co.nz",
-      "card_text": "Heartland shareholders approve $620m buy of TSB Bank",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Early Bird: Business hiring craters in late Sept",
-      "url": "https://thekaka.substack.com/p/early-bird-business-hiring-craters",
-      "source": "thekaka.substack.com",
-      "card_text": "Early Bird: Business hiring craters in late Sept",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
-      "url": "https://thespinoff.co.nz/the-bulletin/30-09-2026/hanging-in-the-balance-hutt-south-mt-albert-and-a-potential-overhang",
-      "source": "thespinoff.co.nz",
-      "card_text": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Australia bans card surcharges - will we follow suit?",
-      "url": "https://rnz.co.nz/news/business/1665489/australia-bans-card-surcharges-will-we-follow-suit",
-      "source": "rnz.co.nz",
-      "card_text": "Australia bans card surcharges - will we follow suit?",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Markets advance on back of ‘much lighter than expected’ US inflation data",
-      "url": "https://thepress.co.nz/business/361090393/markets-advance-back-much-lighter-expected-us-inflation-data",
-      "source": "thepress.co.nz",
-      "card_text": "Markets advance on back of ‘much lighter than expected’ US inflation data",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Heroes save over 100 lives",
-      "url": "https://kiwiblog.co.nz/2026/10/heroes_save_over_100_lives.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "Heroes save over 100 lives Kiwiblog Today 7:25 am",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Call for urgent action to improve dementia care",
-      "url": "https://rnz.co.nz/news/health/1665514/call-for-urgent-action-to-improve-dementia-care",
-      "source": "rnz.co.nz",
-      "card_text": "Call for urgent action to improve dementia care",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "John Bonning: Waikato Hospital Emergency Medicine Specialist on the report revealing the surge in emergency department admissions, growing pressures",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/john-bonning-waikato-hospital-emergency-medicine-specialist-on-the-report-revealing-the-surge-in-emergency-department-admissions-growing-pressures",
-      "source": "newstalkzb.co.nz",
-      "card_text": "John Bonning: Waikato Hospital Emergency Medicine Specialist on the report revealing the surge in emergency department admissions, growing pressures",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Free breast screening extends to women aged 71 from today",
-      "url": "https://beehive.govt.nz/release/free-breast-screening-extends-women-aged-71-today",
-      "source": "beehive.govt.nz",
-      "card_text": "Free breast screening extends to women aged 71 from today",
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
@@ -362,14 +546,6 @@
       "url": "https://rnz.co.nz/news/crime-and-justice/1667229/homicide-investigation-into-deaths-of-two-people-in-buller-ongoing",
       "source": "rnz.co.nz",
       "card_text": "Homicide investigation into deaths of two people in Buller ongoing",
-      "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "New school property agency begins operations",
-      "url": "https://beehive.govt.nz/release/new-school-property-agency-begins-operations",
-      "source": "beehive.govt.nz",
-      "card_text": "New school property agency begins operations",
       "discovered_at_utc": "2026-09-30T22:03:45.237825+00:00"
     },
     {
@@ -413,14 +589,6 @@
       "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
     },
     {
-      "rank": 15,
-      "title": "Democracy Briefing: Lobbying reform finally has leverage",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-lobbying-reform",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: Lobbying reform finally has leverage",
-      "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
-    },
-    {
       "rank": 40,
       "title": "Bronwyn Hayward: Canterbury University politics professor on Dutch environmental group Both ENDS accusing NZ of breaching climate agreement",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/bronwyn-hayward-canterbury-university-politics-professor-on-dutch-environmental-group-both-ends-accusing-nz-of-breaching-climate-agreement",
@@ -453,14 +621,6 @@
       "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
     },
     {
-      "rank": 22,
-      "title": "Selwyn water billing review finds 2700 properties may have been incorrectly charged nearly $3 million",
-      "url": "https://thepress.co.nz/nz-news/361090091/selwyn-water-billing-review-finds-2700-properties-may-have-been-incorrectly-charged-nearly-3-million",
-      "source": "thepress.co.nz",
-      "card_text": "Selwyn water billing review finds 2700 properties may have been incorrectly charged nearly $3 million",
-      "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
-    },
-    {
       "rank": 27,
       "title": "The Global Read: New humanitarian players hit UN sidelines to counter aid cuts",
       "url": "https://thepress.co.nz/business/361088276/global-read-new-humanitarian-players-hit-un-sidelines-search-galvanizing-force-counter-aid-cuts",
@@ -482,14 +642,6 @@
       "url": "https://newstalkzb.co.nz/news/politics/exciting-time-public-service-bosses-told-of-opportunities-in-shrinking-sector",
       "source": "newstalkzb.co.nz",
       "card_text": "'Exciting time': Public service bosses told of opportunities in shrinking sector",
-      "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Slate of new digital credentials planned amidst delays in filling Govt.nz wallet",
-      "url": "https://businessdesk.co.nz/article/politics/slate-of-new-digital-credentials-planned-amidst-delays-in-filling-govtnz-wallet",
-      "source": "businessdesk.co.nz",
-      "card_text": "Slate of new digital credentials planned amidst delays in filling Govt.nz wallet",
       "discovered_at_utc": "2026-09-30T19:57:16.009475+00:00"
     },
     {
