@@ -2,43 +2,43 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-30T15:34:32.838500+00:00",
+  "retrieved_at_utc": "2026-09-30T16:00:01.059186+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Russia pounds the Kyiv region, killing 4 and targeting the power grid",
-      "url": "https://stuff.co.nz/world-news/361040689/russia-pounds-kyiv-region-killing-4-and-targeting-po",
-      "source": "stuff.co.nz",
-      "card_text": "Russia pounds the Kyiv region, killing 4 and targeting the power grid"
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russia launches largest attack on Ukraine energy infrastructure since spring"
     },
     {
       "rank": 2,
-      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-      "url": "https://bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe"
+      "title": "Air NZ near miss exposes culture and training flaws, and a regulator that was too close",
+      "url": "https://thepress.co.nz/business/361089299/air-nz-near-miss-exposes-culture-and-training-flaws-and-regulator-was-too-close",
+      "source": "thepress.co.nz",
+      "card_text": "Air NZ near miss exposes culture and training flaws, and a regulator that was too close"
     },
     {
       "rank": 3,
+      "title": "Auckland’s average asking price slips below $1 million for first time in six years",
+      "url": "https://stuff.co.nz/home-property/361040564/aucklands-average-asking-price-slips-below-1-million-first-time-six-years",
+      "source": "stuff.co.nz",
+      "card_text": "Auckland’s average asking price slips below $1 million for first time in six years"
+    },
+    {
+      "rank": 4,
       "title": "Surplus first, tax cuts second",
       "url": "https://interest.co.nz/economy/140469/surplus-priority-national-act-ahead-tax-cuts-government-books-paint-slightly-rosier",
       "source": "interest.co.nz",
       "card_text": "Surplus first, tax cuts second Surplus a 'priority' for National, ACT ahead of tax cuts, as Government books paint slightly rosier picture ahead of election Interest Yesterday Politics"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Bronwyn Hayward: Canterbury University politics professor on Dutch environmental group Both ENDS accusing NZ of breaching climate agreement",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/bronwyn-hayward-canterbury-university-politics-professor-on-dutch-environmental-group-both-ends-accusing-nz-of-breaching-climate-agreement",
       "source": "newstalkzb.co.nz",
       "card_text": "Bronwyn Hayward: Canterbury University politics professor on Dutch environmental group Both ENDS accusing NZ of breaching climate agreement"
-    },
-    {
-      "rank": 5,
-      "title": "Is NZ’s productivity problem the real economic elephant in the room? – The Front Page",
-      "url": "https://nzherald.co.nz/nz/is-nzs-productivity-problem-the-real-economic-elephant-in-the-room-the-front-page/PWDA5E7SBJHX7OQIJH5E4RUBIA",
-      "source": "nzherald.co.nz",
-      "card_text": "Is NZ’s productivity problem the real economic elephant in the room? – The Front Page"
     },
     {
       "rank": 6,
@@ -49,129 +49,129 @@
     },
     {
       "rank": 7,
+      "title": "Is NZ’s productivity problem the real economic elephant in the room? – The Front Page",
+      "url": "https://nzherald.co.nz/nz/is-nzs-productivity-problem-the-real-economic-elephant-in-the-room-the-front-page/PWDA5E7SBJHX7OQIJH5E4RUBIA",
+      "source": "nzherald.co.nz",
+      "card_text": "Is NZ’s productivity problem the real economic elephant in the room? – The Front Page"
+    },
+    {
+      "rank": 8,
       "title": "New Planning Laws Receive Royal Assent",
       "url": "https://scoop.co.nz/stories/PA2609/S00314/new-planning-laws-receive-royal-assent.htm",
       "source": "scoop.co.nz",
       "card_text": "New Planning Laws Receive Royal Assent “The replacement of the Resource Management Act 1991 represents a significant shift in fixing the basics of how New Zealand manages its land and environment and plans for future development, unlocking economic growth,” Mr Bishop says. Scoop Yesterday Politics"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Democracy Briefing: Lobbying reform finally has leverage",
       "url": "https://democracyproject.org.nz/p/democracy-briefing-lobbying-reform",
       "source": "democracyproject.org.nz",
       "card_text": "Democracy Briefing: Lobbying reform finally has leverage"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Thank a teacher and help a Kiwi kid",
       "url": "https://kiwikidsnews.co.nz/thank-a-teacher-and-help-a-kiwi-kid",
       "source": "kiwikidsnews.co.nz",
       "card_text": "Thank a teacher and help a Kiwi kid Warehouse Stationery launches nationwide appeal on World Teachers’ Day as child material hardship reaches a 10-year high. Teachers see more than what happens at the front of the classroom. They see the child borrowing a pencil, sitting out because they don’t have the right supplies or quietly noticing they have less than those around them. […] Kiwi Kids News Yesterday Education"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Winston Peters Says NZ First Will Actively Encourage Vote Splitting",
       "url": "https://goodoil.news/winston-peters-says-nz-first-will-actively-encourage-vote-splitting",
       "source": "goodoil.news",
       "card_text": "Winston Peters Says NZ First Will Actively Encourage Vote Splitting"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Opportunity knocked: Qiulae Wong trails in fourth in Mt Albert poll",
       "url": "https://thespinoff.co.nz/politics/30-09-2026/opportunity-knocked-qiulae-wong-trails-in-fourth-in-mt-albert-poll",
       "source": "thespinoff.co.nz",
       "card_text": "Opportunity knocked: Qiulae Wong trails in fourth in Mt Albert poll"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "No Govt has ever been re-elected in NZ with falling real house prices & real wages. Treasury says they are now.",
       "url": "https://thekaka.substack.com/p/no-govt-has-ever-been-re-elected",
       "source": "thekaka.substack.com",
       "card_text": "No Govt has ever been re-elected in NZ with falling real house prices & real wages. Treasury says they are now."
     },
     {
-      "rank": 13,
-      "title": "Eight months after six deaths, Tauranga’s CEO is gone. What happens now?",
-      "url": "https://stuff.co.nz/nz-news/361040622/there-has-be-some-accountability-questions-remain-after-tauranga-ceo-resigns",
+      "rank": 14,
+      "title": "Willis, Bishop among top ministers who could lose their seats in election overhang",
+      "url": "https://stuff.co.nz/nz-news/361040559/nicola-willis-chris-bishop-among-top-ministers-who-could-lose-their-seats-election-overhang-possible",
       "source": "stuff.co.nz",
-      "card_text": "Eight months after six deaths, Tauranga’s CEO is gone. What happens now?"
+      "card_text": "Willis, Bishop among top ministers who could lose their seats in election overhang"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Jenee Tibshraeny: NZ Herald Wellington business editor on the Government potentially 'going soft' on NZ Super reforms?",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jenee-tibshraeny-nz-herald-wellington-business-editor-on-the-government-potentially-going-soft-on-nz-super-reforms",
       "source": "newstalkzb.co.nz",
       "card_text": "Jenee Tibshraeny: NZ Herald Wellington business editor on the Government potentially 'going soft' on NZ Super reforms?"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "New planning laws receive Royal assent",
       "url": "https://beehive.govt.nz/release/new-planning-laws-receive-royal-assent",
       "source": "beehive.govt.nz",
       "card_text": "New planning laws receive Royal assent Beehive | Releases Yesterday"
     },
     {
-      "rank": 16,
-      "title": "Election 2026: Poll shows Labour barely ahead in crucial Mt Albert seat",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-poll-shows-labour-barely-ahead-in-crucial-mt-albert-seat/26PQ3XERH5ABJNUWE4QKR2QEQI",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Poll shows Labour barely ahead in crucial Mt Albert seat"
+      "rank": 17,
+      "title": "Selwyn water billing review finds 2700 properties may have been incorrectly charged nearly $3 million",
+      "url": "https://thepress.co.nz/nz-news/361090091/selwyn-water-billing-review-finds-2700-properties-may-have-been-incorrectly-charged-nearly-3-million",
+      "source": "thepress.co.nz",
+      "card_text": "Selwyn water billing review finds 2700 properties may have been incorrectly charged nearly $3 million"
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "title": "Trans-Tasman races and secret audits: What an OIA reveals about NZ’s $8m Michelin deal",
+      "url": "https://stuff.co.nz/travel/361040046/trans-tasman-races-and-secret-audits-what-oia-reveals-about-nzs-michelin-deal",
+      "source": "stuff.co.nz",
+      "card_text": "Trans-Tasman races and secret audits: What an OIA reveals about NZ’s $8m Michelin deal"
+    },
+    {
+      "rank": 19,
       "title": "Markets trading cautiously",
       "url": "https://interest.co.nz/currencies/140471/us-treasury-yields-reach-new-milestone-highs-usd-broadly-stronger-nzd-and-aud",
       "source": "interest.co.nz",
       "card_text": "Markets trading cautiously Interest Yesterday"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "title": "Mark Stirton: Warehouse Group CEO on the Warehouse Group posting a $11.2 million net profit",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/mark-stirton-warehouse-group-ceo-on-the-warehouse-group-posting-a-112-million-net-profit",
       "source": "newstalkzb.co.nz",
       "card_text": "Mark Stirton: Warehouse Group CEO on the Warehouse Group posting a $11.2 million net profit"
     },
     {
-      "rank": 19,
-      "title": "Wattie’s Christchurch closure puts worker hardship in focus as union warns of deeper economic strain",
-      "url": "https://chrislynchmedia.com/news-items/watties-christchurch-closure-puts-worker-hardship-in-focus-as-union-warns-of-deeper-economic-strain",
-      "source": "chrislynchmedia.com",
-      "card_text": "Wattie’s Christchurch closure puts worker hardship in focus as union warns of deeper economic strain"
-    },
-    {
-      "rank": 20,
-      "title": "New Zealand’s $2.68 billion space sector – how it breaks down: Tech Insider",
-      "url": "https://nzherald.co.nz/business/new-zealands-268-billion-space-sector-how-it-breaks-down-tech-insider/premium/T7OMCFM47BAHLGFKNCG4FGTORI",
-      "source": "nzherald.co.nz",
-      "card_text": "New Zealand’s $2.68 billion space sector – how it breaks down: Tech Insider"
-    },
-    {
       "rank": 21,
-      "title": "Iran indicates it's received an official US response to its latest offer on ending the war",
-      "url": "https://stuff.co.nz/world-news/361040705/iran-indicates-its-received-official-us-response-its-l",
-      "source": "stuff.co.nz",
-      "card_text": "Iran indicates it's received an official US response to its latest offer on ending the war"
+      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+      "url": "https://bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe"
     },
     {
       "rank": 22,
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russia launches largest attack on Ukraine energy infrastructure since spring"
+      "title": "Russia pounds the Kyiv region, killing 4 and targeting the power grid",
+      "url": "https://stuff.co.nz/world-news/361040689/russia-pounds-kyiv-region-killing-4-and-targeting-po",
+      "source": "stuff.co.nz",
+      "card_text": "Russia pounds the Kyiv region, killing 4 and targeting the power grid"
     },
     {
       "rank": 23,
+      "title": "The Global Read: New humanitarian players hit UN sidelines to counter aid cuts",
+      "url": "https://thepress.co.nz/business/361088276/global-read-new-humanitarian-players-hit-un-sidelines-search-galvanizing-force-counter-aid-cuts",
+      "source": "thepress.co.nz",
+      "card_text": "The Global Read: New humanitarian players hit UN sidelines to counter aid cuts"
+    },
+    {
+      "rank": 24,
       "title": "Pacific leaders unite on climate at UNGA: 'Think of the children'",
       "url": "https://rnz.co.nz/news/pacific/1659474/pacific-leaders-unite-on-climate-at-unga-think-of-the-children",
       "source": "rnz.co.nz",
       "card_text": "Pacific leaders unite on climate at UNGA: 'Think of the children'"
-    },
-    {
-      "rank": 24,
-      "title": "Andy Burnham pledges a radical shake-up for Britain in a high-risk political speech",
-      "url": "https://thepress.co.nz/world-news/361089983/burnham-pledges-radical-shake-britain-high-risk-political-speech",
-      "source": "thepress.co.nz",
-      "card_text": "Andy Burnham pledges a radical shake-up for Britain in a high-risk political speech"
     },
     {
       "rank": 25,
@@ -182,45 +182,45 @@
     },
     {
       "rank": 26,
-      "title": "‘A real point of difference for us’: All Blacks coach’s plea to save the NPC amid crisis talks",
-      "url": "https://thepress.co.nz/sport/361089704/all-blacks-coach-dave-rennie-issues-impassioned-plea-save-npc-amid-nz-rugby-crisis-talks",
-      "source": "thepress.co.nz",
-      "card_text": "‘A real point of difference for us’: All Blacks coach’s plea to save the NPC amid crisis talks"
-    },
-    {
-      "rank": 27,
       "title": "'The greatest': Dwayne Johnson making doco on Black Ferns icon",
       "url": "https://stuff.co.nz/culture/361040350/greatest-dwayne-rock-johnson-making-doco-black-ferns-icon-portia-woodman-wickliffe",
       "source": "stuff.co.nz",
       "card_text": "'The greatest': Dwayne Johnson making doco on Black Ferns icon"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "No rotation, no mercy: ABs coach Rennie vows to unleash his best against Wallabies",
       "url": "https://stuff.co.nz/sport/361040489/no-rotation-no-mercy-all-blacks-coach-dave-rennie-vows-unleash-his-best-against-wallabies",
       "source": "stuff.co.nz",
       "card_text": "No rotation, no mercy: ABs coach Rennie vows to unleash his best against Wallabies"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
       "url": "https://stuff.co.nz/world-news/361040675/trump-says-top-tech-firms-have-signed-accord-selfpolice",
       "source": "stuff.co.nz",
       "card_text": "Trump says top tech firms have signed accord to 'self-police' AI development"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Chinese AI tool told researchers how to make bioweapons",
       "url": "https://bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Chinese AI tool told researchers how to make bioweapons"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "NCSC puts focus on identifying scams for Cyber Smart Week",
       "url": "https://reseller.co.nz/article/4228457/ncsc-puts-focus-on-identifying-scams-for-cyber-smart-week.html",
       "source": "reseller.co.nz",
       "card_text": "NCSC puts focus on identifying scams for Cyber Smart Week"
+    },
+    {
+      "rank": 31,
+      "title": "Newborn baby died after condition found at 20-week scan missed later in pregnancy",
+      "url": "https://stuff.co.nz/nz-news/361039706/newborn-baby-died-after-condition-found-20-week-scan-missed-later-pregnancy",
+      "source": "stuff.co.nz",
+      "card_text": "Newborn baby died after condition found at 20-week scan missed later in pregnancy"
     },
     {
       "rank": 32,
@@ -238,122 +238,122 @@
     },
     {
       "rank": 34,
+      "title": "Four new road rules come into force today",
+      "url": "https://stuff.co.nz/nz-news/361039672/new-rules-roads-footpaths-and-cycleways-come-effect",
+      "source": "stuff.co.nz",
+      "card_text": "Four new road rules come into force today"
+    },
+    {
+      "rank": 35,
+      "title": "New study offers hope to Christchurch’s fast-sinking coastal areas",
+      "url": "https://thepress.co.nz/nz-news/361090354/nzs-coastal-cities-are-sinking-pausing-groundwater-extraction-could-save-them-new-study-says",
+      "source": "thepress.co.nz",
+      "card_text": "New study offers hope to Christchurch’s fast-sinking coastal areas"
+    },
+    {
+      "rank": 36,
+      "title": "Iran indicates it's received an official US response to its latest offer on ending the war",
+      "url": "https://stuff.co.nz/world-news/361040705/iran-indicates-its-received-official-us-response-its-l",
+      "source": "stuff.co.nz",
+      "card_text": "Iran indicates it's received an official US response to its latest offer on ending the war"
+    },
+    {
+      "rank": 37,
+      "title": "Director of fund that lost millions says he’s being ‘painted as a villain’",
+      "url": "https://stuff.co.nz/nz-news/361037596/director-fund-lost-millions-says-hes-being-painted-villain",
+      "source": "stuff.co.nz",
+      "card_text": "Director of fund that lost millions says he’s being ‘painted as a villain’"
+    },
+    {
+      "rank": 38,
+      "title": "Exercise before surgery improves outcomes and shortens recovery time – new NZ research",
+      "url": "https://stuff.co.nz/health/361040451/exercise-surgery-improves-outcomes-and-shortens-recovery-time-new-research",
+      "source": "stuff.co.nz",
+      "card_text": "Exercise before surgery improves outcomes and shortens recovery time – new NZ research"
+    },
+    {
+      "rank": 39,
       "title": "The US military says its withdrawal of troops from Iraq is complete",
       "url": "https://stuff.co.nz/world-news/361040696/us-military-says-its-withdrawal-troops-iraq-c",
       "source": "stuff.co.nz",
       "card_text": "The US military says its withdrawal of troops from Iraq is complete"
     },
     {
-      "rank": 35,
+      "rank": 40,
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "url": "https://bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Execution of US murderer Christa Pike halted shortly before it was due to happen"
+    },
+    {
+      "rank": 41,
+      "title": "Rangiora library upgrade faces four-year delay as cost hits $25m",
+      "url": "https://thepress.co.nz/nz-news/361089384/rangiora-library-upgrade-faces-four-year-delay-cost-hits-25m",
+      "source": "thepress.co.nz",
+      "card_text": "Rangiora library upgrade faces four-year delay as cost hits $25m"
+    },
+    {
+      "rank": 42,
+      "title": "‘Difficult, unsettling’: Both chains temporarily shut at Pareora freezing works",
+      "url": "https://thepress.co.nz/nz-news/361089809/silver-fern-farms-temporarily-shuts-both-chains-pareora-factory-unusual-move",
+      "source": "thepress.co.nz",
+      "card_text": "‘Difficult, unsettling’: Both chains temporarily shut at Pareora freezing works"
+    },
+    {
+      "rank": 43,
       "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
       "url": "https://bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Last UK and US troops leave Iraq as anti-Islamic State mission ends"
     },
     {
-      "rank": 36,
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "url": "https://bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Africa's richest man launches Kenya oil refinery despite land protests"
-    },
-    {
-      "rank": 37,
-      "title": "Tennessee prepares to execute a woman for a crime she committed at age 18",
+      "rank": 44,
+      "title": "Tennessee execution of Christa Gail Pike is halted by a court with an hour to spare",
       "url": "https://stuff.co.nz/world-news/361040699/tennessee-prepares-execute-woman-crime-she-commit",
       "source": "stuff.co.nz",
-      "card_text": "Tennessee prepares to execute a woman for a crime she committed at age 18"
+      "card_text": "Tennessee execution of Christa Gail Pike is halted by a court with an hour to spare"
     },
     {
-      "rank": 38,
-      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "url": "https://bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Dozens hurt and hundreds arrested in wave of French school protests"
-    },
-    {
-      "rank": 39,
-      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
-      "url": "https://bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Botswana condemned for slaughtering elephants for independence celebrations"
-    },
-    {
-      "rank": 40,
-      "title": "Hijacking scare on plane heading to Israel after pilot armed with knife fights co-pilot",
-      "url": "https://stuff.co.nz/world-news/361040686/commercial-plane-traveling-dubai-israel-diverte",
-      "source": "stuff.co.nz",
-      "card_text": "Hijacking scare on plane heading to Israel after pilot armed with knife fights co-pilot"
-    },
-    {
-      "rank": 41,
-      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-      "url": "https://bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "'He will never walk free': Indian judge's letter promises child sex abuse survivor"
-    },
-    {
-      "rank": 42,
-      "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
-      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "What we know about the Dubai-Israel plane incident after reported stabbing"
-    },
-    {
-      "rank": 43,
+      "rank": 45,
       "title": "'Significant change': NZ Film Commission scraps major source of funding for organisations",
       "url": "https://rnz.co.nz/news/community/1663345/significant-change-nz-film-commission-scraps-major-source-of-funding-for-organisations",
       "source": "rnz.co.nz",
       "card_text": "'Significant change': NZ Film Commission scraps major source of funding for organisations"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "Breakfast briefing: US bond rates rise; China launches new stimulus",
       "url": "https://interest.co.nz/economy/140468/us-data-and-confidence-weaker-canada-gdp-resilient-china-rolls-out-new-stimulus",
       "source": "interest.co.nz",
       "card_text": "Breakfast briefing: US bond rates rise; China launches new stimulus"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "title": "Hamilton crash: One seriously injured after dirt bike and truck collide",
       "url": "https://nzherald.co.nz/nz/hamilton-crash-one-seriously-injured-after-dirt-bike-and-truck-collide/XRXDPHYBSBG3ZPMYBMJLKQWROE",
       "source": "nzherald.co.nz",
       "card_text": "Hamilton crash: One seriously injured after dirt bike and truck collide"
     },
     {
-      "rank": 46,
+      "rank": 48,
+      "title": "Wattie’s Christchurch closure puts worker hardship in focus as union warns of deeper economic strain",
+      "url": "https://chrislynchmedia.com/news-items/watties-christchurch-closure-puts-worker-hardship-in-focus-as-union-warns-of-deeper-economic-strain",
+      "source": "chrislynchmedia.com",
+      "card_text": "Wattie’s Christchurch closure puts worker hardship in focus as union warns of deeper economic strain"
+    },
+    {
+      "rank": 49,
       "title": "New Era Begins For Auckland’s Transport System",
       "url": "https://scoop.co.nz/stories/PA2609/S00316/new-era-begins-for-aucklands-transport-system.htm",
       "source": "scoop.co.nz",
       "card_text": "New Era Begins For Auckland’s Transport System"
     },
     {
-      "rank": 47,
+      "rank": 50,
       "title": "How The Great Mt Albert Debate went down",
       "url": "https://thespinoff.co.nz/politics/30-09-2026/live-from-the-great-mt-albert-debate",
       "source": "thespinoff.co.nz",
       "card_text": "How The Great Mt Albert Debate went down"
-    },
-    {
-      "rank": 48,
-      "title": "Another CE in the gun",
-      "url": "https://kiwiblog.co.nz/2026/09/another_ce_in_the_gun.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "Another CE in the gun The Herald reports: Minister for Internal Affairs Brooke van Velden says she has lost confidence in Fire and Emergency’s chief executive Kerry Gregory, who she says kept information from her about a “seriously significant incident” for a whole year. Speaking to media from Parliament this afternoon, van Velden revealed Fire and Emergency has been referred […] The post Another CE in the gun first appeared on Kiwiblog . Kiwiblog Yesterday Politics"
-    },
-    {
-      "rank": 49,
-      "title": "New era begins for Auckland’s transport system",
-      "url": "https://beehive.govt.nz/release/new-era-begins-aucklands-transport-system",
-      "source": "beehive.govt.nz",
-      "card_text": "New era begins for Auckland’s transport system"
-    },
-    {
-      "rank": 50,
-      "title": "Emergency services at crash in Burnside at busy intersection",
-      "url": "https://chrislynchmedia.com/news-items/driver-trapped-after-van-crashes-in-burnside",
-      "source": "chrislynchmedia.com",
-      "card_text": "Emergency services at crash in Burnside at busy intersection"
     }
   ],
   "json_endpoints_observed": [
