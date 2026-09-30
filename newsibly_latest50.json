@@ -2,36 +2,36 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-09-30T01:15:20.852947+00:00",
+  "retrieved_at_utc": "2026-09-30T01:33:48.448644+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "No Govt has ever been re-elected in NZ with falling real house prices & real wages. Treasury says they are now.",
+      "url": "https://thekaka.substack.com/p/no-govt-has-ever-been-re-elected",
+      "source": "thekaka.substack.com",
+      "card_text": "No Govt has ever been re-elected in NZ with falling real house prices & real wages. Treasury says they are now."
+    },
+    {
+      "rank": 2,
+      "title": "New planning laws receive Royal assent",
+      "url": "https://beehive.govt.nz/release/new-planning-laws-receive-royal-assent",
+      "source": "beehive.govt.nz",
+      "card_text": "New planning laws receive Royal assent The Planning Act and Natural Environment Act have received Royal assent and are now law, marking the beginning of New Zealand’s transition to a new and fundamentally different planning system, RMA Reform Minister Chris Bishop and Parliamentary Under-Secretary Simon Court say. “The replacement of the Resource Management Act 1991 represents a significant shift in fixing the basics of how New Zealand manages its... Beehive | Releases Today 2:10 pm Politics"
+    },
+    {
+      "rank": 3,
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Chinese AI tool told researchers how to make bioweapons"
+    },
+    {
+      "rank": 4,
       "title": "Nicola Willis: Finance Minister on the Pre-Election Economic and Fiscal Update showing a stronger outlook, larger surplus",
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/nicola-willis-finance-minister-on-the-pre-election-economic-and-fiscal-update-showing-a-stronger-outlook-larger-surplus",
       "source": "newstalkzb.co.nz",
       "card_text": "Nicola Willis: Finance Minister on the Pre-Election Economic and Fiscal Update showing a stronger outlook, larger surplus"
-    },
-    {
-      "rank": 2,
-      "title": "National accuses Greens of joining ‘foreign actors’ over EU climate complaint",
-      "url": "https://thepress.co.nz/business/361089728/national-accuses-greens-joining-foreign-actors-over-eu-climate-complaint",
-      "source": "thepress.co.nz",
-      "card_text": "National accuses Greens of joining ‘foreign actors’ over EU climate complaint"
-    },
-    {
-      "rank": 3,
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "url": "https://bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Estonia blames Russia for arson at defence company supplying Ukraine"
-    },
-    {
-      "rank": 4,
-      "title": "Formal complaint that NZ climate backsliding breaches Europe trade deal",
-      "url": "https://newsroom.co.nz/2026/09/30/formal-complaint-that-nz-climate-backsliding-breaches-europe-trade-deal",
-      "source": "newsroom.co.nz",
-      "card_text": "Formal complaint that NZ climate backsliding breaches Europe trade deal"
     },
     {
       "rank": 5,
@@ -49,31 +49,31 @@
     },
     {
       "rank": 7,
-      "title": "Net core Crown debt to peak at 43.9% of GDP in 2027/28, down from forecasted 46%",
-      "url": "https://interest.co.nz/bonds/140465/nz-utterly-exposed-global-bond-market-says-nicola-willis-treasury-books-predict-net",
-      "source": "interest.co.nz",
-      "card_text": "Net core Crown debt to peak at 43.9% of GDP in 2027/28, down from forecasted 46%"
-    },
-    {
-      "rank": 8,
-      "title": "Treasury Forecasts Smaller Deficit, Surplus On Track",
-      "url": "https://whatsoninvers.nz/treasury-forecasts-smaller-deficit-surplus-on-track",
-      "source": "whatsoninvers.nz",
-      "card_text": "Treasury Forecasts Smaller Deficit, Surplus On Track"
-    },
-    {
-      "rank": 9,
       "title": "NCSC puts focus on identifying scams for Cyber Smart Week",
       "url": "https://reseller.co.nz/article/4228457/ncsc-puts-focus-on-identifying-scams-for-cyber-smart-week.html",
       "source": "reseller.co.nz",
       "card_text": "NCSC puts focus on identifying scams for Cyber Smart Week"
     },
     {
+      "rank": 8,
+      "title": "Formal complaint that NZ climate backsliding breaches Europe trade deal",
+      "url": "https://newsroom.co.nz/2026/09/30/formal-complaint-that-nz-climate-backsliding-breaches-europe-trade-deal",
+      "source": "newsroom.co.nz",
+      "card_text": "Formal complaint that NZ climate backsliding breaches Europe trade deal"
+    },
+    {
+      "rank": 9,
+      "title": "Net core Crown debt to peak at 43.9% of GDP in 2027/28, down from forecasted 46%",
+      "url": "https://interest.co.nz/bonds/140465/nz-utterly-exposed-global-bond-market-says-nicola-willis-treasury-books-predict-net",
+      "source": "interest.co.nz",
+      "card_text": "Net core Crown debt to peak at 43.9% of GDP in 2027/28, down from forecasted 46%"
+    },
+    {
       "rank": 10,
-      "title": "Major parties in name only",
-      "url": "https://pointofordernz.wordpress.com/2026/09/30/major-parties-in-name-only",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Major parties in name only Labour and National are now on 28% each in the 1News-Verian poll released tonight, giving them just 56% of decided voters between them. Their leaders are doing even worse, with Christopher Luxon preferred as prime minister by 19% and Chris Hipkins by 14%. The poll was taken between 23 and 27 September, mostly before the … Continue reading Major parties in name only → Point of Order Today 8:36 am Opinion"
+      "title": "Treasury Forecasts Smaller Deficit, Surplus On Track",
+      "url": "https://whatsoninvers.nz/treasury-forecasts-smaller-deficit-surplus-on-track",
+      "source": "whatsoninvers.nz",
+      "card_text": "Treasury Forecasts Smaller Deficit, Surplus On Track"
     },
     {
       "rank": 11,
@@ -91,66 +91,66 @@
     },
     {
       "rank": 13,
-      "title": "Pay Equity Back in Focus as NZEI Welcomes Labour Pledge",
-      "url": "https://waateanews.com/2026/09/30/pay-equity-back-in-focus-as-nzei-welcomes-labour-pledge",
-      "source": "waateanews.com",
-      "card_text": "Pay Equity Back in Focus as NZEI Welcomes Labour Pledge"
-    },
-    {
-      "rank": 14,
       "title": "Taking a punt: SkyCity seeks a possible buyer for its entire business",
       "url": "https://thepress.co.nz/business/361089701/taking-punt-skycity-actively-seeks-possible-buyer-its-entire-business",
       "source": "thepress.co.nz",
       "card_text": "Taking a punt: SkyCity seeks a possible buyer for its entire business"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Fletcher Building cement plant: Officials advised against $60m Government help",
       "url": "https://nzherald.co.nz/business/companies/construction/fletcher-building-cement-plant-officials-advised-against-60m-government-help/premium/T2F7TYD43RHWXMNC6YA27NBIEE",
       "source": "nzherald.co.nz",
       "card_text": "Fletcher Building cement plant: Officials advised against $60m Government help"
     },
     {
+      "rank": 15,
+      "title": "Rising diesel price could hike costs for Kiwis",
+      "url": "https://odt.co.nz/business/rising-diesel-price-could-hike-costs-for-kiwis-gw01t12t",
+      "source": "odt.co.nz",
+      "card_text": "Rising diesel price could hike costs for Kiwis"
+    },
+    {
       "rank": 16,
-      "title": "Rising diesel price could make rest of year more expensive for households",
-      "url": "https://rnz.co.nz/news/business/1654168/rising-diesel-price-could-make-rest-of-year-more-expensive-for-households",
-      "source": "rnz.co.nz",
-      "card_text": "Rising diesel price could make rest of year more expensive for households"
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "url": "https://bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ukraine's prized steel industry left in ruins by Russian missile campaign"
     },
     {
       "rank": 17,
-      "title": "South Africa to clean up high-risk areas after 12 women killed",
-      "url": "https://bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "South Africa to clean up high-risk areas after 12 women killed"
+      "title": "Pacific leaders unite on climate at UNGA: 'Think of the children'",
+      "url": "https://rnz.co.nz/news/pacific/1659474/pacific-leaders-unite-on-climate-at-unga-think-of-the-children",
+      "source": "rnz.co.nz",
+      "card_text": "Pacific leaders unite on climate at UNGA: 'Think of the children'"
     },
     {
       "rank": 18,
-      "title": "Morocco's king appoints the country's first woman prime minister",
-      "url": "https://stuff.co.nz/world-news/361040298/moroccos-king-appoints-countrys-first-woman-prime-minist",
-      "source": "stuff.co.nz",
-      "card_text": "Morocco's king appoints the country's first woman prime minister"
+      "title": "Spain proposes ban on evictions",
+      "url": "https://odt.co.nz/news/world/spain-proposes-ban-on-evictions-osodvh4l",
+      "source": "odt.co.nz",
+      "card_text": "Spain proposes ban on evictions Otago Daily Times Today 8:51 am"
     },
     {
       "rank": 19,
-      "title": "Self-governing US territory losing 1000 people a year as economy struggles",
-      "url": "https://rnz.co.nz/news/pacific/1658582/self-governing-us-territory-losing-1000-people-a-year-as-economy-struggles",
-      "source": "rnz.co.nz",
-      "card_text": "Self-governing US territory losing 1000 people a year as economy struggles"
-    },
-    {
-      "rank": 20,
       "title": "'It's tribal': ABs coach Dave Rennie says NPC must be maintained",
       "url": "https://odt.co.nz/sport/rugby/its-tribal-abs-coach-dave-rennie-says-npc-must-be-maintained-ddescjtd",
       "source": "odt.co.nz",
       "card_text": "'It's tribal': ABs coach Dave Rennie says NPC must be maintained"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "'The greatest': Dwayne Johnson making doco on Black Ferns icon",
       "url": "https://stuff.co.nz/culture/361040350/greatest-dwayne-rock-johnson-making-doco-black-ferns-icon-portia-woodman-wickliffe",
       "source": "stuff.co.nz",
       "card_text": "'The greatest': Dwayne Johnson making doco on Black Ferns icon"
+    },
+    {
+      "rank": 21,
+      "title": "‘Worst couple of days of my life’: Knights, Kiwis hooker cops four-match ban for Cleary tackle",
+      "url": "https://thepress.co.nz/sport/361089694/knights-kiwis-hooker-phoenix-crossland-cops-four-match-ban-nathan-cleary-tackle-will-miss-nrl-grand",
+      "source": "thepress.co.nz",
+      "card_text": "‘Worst couple of days of my life’: Knights, Kiwis hooker cops four-match ban for Cleary tackle"
     },
     {
       "rank": 22,
@@ -161,10 +161,10 @@
     },
     {
       "rank": 23,
-      "title": "‘Worst couple of days of my life’: Knights, Kiwis hooker cops four-match ban for Cleary tackle",
-      "url": "https://thepress.co.nz/sport/361089694/knights-kiwis-hooker-phoenix-crossland-cops-four-match-ban-nathan-cleary-tackle-will-miss-nrl-grand",
-      "source": "thepress.co.nz",
-      "card_text": "‘Worst couple of days of my life’: Knights, Kiwis hooker cops four-match ban for Cleary tackle"
+      "title": "Trump, AI bosses sign voluntary safety pact",
+      "url": "https://odt.co.nz/business/trump-says-tech-firms-will-make-communities-happy-about-data-centres-il714lpg",
+      "source": "odt.co.nz",
+      "card_text": "Trump, AI bosses sign voluntary safety pact"
     },
     {
       "rank": 24,
@@ -175,10 +175,10 @@
     },
     {
       "rank": 25,
-      "title": "OpenAI ignored employees who warned it wasn’t doing enough about security",
-      "url": "https://nzherald.co.nz/business/openai-ignored-employees-who-warned-it-wasnt-doing-enough-about-security/premium/CSMPG7HAMRBJBD6X7R4DY735JM",
-      "source": "nzherald.co.nz",
-      "card_text": "OpenAI ignored employees who warned it wasn’t doing enough about security"
+      "title": "Two-way EV V2G charger trial to be rolled out around NZ",
+      "url": "https://stuff.co.nz/motoring/361040473/twoway-ev-v2g-charger-trial-be-rolled-out-around-nz",
+      "source": "stuff.co.nz",
+      "card_text": "Two-way EV V2G charger trial to be rolled out around NZ"
     },
     {
       "rank": 26,
@@ -189,38 +189,38 @@
     },
     {
       "rank": 27,
-      "title": "Trump, AI bosses sign voluntary safety pact",
-      "url": "https://odt.co.nz/business/trump-says-tech-firms-will-make-communities-happy-about-data-centres-il714lpg",
-      "source": "odt.co.nz",
-      "card_text": "Trump, AI bosses sign voluntary safety pact"
-    },
-    {
-      "rank": 28,
-      "title": "Record-high ED presentations and increasing case complexity taking toll on doctors",
-      "url": "https://thepress.co.nz/nz-news/361089739/record-high-ed-presentations-and-increasing-case-complexity-taking-toll-doctors",
-      "source": "thepress.co.nz",
-      "card_text": "Record-high ED presentations and increasing case complexity taking toll on doctors"
-    },
-    {
-      "rank": 29,
       "title": "Hawke’s Bay Gets Faster Access To Mental Health Support",
       "url": "https://scoop.co.nz/stories/PA2609/S00305/hawkes-bay-gets-faster-access-to-mental-health-support.htm",
       "source": "scoop.co.nz",
       "card_text": "Hawke’s Bay Gets Faster Access To Mental Health Support"
     },
     {
+      "rank": 28,
+      "title": "Hawke’s Bay’s first crisis cafe opens in Hastings this Friday",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/hawkes-bays-first-crisis-cafe-opens-in-hastings-this-friday/RYCNGJWR5JG5NIENNSUBMNQJSA",
+      "source": "nzherald.co.nz",
+      "card_text": "Hawke’s Bay’s first crisis cafe opens in Hastings this Friday"
+    },
+    {
+      "rank": 29,
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "url": "https://bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Estonia blames Russia for arson at defence company supplying Ukraine"
+    },
+    {
       "rank": 30,
-      "title": "Designing With Mana: Rethinking Homes for Whānau Living With Mate Wareware",
-      "url": "https://waateanews.com/2026/09/30/designing-with-mana-rethinking-homes-for-whanau-living-with-mate-wareware",
-      "source": "waateanews.com",
-      "card_text": "Designing With Mana: Rethinking Homes for Whānau Living With Mate Wareware"
+      "title": "Mysterious Antarctic region that could lift sea levels by several metres must be studied - researchers",
+      "url": "https://rnz.co.nz/news/environment_climate/1659532/mysterious-antarctic-region-that-could-lift-sea-levels-by-several-metres-must-be-studied-researchers",
+      "source": "rnz.co.nz",
+      "card_text": "Mysterious Antarctic region that could lift sea levels by several metres must be studied - researchers"
     },
     {
       "rank": 31,
-      "title": "Record-high ED presentations and increasing case complexity taking toll on doctors",
-      "url": "https://rnz.co.nz/news/health/1654694/record-high-ed-presentations-and-increasing-case-complexity-taking-toll-on-doctors",
-      "source": "rnz.co.nz",
-      "card_text": "Record-high ED presentations and increasing case complexity taking toll on doctors"
+      "title": "City Rail Link: One Million trips and counting",
+      "url": "https://beehive.govt.nz/release/city-rail-link-one-million-trips-and-counting",
+      "source": "beehive.govt.nz",
+      "card_text": "City Rail Link: One Million trips and counting"
     },
     {
       "rank": 32,
@@ -231,31 +231,31 @@
     },
     {
       "rank": 33,
-      "title": "Rising diesel price could hike costs for Kiwis",
-      "url": "https://odt.co.nz/business/rising-diesel-price-could-hike-costs-for-kiwis-gw01t12t",
-      "source": "odt.co.nz",
-      "card_text": "Rising diesel price could hike costs for Kiwis"
+      "title": "SkyCity puts Adelaide up for sale as Forsyth Barr values casino at up to $200m",
+      "url": "https://businessdesk.co.nz/article/markets/skycity-puts-adelaide-up-for-sale-as-forsyth-barr-values-casino-at-up-to-200m",
+      "source": "businessdesk.co.nz",
+      "card_text": "SkyCity puts Adelaide up for sale as Forsyth Barr values casino at up to $200m"
     },
     {
       "rank": 34,
-      "title": "David Seymour: ACT Leader on the state of the Government's books revealed in Treasury's Pre-Election Economic and Fiscal Update",
-      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/david-seymour-act-leader-on-the-state-of-the-governments-books-revealed-in-treasurys-pre-election-economic-and-fiscal-update",
-      "source": "newstalkzb.co.nz",
-      "card_text": "David Seymour: ACT Leader on the state of the Government's books revealed in Treasury's Pre-Election Economic and Fiscal Update"
+      "title": "Pay Equity Back in Focus as NZEI Welcomes Labour Pledge",
+      "url": "https://waateanews.com/2026/09/30/pay-equity-back-in-focus-as-nzei-welcomes-labour-pledge",
+      "source": "waateanews.com",
+      "card_text": "Pay Equity Back in Focus as NZEI Welcomes Labour Pledge"
     },
     {
       "rank": 35,
-      "title": "Hawke’s Bay gets faster access to mental health support",
-      "url": "https://beehive.govt.nz/release/hawkes-bay-gets-faster-access-mental-health-support",
-      "source": "beehive.govt.nz",
-      "card_text": "Hawke’s Bay gets faster access to mental health support"
+      "title": "South Africa to clean up high-risk areas after 12 women killed",
+      "url": "https://bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "South Africa to clean up high-risk areas after 12 women killed"
     },
     {
       "rank": 36,
-      "title": "First female prime minister named in Morocco after winning elections",
-      "url": "https://bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "First female prime minister named in Morocco after winning elections"
+      "title": "Major parties in name only",
+      "url": "https://pointofordernz.wordpress.com/2026/09/30/major-parties-in-name-only",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Major parties in name only Labour and National are now on 28% each in the 1News-Verian poll released tonight, giving them just 56% of decided voters between them. Their leaders are doing even worse, with Christopher Luxon preferred as prime minister by 19% and Chris Hipkins by 14%. The poll was taken between 23 and 27 September, mostly before the … Continue reading Major parties in name only → Point of Order Today 8:36 am Opinion"
     },
     {
       "rank": 37,
@@ -266,94 +266,94 @@
     },
     {
       "rank": 38,
-      "title": "ANZ lowers some fixed home loan rates",
-      "url": "https://interest.co.nz/personal-finance/140470/spring-real-estate-selling-season-here-and-our-largest-home-loan-lender",
-      "source": "interest.co.nz",
-      "card_text": "ANZ lowers some fixed home loan rates The spring real estate selling season is here and our largest home loan lender is cutting two key fixed rates. We explain why and the context in a time of rising wholesale rates Interest Today 6:21 am Business"
-    },
-    {
-      "rank": 39,
-      "title": "The house price story almost everyone missed",
-      "url": "https://pointofordernz.wordpress.com/2026/09/30/the-house-price-story-almost-everyone-missed",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "The house price story almost everyone missed"
-    },
-    {
-      "rank": 40,
-      "title": "Major construction and export firms warn against legal definition of sex",
-      "url": "https://newsroom.co.nz/2026/09/30/major-employers-warn-against-legal-definition-of-sex",
-      "source": "newsroom.co.nz",
-      "card_text": "Major construction and export firms warn against legal definition of sex"
-    },
-    {
-      "rank": 41,
       "title": "Super El Niño: Fears for six-figure death toll, droughts around the world",
       "url": "https://nzherald.co.nz/nz/super-el-nino-fears-for-six-figure-death-toll-droughts-around-the-world/premium/DXPH23GWRNGYBPB4KWKF6TGPDA",
       "source": "nzherald.co.nz",
       "card_text": "Super El Niño: Fears for six-figure death toll, droughts around the world"
     },
     {
-      "rank": 42,
-      "title": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
-      "url": "https://odt.co.nz/news/opinion/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-j3mdey0w",
-      "source": "odt.co.nz",
-      "card_text": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago"
-    },
-    {
-      "rank": 43,
+      "rank": 39,
       "title": "Foreign Affairs Minister Fails To Seek Advice On Leaving Paris Agreement",
       "url": "https://scoop.co.nz/stories/PA2609/S00306/foreign-affairs-minister-fails-to-seek-advice-on-leaving-paris-agreement.htm",
       "source": "scoop.co.nz",
       "card_text": "Foreign Affairs Minister Fails To Seek Advice On Leaving Paris Agreement"
     },
     {
+      "rank": 40,
+      "title": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
+      "url": "https://odt.co.nz/news/opinion/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-j3mdey0w",
+      "source": "odt.co.nz",
+      "card_text": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago"
+    },
+    {
+      "rank": 41,
+      "title": "The reasons behind New Zealand universities’ ongoing slide in world rankings",
+      "url": "https://nzherald.co.nz/nz/the-reasons-behind-ongoing-slide-for-new-zealand-universities-in-world-rankings/QQUPMAZRVZFS7KN7PW5C6WMDIY",
+      "source": "nzherald.co.nz",
+      "card_text": "The reasons behind New Zealand universities’ ongoing slide in world rankings"
+    },
+    {
+      "rank": 42,
+      "title": "Stanford hit with boos and jeers after defending Treaty record at teachers’ conference",
+      "url": "https://thepress.co.nz/nz-news/361089649/stanford-hit-boos-and-jeers-after-defending-treaty-record-teachers-conference",
+      "source": "thepress.co.nz",
+      "card_text": "Stanford hit with boos and jeers after defending Treaty record at teachers’ conference"
+    },
+    {
+      "rank": 43,
+      "title": "'AI should assist teachers, not replace them': Union warns of risks of AI marking",
+      "url": "https://odt.co.nz/news/national/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking-ezwrgqb4",
+      "source": "odt.co.nz",
+      "card_text": "'AI should assist teachers, not replace them': Union warns of risks of AI marking"
+    },
+    {
       "rank": 44,
-      "title": "NZ Climate Record Put Before European Commission",
-      "url": "https://waateanews.com/2026/09/30/nz-climate-record-put-before-european-commission",
-      "source": "waateanews.com",
-      "card_text": "NZ Climate Record Put Before European Commission"
+      "title": "Manslaughter charge laid against woman caring for boy who drowned at Napier beach",
+      "url": "https://stuff.co.nz/nz-news/361040299/manslaughter-charge-laid-against-woman-caring-boy-who-drowned-napier-beach",
+      "source": "stuff.co.nz",
+      "card_text": "Manslaughter charge laid against woman caring for boy who drowned at Napier beach"
     },
     {
       "rank": 45,
-      "title": "Kelvin Davidson: Cotality Chief Property Economist on Treasury slashing the house price growth forecast",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/kelvin-davidson-cotality-chief-property-economist-on-treasury-slashing-the-house-price-growth-forecast",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Kelvin Davidson: Cotality Chief Property Economist on Treasury slashing the house price growth forecast"
+      "title": "New speed cameras turned on in Mackenzie District",
+      "url": "https://thepress.co.nz/nz-news/361089889/new-speed-cameras-turned-mackenzie-district",
+      "source": "thepress.co.nz",
+      "card_text": "New speed cameras turned on in Mackenzie District"
     },
     {
       "rank": 46,
-      "title": "ANZ NZ's economists see a nationwide housing market slowdown",
-      "url": "https://interest.co.nz/property/140462/rising-interest-rates-and-economic-uncertainty-are-keeping-buyers-out-housing",
-      "source": "interest.co.nz",
-      "card_text": "ANZ NZ's economists see a nationwide housing market slowdown"
+      "title": "Proposal to reduce flight passenger security levies",
+      "url": "https://beehive.govt.nz/release/proposal-reduce-flight-passenger-security-levies",
+      "source": "beehive.govt.nz",
+      "card_text": "Proposal to reduce flight passenger security levies"
     },
     {
       "rank": 47,
-      "title": "The $1.6m homes nobody wants: the property mismatch keeping boomer sellers stuck",
-      "url": "https://stuff.co.nz/home-property/361039978/16m-homes-nobody-wants-awkward-property-mismatch-keeping-boomer-home-sellers-stuck",
-      "source": "stuff.co.nz",
-      "card_text": "The $1.6m homes nobody wants: the property mismatch keeping boomer sellers stuck"
+      "title": "Parking breaches: Shoppers across NZ being wrongly stung for visiting businesses twice in a day",
+      "url": "https://newstalkzb.co.nz/news/national/parking-breaches-shoppers-across-nz-being-wrongly-stung-for-visiting-businesses-twice-in-a-day",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Parking breaches: Shoppers across NZ being wrongly stung for visiting businesses twice in a day"
     },
     {
       "rank": 48,
-      "title": "Top Auckland principals say pressure on rolls too big, want David Seymour to help out",
-      "url": "https://nzherald.co.nz/nz/top-auckland-principals-say-pressure-on-rolls-too-big-want-david-seymour-to-help-out/QH4GJTYBWZENNITLL5H6HRW5LQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Top Auckland principals say pressure on rolls too big, want David Seymour to help out"
+      "title": "The house price story almost everyone missed",
+      "url": "https://pointofordernz.wordpress.com/2026/09/30/the-house-price-story-almost-everyone-missed",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "The house price story almost everyone missed"
     },
     {
       "rank": 49,
-      "title": "Gloriavale teacher censured for striking student with vacuum cleaner pipe",
-      "url": "https://thepress.co.nz/nz-news/361089769/gloriavale-teacher-censured-striking-student-vacuum-cleaner-pipe",
-      "source": "thepress.co.nz",
-      "card_text": "Gloriavale teacher censured for striking student with vacuum cleaner pipe"
+      "title": "National’s budget boost shifts pressure to Labour to make numbers work",
+      "url": "https://newsroom.co.nz/2026/09/30/nationals-budget-boost-shifts-pressure-to-labour-to-make-numbers-work",
+      "source": "newsroom.co.nz",
+      "card_text": "National’s budget boost shifts pressure to Labour to make numbers work"
     },
     {
       "rank": 50,
-      "title": "Education Experts Sound Warning Over NCEA Replacement",
-      "url": "https://waateanews.com/2026/09/30/education-experts-sound-warning-over-ncea-replacement",
-      "source": "waateanews.com",
-      "card_text": "Education Experts Sound Warning Over NCEA Replacement"
+      "title": "NZ's revised dairy welfare code finally revealed",
+      "url": "https://rnz.co.nz/news/country/1653060/nz-s-revised-dairy-welfare-code-finally-revealed",
+      "source": "rnz.co.nz",
+      "card_text": "NZ's revised dairy welfare code finally revealed"
     }
   ],
   "json_endpoints_observed": [
