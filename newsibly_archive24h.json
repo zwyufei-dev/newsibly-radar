@@ -1,24 +1,408 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-01T12:52:09.381104+00:00",
-  "count": 233,
+  "updated_at_utc": "2026-10-01T13:19:15.969931+00:00",
+  "count": 245,
   "items": [
     {
-      "rank": 40,
+      "rank": 43,
       "title": "ACT’s Waitangi Tribunal policy",
       "url": "https://pointofordernz.wordpress.com/2026/10/01/acts-waitangi-tribunal-policy",
       "source": "pointofordernz.wordpress.com",
       "card_text": "ACT’s Waitangi Tribunal policy David Farrar writes – ACT have released their policy on abolishing the Waitangi Tribunal once it has concluded the historical Treaty claims, and remove its jurisdiction. over contemporary issues. There have been 1,070 contemporary claims made to the Waitangi Tribunal. So far I can only find one of those claims (the 1995 Kiwifruit Marketing Claim) … Continue reading ACT’s Waitangi Tribunal policy → Point of Order Yesterday Politics",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
     },
     {
-      "rank": 9,
+      "rank": 14,
       "title": "Free Breast Screening Extends To Women Aged 71 From Today",
       "url": "https://scoop.co.nz/stories/PA2610/S00006/free-breast-screening-extends-to-women-aged-71-from-today.htm",
       "source": "scoop.co.nz",
       "card_text": "Free Breast Screening Extends To Women Aged 71 From Today",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
+      "url": "https://waateanews.com/2026/10/01/mental-health-alarm-maori-bearing-heavier-burden-of-compulsory-care",
+      "source": "waateanews.com",
+      "card_text": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Strategic Voting in the 2026 Election",
+      "url": "https://goodoil.news/strategic-voting-in-the-2026-election",
+      "source": "goodoil.news",
+      "card_text": "Strategic Voting in the 2026 Election Individuals within National face a disincentive toward an overhang. For high-ranking list figures like Nicola Willis (ranked second) and Chris Bishop (ranked third), an overhang scenario would force them out of parliament entirely. The Good Oil Yesterday Opinion",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
+      "url": "https://waateanews.com/2026/10/01/a-life-of-service-aotearoa-remembers-adrian-rurawhe",
+      "source": "waateanews.com",
+      "card_text": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
+      "url": "https://waateanews.com/2026/10/01/emergency-departments-at-breaking-point-as-demand-hits-record-levels",
+      "source": "waateanews.com",
+      "card_text": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
+      "url": "https://scoop.co.nz/stories/PA2610/S00009/patient-community-helps-improve-access-to-paediatric-cancer-medicines-for-young-kiwis.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
+      "url": "https://newstalkzb.co.nz/news/national/health-nz-records-440-serious-adverse-events-including-59-patient-deaths-in-six-months",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
+      "url": "https://odt.co.nz/business/govt-reverses-lethal-electrical-rule-change-mlpyj4pv",
+      "source": "odt.co.nz",
+      "card_text": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Prevention and support emphasised as Canterbury suicide figures released",
+      "url": "https://chrislynchmedia.com/news-items/prevention-and-support-emphasised-as-canterbury-suicide-figures-released",
+      "source": "chrislynchmedia.com",
+      "card_text": "Prevention and support emphasised as Canterbury suicide figures released",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
+      "url": "https://pointofordernz.wordpress.com/2026/10/01/why-the-us-has-bombed-iran-but-not-north-korea-the-benefits-of-being-best-buddies-with-donald-trump",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Watch: Where Is Chippy? Chris Hipkins Ducks Hard Questions On Labour's Tax Plan",
+      "url": "https://youtube.com/watch?v=ALjQ3MEK3n0",
+      "source": "youtube.com",
+      "card_text": "Watch: Where Is Chippy? Chris Hipkins Ducks Hard Questions On Labour's Tax Plan",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Nearly $4 million announced towards collecting forestry waste to be turned into biofuel",
+      "url": "https://rnz.co.nz/news/environment/1672703/nearly-4-million-announced-towards-collecting-forestry-waste-to-be-turned-into-biofuel",
+      "source": "rnz.co.nz",
+      "card_text": "Nearly $4 million announced towards collecting forestry waste to be turned into biofuel",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Former nurse who ‘violated’ women during massages still thinks he did nothing wrong",
+      "url": "https://stuff.co.nz/nz-news/361041148/former-nurse-who-violated-women-during-massages-still-thinks-he-did-nothing-wrong",
+      "source": "stuff.co.nz",
+      "card_text": "Former nurse who ‘violated’ women during massages still thinks he did nothing wrong",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Woman remembered as ‘so smart and so funny’ after Edgeware murder",
+      "url": "https://chrislynchmedia.com/news-items/woman-remembered-as-so-smart-and-so-funny-after-edgeware-murder",
+      "source": "chrislynchmedia.com",
+      "card_text": "Woman remembered as ‘so smart and so funny’ after Edgeware murder",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Labour leader Chris Hipkins pledges to curb urgency and toughen Official Information Act",
+      "url": "https://businessdesk.co.nz/article/election-2026/labour-leader-chris-hipkins-pledges-to-curb-urgency-and-toughen-official-information-act",
+      "source": "businessdesk.co.nz",
+      "card_text": "Labour leader Chris Hipkins pledges to curb urgency and toughen Official Information Act",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Cycle groups welcome road rule changes but walking advocates cite increased risk",
+      "url": "https://rnz.co.nz/news/community/1673249/cycle-groups-welcome-road-rule-changes-but-walking-advocates-cite-increased-risk",
+      "source": "rnz.co.nz",
+      "card_text": "Cycle groups welcome road rule changes but walking advocates cite increased risk",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Environment Southland Cuts South Port Stake For $30m",
+      "url": "https://whatsoninvers.nz/environment-southland-cuts-south-port-stake-for-30m",
+      "source": "whatsoninvers.nz",
+      "card_text": "Environment Southland Cuts South Port Stake For $30m",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Election race stokes investor fears on policy backflips",
+      "url": "https://odt.co.nz/business/election-race-stokes-investor-fears-on-policy-backflips-kyvjetpg",
+      "source": "odt.co.nz",
+      "card_text": "Election race stokes investor fears on policy backflips",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
+      "url": "https://nzherald.co.nz/nz/auckland/takanini-house-damaged-after-tenants-turn-family-home-into-cannabis-farm-linked-to-vietnamese-organised-crime/B7G7CHKFURCC3DEUBCM3PRNFTM",
+      "source": "nzherald.co.nz",
+      "card_text": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Man who choked ex-partner called her 245 times from prison; appeal bid refused",
+      "url": "https://nzherald.co.nz/nz/crime/man-who-choked-ex-partner-called-her-245-times-from-prison-appeal-bid-refused/ZWDNOBILUBHHDGOLQRKVYJBXOQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Man who choked ex-partner called her 245 times from prison; appeal bid refused",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "A policy to have more overstayers",
+      "url": "https://kiwiblog.co.nz/2026/10/a_policy_to_have_more_overstayers.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "A policy to have more overstayers The Herald reports: The Labour Party cannot say how many additional Pacific Islanders will come to New Zealand under its proposal of visa-waiver travel. The political party announced on Thursday morning it would expand visa-waiver access to citizens from the Pacific Islands Forum nations. A Visa Waiver Visitor Visa allows citizens of particular countries to […] The post A policy to have more overstayers first... Kiwiblog Yesterday Opinion",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "‘Gross abuse of trust’: Massage therapist jailed",
+      "url": "https://odt.co.nz/canterbury/christchurch/gross-abuse-of-trust-christchurh-massage-therapist-jailed-t1l9g9mq",
+      "source": "odt.co.nz",
+      "card_text": "‘Gross abuse of trust’: Massage therapist jailed",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Tuvalu appoints first woman governor-general ahead of 48th Independence Day",
+      "url": "https://asiapacificreport.nz/2026/10/01/tuvalu-appoints-first-woman-governor-general-ahead-of-48th-independence-day",
+      "source": "asiapacificreport.nz",
+      "card_text": "Tuvalu appoints first woman governor-general ahead of 48th Independence Day",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Greg Houston: Houston Kemp founding director on Foodstuffs stepping up efforts to stop National potentially breaking them up",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/greg-houston-houston-kemp-founding-director-on-foodstuffs-stepping-up-efforts-to-stop-national-potentially-breaking-them-up",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Greg Houston: Houston Kemp founding director on Foodstuffs stepping up efforts to stop National potentially breaking them up",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "A nurse asked party leaders how to solve Christchurch’s ED woes - here’s what they said",
+      "url": "https://thepress.co.nz/nz-news/361091183/kingmakers-debate-how-minor-party-leaders-propose-solving-christchurchs-ed-woes",
+      "source": "thepress.co.nz",
+      "card_text": "A nurse asked party leaders how to solve Christchurch’s ED woes - here’s what they said",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
+      "url": "https://newstalkzb.co.nz/news/crime/takanini-house-damaged-after-tenants-turn-family-home-into-cannabis-farm-linked-to-vietnamese-organised-crime",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Massage therapist jailed for more than 11 years on sexual offence charges",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1673775/massage-therapist-jailed-for-more-than-11-years-on-sexual-offence-charges",
+      "source": "rnz.co.nz",
+      "card_text": "Massage therapist jailed for more than 11 years on sexual offence charges",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Election 2026: Act candidate Antonia Modkova heckled over Te Tiriti comments at Auckland Central debate",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-act-candidate-antonia-modkova-heckled-over-te-tiriti-comments-at-auckland-central-debate",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026: Act candidate Antonia Modkova heckled over Te Tiriti comments at Auckland Central debate",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Search for missing woman Erika Rodrigues Coelho continues",
+      "url": "https://rnz.co.nz/news/emergencies_local/1674276/search-for-missing-woman-erika-rodrigues-coelho-continues",
+      "source": "rnz.co.nz",
+      "card_text": "Search for missing woman Erika Rodrigues Coelho continues",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Pharmacist censured over prescription checks, controlled drugs and unqualified staff",
+      "url": "https://stuff.co.nz/nz-news/361041215/pharmacist-censured-over-prescription-checks-controlled-drugs-and-unqualified-staff",
+      "source": "stuff.co.nz",
+      "card_text": "Pharmacist censured over prescription checks, controlled drugs and unqualified staff",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Auckland Airport rebuild: Airlines to share kiosks and automated bag drops, 240m pier advances",
+      "url": "https://nzherald.co.nz/business/companies/airlines/auckland-airport-rebuild-airlines-to-share-kiosks-and-automated-bag-drops-240m-long-pier-advances/premium/SWV3E53L4RCCHBPDAJTIEKVUAY",
+      "source": "nzherald.co.nz",
+      "card_text": "Auckland Airport rebuild: Airlines to share kiosks and automated bag drops, 240m pier advances",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "American Samoa environmental group sues US govt over deep sea mining plans",
+      "url": "https://asiapacificreport.nz/2026/10/01/american-samoa-environmental-group-sues-us-govt-over-deep-sea-mining-plans",
+      "source": "asiapacificreport.nz",
+      "card_text": "American Samoa environmental group sues US govt over deep sea mining plans",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Luke Malpass: ‘Kingmakers’ set high bar for the would-be kings",
+      "url": "https://thepress.co.nz/politics/361091201/press-kingmakers-debate-kingmakers-set-standard-would-be-kings",
+      "source": "thepress.co.nz",
+      "card_text": "Luke Malpass: ‘Kingmakers’ set high bar for the would-be kings",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Retirement village rule changes welcomed",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/retirement-village-rule-changes-welcomed-puc42fco",
+      "source": "odt.co.nz",
+      "card_text": "Retirement village rule changes welcomed",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Residents oppose Fast-track of housing developments",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/residents-oppose-fast-track-of-housing-developments-w2a5rhv5",
+      "source": "odt.co.nz",
+      "card_text": "Residents oppose Fast-track of housing developments",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "url": "https://bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Watch: Labour promises crackdown on hidden fees as National vows to ditch paper passports | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=A55wrfSgY1M",
+      "source": "youtube.com",
+      "card_text": "Watch: Labour promises crackdown on hidden fees as National vows to ditch paper passports | Stuff.co.nz",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Heartland shareholders back TSB takeover",
+      "url": "https://interest.co.nz/banking/140488/heartland-shareholders-approve-620-million-tsb-takeover-establish-challenger-bank",
+      "source": "interest.co.nz",
+      "card_text": "Heartland shareholders back TSB takeover",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Palestinian-led parties in Israel face ‘institutional discrimination’, says lawyer",
+      "url": "https://asiapacificreport.nz/2026/10/02/palestinian-led-parties-in-israel-face-institutional-discrimination-says-lawyer",
+      "source": "asiapacificreport.nz",
+      "card_text": "Palestinian-led parties in Israel face ‘institutional discrimination’, says lawyer",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Tokyo court grants legal protection to human voices in AI clone case",
+      "url": "https://stuff.co.nz/world-news/361041347/tokyo-court-grants-legal-protection-human-voices-ai-cl",
+      "source": "stuff.co.nz",
+      "card_text": "Tokyo court grants legal protection to human voices in AI clone case",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Labour targets hidden fees in latest election policy",
+      "url": "https://interest.co.nz/personal-finance/140493/labour-promising-stop-companies-%E2%80%98heaping-extra-fees-trapping-people",
+      "source": "interest.co.nz",
+      "card_text": "Labour targets hidden fees in latest election policy",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "RBNZ will need to raise OCR by more than it assumed - Westpac economist",
+      "url": "https://interest.co.nz/economy/140487/reserve-bank-will-need-raise-ocr-more-it-assumed-westpac-senior-economist-satish",
+      "source": "interest.co.nz",
+      "card_text": "RBNZ will need to raise OCR by more than it assumed - Westpac economist",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
+      "url": "https://bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Large build up of unsold housing stock on the market for start of the spring/summer season",
+      "url": "https://interest.co.nz/property/140492/stock-levels-realestateconz-are-asking-prices-are-flat-overall-vary-across-regions",
+      "source": "interest.co.nz",
+      "card_text": "Large build up of unsold housing stock on the market for start of the spring/summer season",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "NZ's median dwelling value has fallen for six consecutive months",
+      "url": "https://interest.co.nz/property/140475/cotality-says-housing-market-remains-subdued-property-values-continuing-edge-lower",
+      "source": "interest.co.nz",
+      "card_text": "NZ's median dwelling value has fallen for six consecutive months",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "url": "https://bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "What happened in failed execution of Christa Pike - and what next?",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Financial hardship up 40% over three years",
+      "url": "https://interest.co.nz/personal-finance/140480/latest-centrix-data-shows-financial-hardship-rise-personal-loan-hardship",
+      "source": "interest.co.nz",
+      "card_text": "Financial hardship up 40% over three years",
+      "discovered_at_utc": "2026-10-01T13:19:15.969931+00:00"
     },
     {
       "rank": 28,
@@ -26,78 +410,6 @@
       "url": "https://stuff.co.nz/nz-news/361040866/el-nino-takes-hold-and-track-be-one-strongest-record",
       "source": "stuff.co.nz",
       "card_text": "El Niño takes hold and is on track to be one of strongest on record",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
-      "url": "https://waateanews.com/2026/10/01/mental-health-alarm-maori-bearing-heavier-burden-of-compulsory-care",
-      "source": "waateanews.com",
-      "card_text": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Strategic Voting in the 2026 Election",
-      "url": "https://goodoil.news/strategic-voting-in-the-2026-election",
-      "source": "goodoil.news",
-      "card_text": "Strategic Voting in the 2026 Election Individuals within National face a disincentive toward an overhang. For high-ranking list figures like Nicola Willis (ranked second) and Chris Bishop (ranked third), an overhang scenario would force them out of parliament entirely. The Good Oil Yesterday Opinion",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
-      "url": "https://waateanews.com/2026/10/01/a-life-of-service-aotearoa-remembers-adrian-rurawhe",
-      "source": "waateanews.com",
-      "card_text": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
-      "url": "https://waateanews.com/2026/10/01/emergency-departments-at-breaking-point-as-demand-hits-record-levels",
-      "source": "waateanews.com",
-      "card_text": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
-      "url": "https://scoop.co.nz/stories/PA2610/S00009/patient-community-helps-improve-access-to-paediatric-cancer-medicines-for-young-kiwis.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
-      "url": "https://newstalkzb.co.nz/news/national/health-nz-records-440-serious-adverse-events-including-59-patient-deaths-in-six-months",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
-      "url": "https://odt.co.nz/business/govt-reverses-lethal-electrical-rule-change-mlpyj4pv",
-      "source": "odt.co.nz",
-      "card_text": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Prevention and support emphasised as Canterbury suicide figures released",
-      "url": "https://chrislynchmedia.com/news-items/prevention-and-support-emphasised-as-canterbury-suicide-figures-released",
-      "source": "chrislynchmedia.com",
-      "card_text": "Prevention and support emphasised as Canterbury suicide figures released",
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
@@ -109,38 +421,6 @@
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
-      "rank": 8,
-      "title": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
-      "url": "https://pointofordernz.wordpress.com/2026/10/01/why-the-us-has-bombed-iran-but-not-north-korea-the-benefits-of-being-best-buddies-with-donald-trump",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Watch: Where Is Chippy? Chris Hipkins Ducks Hard Questions On Labour's Tax Plan",
-      "url": "https://youtube.com/watch?v=ALjQ3MEK3n0",
-      "source": "youtube.com",
-      "card_text": "Watch: Where Is Chippy? Chris Hipkins Ducks Hard Questions On Labour's Tax Plan",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Nearly $4 million announced towards collecting forestry waste to be turned into biofuel",
-      "url": "https://rnz.co.nz/news/environment/1672703/nearly-4-million-announced-towards-collecting-forestry-waste-to-be-turned-into-biofuel",
-      "source": "rnz.co.nz",
-      "card_text": "Nearly $4 million announced towards collecting forestry waste to be turned into biofuel",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Former nurse who ‘violated’ women during massages still thinks he did nothing wrong",
-      "url": "https://stuff.co.nz/nz-news/361041148/former-nurse-who-violated-women-during-massages-still-thinks-he-did-nothing-wrong",
-      "source": "stuff.co.nz",
-      "card_text": "Former nurse who ‘violated’ women during massages still thinks he did nothing wrong",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
       "rank": 44,
       "title": "Wet and windy end to first week of school holidays, weather alerts in place",
       "url": "https://newstalkzb.co.nz/news/national/wet-and-windy-end-to-first-week-of-school-holidays-weather-alerts-in-place",
@@ -149,67 +429,11 @@
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
-      "rank": 5,
-      "title": "Woman remembered as ‘so smart and so funny’ after Edgeware murder",
-      "url": "https://chrislynchmedia.com/news-items/woman-remembered-as-so-smart-and-so-funny-after-edgeware-murder",
-      "source": "chrislynchmedia.com",
-      "card_text": "Woman remembered as ‘so smart and so funny’ after Edgeware murder",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
       "rank": 15,
       "title": "New Zealanders want to retain access to cash",
       "url": "https://rnz.co.nz/news/personal-finance/1669001/new-zealanders-want-to-retain-access-to-cash",
       "source": "rnz.co.nz",
       "card_text": "New Zealanders want to retain access to cash",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Labour leader Chris Hipkins pledges to curb urgency and toughen Official Information Act",
-      "url": "https://businessdesk.co.nz/article/election-2026/labour-leader-chris-hipkins-pledges-to-curb-urgency-and-toughen-official-information-act",
-      "source": "businessdesk.co.nz",
-      "card_text": "Labour leader Chris Hipkins pledges to curb urgency and toughen Official Information Act",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Cycle groups welcome road rule changes but walking advocates cite increased risk",
-      "url": "https://rnz.co.nz/news/community/1673249/cycle-groups-welcome-road-rule-changes-but-walking-advocates-cite-increased-risk",
-      "source": "rnz.co.nz",
-      "card_text": "Cycle groups welcome road rule changes but walking advocates cite increased risk",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Environment Southland Cuts South Port Stake For $30m",
-      "url": "https://whatsoninvers.nz/environment-southland-cuts-south-port-stake-for-30m",
-      "source": "whatsoninvers.nz",
-      "card_text": "Environment Southland Cuts South Port Stake For $30m",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Election race stokes investor fears on policy backflips",
-      "url": "https://odt.co.nz/business/election-race-stokes-investor-fears-on-policy-backflips-kyvjetpg",
-      "source": "odt.co.nz",
-      "card_text": "Election race stokes investor fears on policy backflips",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
-      "url": "https://nzherald.co.nz/nz/auckland/takanini-house-damaged-after-tenants-turn-family-home-into-cannabis-farm-linked-to-vietnamese-organised-crime/B7G7CHKFURCC3DEUBCM3PRNFTM",
-      "source": "nzherald.co.nz",
-      "card_text": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Man who choked ex-partner called her 245 times from prison; appeal bid refused",
-      "url": "https://nzherald.co.nz/nz/crime/man-who-choked-ex-partner-called-her-245-times-from-prison-appeal-bid-refused/ZWDNOBILUBHHDGOLQRKVYJBXOQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Man who choked ex-partner called her 245 times from prison; appeal bid refused",
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
@@ -226,38 +450,6 @@
       "url": "https://beehive.govt.nz/release/beekeepers-get-more-certainty-american-foulbrood-management",
       "source": "beehive.govt.nz",
       "card_text": "Beekeepers get more certainty on American foulbrood management",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "A policy to have more overstayers",
-      "url": "https://kiwiblog.co.nz/2026/10/a_policy_to_have_more_overstayers.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "A policy to have more overstayers The Herald reports: The Labour Party cannot say how many additional Pacific Islanders will come to New Zealand under its proposal of visa-waiver travel. The political party announced on Thursday morning it would expand visa-waiver access to citizens from the Pacific Islands Forum nations. A Visa Waiver Visitor Visa allows citizens of particular countries to […] The post A policy to have more overstayers first... Kiwiblog Yesterday Opinion",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "‘Gross abuse of trust’: Massage therapist jailed",
-      "url": "https://odt.co.nz/canterbury/christchurch/gross-abuse-of-trust-christchurh-massage-therapist-jailed-t1l9g9mq",
-      "source": "odt.co.nz",
-      "card_text": "‘Gross abuse of trust’: Massage therapist jailed",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Tuvalu appoints first woman governor-general ahead of 48th Independence Day",
-      "url": "https://asiapacificreport.nz/2026/10/01/tuvalu-appoints-first-woman-governor-general-ahead-of-48th-independence-day",
-      "source": "asiapacificreport.nz",
-      "card_text": "Tuvalu appoints first woman governor-general ahead of 48th Independence Day",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Greg Houston: Houston Kemp founding director on Foodstuffs stepping up efforts to stop National potentially breaking them up",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/greg-houston-houston-kemp-founding-director-on-foodstuffs-stepping-up-efforts-to-stop-national-potentially-breaking-them-up",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Greg Houston: Houston Kemp founding director on Foodstuffs stepping up efforts to stop National potentially breaking them up",
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
@@ -293,38 +485,6 @@
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
-      "rank": 2,
-      "title": "A nurse asked party leaders how to solve Christchurch’s ED woes - here’s what they said",
-      "url": "https://thepress.co.nz/nz-news/361091183/kingmakers-debate-how-minor-party-leaders-propose-solving-christchurchs-ed-woes",
-      "source": "thepress.co.nz",
-      "card_text": "A nurse asked party leaders how to solve Christchurch’s ED woes - here’s what they said",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
-      "url": "https://newstalkzb.co.nz/news/crime/takanini-house-damaged-after-tenants-turn-family-home-into-cannabis-farm-linked-to-vietnamese-organised-crime",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Takanini house damaged after tenants turn family home into cannabis farm linked to Vietnamese organised crime",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Massage therapist jailed for more than 11 years on sexual offence charges",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1673775/massage-therapist-jailed-for-more-than-11-years-on-sexual-offence-charges",
-      "source": "rnz.co.nz",
-      "card_text": "Massage therapist jailed for more than 11 years on sexual offence charges",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Election 2026: Act candidate Antonia Modkova heckled over Te Tiriti comments at Auckland Central debate",
-      "url": "https://newstalkzb.co.nz/news/politics/election-2026-act-candidate-antonia-modkova-heckled-over-te-tiriti-comments-at-auckland-central-debate",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Election 2026: Act candidate Antonia Modkova heckled over Te Tiriti comments at Auckland Central debate",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
       "rank": 42,
       "title": "Gloriavale teacher Malachi Faithful censured over vacuum pipe assault on student",
       "url": "https://nzherald.co.nz/nz/gloriavale-teacher-malachi-faithful-censured-over-vacuum-pipe-assault-on-student/YGABAYZZ3ZC4LOGZ3K7VCC6ZDI",
@@ -333,59 +493,11 @@
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
-      "rank": 43,
-      "title": "Search for missing woman Erika Rodrigues Coelho continues",
-      "url": "https://rnz.co.nz/news/emergencies_local/1674276/search-for-missing-woman-erika-rodrigues-coelho-continues",
-      "source": "rnz.co.nz",
-      "card_text": "Search for missing woman Erika Rodrigues Coelho continues",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Pharmacist censured over prescription checks, controlled drugs and unqualified staff",
-      "url": "https://stuff.co.nz/nz-news/361041215/pharmacist-censured-over-prescription-checks-controlled-drugs-and-unqualified-staff",
-      "source": "stuff.co.nz",
-      "card_text": "Pharmacist censured over prescription checks, controlled drugs and unqualified staff",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "Auckland Airport rebuild: Airlines to share kiosks and automated bag drops, 240m pier advances",
-      "url": "https://nzherald.co.nz/business/companies/airlines/auckland-airport-rebuild-airlines-to-share-kiosks-and-automated-bag-drops-240m-long-pier-advances/premium/SWV3E53L4RCCHBPDAJTIEKVUAY",
-      "source": "nzherald.co.nz",
-      "card_text": "Auckland Airport rebuild: Airlines to share kiosks and automated bag drops, 240m pier advances",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "url": "https://bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "American Samoa environmental group sues US govt over deep sea mining plans",
-      "url": "https://asiapacificreport.nz/2026/10/01/american-samoa-environmental-group-sues-us-govt-over-deep-sea-mining-plans",
-      "source": "asiapacificreport.nz",
-      "card_text": "American Samoa environmental group sues US govt over deep sea mining plans",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
       "rank": 18,
       "title": "Pete Hegseth taps Elon Musk to shape future of US warfare",
       "url": "https://stuff.co.nz/world-news/361041204/pete-hegseth-taps-elon-musk-shape-future-us-warfare",
       "source": "stuff.co.nz",
       "card_text": "Pete Hegseth taps Elon Musk to shape future of US warfare",
-      "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "Luke Malpass: ‘Kingmakers’ set high bar for the would-be kings",
-      "url": "https://thepress.co.nz/politics/361091201/press-kingmakers-debate-kingmakers-set-standard-would-be-kings",
-      "source": "thepress.co.nz",
-      "card_text": "Luke Malpass: ‘Kingmakers’ set high bar for the would-be kings",
       "discovered_at_utc": "2026-10-01T12:52:09.381104+00:00"
     },
     {
@@ -794,22 +906,6 @@
       "url": "https://rnz.co.nz/news/pacific/1668555/fiji-election-strict-campaign-rules-set-for-parties-and-candidates",
       "source": "rnz.co.nz",
       "card_text": "Fiji election: Strict campaign rules set for parties and candidates",
-      "discovered_at_utc": "2026-10-01T04:16:37.428574+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Retirement village rule changes welcomed",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/retirement-village-rule-changes-welcomed-puc42fco",
-      "source": "odt.co.nz",
-      "card_text": "Retirement village rule changes welcomed",
-      "discovered_at_utc": "2026-10-01T04:16:37.428574+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Residents oppose Fast-track of housing developments",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/residents-oppose-fast-track-of-housing-developments-w2a5rhv5",
-      "source": "odt.co.nz",
-      "card_text": "Residents oppose Fast-track of housing developments",
       "discovered_at_utc": "2026-10-01T04:16:37.428574+00:00"
     },
     {
