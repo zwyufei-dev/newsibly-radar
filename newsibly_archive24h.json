@@ -1,23 +1,415 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-01T02:21:02.894280+00:00",
-  "count": 230,
+  "updated_at_utc": "2026-10-01T02:45:27.923850+00:00",
+  "count": 245,
   "items": [
+    {
+      "rank": 43,
+      "title": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
+      "url": "https://chrislynchmedia.com/news-items/air-nz-flight-descended-dangerously-low-as-investigation-exposes-safety-and-regulatory-failures",
+      "source": "chrislynchmedia.com",
+      "card_text": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Council ups weed budget",
+      "url": "https://cambridgenews.nz/2026/10/council-ups-weed-budget",
+      "source": "cambridgenews.nz",
+      "card_text": "Council ups weed budget Waikato Regional Council has topped up its budget to control an invasive weed in Lake Karāpiro. It has set aside another $85,000 for a 2026-27 hornwort spraying programme. Hornwort is regarded as the country’s worst... Cambridge News Today 7:00 am Environment",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "url": "https://stuff.co.nz/world-news/361040817/russia-warns-nato-possible-nuclear-response-if-kalining",
+      "source": "stuff.co.nz",
+      "card_text": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "How to cut public sector jobs? A much more aggressive approach to AI",
+      "url": "https://rnz.co.nz/news/politics/1667042/how-to-cut-public-sector-jobs-a-much-more-aggressive-approach-to-ai",
+      "source": "rnz.co.nz",
+      "card_text": "How to cut public sector jobs? A much more aggressive approach to AI",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Heartland shareholders approve $620m buy of TSB Bank",
+      "url": "https://businessdesk.co.nz/article/finance/heartland-shareholders-approve-620m-buy-of-tsb-bank",
+      "source": "businessdesk.co.nz",
+      "card_text": "Heartland shareholders approve $620m buy of TSB Bank",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Early Bird: Business hiring craters in late Sept",
+      "url": "https://thekaka.substack.com/p/early-bird-business-hiring-craters",
+      "source": "thekaka.substack.com",
+      "card_text": "Early Bird: Business hiring craters in late Sept",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
+      "url": "https://thespinoff.co.nz/the-bulletin/30-09-2026/hanging-in-the-balance-hutt-south-mt-albert-and-a-potential-overhang",
+      "source": "thespinoff.co.nz",
+      "card_text": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Call for urgent action to improve dementia care",
+      "url": "https://rnz.co.nz/news/health/1665514/call-for-urgent-action-to-improve-dementia-care",
+      "source": "rnz.co.nz",
+      "card_text": "Call for urgent action to improve dementia care",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "ACT’s Waitangi Tribunal policy",
+      "url": "https://pointofordernz.wordpress.com/2026/10/01/acts-waitangi-tribunal-policy",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "ACT’s Waitangi Tribunal policy David Farrar writes – ACT have released their policy on abolishing the Waitangi Tribunal once it has concluded the historical Treaty claims, and remove its jurisdiction. over contemporary issues. There have been 1,070 contemporary claims made to the Waitangi Tribunal. So far I can only find one of those claims (the 1995 Kiwifruit Marketing Claim) … Continue reading ACT’s Waitangi Tribunal policy → Point of Order Today 9:07 am Politics",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Free Breast Screening Extends To Women Aged 71 From Today",
+      "url": "https://scoop.co.nz/stories/PA2610/S00006/free-breast-screening-extends-to-women-aged-71-from-today.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Free Breast Screening Extends To Women Aged 71 From Today",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "New explorer seeks second petroleum permit",
+      "url": "https://beehive.govt.nz/release/new-explorer-seeks-second-petroleum-permit",
+      "source": "beehive.govt.nz",
+      "card_text": "New explorer seeks second petroleum permit",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "El Niño takes hold and is on track to be one of strongest on record",
+      "url": "https://stuff.co.nz/nz-news/361040866/el-nino-takes-hold-and-track-be-one-strongest-record",
+      "source": "stuff.co.nz",
+      "card_text": "El Niño takes hold and is on track to be one of strongest on record",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Auckland sellers get real: Asking prices below $1m",
+      "url": "https://rnz.co.nz/news/business/1665146/auckland-sellers-get-real-asking-prices-below-1m",
+      "source": "rnz.co.nz",
+      "card_text": "Auckland sellers get real: Asking prices below $1m",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Planning changes to support Wellington’s growth",
+      "url": "https://beehive.govt.nz/release/planning-changes-support-wellingtons-growth",
+      "source": "beehive.govt.nz",
+      "card_text": "Planning changes to support Wellington’s growth",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
+      "url": "https://thepress.co.nz/nz-news/361090442/cashmere-club-loses-bar-licence-three-months-following-members-utterly-preventable-death",
+      "source": "thepress.co.nz",
+      "card_text": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Pawn to Queen – and the unspoken clash of the campaign",
+      "url": "https://newsroom.co.nz/2026/10/01/mt-albert-and-the-unspoken-clash-of-the-campaign",
+      "source": "newsroom.co.nz",
+      "card_text": "Pawn to Queen – and the unspoken clash of the campaign",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "url": "https://bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
+      "url": "https://waateanews.com/2026/10/01/mental-health-alarm-maori-bearing-heavier-burden-of-compulsory-care",
+      "source": "waateanews.com",
+      "card_text": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Violent crime and the ‘highly victimised’ on the rise as election looms",
+      "url": "https://nzherald.co.nz/nz/politics/violent-crime-and-the-highly-victimised-on-the-rise-as-election-looms/premium/NTLCJUIV4FASZFSNS7XRCBFQTQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Violent crime and the ‘highly victimised’ on the rise as election looms",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury records 47 serious adverse events in first national Health NZ report",
+      "url": "https://chrislynchmedia.com/news-items/canterbury-records-47-serious-adverse-events-in-first-national-health-nz-report",
+      "source": "chrislynchmedia.com",
+      "card_text": "Canterbury records 47 serious adverse events in first national Health NZ report",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "RBNZ begins work with banks on cash access",
+      "url": "https://businessdesk.co.nz/article/finance/rbnz-begins-work-with-banks-on-cash-access",
+      "source": "businessdesk.co.nz",
+      "card_text": "RBNZ begins work with banks on cash access",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Strategic Voting in the 2026 Election",
+      "url": "https://goodoil.news/strategic-voting-in-the-2026-election",
+      "source": "goodoil.news",
+      "card_text": "Strategic Voting in the 2026 Election Individuals within National face a disincentive toward an overhang. For high-ranking list figures like Nicola Willis (ranked second) and Chris Bishop (ranked third), an overhang scenario would force them out of parliament entirely. The Good Oil Today 12:00 pm Opinion",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Capital gains tax starts to shift the debate from being stuck on repeat",
+      "url": "https://newsroom.co.nz/2026/10/01/labours-capital-gains-tax-shifts-the-tax-debate-from-being-stuck-on-repeat",
+      "source": "newsroom.co.nz",
+      "card_text": "Capital gains tax starts to shift the debate from being stuck on repeat",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Labour would stop ministers walking straight into lobbying jobs, Hipkins promises",
+      "url": "https://chrislynchmedia.com/news-items/labour-would-stop-ministers-walking-straight-into-lobbying-jobs-hipkins-promises",
+      "source": "chrislynchmedia.com",
+      "card_text": "Labour would stop ministers walking straight into lobbying jobs, Hipkins promises",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
+      "url": "https://waateanews.com/2026/10/01/a-life-of-service-aotearoa-remembers-adrian-rurawhe",
+      "source": "waateanews.com",
+      "card_text": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "‘Economic mirage’: Foodstuffs attacks break-up plan, report it commissioned disputes benefits",
+      "url": "https://thepress.co.nz/business/361090691/foodstuffs-steps-attack-break-plan-report-it-commissioned-disputes-benefits",
+      "source": "thepress.co.nz",
+      "card_text": "‘Economic mirage’: Foodstuffs attacks break-up plan, report it commissioned disputes benefits",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "The children dying in India's remote tribal heartland",
+      "url": "https://bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "The children dying in India's remote tribal heartland",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Fiji election: Strict campaign rules set for parties and candidates",
+      "url": "https://rnz.co.nz/news/pacific/1668555/fiji-election-strict-campaign-rules-set-for-parties-and-candidates",
+      "source": "rnz.co.nz",
+      "card_text": "Fiji election: Strict campaign rules set for parties and candidates",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
+      "url": "https://waateanews.com/2026/10/01/emergency-departments-at-breaking-point-as-demand-hits-record-levels",
+      "source": "waateanews.com",
+      "card_text": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
+      "url": "https://scoop.co.nz/stories/PA2610/S00009/patient-community-helps-improve-access-to-paediatric-cancer-medicines-for-young-kiwis.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Nitrate issue ‘hasn’t gone away’, former ECan chair says",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/nitrate-issue-hasnt-gone-away-former-ecan-chair-says-hshbr52l",
+      "source": "odt.co.nz",
+      "card_text": "Nitrate issue ‘hasn’t gone away’, former ECan chair says",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Retirement village rule changes welcomed",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/retirement-village-rule-changes-welcomed-puc42fco",
+      "source": "odt.co.nz",
+      "card_text": "Retirement village rule changes welcomed",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Residents oppose Fast-track of housing developments",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/residents-oppose-fast-track-of-housing-developments-w2a5rhv5",
+      "source": "odt.co.nz",
+      "card_text": "Residents oppose Fast-track of housing developments",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
+      "url": "https://newstalkzb.co.nz/news/national/health-nz-records-440-serious-adverse-events-including-59-patient-deaths-in-six-months",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Health NZ records 440 serious adverse events, including 59 patient deaths in six months",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
+      "url": "https://odt.co.nz/business/govt-reverses-lethal-electrical-rule-change-mlpyj4pv",
+      "source": "odt.co.nz",
+      "card_text": "Warnings heeded: Govt reverses 'lethal' electrical rule change",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Labour unveils ‘Fair Go Law’ policy to combat hidden fees",
+      "url": "https://businessdesk.co.nz/article/news-in-brief/labour-unveils-fair-go-law-policy-to-combat-hidden-fees",
+      "source": "businessdesk.co.nz",
+      "card_text": "Labour unveils ‘Fair Go Law’ policy to combat hidden fees",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Election 2026: Labour will abolish ratepayer roll, axing extra votes of landlords, holiday home owners",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-labour-will-abolish-ratepayer-roll-axing-extra-votes-of-landlords-holiday-home-owners",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026: Labour will abolish ratepayer roll, axing extra votes of landlords, holiday home owners",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Australian sports giant completes $130m takeover of NZ media business",
+      "url": "https://stuff.co.nz/nz-news/361041117/australian-sports-giant-completes-130m-mediaworks-takeover",
+      "source": "stuff.co.nz",
+      "card_text": "Australian sports giant completes $130m takeover of NZ media business",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Rocket Lab inks largest-ever Electron launch contract",
+      "url": "https://nzherald.co.nz/business/rocket-lab-inks-largest-ever-electron-launch-contract/premium/B6CDTUUNI5GCVL5HA6JVKZRBGI",
+      "source": "nzherald.co.nz",
+      "card_text": "Rocket Lab inks largest-ever Electron launch contract",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Australia ditches card surcharges, small businesses cry foul",
+      "url": "https://odt.co.nz/news/world/australia-ditches-card-surcharges-small-businesses-cry-foul-qpwtrnbn",
+      "source": "odt.co.nz",
+      "card_text": "Australia ditches card surcharges, small businesses cry foul",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Prevention and support emphasised as Canterbury suicide figures released",
+      "url": "https://chrislynchmedia.com/news-items/prevention-and-support-emphasised-as-canterbury-suicide-figures-released",
+      "source": "chrislynchmedia.com",
+      "card_text": "Prevention and support emphasised as Canterbury suicide figures released",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Newly regulated physician associates able to register from today",
+      "url": "https://rnz.co.nz/news/health/1669372/newly-regulated-physician-associates-able-to-register-from-today",
+      "source": "rnz.co.nz",
+      "card_text": "Newly regulated physician associates able to register from today",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
+      "url": "https://pointofordernz.wordpress.com/2026/10/01/why-the-us-has-bombed-iran-but-not-north-korea-the-benefits-of-being-best-buddies-with-donald-trump",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Why the US has bombed Iran but not North Korea – the benefits of being best buddies with Donald Trump",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Election 2026: Labour to ban ‘hidden fees’ with new consumer protections",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-labour-to-ban-hidden-fees-with-new-consumer-protections",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026: Labour to ban ‘hidden fees’ with new consumer protections",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Trust In Government",
+      "url": "https://scoop.co.nz/stories/PA2610/S00012/trust-in-government.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Trust In Government Chris Hipkins speech to the Law Association of NZ: People lose confidence in a government. If it happens often enough, they can lose confidence that changing the government will make any difference. Scoop Today 1:36 pm Politics",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Labour pledges law to stop businesses 'tricking' customers",
+      "url": "https://odt.co.nz/business/labour-pledges-law-to-stop-businesses-tricking-customers-em4pj8f8",
+      "source": "odt.co.nz",
+      "card_text": "Labour pledges law to stop businesses 'tricking' customers",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Labour wants mandatory lobbyist register, promises to limit use of urgency",
+      "url": "https://thepress.co.nz/politics/361090814/labour-wants-mandatory-lobbyist-register-promises-limit-use-urgency",
+      "source": "thepress.co.nz",
+      "card_text": "Labour wants mandatory lobbyist register, promises to limit use of urgency",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "url": "https://bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "discovered_at_utc": "2026-10-01T02:45:27.923850+00:00"
+    },
     {
       "rank": 40,
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
-      "url": "https://chrislynchmedia.com/news-items/air-nz-flight-descended-dangerously-low-as-investigation-exposes-safety-and-regulatory-failures",
-      "source": "chrislynchmedia.com",
-      "card_text": "Air NZ flight descended dangerously low as investigation exposes safety and regulatory failures",
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
@@ -29,67 +421,11 @@
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
-      "rank": 49,
-      "title": "Council ups weed budget",
-      "url": "https://cambridgenews.nz/2026/10/council-ups-weed-budget",
-      "source": "cambridgenews.nz",
-      "card_text": "Council ups weed budget Waikato Regional Council has topped up its budget to control an invasive weed in Lake Karāpiro. It has set aside another $85,000 for a 2026-27 hornwort spraying programme. Hornwort is regarded as the country’s worst... Cambridge News Today 7:00 am Environment",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
-      "url": "https://stuff.co.nz/world-news/361040817/russia-warns-nato-possible-nuclear-response-if-kalining",
-      "source": "stuff.co.nz",
-      "card_text": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "How to cut public sector jobs? A much more aggressive approach to AI",
-      "url": "https://rnz.co.nz/news/politics/1667042/how-to-cut-public-sector-jobs-a-much-more-aggressive-approach-to-ai",
-      "source": "rnz.co.nz",
-      "card_text": "How to cut public sector jobs? A much more aggressive approach to AI",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Heartland shareholders approve $620m buy of TSB Bank",
-      "url": "https://businessdesk.co.nz/article/finance/heartland-shareholders-approve-620m-buy-of-tsb-bank",
-      "source": "businessdesk.co.nz",
-      "card_text": "Heartland shareholders approve $620m buy of TSB Bank",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Early Bird: Business hiring craters in late Sept",
-      "url": "https://thekaka.substack.com/p/early-bird-business-hiring-craters",
-      "source": "thekaka.substack.com",
-      "card_text": "Early Bird: Business hiring craters in late Sept",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
-      "url": "https://thespinoff.co.nz/the-bulletin/30-09-2026/hanging-in-the-balance-hutt-south-mt-albert-and-a-potential-overhang",
-      "source": "thespinoff.co.nz",
-      "card_text": "Hanging in the balance: Hutt South, Mt Albert and a potential overhang",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
       "rank": 24,
       "title": "Heroes save over 100 lives",
       "url": "https://kiwiblog.co.nz/2026/10/heroes_save_over_100_lives.html",
       "source": "kiwiblog.co.nz",
       "card_text": "Heroes save over 100 lives Kiwiblog Today 7:25 am",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Call for urgent action to improve dementia care",
-      "url": "https://rnz.co.nz/news/health/1665514/call-for-urgent-action-to-improve-dementia-care",
-      "source": "rnz.co.nz",
-      "card_text": "Call for urgent action to improve dementia care",
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
@@ -109,30 +445,6 @@
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
-      "rank": 6,
-      "title": "ACT’s Waitangi Tribunal policy",
-      "url": "https://pointofordernz.wordpress.com/2026/10/01/acts-waitangi-tribunal-policy",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "ACT’s Waitangi Tribunal policy David Farrar writes – ACT have released their policy on abolishing the Waitangi Tribunal once it has concluded the historical Treaty claims, and remove its jurisdiction. over contemporary issues. There have been 1,070 contemporary claims made to the Waitangi Tribunal. So far I can only find one of those claims (the 1995 Kiwifruit Marketing Claim) … Continue reading ACT’s Waitangi Tribunal policy → Point of Order Today 9:07 am Politics",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Free Breast Screening Extends To Women Aged 71 From Today",
-      "url": "https://scoop.co.nz/stories/PA2610/S00006/free-breast-screening-extends-to-women-aged-71-from-today.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Free Breast Screening Extends To Women Aged 71 From Today",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "New explorer seeks second petroleum permit",
-      "url": "https://beehive.govt.nz/release/new-explorer-seeks-second-petroleum-permit",
-      "source": "beehive.govt.nz",
-      "card_text": "New explorer seeks second petroleum permit",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
       "rank": 17,
       "title": "Election 2026 Policy Grid: Education, health, housing, tax – every major party policy so far",
       "url": "https://nzherald.co.nz/nz/politics/election-2026-education-health-housing-tax-every-major-party-policy-so-far/premium/FWB6GDGKLVAIRBHCPDWFQ7ISX4",
@@ -149,38 +461,6 @@
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
-      "rank": 28,
-      "title": "El Niño takes hold and is on track to be one of strongest on record",
-      "url": "https://stuff.co.nz/nz-news/361040866/el-nino-takes-hold-and-track-be-one-strongest-record",
-      "source": "stuff.co.nz",
-      "card_text": "El Niño takes hold and is on track to be one of strongest on record",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Auckland sellers get real: Asking prices below $1m",
-      "url": "https://rnz.co.nz/news/business/1665146/auckland-sellers-get-real-asking-prices-below-1m",
-      "source": "rnz.co.nz",
-      "card_text": "Auckland sellers get real: Asking prices below $1m",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "Planning changes to support Wellington’s growth",
-      "url": "https://beehive.govt.nz/release/planning-changes-support-wellingtons-growth",
-      "source": "beehive.govt.nz",
-      "card_text": "Planning changes to support Wellington’s growth",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
-      "url": "https://thepress.co.nz/nz-news/361090442/cashmere-club-loses-bar-licence-three-months-following-members-utterly-preventable-death",
-      "source": "thepress.co.nz",
-      "card_text": "Cashmere Club loses bar licence for three months following member’s ‘utterly preventable’ death",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
       "rank": 47,
       "title": "New ACOPs Clarify Health And Safety Responsibilities On Farms",
       "url": "https://scoop.co.nz/stories/PA2610/S00005/new-acops-clarify-health-and-safety-responsibilities-on-farms.htm",
@@ -189,99 +469,11 @@
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
-      "rank": 48,
-      "title": "Pawn to Queen – and the unspoken clash of the campaign",
-      "url": "https://newsroom.co.nz/2026/10/01/mt-albert-and-the-unspoken-clash-of-the-campaign",
-      "source": "newsroom.co.nz",
-      "card_text": "Pawn to Queen – and the unspoken clash of the campaign",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "url": "https://bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
-      "url": "https://waateanews.com/2026/10/01/mental-health-alarm-maori-bearing-heavier-burden-of-compulsory-care",
-      "source": "waateanews.com",
-      "card_text": "Mental Health Alarm: Māori Bearing Heavier Burden of Compulsory Care",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Violent crime and the ‘highly victimised’ on the rise as election looms",
-      "url": "https://nzherald.co.nz/nz/politics/violent-crime-and-the-highly-victimised-on-the-rise-as-election-looms/premium/NTLCJUIV4FASZFSNS7XRCBFQTQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Violent crime and the ‘highly victimised’ on the rise as election looms",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Canterbury records 47 serious adverse events in first national Health NZ report",
-      "url": "https://chrislynchmedia.com/news-items/canterbury-records-47-serious-adverse-events-in-first-national-health-nz-report",
-      "source": "chrislynchmedia.com",
-      "card_text": "Canterbury records 47 serious adverse events in first national Health NZ report",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
       "rank": 9,
       "title": "Government support for weather-hit Southland and Clutha farmers",
       "url": "https://beehive.govt.nz/release/government-support-weather-hit-southland-and-clutha-farmers",
       "source": "beehive.govt.nz",
       "card_text": "Government support for weather-hit Southland and Clutha farmers",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "RBNZ begins work with banks on cash access",
-      "url": "https://businessdesk.co.nz/article/finance/rbnz-begins-work-with-banks-on-cash-access",
-      "source": "businessdesk.co.nz",
-      "card_text": "RBNZ begins work with banks on cash access",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Strategic Voting in the 2026 Election",
-      "url": "https://goodoil.news/strategic-voting-in-the-2026-election",
-      "source": "goodoil.news",
-      "card_text": "Strategic Voting in the 2026 Election Individuals within National face a disincentive toward an overhang. For high-ranking list figures like Nicola Willis (ranked second) and Chris Bishop (ranked third), an overhang scenario would force them out of parliament entirely. The Good Oil Today 12:00 pm Opinion",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Capital gains tax starts to shift the debate from being stuck on repeat",
-      "url": "https://newsroom.co.nz/2026/10/01/labours-capital-gains-tax-shifts-the-tax-debate-from-being-stuck-on-repeat",
-      "source": "newsroom.co.nz",
-      "card_text": "Capital gains tax starts to shift the debate from being stuck on repeat",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Labour would stop ministers walking straight into lobbying jobs, Hipkins promises",
-      "url": "https://chrislynchmedia.com/news-items/labour-would-stop-ministers-walking-straight-into-lobbying-jobs-hipkins-promises",
-      "source": "chrislynchmedia.com",
-      "card_text": "Labour would stop ministers walking straight into lobbying jobs, Hipkins promises",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
-      "url": "https://waateanews.com/2026/10/01/a-life-of-service-aotearoa-remembers-adrian-rurawhe",
-      "source": "waateanews.com",
-      "card_text": "A Life of Service: Aotearoa Remembers Adrian Rurawhe",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Foodstuffs steps up attack on break-up plan, report it commissioned disputes benefits",
-      "url": "https://thepress.co.nz/business/361090691/foodstuffs-steps-attack-break-plan-report-it-commissioned-disputes-benefits",
-      "source": "thepress.co.nz",
-      "card_text": "Foodstuffs steps up attack on break-up plan, report it commissioned disputes benefits",
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
@@ -298,78 +490,6 @@
       "url": "https://odt.co.nz/canterbury/mid-canterbury/methven-kept-in-the-dark-on-cbd-lighting-project-nects6ax",
       "source": "odt.co.nz",
       "card_text": "Methven kept in the dark on CBD lighting project",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "The children dying in India's remote tribal heartland",
-      "url": "https://bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "The children dying in India's remote tribal heartland",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Fiji election: Strict campaign rules set for parties and candidates",
-      "url": "https://rnz.co.nz/news/pacific/1668555/fiji-election-strict-campaign-rules-set-for-parties-and-candidates",
-      "source": "rnz.co.nz",
-      "card_text": "Fiji election: Strict campaign rules set for parties and candidates",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
-      "url": "https://waateanews.com/2026/10/01/emergency-departments-at-breaking-point-as-demand-hits-record-levels",
-      "source": "waateanews.com",
-      "card_text": "Emergency Departments at Breaking Point as Demand Hits Record Levels",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
-      "url": "https://scoop.co.nz/stories/PA2610/S00009/patient-community-helps-improve-access-to-paediatric-cancer-medicines-for-young-kiwis.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Patient Community Helps Improve Access To Paediatric Cancer Medicines For Young Kiwis",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Nitrate issue ‘hasn’t gone away’, former ECan chair says",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/nitrate-issue-hasnt-gone-away-former-ecan-chair-says-hshbr52l",
-      "source": "odt.co.nz",
-      "card_text": "Nitrate issue ‘hasn’t gone away’, former ECan chair says",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Retirement village rule changes welcomed",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/retirement-village-rule-changes-welcomed-puc42fco",
-      "source": "odt.co.nz",
-      "card_text": "Retirement village rule changes welcomed",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Residents oppose Fast-track of housing developments",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/residents-oppose-fast-track-of-housing-developments-w2a5rhv5",
-      "source": "odt.co.nz",
-      "card_text": "Residents oppose Fast-track of housing developments",
-      "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "discovered_at_utc": "2026-10-01T02:21:02.894280+00:00"
     },
     {
