@@ -2,50 +2,50 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-02T22:58:14.865482+00:00",
+  "retrieved_at_utc": "2026-10-02T23:15:58.317705+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "url": "https://bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "url": "https://bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Intensified Russian strikes are tearing Kyiv apart, warns mayor"
+      "card_text": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat"
     },
     {
       "rank": 2,
+      "title": "University and polytech staff vote to strike together for first time",
+      "url": "https://rnz.co.nz/news/education/1687429/university-and-polytech-staff-vote-to-strike-together-for-first-time",
+      "source": "rnz.co.nz",
+      "card_text": "University and polytech staff vote to strike together for first time"
+    },
+    {
+      "rank": 3,
       "title": "Melting East Antarctic basin could dramatically increase sea levels",
       "url": "https://odt.co.nz/news/dunedin/melting-east-antarctic-basin-could-dramatically-increase-sea-levels-j0zp8f8i",
       "source": "odt.co.nz",
       "card_text": "Melting East Antarctic basin could dramatically increase sea levels"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Greens Pledge $1.1 Billion a Year to Settle Care Workers’ Pay Equity Claim",
       "url": "https://waateanews.com/2026/10/03/greens-pledge-1-1-billion-a-year-to-settle-care-workers-pay-equity-claim",
       "source": "waateanews.com",
       "card_text": "Greens Pledge $1.1 Billion a Year to Settle Care Workers’ Pay Equity Claim"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Police warn Government ‘hundreds of millions’ of dollars of drug profits laundered via construction jobs",
       "url": "https://nzherald.co.nz/nz/police-warn-government-that-hundreds-of-millions-of-dollars-of-drug-profits-laundered-via-construction-jobs/premium/QLP2ZK5DHNGM7CM5V4I7Y5QNNU",
       "source": "nzherald.co.nz",
       "card_text": "Police warn Government ‘hundreds of millions’ of dollars of drug profits laundered via construction jobs"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "‘It’s ethically wrong’: Breast density campaign becomes election issue as women demand to be told",
       "url": "https://thepress.co.nz/nz-news/361090346/its-ethically-wrong-breast-density-campaign-becomes-election-issue-women-demand-be-told",
       "source": "thepress.co.nz",
       "card_text": "‘It’s ethically wrong’: Breast density campaign becomes election issue as women demand to be told"
-    },
-    {
-      "rank": 6,
-      "title": "University and polytech staff vote to strike together for first time",
-      "url": "https://rnz.co.nz/news/education/1687429/university-and-polytech-staff-vote-to-strike-together-for-first-time",
-      "source": "rnz.co.nz",
-      "card_text": "University and polytech staff vote to strike together for first time"
     },
     {
       "rank": 7,
@@ -112,45 +112,45 @@
     },
     {
       "rank": 16,
-      "title": "Hawke’s Bay election candidates set out plans to help people deal with rising fuel prices",
-      "url": "https://nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-election-candidates-set-out-plans-to-help-people-deal-with-rising-fuel-prices/5ZFP3Y4MJNHRRMT3KH4N65ARVM",
+      "title": "Election 2026: Labour’s fiscal plan has many questions to answer – pay equity, public service cuts, future fund, spending and taxing promises",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-labours-fiscal-plan-has-many-questions-to-answer-pay-equity-public-service-cuts-future-fund-spending-and-taxing-promises/premium/RLGZOBIB4BASHLN2PHZ34VLFBQ",
       "source": "nzherald.co.nz",
-      "card_text": "Hawke’s Bay election candidates set out plans to help people deal with rising fuel prices"
+      "card_text": "Election 2026: Labour’s fiscal plan has many questions to answer – pay equity, public service cuts, future fund, spending and taxing promises"
     },
     {
       "rank": 17,
+      "title": "Election 2026: National Party kicks off its Campaign Bus Launch, parties hold standups and walkabouts",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-national-party-kicks-off-its-campaign-bus-launch-parties-hold-standups-and-walkabouts",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026: National Party kicks off its Campaign Bus Launch, parties hold standups and walkabouts"
+    },
+    {
+      "rank": 18,
       "title": "Pay Equity Back in Election Spotlight as NZNO Backs Greens’ Care Worker Pledge",
       "url": "https://waateanews.com/2026/10/03/pay-equity-back-in-election-spotlight-as-nzno-backs-greens-care-worker-pledge",
       "source": "waateanews.com",
       "card_text": "Pay Equity Back in Election Spotlight as NZNO Backs Greens’ Care Worker Pledge"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices | Stuff",
       "url": "https://stuff.co.nz/politics/361041803/leaked-foodstuffs-poll-more-favour-supermarket-separation-voters-dont-think-itll-bring-down-prices",
       "source": "stuff.co.nz",
       "card_text": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices | Stuff"
     },
     {
-      "rank": 19,
-      "title": "From sunbeds to SMEs: Whiplash from the Press Kingmakers' debate",
-      "url": "https://interest.co.nz/public-policy/140506/most-definitely-not-peters-rejects-seymours-minimum-wage-freeze-kingmakers",
-      "source": "interest.co.nz",
-      "card_text": "From sunbeds to SMEs: Whiplash from the Press Kingmakers' debate"
-    },
-    {
       "rank": 20,
-      "title": "Lyttelton Port’s $821m expansion hinges on winning freight from Timaru and Otago",
-      "url": "https://thepress.co.nz/business/361090914/lyttelton-ports-821m-expansion-hinges-winning-freight-timaru-and-otago",
-      "source": "thepress.co.nz",
-      "card_text": "Lyttelton Port’s $821m expansion hinges on winning freight from Timaru and Otago"
-    },
-    {
-      "rank": 21,
       "title": "Santana faces another pause as tight deadline set by panel",
       "url": "https://odt.co.nz/otago/central-otago/santana-faces-another-pause-as-tight-deadline-set-by-panel-v1phkqln",
       "source": "odt.co.nz",
       "card_text": "Santana faces another pause as tight deadline set by panel"
+    },
+    {
+      "rank": 21,
+      "title": "Lyttelton Port’s $821m expansion hinges on winning freight from Timaru and Otago",
+      "url": "https://thepress.co.nz/business/361090914/lyttelton-ports-821m-expansion-hinges-winning-freight-timaru-and-otago",
+      "source": "thepress.co.nz",
+      "card_text": "Lyttelton Port’s $821m expansion hinges on winning freight from Timaru and Otago"
     },
     {
       "rank": 22,
@@ -168,192 +168,192 @@
     },
     {
       "rank": 24,
-      "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar | Stuff",
-      "url": "https://stuff.co.nz/world-news/361041952/g7-nations-will-release-100-million-barrels-oil-and-diese",
-      "source": "stuff.co.nz",
-      "card_text": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar | Stuff"
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Intensified Russian strikes are tearing Kyiv apart, warns mayor"
     },
     {
       "rank": 25,
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "url": "https://bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor"
+      "title": "Christa Pike ‘on a ventilator and unconscious’ after failed execution",
+      "url": "https://stuff.co.nz/world-news/361041985/christa-pike-ventilator-and-unconscious-after-failed-te",
+      "source": "stuff.co.nz",
+      "card_text": "Christa Pike ‘on a ventilator and unconscious’ after failed execution"
     },
     {
       "rank": 26,
+      "title": "‘Plane was going down’: Stabbed pilot says he knew he had to open cockpit door",
+      "url": "https://odt.co.nz/news/world/stabbed-pilot-says-he-knew-he-had-to-open-cockpit-door-tzsvvawu",
+      "source": "odt.co.nz",
+      "card_text": "‘Plane was going down’: Stabbed pilot says he knew he had to open cockpit door"
+    },
+    {
+      "rank": 27,
       "title": "Kiwis Roll Up Their Sleeves in Cook Islands Mission",
       "url": "https://waateanews.com/2026/10/03/kiwis-roll-up-their-sleeves-in-cook-islands-mission",
       "source": "waateanews.com",
       "card_text": "Kiwis Roll Up Their Sleeves in Cook Islands Mission"
     },
     {
-      "rank": 27,
-      "title": "Media watchdog demands answers after Samoan PM’s security reportedly deletes journalist’s photos",
-      "url": "https://nzherald.co.nz/nz/media-watchdog-demands-answers-after-samoan-pms-security-reportedly-deletes-journalists-photos/GGKZOSLCHZG4TGLCFYJROYZ5MQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Media watchdog demands answers after Samoan PM’s security reportedly deletes journalist’s photos"
+      "rank": 28,
+      "title": "Dave Rennie: All Blacks Coach takes talkback with Jason Pine",
+      "url": "https://newstalkzb.co.nz/on-air/weekend-sport-with-jason-pine/audio/dave-rennie-all-blacks-coach-takes-talkback-with-jason-pine",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Dave Rennie: All Blacks Coach takes talkback with Jason Pine"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "Rugby World Cup All Blacks will be unrecognisable from Baltimore version",
       "url": "https://thepress.co.nz/sport/361091453/why-all-blacks-were-shadow-their-best-version-baltimore",
       "source": "thepress.co.nz",
       "card_text": "Rugby World Cup All Blacks will be unrecognisable from Baltimore version"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "‘The last dance’: Ardie Savea confirms Super Rugby future",
       "url": "https://stuff.co.nz/sport/361038563/blues-land-all-blacks-captain-ardie-savea-2027-super-rugby-pacific",
       "source": "stuff.co.nz",
       "card_text": "‘The last dance’: Ardie Savea confirms Super Rugby future"
     },
     {
-      "rank": 30,
-      "title": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference",
-      "url": "https://waateanews.com/2026/10/03/physician-associates-now-regulated-resident-doctors-urge-patients-to-know-the-difference",
-      "source": "waateanews.com",
-      "card_text": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference"
-    },
-    {
       "rank": 31,
-      "title": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal",
-      "url": "https://odt.co.nz/news/dunedin/i-was-minutes-away-from-not-making-it-dunedin-meningitis-survivor-recounts-ordeal-dwcn3iiz",
-      "source": "odt.co.nz",
-      "card_text": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal"
-    },
-    {
-      "rank": 32,
-      "title": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria",
-      "url": "https://stuff.co.nz/nz-news/361041925/tip-top-jelly-tip-ice-creams-recalled-over-food-poisoning-bacteria",
-      "source": "stuff.co.nz",
-      "card_text": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria"
-    },
-    {
-      "rank": 33,
-      "title": "More solar farming, battery storage proposed for Maniototo",
-      "url": "https://odt.co.nz/otago/central-otago/more-solar-farming-battery-storage-proposed-for-maniototo-fld25wa5",
-      "source": "odt.co.nz",
-      "card_text": "More solar farming, battery storage proposed for Maniototo"
-    },
-    {
-      "rank": 34,
-      "title": "Greenhouse gases hit record levels in New Zealand's atmosphere, new data shows",
-      "url": "https://rnz.co.nz/news/environment_climate/1680986/greenhouse-gases-hit-record-levels-in-new-zealand-s-atmosphere-new-data-shows",
-      "source": "rnz.co.nz",
-      "card_text": "Greenhouse gases hit record levels in New Zealand's atmosphere, new data shows"
-    },
-    {
-      "rank": 35,
-      "title": "Solar farm developer denies claim it’s ‘gaming the system’",
-      "url": "https://thepress.co.nz/nz-news/361091953/solar-farm-developer-denies-claim-its-gaming-system",
-      "source": "thepress.co.nz",
-      "card_text": "Solar farm developer denies claim it’s ‘gaming the system’"
-    },
-    {
-      "rank": 36,
-      "title": "PM’s Queenstown housing claim ‘wholly wrong’: mayor",
-      "url": "https://odt.co.nz/otago/queenstown/pms-queenstown-housing-claim-wholly-wrong-mayor-tx3ctkv8",
-      "source": "odt.co.nz",
-      "card_text": "PM’s Queenstown housing claim ‘wholly wrong’: mayor"
-    },
-    {
-      "rank": 37,
-      "title": "How Australia’s most dangerous gang dominated the South Island drug trade, then lost it all",
-      "url": "https://thepress.co.nz/nz-news/361052808/how-australian-gang-dominated-south-island-drug-trade-then-lost-it-all",
-      "source": "thepress.co.nz",
-      "card_text": "How Australia’s most dangerous gang dominated the South Island drug trade, then lost it all"
-    },
-    {
-      "rank": 38,
-      "title": "Large fire breaks out at Masterton pub",
-      "url": "https://stuff.co.nz/nz-news/361041971/large-fire-breaks-out-masterton-pub",
-      "source": "stuff.co.nz",
-      "card_text": "Large fire breaks out at Masterton pub A large fire has broken out at Farriers Bar and Eatery in Masterton, with flames and heavy smoke seen coming from the roof. Stuff Today 9:38 am Crime"
-    },
-    {
-      "rank": 39,
       "title": "Remuera cancer clinic aims to cut diagnosis waits from weeks to hours",
       "url": "https://nzherald.co.nz/property/remuera-cancer-clinic-aims-to-cut-diagnosis-waits-from-weeks-to-hours/premium/ERMNPANBGVCMDKXXGSUGYK7VUM",
       "source": "nzherald.co.nz",
       "card_text": "Remuera cancer clinic aims to cut diagnosis waits from weeks to hours"
     },
     {
-      "rank": 40,
-      "title": "Flames and smoke billow from Masterton pub fire",
-      "url": "https://rnz.co.nz/news/emergencies_local/1691555/flames-and-smoke-billow-from-masterton-pub-fire",
+      "rank": 32,
+      "title": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference",
+      "url": "https://waateanews.com/2026/10/03/physician-associates-now-regulated-resident-doctors-urge-patients-to-know-the-difference",
+      "source": "waateanews.com",
+      "card_text": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference"
+    },
+    {
+      "rank": 33,
+      "title": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal",
+      "url": "https://odt.co.nz/news/dunedin/i-was-minutes-away-from-not-making-it-dunedin-meningitis-survivor-recounts-ordeal-dwcn3iiz",
+      "source": "odt.co.nz",
+      "card_text": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal"
+    },
+    {
+      "rank": 34,
+      "title": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria",
+      "url": "https://stuff.co.nz/nz-news/361041925/tip-top-jelly-tip-ice-creams-recalled-over-food-poisoning-bacteria",
+      "source": "stuff.co.nz",
+      "card_text": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria"
+    },
+    {
+      "rank": 35,
+      "title": "Big boom for Wētāpunga population celebrated",
+      "url": "https://rnz.co.nz/news/regions_auckland/1693089/big-boom-for-wetapunga-population-celebrated",
       "source": "rnz.co.nz",
-      "card_text": "Flames and smoke billow from Masterton pub fire"
+      "card_text": "Big boom for Wētāpunga population celebrated"
+    },
+    {
+      "rank": 36,
+      "title": "More solar farming, battery storage proposed for Maniototo",
+      "url": "https://odt.co.nz/otago/central-otago/more-solar-farming-battery-storage-proposed-for-maniototo-fld25wa5",
+      "source": "odt.co.nz",
+      "card_text": "More solar farming, battery storage proposed for Maniototo"
+    },
+    {
+      "rank": 37,
+      "title": "Solar farm developer denies claim it’s ‘gaming the system’",
+      "url": "https://thepress.co.nz/nz-news/361091953/solar-farm-developer-denies-claim-its-gaming-system",
+      "source": "thepress.co.nz",
+      "card_text": "Solar farm developer denies claim it’s ‘gaming the system’"
+    },
+    {
+      "rank": 38,
+      "title": "University, polytech set to strike together for first time",
+      "url": "https://odt.co.nz/news/national/university-polytech-set-to-strike-together-for-first-time-u2tt2h1w",
+      "source": "odt.co.nz",
+      "card_text": "University, polytech set to strike together for first time"
+    },
+    {
+      "rank": 39,
+      "title": "PM’s Queenstown housing claim ‘wholly wrong’: mayor",
+      "url": "https://odt.co.nz/otago/queenstown/pms-queenstown-housing-claim-wholly-wrong-mayor-tx3ctkv8",
+      "source": "odt.co.nz",
+      "card_text": "PM’s Queenstown housing claim ‘wholly wrong’: mayor"
+    },
+    {
+      "rank": 40,
+      "title": "The small city where homes are now selling up to 35% below RV",
+      "url": "https://stuff.co.nz/home-property/361041202/fallen-cliff-rents-have-fallen-almost-twice-much-here-anywhere-else-country",
+      "source": "stuff.co.nz",
+      "card_text": "The small city where homes are now selling up to 35% below RV"
     },
     {
       "rank": 41,
-      "title": "From 1C frosts to 22C: Cold blast to make way for spring sunshine",
-      "url": "https://stuff.co.nz/nz-news/361041958/frost-risk-growers-cold-front-sweeps-across-nz",
+      "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar | Stuff",
+      "url": "https://stuff.co.nz/world-news/361041952/g7-nations-will-release-100-million-barrels-oil-and-diese",
       "source": "stuff.co.nz",
-      "card_text": "From 1C frosts to 22C: Cold blast to make way for spring sunshine"
+      "card_text": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar | Stuff"
     },
     {
       "rank": 42,
-      "title": "Drug dealer deemed ‘low risk’, allowed to return to property",
-      "url": "https://odt.co.nz/news/west-coast/drug-dealer-deemed-low-risk-allowed-to-return-to-property-xgt9f1ug",
-      "source": "odt.co.nz",
-      "card_text": "Drug dealer deemed ‘low risk’, allowed to return to property"
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say"
     },
     {
       "rank": 43,
+      "title": "Election 2026: National Party kicks off its Campaign Bus Launch, parties hold standups and walkabouts",
+      "url": "https://nzherald.co.nz/nz/election-2026-national-party-kicks-off-its-campaign-bus-launch-parties-hold-standups-and-walkabouts/QAF6SXABJ5EK7FR6XSXTU3UXCM",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: National Party kicks off its Campaign Bus Launch, parties hold standups and walkabouts"
+    },
+    {
+      "rank": 44,
+      "title": "AI enters election campaign arena",
+      "url": "https://odt.co.nz/news/national/ai-enters-election-campaign-arena-axoczywq",
+      "source": "odt.co.nz",
+      "card_text": "AI enters election campaign arena Analysis - Labour has published an AI policy and Opportunity has offered the outlines of one. There was an attempt at a discussion about it in the first leaders debate. Otago Daily Times Today 11:25 am Opinion"
+    },
+    {
+      "rank": 45,
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "url": "https://bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor"
+    },
+    {
+      "rank": 46,
       "title": "Former cop and Muay Thai fighter Haimona Tamati-Te Paki stripped of sportsperson award after stealing from pensioner",
       "url": "https://newstalkzb.co.nz/news/national/former-cop-and-muay-thai-fighter-haimona-tamati-te-paki-stripped-of-sportsperson-award-after-stealing-from-pensioner",
       "source": "newstalkzb.co.nz",
       "card_text": "Former cop and Muay Thai fighter Haimona Tamati-Te Paki stripped of sportsperson award after stealing from pensioner"
     },
     {
-      "rank": 44,
-      "title": "Man in hospital with serious injuries after assault in Onehunga",
-      "url": "https://stuff.co.nz/nz-news/361041960/man-hospital-serious-injuries-after-assault-onehunga",
-      "source": "stuff.co.nz",
-      "card_text": "Man in hospital with serious injuries after assault in Onehunga"
-    },
-    {
-      "rank": 45,
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "url": "https://bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87"
-    },
-    {
-      "rank": 46,
-      "title": "‘Far from prying eyes’: Defence contracts are quietly changing NZ's aerospace industry",
-      "url": "https://thepress.co.nz/business/361091523/far-prying-eyes-defence-contracts-are-quietly-changing-nzs-aerospace-industry",
-      "source": "thepress.co.nz",
-      "card_text": "‘Far from prying eyes’: Defence contracts are quietly changing NZ's aerospace industry"
-    },
-    {
       "rank": 47,
+      "title": "How Australia’s most dangerous gang dominated the South Island drug trade, then lost it all",
+      "url": "https://thepress.co.nz/nz-news/361052808/how-australian-gang-dominated-south-island-drug-trade-then-lost-it-all",
+      "source": "thepress.co.nz",
+      "card_text": "How Australia’s most dangerous gang dominated the South Island drug trade, then lost it all"
+    },
+    {
+      "rank": 48,
       "title": "Parents Urged to Put Early Childhood Education on the Election Agenda",
       "url": "https://waateanews.com/2026/10/03/parents-urged-to-put-early-childhood-education-on-the-election-agenda",
       "source": "waateanews.com",
       "card_text": "Parents Urged to Put Early Childhood Education on the Election Agenda"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "America's looming debt problem",
       "url": "https://interest.co.nz/bonds/140512/kenneth-rogoff-highlights-dangers-trump-administrations-bet-us-can-outgrow-its-fiscal",
       "source": "interest.co.nz",
       "card_text": "America's looming debt problem Kenneth Rogoff highlights the dangers of the Trump administration's bet that the US can outgrow its fiscal problems Interest Yesterday Business"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election",
       "url": "https://youtube.com/watch?v=mxRSxbkvtRU",
       "source": "youtube.com",
       "card_text": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election"
-    },
-    {
-      "rank": 50,
-      "title": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says",
-      "url": "https://kanivatonga.co.nz/2026/10/two-suspected-flu-deaths-in-tonga-not-yet-confirmed-health-minister-says",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says"
     }
   ],
   "json_endpoints_observed": [
