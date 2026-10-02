@@ -2,22 +2,22 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-02T12:26:45.065333+00:00",
+  "retrieved_at_utc": "2026-10-02T12:51:53.443038+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
+      "title": "National puts forward nine-point plan to ‘tackle costs pushing up power bills’",
+      "url": "https://interest.co.nz/public-policy/140511/national-announces-plan-aims-%E2%80%98tackle-costs-pushing-power-bills-and-build-more",
+      "source": "interest.co.nz",
+      "card_text": "National puts forward nine-point plan to ‘tackle costs pushing up power bills’"
     },
     {
       "rank": 2,
-      "title": "Death toll rises to 15 after avalanche on Nepal mountain",
-      "url": "https://stuff.co.nz/world-news/361041893/death-toll-rises-15-after-avalanche-nepal-mountain",
-      "source": "stuff.co.nz",
-      "card_text": "Death toll rises to 15 after avalanche on Nepal mountain"
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US pressures Europe to release diesel reserves as Trump threatens export ban"
     },
     {
       "rank": 3,
@@ -105,10 +105,10 @@
     },
     {
       "rank": 15,
-      "title": "Nicola Willis defends attack on Labour while sidestepping NZ First’s $100b plan",
-      "url": "https://thepress.co.nz/politics/361091784/nicola-willis-says-100b-nz-first-policy-not-well-formed-enough-her-have-opinion-it",
-      "source": "thepress.co.nz",
-      "card_text": "Nicola Willis defends attack on Labour while sidestepping NZ First’s $100b plan"
+      "title": "From sunbeds to SMEs: Whiplash from the Press Kingmakers' debate",
+      "url": "https://interest.co.nz/public-policy/140506/most-definitely-not-peters-rejects-seymours-minimum-wage-freeze-kingmakers",
+      "source": "interest.co.nz",
+      "card_text": "From sunbeds to SMEs: Whiplash from the Press Kingmakers' debate"
     },
     {
       "rank": 16,
@@ -119,45 +119,45 @@
     },
     {
       "rank": 17,
+      "title": "Nicola Willis defends attack on Labour while sidestepping NZ First’s $100b plan",
+      "url": "https://thepress.co.nz/politics/361091784/nicola-willis-says-100b-nz-first-policy-not-well-formed-enough-her-have-opinion-it",
+      "source": "thepress.co.nz",
+      "card_text": "Nicola Willis defends attack on Labour while sidestepping NZ First’s $100b plan"
+    },
+    {
+      "rank": 18,
+      "title": "America's looming debt problem",
+      "url": "https://interest.co.nz/bonds/140512/kenneth-rogoff-highlights-dangers-trump-administrations-bet-us-can-outgrow-its-fiscal",
+      "source": "interest.co.nz",
+      "card_text": "America's looming debt problem Interest Yesterday"
+    },
+    {
+      "rank": 19,
       "title": "NZ sharemarket down almost 1% amid Iran War escalation – Market close",
       "url": "https://nzherald.co.nz/business/markets/shares/nz-sharemarket-down-almost-1-amid-iran-war-escalation-market-close/premium/VYAGBWPPOFFOVBRIWAGRBFMEKU",
       "source": "nzherald.co.nz",
       "card_text": "NZ sharemarket down almost 1% amid Iran War escalation – Market close"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "title": "Cybercrime group claims it breached Tower Insurance, Tower says information ‘unverified’",
       "url": "https://stuff.co.nz/nz-news/361041660/cybercrime-group-claims-it-breached-tower-insurance-tower-says-information-unverified",
       "source": "stuff.co.nz",
       "card_text": "Cybercrime group claims it breached Tower Insurance, Tower says information ‘unverified’"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "title": "Z Energy warns petrol prices face ‘more upward pressure’ as market tests year high",
       "url": "https://thepress.co.nz/business/361091551/z-energy-warns-petrol-prices-face-more-upward-pressure-market-tests-year-high",
       "source": "thepress.co.nz",
       "card_text": "Z Energy warns petrol prices face ‘more upward pressure’ as market tests year high"
     },
     {
-      "rank": 20,
-      "title": "Sharper drop in fuel demand as high prices persist: Z Energy",
-      "url": "https://businessdesk.co.nz/article/energy/sharper-drop-in-fuel-demand-as-high-prices-persist-z-energy",
-      "source": "businessdesk.co.nz",
-      "card_text": "Sharper drop in fuel demand as high prices persist: Z Energy"
-    },
-    {
-      "rank": 21,
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US pressures Europe to release diesel reserves as Trump threatens export ban"
-    },
-    {
       "rank": 22,
-      "title": "Spanish protesters march on Parliament, emergency housing decrees set to be rejected",
-      "url": "https://stuff.co.nz/world-news/361041934/spanish-protesters-march-parliament-emergency-housing",
+      "title": "Death toll rises to 15 after avalanche on Nepal mountain",
+      "url": "https://stuff.co.nz/world-news/361041893/death-toll-rises-15-after-avalanche-nepal-mountain",
       "source": "stuff.co.nz",
-      "card_text": "Spanish protesters march on Parliament, emergency housing decrees set to be rejected"
+      "card_text": "Death toll rises to 15 after avalanche on Nepal mountain"
     },
     {
       "rank": 23,
@@ -175,17 +175,17 @@
     },
     {
       "rank": 25,
-      "title": "‘The last dance’: Ardie Savea confirms Super Rugby future",
-      "url": "https://stuff.co.nz/sport/361038563/blues-land-all-blacks-captain-ardie-savea-2027-super-rugby-pacific",
-      "source": "stuff.co.nz",
-      "card_text": "‘The last dance’: Ardie Savea confirms Super Rugby future"
-    },
-    {
-      "rank": 26,
       "title": "All Blacks: NZ Rugby’s $35m return from Rugby’s Greatest Rivalry tour - Gregor Paul",
       "url": "https://nzherald.co.nz/sport/rugby/all-blacks/all-blacks-nz-rugbys-35m-return-from-rugbys-greatest-rivalry-tour-gregor-paul/premium/FQDWDAOQIRH67H7AVCJ6VDEEQ4",
       "source": "nzherald.co.nz",
       "card_text": "All Blacks: NZ Rugby’s $35m return from Rugby’s Greatest Rivalry tour - Gregor Paul"
+    },
+    {
+      "rank": 26,
+      "title": "‘The last dance’: Ardie Savea confirms Super Rugby future",
+      "url": "https://stuff.co.nz/sport/361038563/blues-land-all-blacks-captain-ardie-savea-2027-super-rugby-pacific",
+      "source": "stuff.co.nz",
+      "card_text": "‘The last dance’: Ardie Savea confirms Super Rugby future"
     },
     {
       "rank": 27,
@@ -245,24 +245,24 @@
     },
     {
       "rank": 35,
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
+    },
+    {
+      "rank": 36,
       "title": "Why is violent crime rising across most of New Zealand? – The Front Page",
       "url": "https://nzherald.co.nz/nz/why-is-violent-crime-rising-across-most-of-new-zealand-the-front-page/HINMZXQJGJEGTHVGVTJ6LYSXOU",
       "source": "nzherald.co.nz",
       "card_text": "Why is violent crime rising across most of New Zealand? – The Front Page"
     },
     {
-      "rank": 36,
-      "title": "Greenhouse gases hit record levels in New Zealand’s atmosphere, new data shows",
-      "url": "https://nzherald.co.nz/nz/greenhouse-gases-hit-record-levels-in-new-zealands-atmosphere-new-data-shows/P64ZNAJQQVDRBJZEURN4AVHB7I",
-      "source": "nzherald.co.nz",
-      "card_text": "Greenhouse gases hit record levels in New Zealand’s atmosphere, new data shows"
-    },
-    {
       "rank": 37,
-      "title": "Fire destroys Apparelmaster warehouse in Petone",
-      "url": "https://rnz.co.nz/news/emergencies_local/1678664/fire-destroys-apparelmaster-warehouse-in-petone",
-      "source": "rnz.co.nz",
-      "card_text": "Fire destroys Apparelmaster warehouse in Petone"
+      "title": "Spanish protesters march on Parliament, emergency housing decrees set to be rejected",
+      "url": "https://stuff.co.nz/world-news/361041934/spanish-protesters-march-parliament-emergency-housing",
+      "source": "stuff.co.nz",
+      "card_text": "Spanish protesters march on Parliament, emergency housing decrees set to be rejected"
     },
     {
       "rank": 38,
@@ -273,87 +273,87 @@
     },
     {
       "rank": 39,
-      "title": "Auckland early learning centre closes over asbestos fears in rangoli powder",
-      "url": "https://rnz.co.nz/news/education/1685326/auckland-early-learning-centre-closes-over-asbestos-fears-in-rangoli-powder",
-      "source": "rnz.co.nz",
-      "card_text": "Auckland early learning centre closes over asbestos fears in rangoli powder"
+      "title": "Israel to start repatriation flights for passengers stranded in UAE after FlyDubai attack",
+      "url": "https://stuff.co.nz/business/361041939/israel-start-repatriation-flights-passengers-stranded",
+      "source": "stuff.co.nz",
+      "card_text": "Israel to start repatriation flights for passengers stranded in UAE after FlyDubai attack"
     },
     {
       "rank": 40,
+      "title": "ANZ NZ says NZ’s economy a 'mixed bag'",
+      "url": "https://interest.co.nz/economy/140514/anz-roy-morgan-survey-shows-consumer-confidence-trudging-along-while-two-year",
+      "source": "interest.co.nz",
+      "card_text": "ANZ NZ says NZ’s economy a 'mixed bag' ANZ-Roy Morgan survey shows consumer confidence 'trudging along' while two-year inflation expectations at lowest level in 19 months Interest Today 12:10 am Business"
+    },
+    {
+      "rank": 41,
+      "title": "NZ dollar at 2026 low",
+      "url": "https://interest.co.nz/currencies/140507/rates-markets-were-highly-volatile-10-year-us-treasury-yields-hit-24-year-high",
+      "source": "interest.co.nz",
+      "card_text": "NZ dollar at 2026 low Rates markets were highly volatile. 10-year US Treasury yields hit a 24-year high before retracing sharply. Concerns over France’s fiscal outlook drove a broader sovereign bond sell-off. The US dollar strengthened Interest Yesterday Business"
+    },
+    {
+      "rank": 42,
+      "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
+      "url": "https://bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "'Ashamed': Cornell students gather to voice anger over alleged gang rape"
+    },
+    {
+      "rank": 43,
+      "title": "Fire destroys Apparelmaster warehouse in Petone",
+      "url": "https://rnz.co.nz/news/emergencies_local/1678664/fire-destroys-apparelmaster-warehouse-in-petone",
+      "source": "rnz.co.nz",
+      "card_text": "Fire destroys Apparelmaster warehouse in Petone"
+    },
+    {
+      "rank": 44,
+      "title": "Breakfast briefing: New orders power global factories",
+      "url": "https://interest.co.nz/economy/140504/global-factory-pmis-very-positive-us-tariff-policy-court-again-china-holiday-binance",
+      "source": "interest.co.nz",
+      "card_text": "Breakfast briefing: New orders power global factories"
+    },
+    {
+      "rank": 45,
       "title": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election",
       "url": "https://youtube.com/watch?v=mxRSxbkvtRU",
       "source": "youtube.com",
       "card_text": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election"
     },
     {
-      "rank": 41,
-      "title": "Fortnite, Roblox, Minecraft and Steam must improve child safety, Australian report finds - BBC News",
-      "url": "https://bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Fortnite, Roblox, Minecraft and Steam must improve child safety, Australian report finds - BBC News"
-    },
-    {
-      "rank": 42,
-      "title": "Nelson City councillor wins discharge without conviction, loses name suppression",
-      "url": "https://thepress.co.nz/nz-news/361085513/nelson-narrowly-misses-election-after-councillor-keeps-seat-after-high-court-appeal-conviction",
-      "source": "thepress.co.nz",
-      "card_text": "Nelson City councillor wins discharge without conviction, loses name suppression"
-    },
-    {
-      "rank": 43,
+      "rank": 46,
       "title": "Dylan Thomsen: AA Road Safety Spokesperson on half of AA members reporting problems with the state of our roads",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/dylan-thomsen-aa-road-safety-spokesperson-on-half-of-aa-members-reporting-problems-with-the-state-of-our-roads",
       "source": "newstalkzb.co.nz",
       "card_text": "Dylan Thomsen: AA Road Safety Spokesperson on half of AA members reporting problems with the state of our roads"
     },
     {
-      "rank": 44,
+      "rank": 47,
       "title": "Labour’s inflation tax",
       "url": "https://kiwiblog.co.nz/2026/10/labours_inflation_tax.html",
       "source": "kiwiblog.co.nz",
       "card_text": "Labour’s inflation tax Simeon Brown pointed out: “According to Labour’s own modelling, where house prices rise by 3 per cent and inflation sits at 2 per cent, the vast majority of the revenue collected from Labour’s Capital Gains Tax comes only from inflation rather than real gains. “Under those conditions, a couple who buy an $800,000 rental and […] The post Labour’s inflation tax first appeared on Kiwiblog . Kiwiblog Yesterday Politics"
     },
     {
-      "rank": 45,
-      "title": "Kiwibank splits National, Labour at BusinessDesk-MYOB debate",
-      "url": "https://businessdesk.co.nz/article/election-2026/kiwibank-splits-national-labour-at-businessdesk-myob-debate",
+      "rank": 48,
+      "title": "Sharper drop in fuel demand as high prices persist: Z Energy",
+      "url": "https://businessdesk.co.nz/article/energy/sharper-drop-in-fuel-demand-as-high-prices-persist-z-energy",
       "source": "businessdesk.co.nz",
-      "card_text": "Kiwibank splits National, Labour at BusinessDesk-MYOB debate"
+      "card_text": "Sharper drop in fuel demand as high prices persist: Z Energy"
     },
     {
-      "rank": 46,
-      "title": "Government progresses plan changes to enable growth for New Plymouth",
-      "url": "https://beehive.govt.nz/release/government-progresses-plan-changes-enable-growth-new-plymouth",
-      "source": "beehive.govt.nz",
-      "card_text": "Government progresses plan changes to enable growth for New Plymouth"
-    },
-    {
-      "rank": 47,
+      "rank": 49,
       "title": "NZ First pledges $120/week-plus rise in Working for Family tax credits",
       "url": "https://thekaka.substack.com/p/nz-first-pledges-120week-plus-rise",
       "source": "thekaka.substack.com",
       "card_text": "NZ First pledges $120/week-plus rise in Working for Family tax credits"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "title": "New Māori Voice: Mariameno Kapa-Kingi Takes Te Tai Tokerau Party to Election 2026",
       "url": "https://waateanews.com/2026/10/02/new-maori-voice-mariameno-kapa-kingi-takes-te-tai-tokerau-party-to-election-2026",
       "source": "waateanews.com",
       "card_text": "New Māori Voice: Mariameno Kapa-Kingi Takes Te Tai Tokerau Party to Election 2026"
-    },
-    {
-      "rank": 49,
-      "title": "The Race for Mt Albert",
-      "url": "https://thestandard.nz/the-race-for-mt-albert",
-      "source": "thestandard.nz",
-      "card_text": "The Race for Mt Albert A Spinoff poll suggests that the race for Mt Albert is a clear choice between Labour's Helen White and National's Melissa Lee. The Standard Yesterday Politics"
-    },
-    {
-      "rank": 50,
-      "title": "‘Enrol and have a free sausage’: Inside the campaigns to get young people to vote",
-      "url": "https://thespinoff.co.nz/politics/01-10-2026/enrol-and-have-a-free-sausage-inside-the-campaigns-to-get-young-people-to-vote",
-      "source": "thespinoff.co.nz",
-      "card_text": "‘Enrol and have a free sausage’: Inside the campaigns to get young people to vote"
     }
   ],
   "json_endpoints_observed": [
