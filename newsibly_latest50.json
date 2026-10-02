@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-02T18:47:52.365516+00:00",
+  "retrieved_at_utc": "2026-10-02T19:15:07.948256+00:00",
   "count": 50,
   "items": [
     {
@@ -14,52 +14,52 @@
     },
     {
       "rank": 2,
+      "title": "Melting East Antarctic basin could dramatically increase sea levels",
+      "url": "https://odt.co.nz/news/dunedin/melting-east-antarctic-basin-could-dramatically-increase-sea-levels-j0zp8f8i",
+      "source": "odt.co.nz",
+      "card_text": "Melting East Antarctic basin could dramatically increase sea levels"
+    },
+    {
+      "rank": 3,
       "title": "Greens Pledge $1.1 Billion a Year to Settle Care Workers’ Pay Equity Claim",
       "url": "https://waateanews.com/2026/10/03/greens-pledge-1-1-billion-a-year-to-settle-care-workers-pay-equity-claim",
       "source": "waateanews.com",
       "card_text": "Greens Pledge $1.1 Billion a Year to Settle Care Workers’ Pay Equity Claim"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Police warn Government ‘hundreds of millions’ of dollars of drug profits laundered via construction jobs",
+      "url": "https://nzherald.co.nz/nz/police-warn-government-that-hundreds-of-millions-of-dollars-of-drug-profits-laundered-via-construction-jobs/premium/QLP2ZK5DHNGM7CM5V4I7Y5QNNU",
+      "source": "nzherald.co.nz",
+      "card_text": "Police warn Government ‘hundreds of millions’ of dollars of drug profits laundered via construction jobs"
+    },
+    {
+      "rank": 5,
       "title": "‘It’s ethically wrong’: Breast density campaign becomes election issue as women demand to be told",
       "url": "https://thepress.co.nz/nz-news/361090346/its-ethically-wrong-breast-density-campaign-becomes-election-issue-women-demand-be-told",
       "source": "thepress.co.nz",
       "card_text": "‘It’s ethically wrong’: Breast density campaign becomes election issue as women demand to be told"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "National puts forward nine-point plan to ‘tackle costs pushing up power bills’",
       "url": "https://interest.co.nz/public-policy/140511/national-announces-plan-aims-%E2%80%98tackle-costs-pushing-power-bills-and-build-more",
       "source": "interest.co.nz",
       "card_text": "National puts forward nine-point plan to ‘tackle costs pushing up power bills’"
     },
     {
-      "rank": 5,
-      "title": "Magnitude 5.3 earthquake strikes 25km east of New Plymouth",
-      "url": "https://rnz.co.nz/news/emergencies/1687311/magnitude-5-point-3-earthquake-strikes-25km-east-of-new-plymouth",
-      "source": "rnz.co.nz",
-      "card_text": "Magnitude 5.3 earthquake strikes 25km east of New Plymouth"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "On the Chatham Islands, Wellington Bays candidates encounter a vastly different electorate",
       "url": "https://thespinoff.co.nz/politics/02-10-2026/on-the-chatham-islands-wellington-bays-candidates-encounter-a-vastly-different-electorate",
       "source": "thespinoff.co.nz",
       "card_text": "On the Chatham Islands, Wellington Bays candidates encounter a vastly different electorate"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "TRU calls special meeting days after PM raises governance concerns",
       "url": "https://kanivatonga.co.nz/2026/10/tru-calls-special-meeting-days-after-pm-raises-governance-concerns",
       "source": "kanivatonga.co.nz",
       "card_text": "TRU calls special meeting days after PM raises governance concerns"
-    },
-    {
-      "rank": 8,
-      "title": "Taranaki earthquake: Strong magnitude 5.3 quake strikes near New Plymouth",
-      "url": "https://nzherald.co.nz/nz/taranaki-earthquake-strong-magnitude-53-quake-strikes-near-new-plymouth/RP7BTEIRJ5D5HHWCCMML7WTLHI",
-      "source": "nzherald.co.nz",
-      "card_text": "Taranaki earthquake: Strong magnitude 5.3 quake strikes near New Plymouth"
     },
     {
       "rank": 9,
@@ -98,24 +98,24 @@
     },
     {
       "rank": 14,
-      "title": "Luxon walks back 'bizarre claim' about the Greens",
-      "url": "https://odt.co.nz/news/national/luxon-walks-back-bizarre-claim-about-the-greens-lykjxit3",
-      "source": "odt.co.nz",
-      "card_text": "Luxon walks back 'bizarre claim' about the Greens"
-    },
-    {
-      "rank": 15,
       "title": "ComCom outlines key competition issues related to 2degrees and One NZ RAN JV",
       "url": "https://reseller.co.nz/article/4229821/comcom-outlines-key-competition-issues-related-to-2degrees-one-nz-ran-jv.html",
       "source": "reseller.co.nz",
       "card_text": "ComCom outlines key competition issues related to 2degrees and One NZ RAN JV"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Pharmacies To Provide More Funded Medicines",
       "url": "https://scoop.co.nz/stories/PA2610/S00019/pharmacies-to-provide-more-funded-medicines.htm",
       "source": "scoop.co.nz",
       "card_text": "Pharmacies To Provide More Funded Medicines"
+    },
+    {
+      "rank": 16,
+      "title": "Hawke’s Bay election candidates set out plans to help people deal with rising fuel prices",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-election-candidates-set-out-plans-to-help-people-deal-with-rising-fuel-prices/5ZFP3Y4MJNHRRMT3KH4N65ARVM",
+      "source": "nzherald.co.nz",
+      "card_text": "Hawke’s Bay election candidates set out plans to help people deal with rising fuel prices"
     },
     {
       "rank": 17,
@@ -126,10 +126,10 @@
     },
     {
       "rank": 18,
-      "title": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices",
-      "url": "https://stuff.co.nz/politics/361041803/leaked-foodstuffs-poll-more-favour-supermarket-separation-voters-dont-think-itll-bring-down-prices",
+      "title": "NZ First defends candidate over past social media posts, warns against ‘Gestapo word-police’",
+      "url": "https://stuff.co.nz/politics/361041546/nz-first-candidate-defends-past-praise-controversial-influencer-andrew-tate",
       "source": "stuff.co.nz",
-      "card_text": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices"
+      "card_text": "NZ First defends candidate over past social media posts, warns against ‘Gestapo word-police’"
     },
     {
       "rank": 19,
@@ -147,10 +147,10 @@
     },
     {
       "rank": 21,
-      "title": "America's looming debt problem",
-      "url": "https://interest.co.nz/bonds/140512/kenneth-rogoff-highlights-dangers-trump-administrations-bet-us-can-outgrow-its-fiscal",
+      "title": "ANZ NZ says NZ’s economy a 'mixed bag'",
+      "url": "https://interest.co.nz/economy/140514/anz-roy-morgan-survey-shows-consumer-confidence-trudging-along-while-two-year",
       "source": "interest.co.nz",
-      "card_text": "America's looming debt problem Interest Yesterday"
+      "card_text": "ANZ NZ says NZ’s economy a 'mixed bag' Interest Today 12:10 am"
     },
     {
       "rank": 22,
@@ -168,94 +168,94 @@
     },
     {
       "rank": 24,
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "url": "https://bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor"
+    },
+    {
+      "rank": 25,
       "title": "Kiwis Roll Up Their Sleeves in Cook Islands Mission",
       "url": "https://waateanews.com/2026/10/03/kiwis-roll-up-their-sleeves-in-cook-islands-mission",
       "source": "waateanews.com",
       "card_text": "Kiwis Roll Up Their Sleeves in Cook Islands Mission"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "Israel to start repatriation flights for passengers stranded in UAE after FlyDubai attack",
       "url": "https://stuff.co.nz/business/361041939/israel-start-repatriation-flights-passengers-stranded",
       "source": "stuff.co.nz",
       "card_text": "Israel to start repatriation flights for passengers stranded in UAE after FlyDubai attack"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "Media watchdog demands answers after Samoan PM’s security reportedly deletes journalist’s photos",
       "url": "https://nzherald.co.nz/nz/media-watchdog-demands-answers-after-samoan-pms-security-reportedly-deletes-journalists-photos/GGKZOSLCHZG4TGLCFYJROYZ5MQ",
       "source": "nzherald.co.nz",
       "card_text": "Media watchdog demands answers after Samoan PM’s security reportedly deletes journalist’s photos"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "Rugby World Cup All Blacks will be unrecognisable from Baltimore version",
       "url": "https://thepress.co.nz/sport/361091453/why-all-blacks-were-shadow-their-best-version-baltimore",
       "source": "thepress.co.nz",
       "card_text": "Rugby World Cup All Blacks will be unrecognisable from Baltimore version"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "‘The last dance’: Ardie Savea confirms Super Rugby future",
       "url": "https://stuff.co.nz/sport/361038563/blues-land-all-blacks-captain-ardie-savea-2027-super-rugby-pacific",
       "source": "stuff.co.nz",
       "card_text": "‘The last dance’: Ardie Savea confirms Super Rugby future"
     },
     {
-      "rank": 29,
-      "title": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria",
-      "url": "https://stuff.co.nz/nz-news/361041925/tip-top-jelly-tip-ice-creams-recalled-over-food-poisoning-bacteria",
-      "source": "stuff.co.nz",
-      "card_text": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria"
+      "rank": 30,
+      "title": "Government secures $45m site in Drury for new South Auckland hospital",
+      "url": "https://nzherald.co.nz/nz/politics/government-secures-45m-site-in-drury-for-new-south-auckland-hospital/TAST2LLLHRHRTKDZ7WG56A35CU",
+      "source": "nzherald.co.nz",
+      "card_text": "Government secures $45m site in Drury for new South Auckland hospital"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference",
       "url": "https://waateanews.com/2026/10/03/physician-associates-now-regulated-resident-doctors-urge-patients-to-know-the-difference",
       "source": "waateanews.com",
       "card_text": "Physician Associates Now Regulated — Resident Doctors Urge Patients to Know the Difference"
     },
     {
-      "rank": 31,
-      "title": "Review into OmniHealth clinics launched after staff resignations",
-      "url": "https://rnz.co.nz/news/health/1685958/review-into-omnihealth-clinics-launched-after-staff-resignations",
-      "source": "rnz.co.nz",
-      "card_text": "Review into OmniHealth clinics launched after staff resignations"
-    },
-    {
       "rank": 32,
-      "title": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says",
-      "url": "https://kanivatonga.co.nz/2026/10/two-suspected-flu-deaths-in-tonga-not-yet-confirmed-health-minister-says",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says"
+      "title": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal",
+      "url": "https://odt.co.nz/news/dunedin/i-was-minutes-away-from-not-making-it-dunedin-meningitis-survivor-recounts-ordeal-dwcn3iiz",
+      "source": "odt.co.nz",
+      "card_text": "‘I was minutes away from not making it’: Dunedin meningitis survivor recounts ordeal"
     },
     {
       "rank": 33,
+      "title": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria",
+      "url": "https://stuff.co.nz/nz-news/361041925/tip-top-jelly-tip-ice-creams-recalled-over-food-poisoning-bacteria",
+      "source": "stuff.co.nz",
+      "card_text": "Tip Top Jelly Tip ice creams recalled over food-poisoning bacteria"
+    },
+    {
+      "rank": 34,
+      "title": "More solar farming, battery storage proposed for Maniototo",
+      "url": "https://odt.co.nz/otago/central-otago/more-solar-farming-battery-storage-proposed-for-maniototo-fld25wa5",
+      "source": "odt.co.nz",
+      "card_text": "More solar farming, battery storage proposed for Maniototo"
+    },
+    {
+      "rank": 35,
       "title": "Greenhouse gases hit record levels in New Zealand's atmosphere, new data shows",
       "url": "https://rnz.co.nz/news/environment_climate/1680986/greenhouse-gases-hit-record-levels-in-new-zealand-s-atmosphere-new-data-shows",
       "source": "rnz.co.nz",
       "card_text": "Greenhouse gases hit record levels in New Zealand's atmosphere, new data shows"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "title": "Solar farm developer denies claim it’s ‘gaming the system’",
       "url": "https://thepress.co.nz/nz-news/361091953/solar-farm-developer-denies-claim-its-gaming-system",
       "source": "thepress.co.nz",
       "card_text": "Solar farm developer denies claim it’s ‘gaming the system’"
-    },
-    {
-      "rank": 35,
-      "title": "Up to 15 whales dead after stranding on 90 Mile Beach",
-      "url": "https://stuff.co.nz/nz-news/361041736/15-whales-dead-after-stranding-90-mile-beach",
-      "source": "stuff.co.nz",
-      "card_text": "Up to 15 whales dead after stranding on 90 Mile Beach"
-    },
-    {
-      "rank": 36,
-      "title": "El Niño could raise wildfire and water-quality risks in Hawke’s Bay, council says",
-      "url": "https://nzherald.co.nz/hawkes-bay-today/news/el-nino-could-raise-wildfire-and-water-quality-risks-in-hawkes-bay-council-says/AQDKWLFSRZHYHBEYIQVDIWMHHQ",
-      "source": "nzherald.co.nz",
-      "card_text": "El Niño could raise wildfire and water-quality risks in Hawke’s Bay, council says"
     },
     {
       "rank": 37,
@@ -273,59 +273,59 @@
     },
     {
       "rank": 39,
+      "title": "Drug dealer deemed ‘low risk’, allowed to return to property",
+      "url": "https://odt.co.nz/news/west-coast/drug-dealer-deemed-low-risk-allowed-to-return-to-property-xgt9f1ug",
+      "source": "odt.co.nz",
+      "card_text": "Drug dealer deemed ‘low risk’, allowed to return to property"
+    },
+    {
+      "rank": 40,
       "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
       "url": "https://bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "$5 a litre? Seriously? The global shockwaves locking in high prices – and why Wellington can't fix it",
       "url": "https://stuff.co.nz/money/361040575/global-shockwaves-locking-high-prices-and-why-wellington-cant-fix-cause",
       "source": "stuff.co.nz",
       "card_text": "$5 a litre? Seriously? The global shockwaves locking in high prices – and why Wellington can't fix it"
     },
     {
-      "rank": 41,
-      "title": "Council consents eight homes on private driveway without telling neighbours",
-      "url": "https://stuff.co.nz/home-property/361034749/council-consents-eight-homes-private-driveway-without-telling-co-owners",
-      "source": "stuff.co.nz",
-      "card_text": "Council consents eight homes on private driveway without telling neighbours"
-    },
-    {
       "rank": 42,
-      "title": "‘Fallen off a cliff’: rents have fallen almost twice as much here as anywhere else in the country",
-      "url": "https://stuff.co.nz/home-property/361041202/fallen-cliff-rents-have-fallen-almost-twice-much-here-anywhere-else-country",
+      "title": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices | Stuff",
+      "url": "https://stuff.co.nz/politics/361041803/leaked-foodstuffs-poll-more-favour-supermarket-separation-voters-dont-think-itll-bring-down-prices",
       "source": "stuff.co.nz",
-      "card_text": "‘Fallen off a cliff’: rents have fallen almost twice as much here as anywhere else in the country"
+      "card_text": "Leaked Foodstuffs poll: More in favour of supermarket separation, but voters don’t think it’ll bring down prices | Stuff"
     },
     {
       "rank": 43,
-      "title": "How an Australian gang dominated the South Island drug trade, then lost it all",
-      "url": "https://stuff.co.nz/nz-news/361041889/how-australian-gang-dominated-south-island-drug-trade-then-lost-it-all",
+      "title": "Council approves eight new homes on shared driveway – without telling the neighbours",
+      "url": "https://stuff.co.nz/home-property/361034749/council-consents-eight-homes-private-driveway-without-telling-co-owners",
       "source": "stuff.co.nz",
-      "card_text": "How an Australian gang dominated the South Island drug trade, then lost it all"
+      "card_text": "Council approves eight new homes on shared driveway – without telling the neighbours"
     },
     {
       "rank": 44,
+      "title": "Rents have fallen almost twice as much here as anywhere else – as buying becomes more affordable",
+      "url": "https://stuff.co.nz/home-property/361041202/fallen-cliff-rents-have-fallen-almost-twice-much-here-anywhere-else-country",
+      "source": "stuff.co.nz",
+      "card_text": "Rents have fallen almost twice as much here as anywhere else – as buying becomes more affordable"
+    },
+    {
+      "rank": 45,
       "title": "‘Far from prying eyes’: Defence contracts are quietly changing NZ's aerospace industry",
       "url": "https://thepress.co.nz/business/361091523/far-prying-eyes-defence-contracts-are-quietly-changing-nzs-aerospace-industry",
       "source": "thepress.co.nz",
       "card_text": "‘Far from prying eyes’: Defence contracts are quietly changing NZ's aerospace industry"
     },
     {
-      "rank": 45,
-      "title": "Selwyn and Waimakariri are both booming. So why is one building three times as many homes?",
-      "url": "https://thepress.co.nz/nz-news/361089030/selwyn-and-waimakariri-are-both-booming-so-why-one-building-three-times-many-homes",
-      "source": "thepress.co.nz",
-      "card_text": "Selwyn and Waimakariri are both booming. So why is one building three times as many homes?"
-    },
-    {
       "rank": 46,
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "url": "https://bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "I've seen nearly 500 executions - but never one like Christa Pike's"
+      "title": "Major research grants for Otago studies",
+      "url": "https://odt.co.nz/news/dunedin/major-research-grants-for-otago-studies-qh303smd",
+      "source": "odt.co.nz",
+      "card_text": "Major research grants for Otago studies No preview available for this article yet. Otago Daily Times Today 5:30 am Technology"
     },
     {
       "rank": 47,
@@ -336,24 +336,24 @@
     },
     {
       "rank": 48,
-      "title": "NZ First candidate defends past praise of controversial influencer Andrew Tate",
-      "url": "https://stuff.co.nz/politics/361041546/nz-first-candidate-defends-past-praise-controversial-influencer-andrew-tate",
-      "source": "stuff.co.nz",
-      "card_text": "NZ First candidate defends past praise of controversial influencer Andrew Tate"
+      "title": "America's looming debt problem",
+      "url": "https://interest.co.nz/bonds/140512/kenneth-rogoff-highlights-dangers-trump-administrations-bet-us-can-outgrow-its-fiscal",
+      "source": "interest.co.nz",
+      "card_text": "America's looming debt problem Kenneth Rogoff highlights the dangers of the Trump administration's bet that the US can outgrow its fiscal problems Interest Yesterday Business"
     },
     {
       "rank": 49,
-      "title": "ANZ NZ says NZ’s economy a 'mixed bag'",
-      "url": "https://interest.co.nz/economy/140514/anz-roy-morgan-survey-shows-consumer-confidence-trudging-along-while-two-year",
-      "source": "interest.co.nz",
-      "card_text": "ANZ NZ says NZ’s economy a 'mixed bag' ANZ-Roy Morgan survey shows consumer confidence 'trudging along' while two-year inflation expectations at lowest level in 19 months Interest Today 12:10 am Business"
-    },
-    {
-      "rank": 50,
       "title": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election",
       "url": "https://youtube.com/watch?v=mxRSxbkvtRU",
       "source": "youtube.com",
       "card_text": "Watch: NZ House Prices Collapse: Why Falling Values Threaten Luxon's Election"
+    },
+    {
+      "rank": 50,
+      "title": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says",
+      "url": "https://kanivatonga.co.nz/2026/10/two-suspected-flu-deaths-in-tonga-not-yet-confirmed-health-minister-says",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Two suspected flu deaths in Tonga not yet confirmed, Health Minister says"
     }
   ],
   "json_endpoints_observed": [
