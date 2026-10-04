@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-04T21:40:36.825767+00:00",
+  "retrieved_at_utc": "2026-10-04T21:57:57.810170+00:00",
   "count": 50,
   "items": [
     {
@@ -14,66 +14,66 @@
     },
     {
       "rank": 2,
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck"
+    },
+    {
+      "rank": 3,
+      "title": "Experts call for subsidised sunscreen in effort to reduce skin cancer rates",
+      "url": "https://rnz.co.nz/news/health/1737760/experts-call-for-subsidised-sunscreen-in-effort-to-reduce-skin-cancer-rates",
+      "source": "rnz.co.nz",
+      "card_text": "Experts call for subsidised sunscreen in effort to reduce skin cancer rates"
+    },
+    {
+      "rank": 4,
+      "title": "Gavin Grey: UK correspondent on Ann Widdecombe's alleged killer being charged with acts of terror",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/gavin-grey-uk-correspondent-on-ann-widdecombes-alleged-killer-being-charged-with-acts-of-terror",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Gavin Grey: UK correspondent on Ann Widdecombe's alleged killer being charged with acts of terror"
+    },
+    {
+      "rank": 5,
+      "title": "BSA legislation introduced",
+      "url": "https://pointofordernz.wordpress.com/2026/10/05/bsa-legislation-introduced",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "BSA legislation introduced David Farrar writes – Paul Goldsmith announced: Legislation which disestablishes the Broadcasting Standards Authority has been introduced to Parliament today, Media and Communications Minister Paul Goldsmith says. “Our Government promised to get this legislation into the House before we rise. Today we’re delivering. “New Zealand’s media landscape has changed dramatically, but our regulatory settings have …... Point of Order Today 9:29 am Politics"
+    },
+    {
+      "rank": 6,
       "title": "Quick Hit: The Number Chippy Won’t Name",
       "url": "https://goodoil.news/quick-hit-the-number-chippy-wont-name",
       "source": "goodoil.news",
       "card_text": "Quick Hit: The Number Chippy Won’t Name Greens put about $1.1 billion a year, roughly $4.48 billion over four years, on care-worker pay equity. Hipkins called the 2025 change the most reprehensible thing he has seen and still will not cost the reverse. Moral fury without a price tag is not a budget. The Good Oil Today 8:30 am Politics"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "title": "Labour’s fiscal plan answers some questions, but leaves $10b hanging",
       "url": "https://nzherald.co.nz/nz/politics/labours-fiscal-plan-answers-some-questions-but-leaves-10b-hanging/premium/RJATN744F5CNJOYC4WAVPQ6PJU",
       "source": "nzherald.co.nz",
       "card_text": "Labour’s fiscal plan answers some questions, but leaves $10b hanging"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "title": "Picks n’ Mixes for Monday October 5",
       "url": "https://thekaka.substack.com/p/picks-n-mixes-for-monday-october",
       "source": "thekaka.substack.com",
       "card_text": "Picks n’ Mixes for Monday October 5 Labour releases fiscal plan, but pay equity questions remain; Greens detail $13.65b public transport plan; Wayne Brown rubbishes National’s plan for Drury Road; ASB downgrades forecasts The Kākā Today 6:00 am Politics"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "What backsliding on climate deals could cost us",
       "url": "https://newsroom.co.nz/2026/10/05/what-backsliding-on-climate-deals-could-cost-us",
       "source": "newsroom.co.nz",
       "card_text": "What backsliding on climate deals could cost us"
     },
     {
-      "rank": 6,
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "url": "https://bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Watch: What we know about Russian strikes on Kyiv bridges"
-    },
-    {
-      "rank": 7,
-      "title": "Wellington Hospital ED operating under code red about half the time since March",
-      "url": "https://rnz.co.nz/news/health/1733945/wellington-hospital-ed-operating-under-code-red-about-half-the-time-since-march",
-      "source": "rnz.co.nz",
-      "card_text": "Wellington Hospital ED operating under code red about half the time since March"
-    },
-    {
-      "rank": 8,
-      "title": "‘It’s life or death’: Southern bowel cancer patients at the bottom of urgent colonoscopy wait times",
-      "url": "https://odt.co.nz/news/dunedin/its-life-or-death-southern-bowel-cancer-patients-at-the-bottom-of-urgent-colonoscopy-wait-times-u9xp3538",
-      "source": "odt.co.nz",
-      "card_text": "‘It’s life or death’: Southern bowel cancer patients at the bottom of urgent colonoscopy wait times"
-    },
-    {
-      "rank": 9,
-      "title": "Coroner warns against stopping antidepressants without medical advice after man’s death",
-      "url": "https://stuff.co.nz/nz-news/361041885/coroner-warns-against-stopping-antidepressants-without-medical-advice-after-mans-death",
-      "source": "stuff.co.nz",
-      "card_text": "Coroner warns against stopping antidepressants without medical advice after man’s death"
-    },
-    {
       "rank": 10,
-      "title": "AgriZeroNZ secures $117m as Alliance Group and Farmlands join",
-      "url": "https://businessdesk.co.nz/article/primary-sector/agrizeronz-secures-117m-as-alliance-group-and-farmlands-join",
+      "title": "Tatua pays top milk price again",
+      "url": "https://businessdesk.co.nz/article/primary-sector/tatua-pays-top-milk-price-again",
       "source": "businessdesk.co.nz",
-      "card_text": "AgriZeroNZ secures $117m as Alliance Group and Farmlands join"
+      "card_text": "Tatua pays top milk price again The Tatua Co-operative Dairy Company will pay its farmer shareholders a final payout of $12.42/kgMS after a season of record shareholder milk collections and the commissioning of additional manufacturing capacity. The specialist dairy product processor generated earnings of $13.93 per kilogram of shareholder supplied milksolid for the year to the end of July. BusinessDesk Today 10:21 am Rural"
     },
     {
       "rank": 11,
@@ -84,80 +84,80 @@
     },
     {
       "rank": 12,
-      "title": "Stolen vehicle spiked after dangerous driving through Christchurch",
-      "url": "https://chrislynchmedia.com/news-items/stolen-vehicle-spiked-after-dangerous-driving-through-christchurch",
-      "source": "chrislynchmedia.com",
-      "card_text": "Stolen vehicle spiked after dangerous driving through Christchurch"
-    },
-    {
-      "rank": 13,
       "title": "Democracy Briefing: The supermarket duopoly fights back",
       "url": "https://democracyproject.org.nz/p/democracy-briefing-the-supermarket-4db",
       "source": "democracyproject.org.nz",
       "card_text": "Democracy Briefing: The supermarket duopoly fights back"
     },
     {
-      "rank": 14,
-      "title": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies",
-      "url": "https://youtube.com/watch?v=PMqrrSPzMXw",
-      "source": "youtube.com",
-      "card_text": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies"
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "title": "Policy Spotlight: How NZ’s parties would tackle NZ’s productivity crisis",
       "url": "https://thepress.co.nz/business/361090153/productivity-divides-how-parties-would-try-get-nz-producing-more",
       "source": "thepress.co.nz",
       "card_text": "Policy Spotlight: How NZ’s parties would tackle NZ’s productivity crisis"
     },
     {
-      "rank": 16,
+      "rank": 14,
       "title": "Pay Rise Is Not Pay Equity: Unions Put Labour on Notice",
       "url": "https://waateanews.com/2026/10/05/pay-rise-is-not-pay-equity-unions-put-labour-on-notice",
       "source": "waateanews.com",
       "card_text": "Pay Rise Is Not Pay Equity: Unions Put Labour on Notice"
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "title": "Live: National promises $800m for Canterbury roads | Stuff",
+      "url": "https://stuff.co.nz/politics/361036026/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Live: National promises $800m for Canterbury roads | Stuff"
+    },
+    {
+      "rank": 16,
       "title": "Election 2026 live updates: More of Labour’s fiscal plan revealed, National commits to Mill Rd, Greens public transport policy announced, Act’s KiwiSaver tax cut",
       "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-more-of-labours-fiscal-plan-revealed-national-commits-to-mill-rd-greens-public-transport-policy-announced/3CHULBFX7NE3FIES7C4KI4LVJM",
       "source": "nzherald.co.nz",
       "card_text": "Election 2026 live updates: More of Labour’s fiscal plan revealed, National commits to Mill Rd, Greens public transport policy announced, Act’s KiwiSaver tax cut"
     },
     {
-      "rank": 18,
-      "title": "Authority cracks down on ministers’ $52,000 accommodation allowances",
-      "url": "https://stuff.co.nz/politics/361042177/authority-cracks-down-ministers-pocketing-cash-living-their-own-homes",
-      "source": "stuff.co.nz",
-      "card_text": "Authority cracks down on ministers’ $52,000 accommodation allowances"
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "title": "Waiting for economic recovery? Hold on until next year",
       "url": "https://rnz.co.nz/news/personal-finance/1733685/waiting-for-economic-recovery-hold-on-until-next-year",
       "source": "rnz.co.nz",
       "card_text": "Waiting for economic recovery? Hold on until next year"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "title": "Massive Curaçao leak exposes workings of NZ’s ‘No 1’ online casino",
       "url": "https://newsroom.co.nz/2026/10/05/massive-curacao-leak-exposes-workings-of-nzs-number-1-online-casino",
       "source": "newsroom.co.nz",
       "card_text": "Massive Curaçao leak exposes workings of NZ’s ‘No 1’ online casino"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "title": "Dry dock project moves to expert consideration",
       "url": "https://beehive.govt.nz/release/dry-dock-project-moves-expert-consideration",
       "source": "beehive.govt.nz",
       "card_text": "Dry dock project moves to expert consideration"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "title": "BlackRock questions hang over solarZero director case",
       "url": "https://businessdesk.co.nz/article/energy/blackrock-questions-hang-over-solarzero-director-case",
       "source": "businessdesk.co.nz",
       "card_text": "BlackRock questions hang over solarZero director case"
+    },
+    {
+      "rank": 21,
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "url": "https://bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Watch: What we know about Russian strikes on Kyiv bridges"
+    },
+    {
+      "rank": 22,
+      "title": "Russian lab worker dies of ‘pneumonia of unknown origin’ after lab accident - reports",
+      "url": "https://stuff.co.nz/world-news/361042374/russian-lab-worker-dies-pneumonia-unknown-origin-after-lab-accident-reports",
+      "source": "stuff.co.nz",
+      "card_text": "Russian lab worker dies of ‘pneumonia of unknown origin’ after lab accident - reports"
     },
     {
       "rank": 23,
@@ -168,192 +168,192 @@
     },
     {
       "rank": 24,
-      "title": "Christa Pike hasn’t regained consciousness since failed execution, may not recover says lawyer",
-      "url": "https://stuff.co.nz/world-news/361042316/christa-pikes-lawyer-says-she-has-not-regained-consciousness",
-      "source": "stuff.co.nz",
-      "card_text": "Christa Pike hasn’t regained consciousness since failed execution, may not recover says lawyer"
-    },
-    {
-      "rank": 25,
-      "title": "Search underway for missing plane from Bermuda to Boston with six people on board",
-      "url": "https://newstalkzb.co.nz/news/world/search-underway-for-missing-plane-from-bermuda-to-boston-with-six-people-on-board",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Search underway for missing plane from Bermuda to Boston with six people on board"
-    },
-    {
-      "rank": 26,
       "title": "Advantage All Blacks as Wallabies are weakened before Bledisloe Cup",
       "url": "https://thepress.co.nz/sport/361091752/all-blacks-hold-cards-against-wallabies-side-weakened-key-losses-european-clubs",
       "source": "thepress.co.nz",
       "card_text": "Advantage All Blacks as Wallabies are weakened before Bledisloe Cup"
     },
     {
-      "rank": 27,
+      "rank": 25,
       "title": "All Blacks first-five set to miss rest of 2026 after ankle surgery",
       "url": "https://stuff.co.nz/sport/361042293/all-blacks-first-five-ruben-love-set-miss-rest-2026-after-ankle-surgery",
       "source": "stuff.co.nz",
       "card_text": "All Blacks first-five set to miss rest of 2026 after ankle surgery"
     },
     {
-      "rank": 28,
+      "rank": 26,
       "title": "Kodi for Kiwis: Why NRL veteran shapes as best playmaker option for World Cup opener",
       "url": "https://thepress.co.nz/sport/361089583/kiwis-could-call-kodi-nikorima-key-playmaker-role-rugby-league-world-cup-tournament-opener",
       "source": "thepress.co.nz",
       "card_text": "Kodi for Kiwis: Why NRL veteran shapes as best playmaker option for World Cup opener"
     },
     {
-      "rank": 29,
+      "rank": 27,
       "title": "Wood out to continue scoring streak as All Whites chase prized tournament win against Japan",
       "url": "https://thepress.co.nz/sport/361091618/captain-chris-wood-aims-keep-scoring-streak-alive-against-japan-all-whites-strive-win-kirin-cup",
       "source": "thepress.co.nz",
       "card_text": "Wood out to continue scoring streak as All Whites chase prized tournament win against Japan"
     },
     {
+      "rank": 28,
+      "title": "Wellington Hospital ED operating under code red about half the time since March",
+      "url": "https://rnz.co.nz/news/health/1733945/wellington-hospital-ed-operating-under-code-red-about-half-the-time-since-march",
+      "source": "rnz.co.nz",
+      "card_text": "Wellington Hospital ED operating under code red about half the time since March"
+    },
+    {
+      "rank": 29,
+      "title": "Spring gardeners warned of Legionnaires’ disease risk after 135 hospitalised, 36 Canterbury cases",
+      "url": "https://nzherald.co.nz/nz/spring-gardeners-warned-of-legionnaires-disease-risk-after-135-hospitalised-36-canterbury-cases/GWOTDCANO5EYBPGXM3DPBVE4HA",
+      "source": "nzherald.co.nz",
+      "card_text": "Spring gardeners warned of Legionnaires’ disease risk after 135 hospitalised, 36 Canterbury cases"
+    },
+    {
       "rank": 30,
-      "title": "Taika Waititi directs steamy campaign to tackle breast cancer checks",
-      "url": "https://stuff.co.nz/health/361041836/taika-waititi-directs-steamy-campaign-tackle-breast-cancer-checks",
-      "source": "stuff.co.nz",
-      "card_text": "Taika Waititi directs steamy campaign to tackle breast cancer checks"
+      "title": "‘It’s life or death’: Southern bowel cancer patients at the bottom of urgent colonoscopy wait times",
+      "url": "https://odt.co.nz/news/dunedin/its-life-or-death-southern-bowel-cancer-patients-at-the-bottom-of-urgent-colonoscopy-wait-times-u9xp3538",
+      "source": "odt.co.nz",
+      "card_text": "‘It’s life or death’: Southern bowel cancer patients at the bottom of urgent colonoscopy wait times"
     },
     {
       "rank": 31,
-      "title": "Life-saving first aid training at the heart of Pacific community event",
-      "url": "https://odt.co.nz/news/dunedin/life-saving-first-aid-training-at-the-heart-of-pacific-community-event-bouxednp",
-      "source": "odt.co.nz",
-      "card_text": "Life-saving first aid training at the heart of Pacific community event"
+      "title": "Coroner warns against stopping antidepressants without medical advice after man’s death",
+      "url": "https://stuff.co.nz/nz-news/361041885/coroner-warns-against-stopping-antidepressants-without-medical-advice-after-mans-death",
+      "source": "stuff.co.nz",
+      "card_text": "Coroner warns against stopping antidepressants without medical advice after man’s death"
     },
     {
       "rank": 32,
-      "title": "New postgraduate training pathway needed for rural GPs - doctor",
-      "url": "https://rnz.co.nz/news/health/1725788/new-postgraduate-training-pathway-needed-for-rural-gps-doctor",
-      "source": "rnz.co.nz",
-      "card_text": "New postgraduate training pathway needed for rural GPs - doctor"
-    },
-    {
-      "rank": 33,
-      "title": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it",
-      "url": "https://newstalkzb.co.nz/news/national/hpylori-the-group-one-carcinogen-lurking-in-kiwi-tummies-and-why-nz-doesn-t-screen-for-it",
-      "source": "newstalkzb.co.nz",
-      "card_text": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it"
-    },
-    {
-      "rank": 34,
       "title": "Loafers Lodge survivors denied funding to attend manslaughter trial",
       "url": "https://rnz.co.nz/news/emergencies_local/1735188/loafers-lodge-survivors-denied-funding-to-attend-manslaughter-trial",
       "source": "rnz.co.nz",
       "card_text": "Loafers Lodge survivors denied funding to attend manslaughter trial"
     },
     {
-      "rank": 35,
-      "title": "NZ Diving skipper seeks compensation after six-year Maritime NZ case dismissed",
-      "url": "https://nzherald.co.nz/nz/auckland/nz-diving-skipper-seeks-compensation-after-six-year-maritime-nz-case-dismissed/premium/UHX47BR43VACJOJQSYKVE4L6BU",
-      "source": "nzherald.co.nz",
-      "card_text": "NZ Diving skipper seeks compensation after six-year Maritime NZ case dismissed"
+      "rank": 33,
+      "title": "Election 2026 live updates: More of Labour’s fiscal plan revealed, National commits to Mill Rd, Greens public transport policy announced, Act’s KiwiSaver tax cut",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-live-updates-more-of-labour-s-fiscal-plan-revealed-national-commits-to-mill-rd-greens-public-transport-policy-announced-act-s-kiwisaver-tax-cut",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026 live updates: More of Labour’s fiscal plan revealed, National commits to Mill Rd, Greens public transport policy announced, Act’s KiwiSaver tax cut"
     },
     {
-      "rank": 36,
+      "rank": 34,
+      "title": "Authority cracks down on ministers’ $52,000 accommodation allowances",
+      "url": "https://stuff.co.nz/politics/361042177/authority-cracks-down-ministers-pocketing-cash-living-their-own-homes",
+      "source": "stuff.co.nz",
+      "card_text": "Authority cracks down on ministers’ $52,000 accommodation allowances"
+    },
+    {
+      "rank": 35,
       "title": "ECan warns of ‘frightening’ financial position and 10%-plus rates rise",
       "url": "https://thepress.co.nz/nz-news/361090619/ecan-sets-aside-10m-transition-costs-faces-frightening-financial-position",
       "source": "thepress.co.nz",
       "card_text": "ECan warns of ‘frightening’ financial position and 10%-plus rates rise"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Lobbyists, OIA breaches under microscope as Labour seeks to improve public trust",
       "url": "https://newsroom.co.nz/2026/10/05/lobbyists-oia-breaches-under-microscope-as-labour-seeks-to-improve-public-trust",
       "source": "newsroom.co.nz",
       "card_text": "Lobbyists, OIA breaches under microscope as Labour seeks to improve public trust"
     },
     {
+      "rank": 37,
+      "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+      "url": "https://stuff.co.nz/world-news/361042416/us-air-force-removes-all-bombers-british-air-base-targe",
+      "source": "stuff.co.nz",
+      "card_text": "US Air Force removes all bombers from British air base targeted by a suspected terror attack"
+    },
+    {
       "rank": 38,
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "url": "https://bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ethiopian rebel forces withdraw from Tigray regional capital"
+      "title": "Which party could leave homeowners better off?",
+      "url": "https://odt.co.nz/news/national/which-party-would-make-homeowners-better-off-sit9nqu7",
+      "source": "odt.co.nz",
+      "card_text": "Which party could leave homeowners better off?"
     },
     {
       "rank": 39,
-      "title": "Family came to NZ for a better life. Their 6-year-old is facing deportation",
-      "url": "https://stuff.co.nz/nz-news/361029278/family-came-nz-better-life-their-6-year-old-facing-deportation",
-      "source": "stuff.co.nz",
-      "card_text": "Family came to NZ for a better life. Their 6-year-old is facing deportation"
+      "title": "David Seymour: ACT Party leader on the party's plan to cut KiwiSaver taxes",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/david-seymour-act-party-leader-on-the-partys-plan-to-cut-kiwisaver-taxes",
+      "source": "newstalkzb.co.nz",
+      "card_text": "David Seymour: ACT Party leader on the party's plan to cut KiwiSaver taxes"
     },
     {
       "rank": 40,
-      "title": "Barriers aim to speed up flood response in Canterbury district",
-      "url": "https://odt.co.nz/canterbury/christchurch/barriers-aim-to-speed-up-flood-response-in-canterbury-district-uhramkln",
-      "source": "odt.co.nz",
-      "card_text": "Barriers aim to speed up flood response in Canterbury district"
+      "title": "Dry Dock Project Moves To Expert Consideration",
+      "url": "https://scoop.co.nz/stories/PA2610/S00034/dry-dock-project-moves-to-expert-consideration.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Dry Dock Project Moves To Expert Consideration"
     },
     {
       "rank": 41,
-      "title": "Does KiwiSaver really make us better off?",
-      "url": "https://rnz.co.nz/news/business/1676467/does-kiwisaver-really-make-us-better-off",
-      "source": "rnz.co.nz",
-      "card_text": "Does KiwiSaver really make us better off?"
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "url": "https://bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Indian police accused of sexually harassing journalists at protest"
     },
     {
       "rank": 42,
-      "title": "Wayne Brown calls National’s $1.75b Mill Rd plan ‘idiotic’",
-      "url": "https://nzherald.co.nz/nz/wayne-brown-calls-nationals-175b-mill-rd-plan-idiotic/GPZTQ6N6SVCQFJB5TSNKPCFBFY",
-      "source": "nzherald.co.nz",
-      "card_text": "Wayne Brown calls National’s $1.75b Mill Rd plan ‘idiotic’"
+      "title": "AgriZeroNZ secures $117m as Alliance Group and Farmlands join",
+      "url": "https://businessdesk.co.nz/article/primary-sector/agrizeronz-secures-117m-as-alliance-group-and-farmlands-join",
+      "source": "businessdesk.co.nz",
+      "card_text": "AgriZeroNZ secures $117m as Alliance Group and Farmlands join"
     },
     {
       "rank": 43,
-      "title": "Indian police accused of sexual harassment against journalists at protest",
-      "url": "https://bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Indian police accused of sexual harassment against journalists at protest"
-    },
-    {
-      "rank": 44,
-      "title": "Supermarket shakeup and grocery prices a key election battleground",
-      "url": "https://businessdesk.co.nz/article/election-2026/supermarket-shakeup-and-grocery-prices-a-key-election-battleground",
-      "source": "businessdesk.co.nz",
-      "card_text": "Supermarket shakeup and grocery prices a key election battleground"
-    },
-    {
-      "rank": 45,
-      "title": "Seymour: ‘Affording a decent life is the number one political issue’",
-      "url": "https://newsroom.co.nz/2026/10/05/seymour-affording-a-decent-life-is-the-number-one-political-issue",
-      "source": "newsroom.co.nz",
-      "card_text": "Seymour: ‘Affording a decent life is the number one political issue’"
-    },
-    {
-      "rank": 46,
       "title": "Calls grow for council to force sale of vacant New Brighton Mall building",
       "url": "https://thepress.co.nz/nz-news/361089744/calls-grow-council-force-sale-vacant-new-brighton-mall-building",
       "source": "thepress.co.nz",
       "card_text": "Calls grow for council to force sale of vacant New Brighton Mall building"
     },
     {
-      "rank": 47,
-      "title": "'Huge mistake': MP slams electorate name change, says it could change back",
-      "url": "https://newstalkzb.co.nz/news/national/huge-mistake-mp-slams-electorate-name-change-says-it-could-change-back",
-      "source": "newstalkzb.co.nz",
-      "card_text": "'Huge mistake': MP slams electorate name change, says it could change back"
-    },
-    {
-      "rank": 48,
-      "title": "US Marine arrested for alleged murder of a woman on Okinawa",
-      "url": "https://stuff.co.nz/world-news/361042308/us-marine-arrested-alleged-murder-woman-okinawa",
-      "source": "stuff.co.nz",
-      "card_text": "US Marine arrested for alleged murder of a woman on Okinawa"
-    },
-    {
-      "rank": 49,
+      "rank": 44,
       "title": "Metrics funds absorb valuation write-down as audit stoush ends",
       "url": "https://investmentnews.co.nz/investment-news/metrics-funds-absorb-valuation-write-down-as-audit-standoff-ends",
       "source": "investmentnews.co.nz",
       "card_text": "Metrics funds absorb valuation write-down as audit stoush ends"
     },
     {
-      "rank": 50,
-      "title": "Watch: Local govt leaders call for relationship reset with parliament",
-      "url": "https://youtube.com/watch?v=uso2mqtuTYA",
+      "rank": 45,
+      "title": "Stolen vehicle spiked after dangerous driving through Christchurch",
+      "url": "https://chrislynchmedia.com/news-items/stolen-vehicle-spiked-after-dangerous-driving-through-christchurch",
+      "source": "chrislynchmedia.com",
+      "card_text": "Stolen vehicle spiked after dangerous driving through Christchurch"
+    },
+    {
+      "rank": 46,
+      "title": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies",
+      "url": "https://youtube.com/watch?v=PMqrrSPzMXw",
       "source": "youtube.com",
-      "card_text": "Watch: Local govt leaders call for relationship reset with parliament"
+      "card_text": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies"
+    },
+    {
+      "rank": 47,
+      "title": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint",
+      "url": "https://waateanews.com/2026/10/04/climate-clash-greens-demand-answers-over-eu-trade-agreement-complaint",
+      "source": "waateanews.com",
+      "card_text": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint"
+    },
+    {
+      "rank": 48,
+      "title": "Wayne Brown calls National’s $1.75b Mill Rd plan ‘idiotic’",
+      "url": "https://newstalkzb.co.nz/news/national/wayne-brown-calls-national-s-175b-mill-rd-plan-idiotic",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Wayne Brown calls National’s $1.75b Mill Rd plan ‘idiotic’"
+    },
+    {
+      "rank": 49,
+      "title": "No-confidence vote passed over Lyttelton Port expansion plan",
+      "url": "https://odt.co.nz/canterbury/christchurch/no-confidence-vote-passed-over-lyttelton-port-expansion-plan-tdz65nqp",
+      "source": "odt.co.nz",
+      "card_text": "No-confidence vote passed over Lyttelton Port expansion plan"
+    },
+    {
+      "rank": 50,
+      "title": "Are you paying too much for your airfare? Why flying in NZ is a data black hole",
+      "url": "https://thepress.co.nz/travel/361088373/are-you-paying-too-much-your-airfare-why-flying-nz-data-black-hole",
+      "source": "thepress.co.nz",
+      "card_text": "Are you paying too much for your airfare? Why flying in NZ is a data black hole"
     }
   ],
   "json_endpoints_observed": [
