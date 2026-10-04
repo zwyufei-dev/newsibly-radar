@@ -2,330 +2,330 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-04T04:27:27.924205+00:00",
+  "retrieved_at_utc": "2026-10-04T10:51:50.224065+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit"
+    },
+    {
+      "rank": 2,
+      "title": "‘Acceptable’ visa funds face cull as Invest NZ cleans up",
+      "url": "https://investmentnews.co.nz/investment-news/acceptable-visa-funds-face-cull-as-invest-nz-cleans-up",
+      "source": "investmentnews.co.nz",
+      "card_text": "‘Acceptable’ visa funds face cull as Invest NZ cleans up"
+    },
+    {
+      "rank": 3,
       "title": "BSA legislation introduced",
       "url": "https://kiwiblog.co.nz/2026/10/bsa_legislation_introduced.html",
       "source": "kiwiblog.co.nz",
       "card_text": "BSA legislation introduced Paul Goldsmith announced: Legislation which disestablishes the Broadcasting Standards Authority has been introduced to Parliament today, Media and Communications Minister Paul Goldsmith says. “Our Government promised to get this legislation into the House before we rise. Today we’re delivering. “New Zealand’s media landscape has changed dramatically, but our regulatory settings have not kept up. For […] The post... Kiwiblog Today 3:00 pm Politics"
     },
     {
-      "rank": 2,
-      "title": "Watch live: Labour promises to reinstate pay equity as it releases fiscal plan",
-      "url": "https://nzherald.co.nz/nz/politics/labour-makes-election-announcement-as-campaign-ramps-up/X3MLYPADOVETPOWTTB5O76U74M",
-      "source": "nzherald.co.nz",
-      "card_text": "Watch live: Labour promises to reinstate pay equity as it releases fiscal plan"
-    },
-    {
-      "rank": 3,
-      "title": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it",
-      "url": "https://newstalkzb.co.nz/news/national/hpylori-the-group-one-carcinogen-lurking-in-kiwi-tummies-and-why-nz-doesn-t-screen-for-it",
-      "source": "newstalkzb.co.nz",
-      "card_text": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it"
-    },
-    {
       "rank": 4,
+      "title": "Winston Peters $120 Weekly Family Promise: How Will NZ First Pay For It?",
+      "url": "https://goodoil.news/winston-peters-120-weekly-family-promise-how-will-nz-first-pay-for-it",
+      "source": "goodoil.news",
+      "card_text": "Winston Peters $120 Weekly Family Promise: How Will NZ First Pay For It?"
+    },
+    {
+      "rank": 5,
+      "title": "Stolen vehicle spiked after dangerous driving through Christchurch",
+      "url": "https://chrislynchmedia.com/news-items/stolen-vehicle-spiked-after-dangerous-driving-through-christchurch",
+      "source": "chrislynchmedia.com",
+      "card_text": "Stolen vehicle spiked after dangerous driving through Christchurch"
+    },
+    {
+      "rank": 6,
+      "title": "Democracy Briefing: The supermarket duopoly fights back",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-supermarket-4db",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: The supermarket duopoly fights back"
+    },
+    {
+      "rank": 7,
       "title": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies",
       "url": "https://youtube.com/watch?v=PMqrrSPzMXw",
       "source": "youtube.com",
       "card_text": "Watch: Supermarket boss hits back at 'populist' grocery break-up policies"
     },
     {
-      "rank": 5,
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russia hits second major bridge in Ukraine's capital Kyiv"
-    },
-    {
-      "rank": 6,
-      "title": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint",
-      "url": "https://waateanews.com/2026/10/04/climate-clash-greens-demand-answers-over-eu-trade-agreement-complaint",
-      "source": "waateanews.com",
-      "card_text": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "The next Government faces a $3b choice over tax cuts and public spending",
       "url": "https://businessdesk.co.nz/article/opinion/the-next-government-faces-a-3b-choice-over-tax-cuts-and-public-spending",
       "source": "businessdesk.co.nz",
       "card_text": "The next Government faces a $3b choice over tax cuts and public spending"
     },
     {
-      "rank": 8,
-      "title": "Stop fixing girls: it’s time to fix the system",
-      "url": "https://newsroom.co.nz/2026/10/04/stop-fixing-girls-its-time-to-fix-the-system",
-      "source": "newsroom.co.nz",
-      "card_text": "Stop fixing girls: it’s time to fix the system"
-    },
-    {
       "rank": 9,
-      "title": "Southland Bucks The National Price Slide",
-      "url": "https://whatsoninvers.nz/southland-bucks-the-national-price-slide",
-      "source": "whatsoninvers.nz",
-      "card_text": "Southland Bucks The National Price Slide"
+      "title": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint",
+      "url": "https://waateanews.com/2026/10/04/climate-clash-greens-demand-answers-over-eu-trade-agreement-complaint",
+      "source": "waateanews.com",
+      "card_text": "Climate Clash: Greens Demand Answers Over EU Trade Agreement Complaint"
     },
     {
       "rank": 10,
-      "title": "‘The school that became a grave’ – Jeremy Scahill on US bombing of Minab, killing 120+ Iranian kids",
-      "url": "https://asiapacificreport.nz/2026/10/03/the-school-that-became-a-grave-jeremy-scahill-on-us-bombing-of-minab-killing-120-iranian-kids",
-      "source": "asiapacificreport.nz",
-      "card_text": "‘The school that became a grave’ – Jeremy Scahill on US bombing of Minab, killing 120+ Iranian kids"
+      "title": "David Seymour's Speech To Act’s 2026 Campaign Launch – Where Does Wealth Come From?",
+      "url": "https://scoop.co.nz/stories/PA2610/S00028/david-seymours-speech-to-acts-2026-campaign-launch-where-does-wealth-come-from.htm",
+      "source": "scoop.co.nz",
+      "card_text": "David Seymour's Speech To Act’s 2026 Campaign Launch – Where Does Wealth Come From?"
     },
     {
       "rank": 11,
-      "title": "Circular relationships among AI firms could amplify risks",
-      "url": "https://interest.co.nz/technology/140516/bank-international-settlements-warns-potential-macroeconomic-risks-stemming",
-      "source": "interest.co.nz",
-      "card_text": "Circular relationships among AI firms could amplify risks"
+      "title": "NZ telecoms infrastructure: Why US investors paid $600k for a Lower Hutt rooftop – and broke our rules",
+      "url": "https://nzherald.co.nz/nz/nz-telecoms-infrastructure-why-us-investors-paid-600k-for-a-lower-hutt-rooftop-and-broke-our-rules/premium/WD5X6LIZGNDQDE3YA2G4FRIG7U",
+      "source": "nzherald.co.nz",
+      "card_text": "NZ telecoms infrastructure: Why US investors paid $600k for a Lower Hutt rooftop – and broke our rules"
     },
     {
       "rank": 12,
-      "title": "Digital ID rollout targets four million credentials by mid-2028 as eight govt projects kept secret",
-      "url": "https://goodoil.news/digital-id-rollout-targets-four-million-credentials-by-mid-2028-as-eight-govt-projects-kept-secret",
-      "source": "goodoil.news",
-      "card_text": "Digital ID rollout targets four million credentials by mid-2028 as eight govt projects kept secret"
+      "title": "Metrics funds absorb valuation write-down as audit stoush ends",
+      "url": "https://investmentnews.co.nz/investment-news/metrics-funds-absorb-valuation-write-down-as-audit-standoff-ends",
+      "source": "investmentnews.co.nz",
+      "card_text": "Metrics funds absorb valuation write-down as audit stoush ends"
     },
     {
       "rank": 13,
-      "title": "Labour releases fiscal plan, promises immediate pay rise for care and support workers",
-      "url": "https://stuff.co.nz/politics/361042221/labour-releases-fiscal-plan-promises-immediate-pay-rise-care-and-support-workers",
-      "source": "stuff.co.nz",
-      "card_text": "Labour releases fiscal plan, promises immediate pay rise for care and support workers"
-    },
-    {
-      "rank": 14,
       "title": "Banking industry worries AI agents 'could cause run on banks'",
       "url": "https://thepress.co.nz/world-news/361092130/banking-industry-worries-ai-agents-could-cause-run-banks",
       "source": "thepress.co.nz",
       "card_text": "Banking industry worries AI agents 'could cause run on banks'"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Job seeker calls for ban on 'ghost' interviews that harvest data for AI",
       "url": "https://rnz.co.nz/news/business/1708637/job-seeker-calls-for-ban-on-ghost-interviews-that-harvest-data-for-ai",
       "source": "rnz.co.nz",
       "card_text": "Job seeker calls for ban on 'ghost' interviews that harvest data for AI"
     },
     {
+      "rank": 15,
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Australia investigating Flydubai co-pilot's links to country"
+    },
+    {
       "rank": 16,
-      "title": "Environment Southland Cuts South Port Stake For $30m",
-      "url": "https://whatsoninvers.nz/environment-southland-cuts-south-port-stake-for-30m",
-      "source": "whatsoninvers.nz",
-      "card_text": "Environment Southland Cuts South Port Stake For $30m"
+      "title": "Cornell president vows 'serious look' at student groups after rape claims",
+      "url": "https://odt.co.nz/news/world/cornell-president-vows-serious-look-at-student-groups-after-rape-claims-u801dhet",
+      "source": "odt.co.nz",
+      "card_text": "Cornell president vows 'serious look' at student groups after rape claims"
     },
     {
       "rank": 17,
-      "title": "Waitaki Power Station upgrade boost for district",
-      "url": "https://odt.co.nz/otago/north-otago/waitaki-power-station-upgrade-boost-for-district-i9vclw9h",
-      "source": "odt.co.nz",
-      "card_text": "Waitaki Power Station upgrade boost for district"
+      "title": "All Blacks first-five set to miss rest of 2026 after ankle surgery",
+      "url": "https://stuff.co.nz/sport/361042293/all-blacks-first-five-ruben-love-set-miss-rest-2026-after-ankle-surgery",
+      "source": "stuff.co.nz",
+      "card_text": "All Blacks first-five set to miss rest of 2026 after ankle surgery"
     },
     {
       "rank": 18,
-      "title": "Why Canada is preparing for a (long shot) US invasion",
-      "url": "https://bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Why Canada is preparing for a (long shot) US invasion"
-    },
-    {
-      "rank": 19,
-      "title": "Dashcam captures the moment Russian drone strikes Kyiv bridge",
-      "url": "https://stuff.co.nz/world-news/361042119/russia-bombs-kyiv-bridge-new-tactic-carve-city-two",
-      "source": "stuff.co.nz",
-      "card_text": "Dashcam captures the moment Russian drone strikes Kyiv bridge"
-    },
-    {
-      "rank": 20,
-      "title": "Omani co-pilot who tried to crash Flydubai jet studied at UK university",
-      "url": "https://thepress.co.nz/world-news/361092128/omani-co-pilot-who-tried-crash-flydubai-jet-studied-uk-university",
-      "source": "thepress.co.nz",
-      "card_text": "Omani co-pilot who tried to crash Flydubai jet studied at UK university"
-    },
-    {
-      "rank": 21,
       "title": "Sir Richard Hadlee’s criticism of NZ Cricket: Another top name, Lesley Murdoch, takes aim at NZC over ‘lack of transparency’",
       "url": "https://nzherald.co.nz/sport/cricket/sir-richard-hadlees-criticism-of-nz-cricket-another-top-name-lesley-murdoch-takes-aim-at-nzc-over-lack-of-transparency/premium/QSDKXY45LFB7VECTNQF23WBYBY",
       "source": "nzherald.co.nz",
       "card_text": "Sir Richard Hadlee’s criticism of NZ Cricket: Another top name, Lesley Murdoch, takes aim at NZC over ‘lack of transparency’"
     },
     {
-      "rank": 22,
+      "rank": 19,
       "title": "Ardie Heads North: All Blacks Captain Signs with Blues for 2027",
       "url": "https://waateanews.com/2026/10/04/ardie-heads-north-all-blacks-captain-signs-with-blues-for-2027",
       "source": "waateanews.com",
       "card_text": "Ardie Heads North: All Blacks Captain Signs with Blues for 2027"
     },
     {
-      "rank": 23,
-      "title": "The big questions hanging over the All Blacks ahead of the Bledisloe Cup",
-      "url": "https://stuff.co.nz/sport/361042078/big-questions-hanging-over-dave-rennies-all-blacks-ahead-bledisloe-cup-tests-against-wallabies",
-      "source": "stuff.co.nz",
-      "card_text": "The big questions hanging over the All Blacks ahead of the Bledisloe Cup"
-    },
-    {
-      "rank": 24,
-      "title": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it",
-      "url": "https://nzherald.co.nz/nz/auckland/hpylori-the-group-one-carcinogen-lurking-in-kiwi-tummies-and-why-nz-doesnt-screen-for-it/5PPUGZLOEFEU7GIWZC52Z6N4GE",
-      "source": "nzherald.co.nz",
-      "card_text": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it"
-    },
-    {
-      "rank": 25,
-      "title": "Resource consent granted for Nelson Hospital’s 128-bed inpatient building",
-      "url": "https://thepress.co.nz/nz-news/361091851/resource-consent-granted-nelson-hospitals-128-bed-inpatient-building",
+      "rank": 20,
+      "title": "‘We’ve got to be better’: Dave Rennie’s demands and selection headaches for Bledisloe bounceback",
+      "url": "https://thepress.co.nz/sport/361091081/dave-rennie-demands-better-all-blacks-they-eye-bledisloe-bounceback-against-wallabies",
       "source": "thepress.co.nz",
-      "card_text": "Resource consent granted for Nelson Hospital’s 128-bed inpatient building"
+      "card_text": "‘We’ve got to be better’: Dave Rennie’s demands and selection headaches for Bledisloe bounceback"
     },
     {
-      "rank": 26,
+      "rank": 21,
+      "title": "New postgraduate training pathway needed for rural GPs - doctor",
+      "url": "https://rnz.co.nz/news/health/1725788/new-postgraduate-training-pathway-needed-for-rural-gps-doctor",
+      "source": "rnz.co.nz",
+      "card_text": "New postgraduate training pathway needed for rural GPs - doctor"
+    },
+    {
+      "rank": 22,
       "title": "Healthcare road trip wants first-hand accounts from communities",
       "url": "https://odt.co.nz/news/national/healthcare-roady-wants-first-hand-accounts-from-communities-l2loix78",
       "source": "odt.co.nz",
       "card_text": "Healthcare road trip wants first-hand accounts from communities"
     },
     {
-      "rank": 27,
+      "rank": 23,
+      "title": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it",
+      "url": "https://newstalkzb.co.nz/news/national/hpylori-the-group-one-carcinogen-lurking-in-kiwi-tummies-and-why-nz-doesn-t-screen-for-it",
+      "source": "newstalkzb.co.nz",
+      "card_text": "H.pylori: The group one carcinogen lurking in Kiwi tummies and why NZ doesn’t screen for it"
+    },
+    {
+      "rank": 24,
+      "title": "Southland Bucks The National Price Slide",
+      "url": "https://whatsoninvers.nz/southland-bucks-the-national-price-slide",
+      "source": "whatsoninvers.nz",
+      "card_text": "Southland Bucks The National Price Slide"
+    },
+    {
+      "rank": 25,
+      "title": "Meet the ‘full nesters’: Record numbers of young Kiwis are living with their parents",
+      "url": "https://thepress.co.nz/nz-news/361089294/meet-full-nesters-record-numbers-young-kiwis-are-living-their-parents",
+      "source": "thepress.co.nz",
+      "card_text": "Meet the ‘full nesters’: Record numbers of young Kiwis are living with their parents"
+    },
+    {
+      "rank": 26,
       "title": "He booked a $1000 Airbnb for a festival. Months later, it was relisted for $9200",
       "url": "https://stuff.co.nz/travel/361041877/festival-goers-1000-airbnb-booking-cancelled-relisted-9200",
       "source": "stuff.co.nz",
       "card_text": "He booked a $1000 Airbnb for a festival. Months later, it was relisted for $9200"
     },
     {
+      "rank": 27,
+      "title": "Private equity drags GSF below reference line",
+      "url": "https://investmentnews.co.nz/investment-news/private-equity-drags-gsf-below-reference-line",
+      "source": "investmentnews.co.nz",
+      "card_text": "Private equity drags GSF below reference line"
+    },
+    {
       "rank": 28,
-      "title": "When more homes become possible",
-      "url": "https://interest.co.nz/public-policy/140520/how-proposed-planning-rules-could-make-aucklands-housing-supply-more",
-      "source": "interest.co.nz",
-      "card_text": "When more homes become possible Interest Yesterday"
+      "title": "Mercury and NZ Clean Energy sign long-term renewable energy partnership for Masterton solar and battery storage project",
+      "url": "https://nzherald.co.nz/business/mercury-and-nz-clean-energy-sign-long-term-renewable-energy-partnership-for-masterton-solar-and-battery-storage-project/V5362O7HOBDY5JBRJAODEXJS5Q",
+      "source": "nzherald.co.nz",
+      "card_text": "Mercury and NZ Clean Energy sign long-term renewable energy partnership for Masterton solar and battery storage project"
     },
     {
       "rank": 29,
-      "title": "Mortgagee sales on track for highest total since 2020",
-      "url": "https://goodoil.news/mortgagee-sales-on-track-for-highest-total-since-2020",
-      "source": "goodoil.news",
-      "card_text": "Mortgagee sales on track for highest total since 2020"
+      "title": "BNP clears way for global capital flow to NZ; Westpac opens funding line for new private credit player",
+      "url": "https://investmentnews.co.nz/investment-news/bnp-clears-way-for-global-capital-flow-to-nz-westpac-opens-funding-line-for-new-private-credit-player",
+      "source": "investmentnews.co.nz",
+      "card_text": "BNP clears way for global capital flow to NZ; Westpac opens funding line for new private credit player"
     },
     {
       "rank": 30,
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "url": "https://bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro"
+    },
+    {
+      "rank": 31,
+      "title": "'I just wanted to get him out' - Man who saved 89-year-old from burning home",
+      "url": "https://rnz.co.nz/news/emergencies_local/1722300/i-just-wanted-to-get-him-out-man-who-saved-89-year-old-from-burning-home",
+      "source": "rnz.co.nz",
+      "card_text": "'I just wanted to get him out' - Man who saved 89-year-old from burning home"
+    },
+    {
+      "rank": 32,
+      "title": "Passer-by praised as hero after rescuing elderly man from burning house",
+      "url": "https://stuff.co.nz/nz-news/361042286/passer-praised-hero-after-rescuing-elderly-man-burning-house",
+      "source": "stuff.co.nz",
+      "card_text": "Passer-by praised as hero after rescuing elderly man from burning house"
+    },
+    {
+      "rank": 33,
+      "title": "Ruben Love’s All Blacks season over as surgery required on injured ankle",
+      "url": "https://thepress.co.nz/sport/361092214/ruben-loves-all-blacks-season-over-surgery-required-injured-ankle",
+      "source": "thepress.co.nz",
+      "card_text": "Ruben Love’s All Blacks season over as surgery required on injured ankle"
+    },
+    {
+      "rank": 34,
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "url": "https://bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis"
+    },
+    {
+      "rank": 35,
+      "title": "Person in custody after St Kilda firearms incident",
+      "url": "https://odt.co.nz/news/dunedin/person-in-custody-after-st-kilda-firearms-incident-pype0nwa",
+      "source": "odt.co.nz",
+      "card_text": "Person in custody after St Kilda firearms incident"
+    },
+    {
+      "rank": 36,
       "title": "Mill Road Stage One Given The Green Light",
       "url": "https://scoop.co.nz/stories/PA2610/S00025/mill-road-stage-one-given-the-green-light.htm",
       "source": "scoop.co.nz",
       "card_text": "Mill Road Stage One Given The Green Light"
     },
     {
-      "rank": 31,
+      "rank": 37,
       "title": "So sad for the woman",
       "url": "https://kiwiblog.co.nz/2026/10/so_sad_for_the_woman.html",
       "source": "kiwiblog.co.nz",
       "card_text": "So sad for the woman The Herald reports: A protection order was supposed to keep a woman safe. Instead, a judge said it proved “no better than a piece of soiled toilet paper” as her partner hunted her down, beat her, threatened her life and raped her during a sustained attack that left her fearing she would die. Now the […] The post So sad for the woman first appeared on Kiwiblog . Kiwiblog Today 11:00 am Crime"
     },
     {
-      "rank": 32,
-      "title": "More details emerge about teen driver who ploughed into crowd of NRL fans, injuring 10",
-      "url": "https://stuff.co.nz/sport/361042199/p-plater-horror-newcastle-knights-car-crash-previously-lost-his-licence",
-      "source": "stuff.co.nz",
-      "card_text": "More details emerge about teen driver who ploughed into crowd of NRL fans, injuring 10"
-    },
-    {
-      "rank": 33,
-      "title": "ACT Will Remove Tax On KiwiSaver Earnings",
-      "url": "https://scoop.co.nz/stories/PA2610/S00029/act-will-remove-tax-on-kiwisaver-earnings.htm",
-      "source": "scoop.co.nz",
-      "card_text": "ACT Will Remove Tax On KiwiSaver Earnings"
-    },
-    {
-      "rank": 34,
+      "rank": 38,
       "title": "Watch: Local govt leaders call for relationship reset with parliament",
       "url": "https://youtube.com/watch?v=uso2mqtuTYA",
       "source": "youtube.com",
       "card_text": "Watch: Local govt leaders call for relationship reset with parliament"
     },
     {
-      "rank": 35,
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "url": "https://bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Cornell president says university 'must do better' after frat house rape allegations"
-    },
-    {
-      "rank": 36,
-      "title": "Media demand answers after Samoan PM’s security reportedly deletes journalist’s photos",
-      "url": "https://asiapacificreport.nz/2026/10/03/media-demand-answers-after-samoan-pms-security-reportedly-deletes-journalists-photos",
-      "source": "asiapacificreport.nz",
-      "card_text": "Media demand answers after Samoan PM’s security reportedly deletes journalist’s photos"
-    },
-    {
-      "rank": 37,
-      "title": "NZ's AI rulebook and what Asia is doing differently",
-      "url": "https://interest.co.nz/technology/140371/ai-moving-beyond-speed-light-can-new-zealands-policymakers-keep",
-      "source": "interest.co.nz",
-      "card_text": "NZ's AI rulebook and what Asia is doing differently"
-    },
-    {
-      "rank": 38,
-      "title": "TOP’s trawling bottom line sparks clash over Māori Treaty fishing rights",
-      "url": "https://goodoil.news/tops-trawling-bottom-line-sparks-clash-over-maori-treaty-fishing-rights",
-      "source": "goodoil.news",
-      "card_text": "TOP’s trawling bottom line sparks clash over Māori Treaty fishing rights"
-    },
-    {
       "rank": 39,
-      "title": "Democracy Briefing: The supermarket election",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-supermarket-4c1",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: The supermarket election"
+      "title": "All Aboard: Greens Unveil $4 Billion Plan to Bring Intercity Passenger Rail Back",
+      "url": "https://waateanews.com/2026/10/04/all-aboard-greens-unveil-4-billion-plan-to-bring-intercity-passenger-rail-back",
+      "source": "waateanews.com",
+      "card_text": "All Aboard: Greens Unveil $4 Billion Plan to Bring Intercity Passenger Rail Back"
     },
     {
       "rank": 40,
+      "title": "Stop fixing girls: it’s time to fix the system",
+      "url": "https://newsroom.co.nz/2026/10/04/stop-fixing-girls-its-time-to-fix-the-system",
+      "source": "newsroom.co.nz",
+      "card_text": "Stop fixing girls: it’s time to fix the system"
+    },
+    {
+      "rank": 41,
+      "title": "Environment Southland Cuts South Port Stake For $30m",
+      "url": "https://whatsoninvers.nz/environment-southland-cuts-south-port-stake-for-30m",
+      "source": "whatsoninvers.nz",
+      "card_text": "Environment Southland Cuts South Port Stake For $30m"
+    },
+    {
+      "rank": 42,
+      "title": "Auckland identity theft: Kiel MacGregor sentenced for scams targeting Spark customers",
+      "url": "https://newstalkzb.co.nz/news/national/auckland-identity-theft-kiel-macgregor-sentenced-for-scams-targeting-spark-customers",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Auckland identity theft: Kiel MacGregor sentenced for scams targeting Spark customers"
+    },
+    {
+      "rank": 43,
+      "title": "More details emerge about teen driver who ploughed into crowd of NRL fans, injuring 10",
+      "url": "https://stuff.co.nz/sport/361042199/p-plater-horror-newcastle-knights-car-crash-previously-lost-his-licence",
+      "source": "stuff.co.nz",
+      "card_text": "More details emerge about teen driver who ploughed into crowd of NRL fans, injuring 10"
+    },
+    {
+      "rank": 44,
+      "title": "Auckland identity theft: Kiel MacGregor sentenced for scams targeting Spark customers",
+      "url": "https://nzherald.co.nz/nz/crime/auckland-identity-theft-kiel-macgregor-sentenced-for-scams-targeting-spark-customers/YKLSIBI7INDE3KLKAXWC4B2SUU",
+      "source": "nzherald.co.nz",
+      "card_text": "Auckland identity theft: Kiel MacGregor sentenced for scams targeting Spark customers"
+    },
+    {
+      "rank": 45,
       "title": "Samoan convicted of child sex abuse avoids deportation",
       "url": "https://odt.co.nz/news/national/samoan-convicted-of-child-sex-abuse-avoids-deportation-wmeknui3",
       "source": "odt.co.nz",
       "card_text": "Samoan convicted of child sex abuse avoids deportation"
     },
     {
-      "rank": 41,
-      "title": "Extensive search for Erika continues",
-      "url": "https://odt.co.nz/otago/queenstown/man-sought-in-search-for-erika-ewc6xzl5",
-      "source": "odt.co.nz",
-      "card_text": "Extensive search for Erika continues Search efforts are continuing this weekend for a Queenstown woman now missing for a fortnight. Otago Daily Times Today 1:26 pm Crime"
-    },
-    {
-      "rank": 42,
-      "title": "Tribunal allows deportation appeal by Samoan man convicted of child sex abuse",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1712029/tribunal-allows-deportation-appeal-by-samoan-man-convicted-of-child-sex-abuse",
-      "source": "rnz.co.nz",
-      "card_text": "Tribunal allows deportation appeal by Samoan man convicted of child sex abuse"
-    },
-    {
-      "rank": 43,
-      "title": "Courts again ‘unfit for purpose’",
-      "url": "https://odt.co.nz/otago/queenstown/courts-again-unfit-for-purpose-gid4ewd0",
-      "source": "odt.co.nz",
-      "card_text": "Courts again ‘unfit for purpose’ Otago Daily Times Today 1:42 pm"
-    },
-    {
-      "rank": 44,
-      "title": "Search for missing surgeon Erika Rodrigues Coelho continues",
-      "url": "https://stuff.co.nz/nz-news/361042099/search-dog-deployed-hunt-missing-surgeon-erika-rodrigues-coelho-continues",
-      "source": "stuff.co.nz",
-      "card_text": "Search for missing surgeon Erika Rodrigues Coelho continues"
-    },
-    {
-      "rank": 45,
-      "title": "Three injured in North Canterbury crash, power pole damaged",
-      "url": "https://thepress.co.nz/nz-news/361092113/three-injured-north-canterbury-crash",
-      "source": "thepress.co.nz",
-      "card_text": "Three injured in North Canterbury crash, power pole damaged"
-    },
-    {
       "rank": 46,
-      "title": "Search for missing plane in Westland lake ends",
-      "url": "https://odt.co.nz/otago/wanaka/search-for-missing-plane-in-westland-lake-ends-pdx21ysh",
-      "source": "odt.co.nz",
-      "card_text": "Search for missing plane in Westland lake ends"
+      "title": "Official Information Act: OIA reforms could make government information harder to access – David Harvey",
+      "url": "https://nzherald.co.nz/business/oia-reforms-could-make-government-information-harder-to-access-david-harvey/premium/33PH6AJUNZEOLKJDGQEISPRYBU",
+      "source": "nzherald.co.nz",
+      "card_text": "Official Information Act: OIA reforms could make government information harder to access – David Harvey"
     },
     {
       "rank": 47,
@@ -350,10 +350,10 @@
     },
     {
       "rank": 50,
-      "title": "National faces a clean-out but the upheaval may not end there",
-      "url": "https://thepress.co.nz/politics/361091243/national-faces-clean-out-upheaval-may-not-end-there",
+      "title": "Three injured in North Canterbury crash, power pole damaged",
+      "url": "https://thepress.co.nz/nz-news/361092113/three-injured-north-canterbury-crash",
       "source": "thepress.co.nz",
-      "card_text": "National faces a clean-out but the upheaval may not end there"
+      "card_text": "Three injured in North Canterbury crash, power pole damaged"
     }
   ],
   "json_endpoints_observed": [
