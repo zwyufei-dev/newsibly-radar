@@ -2,22 +2,22 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-07T14:20:13.774115+00:00",
+  "retrieved_at_utc": "2026-10-07T15:29:12.370367+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza",
-      "url": "https://stuff.co.nz/world-news/361043607/israelis-mourn-anniversary-oct-7-attack-pal",
-      "source": "stuff.co.nz",
-      "card_text": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza"
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "url": "https://bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24"
     },
     {
       "rank": 2,
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
-      "url": "https://bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15"
+      "title": "Russian strikes on Ukrainian cities kill at least 21 in a major attack that Kyiv saw coming | Stuff",
+      "url": "https://stuff.co.nz/world-news/361043617/russian-strikes-ukrainian-cities-kill-least-19-ma",
+      "source": "stuff.co.nz",
+      "card_text": "Russian strikes on Ukrainian cities kill at least 21 in a major attack that Kyiv saw coming | Stuff"
     },
     {
       "rank": 3,
@@ -28,24 +28,24 @@
     },
     {
       "rank": 4,
+      "title": "Building a new home is starting to cost more",
+      "url": "https://thepress.co.nz/nz-news/361093872/more-us-are-building-homes-and-its-helping-push-cost",
+      "source": "thepress.co.nz",
+      "card_text": "Building a new home is starting to cost more"
+    },
+    {
+      "rank": 5,
       "title": "Australia's top court rules against coal mine in landmark climate case",
       "url": "https://odt.co.nz/news/world/australias-top-court-rules-in-landmark-climate-case-on-coal-mine-b1y7qqpg",
       "source": "odt.co.nz",
       "card_text": "Australia's top court rules against coal mine in landmark climate case"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Barbara Edmonds: Labour finance spokesperson on Labour's plan for the public sector",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/barbara-edmonds-labour-finance-spokesperson-on-labours-plan-for-the-public-sector",
       "source": "newstalkzb.co.nz",
       "card_text": "Barbara Edmonds: Labour finance spokesperson on Labour's plan for the public sector"
-    },
-    {
-      "rank": 6,
-      "title": "Building a new home is starting to cost more",
-      "url": "https://thepress.co.nz/nz-news/361093872/more-us-are-building-homes-and-its-helping-push-cost",
-      "source": "thepress.co.nz",
-      "card_text": "Building a new home is starting to cost more"
     },
     {
       "rank": 7,
@@ -56,17 +56,17 @@
     },
     {
       "rank": 8,
-      "title": "Election 2026: Winston Peters raises prospect of revisiting conversion-practices law",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-winston-peters-raises-prospect-of-revisiting-conversion-practices-law/GVJNIGOTGVDPLIWNO2S2GZZVNU",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Winston Peters raises prospect of revisiting conversion-practices law"
-    },
-    {
-      "rank": 9,
       "title": "From dogs to fireworks: Where New Zealand’s political parties stand on animal welfare",
       "url": "https://chrislynchmedia.com/news-items/from-dogs-to-fireworks-where-new-zealands-political-parties-stand-on-animal-welfare",
       "source": "chrislynchmedia.com",
       "card_text": "From dogs to fireworks: Where New Zealand’s political parties stand on animal welfare"
+    },
+    {
+      "rank": 9,
+      "title": "Election 2026: Sir John Key, experts and politicians face off in the NZ Herald Future of New Zealand Debate",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-sir-john-key-experts-and-politicians-face-off-in-the-nz-herald-future-of-new-zealand-debate/XVYY2XTWLJCGTPZSWHEGFLWDM4",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: Sir John Key, experts and politicians face off in the NZ Herald Future of New Zealand Debate"
     },
     {
       "rank": 10,
@@ -105,24 +105,24 @@
     },
     {
       "rank": 15,
-      "title": "Jenee Tibshraeny: NZ Herald Wellington business editor on how Labour's plans for the public sector could impact the economy",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jenee-tibshraeny-nz-herald-wellington-business-editor-on-how-labours-plans-for-the-public-sector-could-impact-the-economy",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Jenee Tibshraeny: NZ Herald Wellington business editor on how Labour's plans for the public sector could impact the economy"
-    },
-    {
-      "rank": 16,
       "title": "Sir John Key answers the billionaire question the two Chrises wouldn’t",
       "url": "https://stuff.co.nz/politics/361043093/nz-election-2026-live-updates-politics-campaign-news",
       "source": "stuff.co.nz",
       "card_text": "Sir John Key answers the billionaire question the two Chrises wouldn’t"
     },
     {
+      "rank": 16,
+      "title": "Jenee Tibshraeny: NZ Herald Wellington business editor on how Labour's plans for the public sector could impact the economy",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jenee-tibshraeny-nz-herald-wellington-business-editor-on-how-labours-plans-for-the-public-sector-could-impact-the-economy",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Jenee Tibshraeny: NZ Herald Wellington business editor on how Labour's plans for the public sector could impact the economy"
+    },
+    {
       "rank": 17,
-      "title": "Election 2026: Sir John Key, experts and politicians face off in the NZ Herald Future of New Zealand Debate",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-sir-john-key-experts-and-politicians-face-off-in-the-nz-herald-future-of-new-zealand-debate/XVYY2XTWLJCGTPZSWHEGFLWDM4",
+      "title": "Election 2026: Winston Peters raises prospect of revisiting conversion-practices law",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-winston-peters-raises-prospect-of-revisiting-conversion-practices-law/GVJNIGOTGVDPLIWNO2S2GZZVNU",
       "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Sir John Key, experts and politicians face off in the NZ Herald Future of New Zealand Debate"
+      "card_text": "Election 2026: Winston Peters raises prospect of revisiting conversion-practices law"
     },
     {
       "rank": 18,
@@ -147,31 +147,31 @@
     },
     {
       "rank": 21,
-      "title": "Russian strikes on Ukrainian cities kill at least 19 in a major attack that Kyiv saw coming",
-      "url": "https://stuff.co.nz/world-news/361043617/russian-strikes-ukrainian-cities-kill-least-19-ma",
+      "title": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza",
+      "url": "https://stuff.co.nz/world-news/361043607/israelis-mourn-anniversary-oct-7-attack-pal",
       "source": "stuff.co.nz",
-      "card_text": "Russian strikes on Ukrainian cities kill at least 19 in a major attack that Kyiv saw coming"
+      "card_text": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza"
     },
     {
       "rank": 22,
-      "title": "India's opposition leader dragged on to bus as police break up protest",
-      "url": "https://bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "url": "https://bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "India's opposition leader dragged on to bus as police break up protest"
+      "card_text": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow"
     },
     {
       "rank": 23,
-      "title": "Israelis mark three years since October 7 attack",
-      "url": "https://odt.co.nz/news/world/israelis-mark-three-years-since-october-7-attack-yqrtunn4",
-      "source": "odt.co.nz",
-      "card_text": "Israelis mark three years since October 7 attack"
-    },
-    {
-      "rank": 24,
       "title": "French Polynesia proposes ‘pathway to independence’ process at UN",
       "url": "https://asiapacificreport.nz/2026/10/07/french-polynesia-proposes-pathway-to-independence-process-at-un",
       "source": "asiapacificreport.nz",
       "card_text": "French Polynesia proposes ‘pathway to independence’ process at UN"
+    },
+    {
+      "rank": 24,
+      "title": "Much of the world sees tragedy in Gaza. Many Israelis, scarred by October 7, see only a threat",
+      "url": "https://thepress.co.nz/world-news/361094376/much-world-sees-tragedy-gaza-many-israelis-scarred-october-7-see-only-threat",
+      "source": "thepress.co.nz",
+      "card_text": "Much of the world sees tragedy in Gaza. Many Israelis, scarred by October 7, see only a threat"
     },
     {
       "rank": 25,
@@ -245,115 +245,115 @@
     },
     {
       "rank": 35,
+      "title": "India's opposition leader dragged on to bus as police break up protest",
+      "url": "https://bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "India's opposition leader dragged on to bus as police break up protest"
+    },
+    {
+      "rank": 36,
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "url": "https://bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Nepal ends search for thousands of flood victims, leaving some angry and others relieved",
       "url": "https://stuff.co.nz/world-news/361043632/nepal-ends-search-thousands-flood-victims-leaving-som",
       "source": "stuff.co.nz",
       "card_text": "Nepal ends search for thousands of flood victims, leaving some angry and others relieved"
     },
     {
-      "rank": 37,
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "France halts use of stun grenades after boy's hand blown off in student protests"
-    },
-    {
       "rank": 38,
-      "title": "Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery",
-      "url": "https://stuff.co.nz/world-news/361043630/nobel-prize-chemistry-awarded-kagan-and-soai-resea",
-      "source": "stuff.co.nz",
-      "card_text": "Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery"
-    },
-    {
-      "rank": 39,
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "url": "https://bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Trump to speak to Putin about plague lab worker's death in Russia"
     },
     {
-      "rank": 40,
-      "title": "Prosecutor says man charged in killing of British ex-politician tried to break into Farage's home",
-      "url": "https://stuff.co.nz/world-news/361043622/prosecutor-says-man-charged-killing-british-expolitici",
+      "rank": 39,
+      "title": "Russia keeps a tight lid on suspected case of pneumonic plague as global concerns mount",
+      "url": "https://stuff.co.nz/world-news/361043650/russia-keeps-tight-lid-suspected-case-pneumonic-plag",
       "source": "stuff.co.nz",
-      "card_text": "Prosecutor says man charged in killing of British ex-politician tried to break into Farage's home"
+      "card_text": "Russia keeps a tight lid on suspected case of pneumonic plague as global concerns mount"
+    },
+    {
+      "rank": 40,
+      "title": "IMF chief urges countries to do more to curb debt and regulate AI",
+      "url": "https://stuff.co.nz/world-news/361043646/imf-chief-urges-countries-do-more-curb-debt-and-regula",
+      "source": "stuff.co.nz",
+      "card_text": "IMF chief urges countries to do more to curb debt and regulate AI"
     },
     {
       "rank": 41,
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "France halts use of stun grenades after boy's hand blown off in student protests"
+    },
+    {
+      "rank": 42,
+      "title": "Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery",
+      "url": "https://stuff.co.nz/world-news/361043630/nobel-prize-chemistry-awarded-kagan-and-soai-resea",
+      "source": "stuff.co.nz",
+      "card_text": "Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery"
+    },
+    {
+      "rank": 43,
+      "title": "Israelis mark three years since October 7 attack",
+      "url": "https://odt.co.nz/news/world/israelis-mark-three-years-since-october-7-attack-yqrtunn4",
+      "source": "odt.co.nz",
+      "card_text": "Israelis mark three years since October 7 attack"
+    },
+    {
+      "rank": 44,
       "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
       "url": "https://bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "India's first bank rate hike since 2023 signals growing inflation concerns"
     },
     {
-      "rank": 42,
-      "title": "Loafers Lodge fire trial: Charred remnants of building shown to jury",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1784270/loafers-lodge-fire-trial-charred-remnants-of-building-shown-to-jury",
-      "source": "rnz.co.nz",
-      "card_text": "Loafers Lodge fire trial: Charred remnants of building shown to jury"
-    },
-    {
-      "rank": 43,
+      "rank": 45,
       "title": "Turnaround in rural lending as farmers take on more debt",
       "url": "https://interest.co.nz/economy/140559/lending-growth-appears-be-starting-slow-mortgages-and-business-lending-farmers-will",
       "source": "interest.co.nz",
       "card_text": "Turnaround in rural lending as farmers take on more debt"
     },
     {
-      "rank": 44,
+      "rank": 46,
+      "title": "Loafers Lodge fire trial: Charred remnants of building shown to jury",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1784270/loafers-lodge-fire-trial-charred-remnants-of-building-shown-to-jury",
+      "source": "rnz.co.nz",
+      "card_text": "Loafers Lodge fire trial: Charred remnants of building shown to jury"
+    },
+    {
+      "rank": 47,
       "title": "Watch: Sextortion has quadrupled in NZ as new campaign aims to give victims a way out | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=Yce16yCHers",
       "source": "youtube.com",
       "card_text": "Watch: Sextortion has quadrupled in NZ as new campaign aims to give victims a way out | Stuff.co.nz"
     },
     {
-      "rank": 45,
-      "title": "‘Nothing I could do’: First on scene of highway crash finds two women killed",
-      "url": "https://stuff.co.nz/nz-news/361043474/was-my-calling-first-scene-highway-double-fatality-speaks-out",
-      "source": "stuff.co.nz",
-      "card_text": "‘Nothing I could do’: First on scene of highway crash finds two women killed"
-    },
-    {
-      "rank": 46,
+      "rank": 48,
       "title": "Freight businesses collapsing, struggling to survive as fuel crisis takes toll – The Front Page",
       "url": "https://nzherald.co.nz/nz/freight-businesses-collapsing-struggling-to-survive-as-fuel-crisis-takes-toll-the-front-page/SYKMRR3UDNHVVJ5YRBCAK4NCYU",
       "source": "nzherald.co.nz",
       "card_text": "Freight businesses collapsing, struggling to survive as fuel crisis takes toll – The Front Page"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "title": "Christchurch’s Kate Sheppard House added to World Heritage Tentative List",
       "url": "https://chrislynchmedia.com/news-items/christchurchs-kate-sheppard-house-added-to-world-heritage-tentative-list",
       "source": "chrislynchmedia.com",
       "card_text": "Christchurch’s Kate Sheppard House added to World Heritage Tentative List"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "title": "‘Respect the people’ – Fiji coalition clash over Rabuka’s fast-tracked constitutional referendum",
       "url": "https://asiapacificreport.nz/2026/10/07/respect-the-people-fiji-coalition-clash-over-rabukas-fast-tracked-constitutional-referendum",
       "source": "asiapacificreport.nz",
       "card_text": "‘Respect the people’ – Fiji coalition clash over Rabuka’s fast-tracked constitutional referendum"
-    },
-    {
-      "rank": 49,
-      "title": "Migrant Protections Welcomed, But Longer Wait for Residence Raises Questions",
-      "url": "https://waateanews.com/2026/10/07/migrant-protections-welcomed-but-longer-wait-for-residence-raises-questions",
-      "source": "waateanews.com",
-      "card_text": "Migrant Protections Welcomed, But Longer Wait for Residence Raises Questions"
-    },
-    {
-      "rank": 50,
-      "title": "New Zealand First Announces Party List",
-      "url": "https://scoop.co.nz/stories/PA2610/S00062/new-zealand-first-announces-party-list.htm",
-      "source": "scoop.co.nz",
-      "card_text": "New Zealand First Announces Party List New Zealand First has officially released its party list, presenting a formidable lineup of experienced, talented, and principled leaders ready to put New Zealanders First. Scoop Yesterday Politics"
     }
   ],
   "json_endpoints_observed": [
