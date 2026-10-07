@@ -2,50 +2,50 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-07T18:23:31.785661+00:00",
+  "retrieved_at_utc": "2026-10-07T19:19:58.593463+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-      "url": "https://bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24"
-    },
-    {
-      "rank": 2,
       "title": "Stricter emergency housing rules putting domestic violence victims at risk, Women's Refuge says",
       "url": "https://rnz.co.nz/news/community/1786728/stricter-emergency-housing-rules-putting-domestic-violence-victims-at-risk-women-s-refuge-says",
       "source": "rnz.co.nz",
       "card_text": "Stricter emergency housing rules putting domestic violence victims at risk, Women's Refuge says"
     },
     {
-      "rank": 3,
-      "title": "Coroner’s report: Man took his own life after paying money to ‘sextortion’ blackmailer, sending images to AI-generated woman",
-      "url": "https://nzherald.co.nz/nz/coroners-report-man-took-his-own-life-after-paying-money-to-sextortion-blackmailer/DO6EGWOCWZEYTPVEV66FKXDZTA",
-      "source": "nzherald.co.nz",
-      "card_text": "Coroner’s report: Man took his own life after paying money to ‘sextortion’ blackmailer, sending images to AI-generated woman"
+      "rank": 2,
+      "title": "Labour’s sinking-lid fiscal strategy has consequences",
+      "url": "https://thekaka.substack.com/p/labours-sinking-lid-fiscal-strategy",
+      "source": "thekaka.substack.com",
+      "card_text": "Labour’s sinking-lid fiscal strategy has consequences"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "National’s proposed aid cuts take aim at Key-era research initiative",
       "url": "https://newsroom.co.nz/2026/10/08/nationals-proposed-aid-cuts-take-aim-at-key-era-research-initiative",
       "source": "newsroom.co.nz",
       "card_text": "National’s proposed aid cuts take aim at Key-era research initiative"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Has Labour really left billions unfunded in its fiscal plan?",
       "url": "https://stuff.co.nz/politics/361043489/has-labour-really-left-billions-unfunded-its-fiscal-plan",
       "source": "stuff.co.nz",
       "card_text": "Has Labour really left billions unfunded in its fiscal plan?"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Bowel screening change a ‘great start’ but not enough, campaigner says",
       "url": "https://thepress.co.nz/nz-news/361092545/bowel-screening-change-great-start-not-enough-campaigner-says",
       "source": "thepress.co.nz",
       "card_text": "Bowel screening change a ‘great start’ but not enough, campaigner says"
+    },
+    {
+      "rank": 6,
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "url": "https://bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Children killed while they slept as Russian missile kills 19 in block of flats"
     },
     {
       "rank": 7,
@@ -70,10 +70,10 @@
     },
     {
       "rank": 10,
-      "title": "Labour pledges to open up banking sector to more competition, Kiwibank ‘will remain 100% NZ-owned’",
-      "url": "https://interest.co.nz/banking/140571/chris-hipkins-promises-labour-will-break-down-barriers-stop-new-competitors-taking",
-      "source": "interest.co.nz",
-      "card_text": "Labour pledges to open up banking sector to more competition, Kiwibank ‘will remain 100% NZ-owned’"
+      "title": "Tamahere‘s festival link",
+      "url": "https://cambridgenews.nz/2026/10/tamaheres-festival-link",
+      "source": "cambridgenews.nz",
+      "card_text": "Tamahere‘s festival link New Zealand’s biggest music festival, is poised to move from Gisborne to Tamahere, multiple sources say. The News understands Rhythm and Vines organisers have identified a Hooker Rd property adjoining the Waikato River and Te... Cambridge News Today 7:00 am Culture"
     },
     {
       "rank": 11,
@@ -84,73 +84,73 @@
     },
     {
       "rank": 12,
+      "title": "Labour pledges to open up banking sector to more competition, Kiwibank ‘will remain 100% NZ-owned’",
+      "url": "https://interest.co.nz/banking/140571/chris-hipkins-promises-labour-will-break-down-barriers-stop-new-competitors-taking",
+      "source": "interest.co.nz",
+      "card_text": "Labour pledges to open up banking sector to more competition, Kiwibank ‘will remain 100% NZ-owned’"
+    },
+    {
+      "rank": 13,
       "title": "‘Let’s rally behind them’ – PNG commits to help Tuvalu at Pre-COP climate meet",
       "url": "https://asiapacificreport.nz/2026/10/07/lets-rally-behind-them-png-commits-to-help-tuvalu-at-pre-cop-climate-meet",
       "source": "asiapacificreport.nz",
       "card_text": "‘Let’s rally behind them’ – PNG commits to help Tuvalu at Pre-COP climate meet"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "From dogs to fireworks: Where New Zealand’s political parties stand on animal welfare",
       "url": "https://chrislynchmedia.com/news-items/from-dogs-to-fireworks-where-new-zealands-political-parties-stand-on-animal-welfare",
       "source": "chrislynchmedia.com",
       "card_text": "From dogs to fireworks: Where New Zealand’s political parties stand on animal welfare"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Pay equity's back in the spotlight for the election – here's what you need to know",
       "url": "https://thespinoff.co.nz/politics/07-10-2026/whats-going-on-with-pay-equity",
       "source": "thespinoff.co.nz",
       "card_text": "Pay equity's back in the spotlight for the election – here's what you need to know"
     },
     {
-      "rank": 15,
-      "title": "New rules to learn",
-      "url": "https://cambridgenews.nz/2026/10/new-rules-to-learn",
-      "source": "cambridgenews.nz",
-      "card_text": "New rules to learn As we prepare to head back to school next week it’s a good time to take a look at the four major new road roles that came into effect on October 1 and how they... Cambridge News Yesterday Transport"
-    },
-    {
       "rank": 16,
-      "title": "National plans to slash overseas aid",
-      "url": "https://thestandard.nz/national-plans-to-slash-overseas-aid",
-      "source": "thestandard.nz",
-      "card_text": "National plans to slash overseas aid National's announcement made yesterday to make savage cuts to overseas aid to pay for cancer treatments is a stunner. Imagining seeking the votes of those who want to have an improved health system and those who harbour racist thoughts at the same time. The Standard Yesterday Politics"
-    },
-    {
-      "rank": 17,
       "title": "Luxon proud of NZ’s Ukraine support, but won’t rule out aid cuts",
       "url": "https://stuff.co.nz/politics/361043511/peters-calls-luxon-confirm-if-hes-cutting-funding-ukraine",
       "source": "stuff.co.nz",
       "card_text": "Luxon proud of NZ’s Ukraine support, but won’t rule out aid cuts"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Politicians pin hopes of winning knife-edge race on Auckland this election",
       "url": "https://rnz.co.nz/news/politics_election-2026/1786725/politicians-pin-hopes-of-winning-knife-edge-race-on-auckland-this-election",
       "source": "rnz.co.nz",
       "card_text": "Politicians pin hopes of winning knife-edge race on Auckland this election"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "‘Not on the same page’: documents show council in disarray",
       "url": "https://odt.co.nz/news/southland/not-on-the-same-page-documents-show-council-in-disarray-hxsxu1me",
       "source": "odt.co.nz",
       "card_text": "‘Not on the same page’: documents show council in disarray"
     },
     {
-      "rank": 20,
-      "title": "National promises telex-free laws, though minister isn’t sure what one is",
-      "url": "https://newsroom.co.nz/2026/10/08/national-promises-telex-free-laws-though-minister-isnt-sure-what-one-is",
-      "source": "newsroom.co.nz",
-      "card_text": "National promises telex-free laws, though minister isn’t sure what one is"
+      "rank": 19,
+      "title": "Chris Hipkins: Labour Leader live on the Mike Hosking Breakfast",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/chris-hipkins-labour-leader-live-on-the-mike-hosking-breakfast",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Chris Hipkins: Labour Leader live on the Mike Hosking Breakfast"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Motorists putting fuel on Afterpay as prices rise",
       "url": "https://rnz.co.nz/news/personal-finance/1786727/motorists-putting-fuel-on-afterpay-as-prices-rise",
       "source": "rnz.co.nz",
       "card_text": "Motorists putting fuel on Afterpay as prices rise"
+    },
+    {
+      "rank": 21,
+      "title": "Kiwi footwear company Minx awaits six-figure TVSN payment as network holds closing-down sale",
+      "url": "https://newstalkzb.co.nz/news/business/kiwi-footwear-company-minx-awaits-six-figure-tvsn-payment-as-network-holds-closing-down-sale",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Kiwi footwear company Minx awaits six-figure TVSN payment as network holds closing-down sale"
     },
     {
       "rank": 22,
@@ -161,10 +161,10 @@
     },
     {
       "rank": 23,
-      "title": "Media Insider: ‘Unexpected’ - RNZ chief financial officer Hilary Parker resigns, role being filled by board member",
-      "url": "https://nzherald.co.nz/business/media-insider/media-insider-unexpected-rnz-chief-financial-officer-hilary-parker-resigns-role-being-filled-by-board-member/premium/MTMZN6A575GVDMPUQG7A7NMCGM",
+      "title": "Ireland’s Lanas buys Indici in possible $100m-plus deal, circles second New Zealand target",
+      "url": "https://nzherald.co.nz/business/irelands-lanas-buys-indici-in-100m-plus-deal-circles-second-new-zealand-target/premium/TD3JHQILF5HQPHFICTNVTQHBBI",
       "source": "nzherald.co.nz",
-      "card_text": "Media Insider: ‘Unexpected’ - RNZ chief financial officer Hilary Parker resigns, role being filled by board member"
+      "card_text": "Ireland’s Lanas buys Indici in possible $100m-plus deal, circles second New Zealand target"
     },
     {
       "rank": 24,
@@ -175,10 +175,10 @@
     },
     {
       "rank": 25,
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "url": "https://bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Canada suspends plans to expand assisted dying to people with mental illness"
+      "card_text": "Israelis demand accountability over 7 October failures three years after attacks"
     },
     {
       "rank": 26,
@@ -196,31 +196,31 @@
     },
     {
       "rank": 28,
-      "title": "Who will be in the All Blacks team facing the Wallabies in Auckland?",
-      "url": "https://stuff.co.nz/sport/361042783/all-blacks-v-wallabies-team-naming-first-bledisloe-cup-test",
+      "title": "Injury blow rules Richie Mo’unga out of Wallabies tests",
+      "url": "https://stuff.co.nz/sport/361043660/richie-mounga-and-fehi-fineanganofo-ruled-out-bledisloe-cup-tests",
       "source": "stuff.co.nz",
-      "card_text": "Who will be in the All Blacks team facing the Wallabies in Auckland?"
+      "card_text": "Injury blow rules Richie Mo’unga out of Wallabies tests"
     },
     {
       "rank": 29,
+      "title": "Major surf competition's Piha future in question as campground remains closed",
+      "url": "https://rnz.co.nz/news/sport/1786959/major-surf-competition-s-piha-future-in-question-as-campground-remains-closed",
+      "source": "rnz.co.nz",
+      "card_text": "Major surf competition's Piha future in question as campground remains closed"
+    },
+    {
+      "rank": 30,
       "title": "Christchurch NRL bid shrouded in secrecy, feasibility study under wraps",
       "url": "https://newstalkzb.co.nz/news/national/christchurch-nrl-bid-shrouded-in-secrecy-feasibility-study-under-wraps",
       "source": "newstalkzb.co.nz",
       "card_text": "Christchurch NRL bid shrouded in secrecy, feasibility study under wraps"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Watling to start his job as NZ batting coach in test series versus Australia",
       "url": "https://thepress.co.nz/sport/361094647/bj-watling-start-his-job-nz-batting-coach-test-series-versus-australia",
       "source": "thepress.co.nz",
       "card_text": "Watling to start his job as NZ batting coach in test series versus Australia"
-    },
-    {
-      "rank": 31,
-      "title": "All Blacks back three under pressure from high-flying Wallabies",
-      "url": "https://thepress.co.nz/sport/361093902/all-blacks-big-men-have-admitted-scrum-shortcomings-back-three-under-more-pressure",
-      "source": "thepress.co.nz",
-      "card_text": "All Blacks back three under pressure from high-flying Wallabies"
     },
     {
       "rank": 32,
@@ -266,17 +266,17 @@
     },
     {
       "rank": 38,
-      "title": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza",
-      "url": "https://stuff.co.nz/world-news/361043607/israelis-mourn-anniversary-oct-7-attack-pal",
-      "source": "stuff.co.nz",
-      "card_text": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza"
+      "title": "David Tamihere wants 'quite huge' compensation payout after murder charges withdrawn",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1786318/david-tamihere-wants-quite-huge-compensation-payout-after-murder-charges-withdrawn",
+      "source": "rnz.co.nz",
+      "card_text": "David Tamihere wants 'quite huge' compensation payout after murder charges withdrawn"
     },
     {
       "rank": 39,
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "url": "https://bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Israelis demand accountability over 7 October failures three years after attacks"
+      "title": "Construction begins on country's highest road bridge",
+      "url": "https://rnz.co.nz/news/regions/1786960/construction-begins-on-country-s-highest-road-bridge",
+      "source": "rnz.co.nz",
+      "card_text": "Construction begins on country's highest road bridge"
     },
     {
       "rank": 40,
@@ -287,52 +287,52 @@
     },
     {
       "rank": 41,
-      "title": "David Tamihere wants 'quite huge' compensation payout after murder charges withdrawn",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1786318/david-tamihere-wants-quite-huge-compensation-payout-after-murder-charges-withdrawn",
-      "source": "rnz.co.nz",
-      "card_text": "David Tamihere wants 'quite huge' compensation payout after murder charges withdrawn"
+      "title": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza",
+      "url": "https://stuff.co.nz/world-news/361043607/israelis-mourn-anniversary-oct-7-attack-pal",
+      "source": "stuff.co.nz",
+      "card_text": "Israelis mourn on the anniversary of the October 7 as Palestinians live in devastated Gaza"
     },
     {
       "rank": 42,
-      "title": "Live: Less than a month to go until election day",
-      "url": "https://stuff.co.nz/politics/361043523/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Live: Less than a month to go until election day"
-    },
-    {
-      "rank": 43,
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "France halts use of stun grenades after boy's hand blown off in student protests"
-    },
-    {
-      "rank": 44,
-      "title": "Building a new home is starting to cost more",
-      "url": "https://thepress.co.nz/nz-news/361093872/more-us-are-building-homes-and-its-helping-push-cost",
-      "source": "thepress.co.nz",
-      "card_text": "Building a new home is starting to cost more"
-    },
-    {
-      "rank": 45,
-      "title": "Support to keeping ports in public ownership, cautions raised over Lyttelton expansion",
-      "url": "https://odt.co.nz/news/dunedin/support-to-keeping-ports-in-public-ownership-cautions-raised-over-lyttelton-expansion-imtu2bdq",
-      "source": "odt.co.nz",
-      "card_text": "Support to keeping ports in public ownership, cautions raised over Lyttelton expansion"
-    },
-    {
-      "rank": 46,
       "title": "Supporters hope for 11th-hour reprieve for Whangārei rugby ground rough sleepers",
       "url": "https://rnz.co.nz/news/regions_northland/1786322/supporters-hope-for-11th-hour-reprieve-for-whangarei-rugby-ground-rough-sleepers",
       "source": "rnz.co.nz",
       "card_text": "Supporters hope for 11th-hour reprieve for Whangārei rugby ground rough sleepers"
     },
     {
-      "rank": 47,
-      "title": "Nepal ends search for thousands of flood victims, leaving some angry and others relieved",
-      "url": "https://stuff.co.nz/world-news/361043632/nepal-ends-search-thousands-flood-victims-leaving-som",
+      "rank": 43,
+      "title": "Live: Less than a month to go until election day",
+      "url": "https://stuff.co.nz/politics/361043523/nz-election-2026-live-updates-politics-campaign-news",
       "source": "stuff.co.nz",
-      "card_text": "Nepal ends search for thousands of flood victims, leaving some angry and others relieved"
+      "card_text": "Live: Less than a month to go until election day"
+    },
+    {
+      "rank": 44,
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "url": "https://bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Canada suspends plans to expand assisted dying to people with mental illness"
+    },
+    {
+      "rank": 45,
+      "title": "Awkward tension: House values fall, cost to build increases",
+      "url": "https://rnz.co.nz/news/business/1786958/awkward-tension-house-values-fall-cost-to-build-increases",
+      "source": "rnz.co.nz",
+      "card_text": "Awkward tension: House values fall, cost to build increases"
+    },
+    {
+      "rank": 46,
+      "title": "Support to keeping ports in public ownership, cautions raised over Lyttelton expansion",
+      "url": "https://odt.co.nz/news/dunedin/support-to-keeping-ports-in-public-ownership-cautions-raised-over-lyttelton-expansion-imtu2bdq",
+      "source": "odt.co.nz",
+      "card_text": "Support to keeping ports in public ownership, cautions raised over Lyttelton expansion"
+    },
+    {
+      "rank": 47,
+      "title": "Former Black Cap to take over as batting coach",
+      "url": "https://stuff.co.nz/sport/361043687/bj-watling-named-black-caps-batting-coach-replace-luke-ronchi",
+      "source": "stuff.co.nz",
+      "card_text": "Former Black Cap to take over as batting coach"
     },
     {
       "rank": 48,
@@ -343,17 +343,17 @@
     },
     {
       "rank": 49,
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump to speak to Putin about plague lab worker's death in Russia"
+      "title": "Motorists putting fuel on Afterpay as prices rise",
+      "url": "https://nzherald.co.nz/business/motorists-putting-fuel-on-afterpay-as-prices-rise/Z6JPT65ILRBALOAHHHPYMQ6SZE",
+      "source": "nzherald.co.nz",
+      "card_text": "Motorists putting fuel on Afterpay as prices rise"
     },
     {
       "rank": 50,
-      "title": "Walter Peak fire to face scrutiny",
-      "url": "https://odt.co.nz/otago/queenstown/walter-peak-fire-to-face-scrutiny-e9okq7xx",
-      "source": "odt.co.nz",
-      "card_text": "Walter Peak fire to face scrutiny No preview available for this article yet. Otago Daily Times Today 5:30 am Crime"
+      "title": "Back to Basics Battle: Parents Group Pushes Back on Labour’s Classroom Plan",
+      "url": "https://waateanews.com/2026/10/08/back-to-basics-battle-parents-group-pushes-back-on-labours-classroom-plan",
+      "source": "waateanews.com",
+      "card_text": "Back to Basics Battle: Parents Group Pushes Back on Labour’s Classroom Plan"
     }
   ],
   "json_endpoints_observed": [
