@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-08T20:19:32.061795+00:00",
+  "retrieved_at_utc": "2026-10-08T21:18:31.730318+00:00",
   "count": 50,
   "items": [
     {
@@ -14,31 +14,31 @@
     },
     {
       "rank": 2,
+      "title": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years",
+      "url": "https://nzherald.co.nz/nz/healthy-homes-initiative-linked-to-30-fewer-child-hospitalisations-over-five-years/N5SSX572B5FJZG2USQVRXDNIHY",
+      "source": "nzherald.co.nz",
+      "card_text": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years"
+    },
+    {
+      "rank": 3,
       "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
       "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
       "source": "rnz.co.nz",
       "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks",
       "url": "https://waateanews.com/2026/10/09/crime-crackdown-new-government-board-targets-gangs-drugs-and-international-criminal-networks",
       "source": "waateanews.com",
       "card_text": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks"
     },
     {
-      "rank": 4,
-      "title": "Gardeners warned about Legionnaires’ disease after 36 cases in Canterbury",
-      "url": "https://odt.co.nz/canterbury/south-canterbury/gardeners-warned-about-legionnaires-disease-after-36-cases-in-canterbury-bregsfva",
-      "source": "odt.co.nz",
-      "card_text": "Gardeners warned about Legionnaires’ disease after 36 cases in Canterbury"
-    },
-    {
       "rank": 5,
-      "title": "Coalition teetering in the balance after disaster poll",
-      "url": "https://thepress.co.nz/politics/361095519/coalition-teetering-balance-after-disaster-poll",
+      "title": "National’s road policies outpace Infrastructure Commission advice",
+      "url": "https://thepress.co.nz/politics/361093627/nationals-road-policies-outpace-infrastructure-commission-advice",
       "source": "thepress.co.nz",
-      "card_text": "Coalition teetering in the balance after disaster poll"
+      "card_text": "National’s road policies outpace Infrastructure Commission advice"
     },
     {
       "rank": 6,
@@ -49,17 +49,17 @@
     },
     {
       "rank": 7,
+      "title": "Inside Dunedin’s new $400m hospital building",
+      "url": "https://odt.co.nz/news/dunedin/watch-inside-dunedins-new-400m-hospital-building-gl7i70u2",
+      "source": "odt.co.nz",
+      "card_text": "Inside Dunedin’s new $400m hospital building"
+    },
+    {
+      "rank": 8,
       "title": "NZ First donor seeking major kina quota increase",
       "url": "https://newsroom.co.nz/2026/10/09/nz-first-donor-seeking-major-kina-quota-increase",
       "source": "newsroom.co.nz",
       "card_text": "NZ First donor seeking major kina quota increase"
-    },
-    {
-      "rank": 8,
-      "title": "McKenzie Centre cuts support worker hours, despite Ministry of Education saying funding unchanged",
-      "url": "https://nzherald.co.nz/waikato-news/news/mckenzie-centre-cuts-support-worker-hours-despite-ministry-of-education-saying-funding-unchanged/EYCEAMX2ZVG7FJI6SSGY5S55MI",
-      "source": "nzherald.co.nz",
-      "card_text": "McKenzie Centre cuts support worker hours, despite Ministry of Education saying funding unchanged"
     },
     {
       "rank": 9,
@@ -70,73 +70,73 @@
     },
     {
       "rank": 10,
-      "title": "Ngāti Whātua contacts McLaren over Remuera and Muriwai trademark bid",
-      "url": "https://newstalkzb.co.nz/news/national/ng%C4%81ti-wh%C4%81tua-contacts-mclaren-over-remuera-and-muriwai-trademark-bid",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Ngāti Whātua contacts McLaren over Remuera and Muriwai trademark bid"
+      "title": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027",
+      "url": "https://ruralnewsgroup.co.nz/rural-news/rural-farm-health/blanket-dry-cow-therapy-harder-to-justify-from-2027-selective-dct",
+      "source": "ruralnewsgroup.co.nz",
+      "card_text": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027"
     },
     {
       "rank": 11,
+      "title": "Winston Peters says Chris Hipkins should be “behind bars” over COVID vaccine decisions",
+      "url": "https://chrislynchmedia.com/news-items/winston-peters-says-chris-hipkins-should-be-behind-bars-over-covid-vaccine-decisions",
+      "source": "chrislynchmedia.com",
+      "card_text": "Winston Peters says Chris Hipkins should be “behind bars” over COVID vaccine decisions"
+    },
+    {
+      "rank": 12,
+      "title": "Silvia Cartwright on being thrown into the Unfortunate Experiment inquiry",
+      "url": "https://thespinoff.co.nz/culture/09-10-2026/silvia-cartwright-on-how-she-wound-up",
+      "source": "thespinoff.co.nz",
+      "card_text": "Silvia Cartwright on being thrown into the Unfortunate Experiment inquiry"
+    },
+    {
+      "rank": 13,
       "title": "More people and properties likely to be exposed to flooding and landslides, new climate report says",
       "url": "https://interest.co.nz/insurance/140579/increasing-risks-disasters-under-climate-change-will-result-homes-high-risk-areas",
       "source": "interest.co.nz",
       "card_text": "More people and properties likely to be exposed to flooding and landslides, new climate report says"
     },
     {
-      "rank": 12,
+      "rank": 14,
+      "title": "Election 2026: Labour’s living wage plan for public service workers could fuel inflation, economist warns",
+      "url": "https://goodoil.news/election-2026-labours-living-wage-plan-for-public-service-workers-could-fuel-inflation-economist-warns",
+      "source": "goodoil.news",
+      "card_text": "Election 2026: Labour’s living wage plan for public service workers could fuel inflation, economist warns"
+    },
+    {
+      "rank": 15,
       "title": "Jonathan Cook: The West wants Netanyahu gone – so Palestinians can be killed more quietly again",
       "url": "https://asiapacificreport.nz/2026/10/09/jonathan-cook-the-west-wants-netanyahu-gone-so-palestinians-can-be-killed-more-quietly-again",
       "source": "asiapacificreport.nz",
       "card_text": "Jonathan Cook: The West wants Netanyahu gone – so Palestinians can be killed more quietly again"
     },
     {
-      "rank": 13,
-      "title": "Watch: Criticism flies as National promises random drug tests, benefit sanctions | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=POavFGhCBLQ",
-      "source": "youtube.com",
-      "card_text": "Watch: Criticism flies as National promises random drug tests, benefit sanctions | Stuff.co.nz"
-    },
-    {
-      "rank": 14,
+      "rank": 16,
       "title": "Tributes pour in for Tongan father of four shot dead by US deputies as family demands justice",
       "url": "https://kanivatonga.co.nz/2026/10/tributes-pour-in-for-tongan-father-of-four-shot-dead-by-us-deputies-as-family-demands-justice",
       "source": "kanivatonga.co.nz",
       "card_text": "Tributes pour in for Tongan father of four shot dead by US deputies as family demands justice"
     },
     {
-      "rank": 15,
-      "title": "Next Steps In Fight Against Organised Crime",
-      "url": "https://scoop.co.nz/stories/PA2610/S00072/next-steps-in-fight-against-organised-crime.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Next Steps In Fight Against Organised Crime"
-    },
-    {
-      "rank": 16,
-      "title": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown",
-      "url": "https://waateanews.com/2026/10/09/drug-test-showdown-labour-and-greens-slam-nationals-welfare-crackdown",
-      "source": "waateanews.com",
-      "card_text": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown"
-    },
-    {
       "rank": 17,
+      "title": "Coalition teetering in the balance after disaster poll",
+      "url": "https://thepress.co.nz/politics/361095519/coalition-teetering-balance-after-disaster-poll",
+      "source": "thepress.co.nz",
+      "card_text": "Coalition teetering in the balance after disaster poll"
+    },
+    {
+      "rank": 18,
       "title": "Chris Hipkins commits to Nelson Hospital redevelopment and Hope Bypass",
       "url": "https://rnz.co.nz/news/politics_election-2026/1798143/chris-hipkins-commits-to-nelson-hospital-redevelopment-and-hope-bypass",
       "source": "rnz.co.nz",
       "card_text": "Chris Hipkins commits to Nelson Hospital redevelopment and Hope Bypass"
     },
     {
-      "rank": 18,
-      "title": "The two-year childcare gap: What parties are promising working parents",
-      "url": "https://thepress.co.nz/politics/361094578/two-year-childcare-gap-what-parties-are-promising-working-parents",
-      "source": "thepress.co.nz",
-      "card_text": "The two-year childcare gap: What parties are promising working parents"
-    },
-    {
       "rank": 19,
-      "title": "Election Economics: Nicola Willis on growth, house prices and breaking up the supermarket duopoly – Inside Economics",
-      "url": "https://nzherald.co.nz/business/election-economics-nicola-willis-on-growth-house-prices-and-breaking-up-the-supermarket-duopoly-inside-economics/premium/XV3UMSWLKVASZJ7H74C5JGOYUA",
-      "source": "nzherald.co.nz",
-      "card_text": "Election Economics: Nicola Willis on growth, house prices and breaking up the supermarket duopoly – Inside Economics"
+      "title": "Opportunity abandoning tax reform next term ‘worth considering’ in potential National-led coalition – Qiulae Wong",
+      "url": "https://newstalkzb.co.nz/news/politics/opportunity-abandoning-tax-reform-next-term-worth-considering-in-potential-national-led-coalition-qiulae-wong",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Opportunity abandoning tax reform next term ‘worth considering’ in potential National-led coalition – Qiulae Wong"
     },
     {
       "rank": 20,
@@ -168,31 +168,31 @@
     },
     {
       "rank": 24,
+      "title": "Trump says US won’t attack Iran before mid-term election",
+      "url": "https://thepress.co.nz/business/361095539/trump-says-us-wont-attack-iran-mid-term-election",
+      "source": "thepress.co.nz",
+      "card_text": "Trump says US won’t attack Iran before mid-term election"
+    },
+    {
+      "rank": 25,
       "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
       "url": "https://bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "New US indictment charges former Venezuelan President Nicolás Maduro with torture",
       "url": "https://stuff.co.nz/world-news/361044188/wife-exvenezuelan-president-nicols-maduro-seeks-release-f",
       "source": "stuff.co.nz",
       "card_text": "New US indictment charges former Venezuelan President Nicolás Maduro with torture"
     },
     {
-      "rank": 26,
-      "title": "Attacks on tankers in Strait of Hormuz hit peak, sources say",
-      "url": "https://odt.co.nz/news/world/attacks-on-tankers-in-strait-of-hormuz-hit-peak-sources-say-maka21ho",
-      "source": "odt.co.nz",
-      "card_text": "Attacks on tankers in Strait of Hormuz hit peak, sources say"
-    },
-    {
       "rank": 27,
-      "title": "Sika’s younger brother wins Tongatapu 2 seat vacated after election fraud ruling",
-      "url": "https://kanivatonga.co.nz/2026/10/sikas-younger-brother-wins-tongatapu-2-seat-vacated-after-election-fraud-ruling",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Sika’s younger brother wins Tongatapu 2 seat vacated after election fraud ruling"
+      "title": "Three Fiji police officers charged with alleged murder of fellow constable",
+      "url": "https://nzherald.co.nz/nz/three-fiji-police-officers-charged-with-alleged-murder-of-fellow-constable/RUR57ZVYBNCTPFQ7VO7RRCDSJA",
+      "source": "nzherald.co.nz",
+      "card_text": "Three Fiji police officers charged with alleged murder of fellow constable"
     },
     {
       "rank": 28,
@@ -203,24 +203,24 @@
     },
     {
       "rank": 29,
-      "title": "Brad Weber: former All Black on the side named today to take on the Wallabies",
-      "url": "https://newstalkzb.co.nz/on-air/sportstalk/audio/brad-weber-former-all-black-on-the-side-named-today-to-take-on-the-wallabies",
+      "title": "FIM World Supercross cancels Christchurch event at One NZ Stadium",
+      "url": "https://newstalkzb.co.nz/news/national/fim-world-supercross-cancels-christchurch-event-at-one-nz-stadium",
       "source": "newstalkzb.co.nz",
-      "card_text": "Brad Weber: former All Black on the side named today to take on the Wallabies"
+      "card_text": "FIM World Supercross cancels Christchurch event at One NZ Stadium"
     },
     {
       "rank": 30,
-      "title": "‘A shame for fans’: World Supercross Championship cancelled, One NZ Stadium debut cut",
-      "url": "https://thepress.co.nz/sport/361095199/world-supercross-championship-cancelled-one-nz-stadium-debut-cut",
-      "source": "thepress.co.nz",
-      "card_text": "‘A shame for fans’: World Supercross Championship cancelled, One NZ Stadium debut cut"
-    },
-    {
-      "rank": 31,
       "title": "The unique position Dave Rennie finds himself in this weekend at Eden Park",
       "url": "https://stuff.co.nz/sport/361043316/what-all-blacks-coach-dave-rennie-learned-bledisloe-cup-his-time-wallabies-boss",
       "source": "stuff.co.nz",
       "card_text": "The unique position Dave Rennie finds himself in this weekend at Eden Park"
+    },
+    {
+      "rank": 31,
+      "title": "Brad Weber: former All Black on the side named today to take on the Wallabies",
+      "url": "https://newstalkzb.co.nz/on-air/sportstalk/audio/brad-weber-former-all-black-on-the-side-named-today-to-take-on-the-wallabies",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Brad Weber: former All Black on the side named today to take on the Wallabies"
     },
     {
       "rank": 32,
@@ -231,129 +231,129 @@
     },
     {
       "rank": 33,
-      "title": "Watch: Inside Dunedin’s new $400m hospital building",
-      "url": "https://odt.co.nz/news/dunedin/watch-inside-dunedins-new-400m-hospital-building-gl7i70u2",
-      "source": "odt.co.nz",
-      "card_text": "Watch: Inside Dunedin’s new $400m hospital building"
+      "title": "17 tuberculosis cases expose gaps in contact tracing",
+      "url": "https://thepress.co.nz/nz-news/361094826/waikato-tuberculosis-cases-expose-gaps-contact-tracing",
+      "source": "thepress.co.nz",
+      "card_text": "17 tuberculosis cases expose gaps in contact tracing"
     },
     {
       "rank": 34,
-      "title": "Generous Kiwis raise $40,000 to give student ‘a chance to live’",
-      "url": "https://thepress.co.nz/nz-news/361094096/generous-kiwis-raise-40000-give-student-chance-live",
-      "source": "thepress.co.nz",
-      "card_text": "Generous Kiwis raise $40,000 to give student ‘a chance to live’"
+      "title": "Gardeners warned about Legionnaires’ disease after 36 cases in Canterbury",
+      "url": "https://odt.co.nz/canterbury/south-canterbury/gardeners-warned-about-legionnaires-disease-after-36-cases-in-canterbury-bregsfva",
+      "source": "odt.co.nz",
+      "card_text": "Gardeners warned about Legionnaires’ disease after 36 cases in Canterbury"
     },
     {
       "rank": 35,
+      "title": "$150m to fix 'dreadful' Seaview stench",
+      "url": "https://odt.co.nz/news/national/150m-to-fix-dreadful-seaview-stench-h1y8qy15",
+      "source": "odt.co.nz",
+      "card_text": "$150m to fix 'dreadful' Seaview stench Otago Daily Times Today 8:14 am"
+    },
+    {
+      "rank": 36,
       "title": "Hands Off Our Rockpools: Government Cracks Down on Kaimoana Overharvesting",
       "url": "https://waateanews.com/2026/10/09/hands-off-our-rockpools-government-cracks-down-on-kaimoana-overharvesting",
       "source": "waateanews.com",
       "card_text": "Hands Off Our Rockpools: Government Cracks Down on Kaimoana Overharvesting"
     },
     {
-      "rank": 36,
-      "title": "Tiaki Wai spends $150m on 'dreadful' Seaview stench",
-      "url": "https://rnz.co.nz/news/regions_wellington/1798626/tiaki-wai-spends-150m-on-dreadful-seaview-stench",
-      "source": "rnz.co.nz",
-      "card_text": "Tiaki Wai spends $150m on 'dreadful' Seaview stench"
-    },
-    {
       "rank": 37,
-      "title": "Report highlights community impact of climate change",
-      "url": "https://odt.co.nz/news/dunedin/report-highlights-community-impact-of-climate-change-ju4bknvz",
-      "source": "odt.co.nz",
-      "card_text": "Report highlights community impact of climate change"
+      "title": "Indefinite ban on taking sea life from large parts of Auckland and Coromandel coastlines",
+      "url": "https://rnz.co.nz/news/environment/1788937/indefinite-ban-on-taking-sea-life-from-large-parts-of-auckland-and-coromandel-coastlines",
+      "source": "rnz.co.nz",
+      "card_text": "Indefinite ban on taking sea life from large parts of Auckland and Coromandel coastlines"
     },
     {
       "rank": 38,
+      "title": "McKenzie Centre cuts support worker hours, despite Ministry of Education saying funding unchanged",
+      "url": "https://nzherald.co.nz/waikato-news/news/mckenzie-centre-cuts-support-worker-hours-despite-ministry-of-education-saying-funding-unchanged/EYCEAMX2ZVG7FJI6SSGY5S55MI",
+      "source": "nzherald.co.nz",
+      "card_text": "McKenzie Centre cuts support worker hours, despite Ministry of Education saying funding unchanged"
+    },
+    {
+      "rank": 39,
       "title": "More rental homes go short term as housing shortage bites",
       "url": "https://odt.co.nz/news/southland/more-rental-homes-go-short-term-as-housing-shortage-bites-eiu0y9xg",
       "source": "odt.co.nz",
       "card_text": "More rental homes go short term as housing shortage bites"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Why bottom trawling could be a top issue in forming the next government",
       "url": "https://rnz.co.nz/news/politics_election-2026/1798139/why-bottom-trawling-could-be-a-top-issue-in-forming-the-next-government",
       "source": "rnz.co.nz",
       "card_text": "Why bottom trawling could be a top issue in forming the next government"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "'Suicidal' mental health patient was safe in respite care - coroner",
       "url": "https://rnz.co.nz/news/crime-and-justice/1798140/suicidal-mental-health-patient-was-safe-in-respite-care-coroner",
       "source": "rnz.co.nz",
       "card_text": "'Suicidal' mental health patient was safe in respite care - coroner"
     },
     {
-      "rank": 41,
-      "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation",
-      "url": "https://stuff.co.nz/world-news/361044205/explosions-are-heard-saudi-capital-riyadh-airport",
-      "source": "stuff.co.nz",
-      "card_text": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation"
+      "rank": 42,
+      "title": "National’s Mill Rd promise runs through donor-linked Sunfield development",
+      "url": "https://thepress.co.nz/nz-news/361093796/nationals-mill-rd-promise-runs-through-donor-linked-sunfield-development",
+      "source": "thepress.co.nz",
+      "card_text": "National’s Mill Rd promise runs through donor-linked Sunfield development"
     },
     {
-      "rank": 42,
+      "rank": 43,
+      "title": "The two-year childcare gap: What parties are promising working parents",
+      "url": "https://thepress.co.nz/politics/361094578/two-year-childcare-gap-what-parties-are-promising-working-parents",
+      "source": "thepress.co.nz",
+      "card_text": "The two-year childcare gap: What parties are promising working parents"
+    },
+    {
+      "rank": 44,
+      "title": "Young girl ‘stripped’ in Invercargill park attack",
+      "url": "https://odt.co.nz/news/southland/young-girl-stripped-in-invercargill-park-attack-uxvdn24m",
+      "source": "odt.co.nz",
+      "card_text": "Young girl ‘stripped’ in Invercargill park attack"
+    },
+    {
+      "rank": 45,
+      "title": "‘It was creepy’: Teacher loses registration for ‘stalking conduct’",
+      "url": "https://odt.co.nz/news/national/it-was-creepy-teacher-loses-registration-for-stalking-conduct-fd45fkhp",
+      "source": "odt.co.nz",
+      "card_text": "‘It was creepy’: Teacher loses registration for ‘stalking conduct’"
+    },
+    {
+      "rank": 46,
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Protesters blame 'vulture funds' for Spain's housing crisis"
+    },
+    {
+      "rank": 47,
+      "title": "Genre-bending Canadian writer Anne Carson wins Nobel Prize",
+      "url": "https://rnz.co.nz/life/books/anne-carson-the-genre-bending-canadian-writer-wins-nobel-prize-in-literature",
+      "source": "rnz.co.nz",
+      "card_text": "Genre-bending Canadian writer Anne Carson wins Nobel Prize"
+    },
+    {
+      "rank": 48,
       "title": "High ranking cop resigns amid investigation",
       "url": "https://thepress.co.nz/nz-news/361095540/high-ranking-cop-resigns-amid-investigation",
       "source": "thepress.co.nz",
       "card_text": "High ranking cop resigns amid investigation"
     },
     {
-      "rank": 43,
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "url": "https://bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture"
+      "rank": 49,
+      "title": "Election Economics: Nicola Willis on growth, house prices and breaking up the supermarket duopoly – Inside Economics",
+      "url": "https://nzherald.co.nz/business/election-economics-nicola-willis-on-growth-house-prices-and-breaking-up-the-supermarket-duopoly-inside-economics/premium/XV3UMSWLKVASZJ7H74C5JGOYUA",
+      "source": "nzherald.co.nz",
+      "card_text": "Election Economics: Nicola Willis on growth, house prices and breaking up the supermarket duopoly – Inside Economics"
     },
     {
-      "rank": 44,
-      "title": "Canterbury-launched Tāwhaki rockets would have 'tiny impact' on skies - expert",
-      "url": "https://rnz.co.nz/news/science-and-technology/1798633/canterbury-launched-tawhaki-rockets-would-have-tiny-impact-on-skies-expert",
-      "source": "rnz.co.nz",
-      "card_text": "Canterbury-launched Tāwhaki rockets would have 'tiny impact' on skies - expert"
-    },
-    {
-      "rank": 45,
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "url": "https://bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US deportations to African countries unlawful and exploit suffering, rights group says"
-    },
-    {
-      "rank": 46,
+      "rank": 50,
       "title": "Three sisters drowned off Brighton beach in suicide pact",
       "url": "https://stuff.co.nz/world-news/361044239/three-sisters-drowned-brighton-beach-suicide-pact",
       "source": "stuff.co.nz",
       "card_text": "Three sisters drowned off Brighton beach in suicide pact"
-    },
-    {
-      "rank": 47,
-      "title": "'The monster in their nightmares': Mum of abused boys faces down sex offender in court",
-      "url": "https://odt.co.nz/news/dunedin/the-monster-in-their-nightmares-mum-of-abused-boys-faces-down-sex-offender-in-court-pnsteuiw",
-      "source": "odt.co.nz",
-      "card_text": "'The monster in their nightmares': Mum of abused boys faces down sex offender in court"
-    },
-    {
-      "rank": 48,
-      "title": "Nowhere to Go: Whangārei Rough Sleepers Face Eviction as Deadline Arrives",
-      "url": "https://waateanews.com/2026/10/09/nowhere-to-go-whangarei-rough-sleepers-face-eviction-as-deadline-arrives",
-      "source": "waateanews.com",
-      "card_text": "Nowhere to Go: Whangārei Rough Sleepers Face Eviction as Deadline Arrives"
-    },
-    {
-      "rank": 49,
-      "title": "Farmers brace for a Godzilla El Niño",
-      "url": "https://newsroom.co.nz/2026/10/09/farmers-brace-for-a-godzilla-el-nino",
-      "source": "newsroom.co.nz",
-      "card_text": "Farmers brace for a Godzilla El Niño From The Detail: A region that's been through catastrophe after catastrophe is gearing up for what could be months of horribly dry weather Newsroom Today 5:00 am Rural"
-    },
-    {
-      "rank": 50,
-      "title": "Transport debaters all agree: fix roads before building any more",
-      "url": "https://businessdesk.co.nz/article/election-2026/transport-debaters-all-agree-fix-roads-before-building-any-more",
-      "source": "businessdesk.co.nz",
-      "card_text": "Transport debaters all agree: fix roads before building any more"
     }
   ],
   "json_endpoints_observed": [
