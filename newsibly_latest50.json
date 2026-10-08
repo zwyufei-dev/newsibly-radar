@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-08T14:21:45.130469+00:00",
+  "retrieved_at_utc": "2026-10-08T15:19:28.052995+00:00",
   "count": 50,
   "items": [
     {
@@ -56,17 +56,17 @@
     },
     {
       "rank": 8,
-      "title": "Election 2026: Support rises for NZ First and Labour in latest Taxpayers’ Union-Curia poll",
-      "url": "https://nzherald.co.nz/nz/politics/support-rises-for-nz-first-and-labour-in-latest-taxpayers-union-curia-poll/E3BZME653NBDLCU2IMZURSYMLA",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Support rises for NZ First and Labour in latest Taxpayers’ Union-Curia poll"
-    },
-    {
-      "rank": 9,
       "title": "Tributes pour in for Tongan father of four shot dead by US deputies as family demands justice",
       "url": "https://kanivatonga.co.nz/2026/10/tributes-pour-in-for-tongan-father-of-four-shot-dead-by-us-deputies-as-family-demands-justice",
       "source": "kanivatonga.co.nz",
       "card_text": "Tributes pour in for Tongan father of four shot dead by US deputies as family demands justice"
+    },
+    {
+      "rank": 9,
+      "title": "Election 2026: Support rises for NZ First and Labour in latest Taxpayers’ Union-Curia poll",
+      "url": "https://nzherald.co.nz/nz/politics/support-rises-for-nz-first-and-labour-in-latest-taxpayers-union-curia-poll/E3BZME653NBDLCU2IMZURSYMLA",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: Support rises for NZ First and Labour in latest Taxpayers’ Union-Curia poll"
     },
     {
       "rank": 10,
@@ -140,24 +140,24 @@
     },
     {
       "rank": 20,
-      "title": "Italy overhauls electoral system after fiercely contested debate",
-      "url": "https://bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Italy overhauls electoral system after fiercely contested debate"
+      "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation",
+      "url": "https://stuff.co.nz/world-news/361044205/explosions-are-heard-saudi-capital-riyadh-airport",
+      "source": "stuff.co.nz",
+      "card_text": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation"
     },
     {
       "rank": 21,
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge"
+    },
+    {
+      "rank": 22,
       "title": "Attacks on tankers in Strait of Hormuz hit peak, sources say",
       "url": "https://odt.co.nz/news/world/attacks-on-tankers-in-strait-of-hormuz-hit-peak-sources-say-maka21ho",
       "source": "odt.co.nz",
       "card_text": "Attacks on tankers in Strait of Hormuz hit peak, sources say"
-    },
-    {
-      "rank": 22,
-      "title": "Wife of ex-Venezuelan President Nicolás Maduro seeks release from US jail",
-      "url": "https://stuff.co.nz/world-news/361044188/wife-exvenezuelan-president-nicols-maduro-seeks-release-f",
-      "source": "stuff.co.nz",
-      "card_text": "Wife of ex-Venezuelan President Nicolás Maduro seeks release from US jail"
     },
     {
       "rank": 23,
@@ -231,129 +231,129 @@
     },
     {
       "rank": 33,
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "url": "https://bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge"
+      "card_text": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls"
     },
     {
       "rank": 34,
+      "title": "Royal Navy sailor appears in court on charges of spying for Russia",
+      "url": "https://stuff.co.nz/world-news/361044212/royal-navy-sailor-appears-court-charges-spying",
+      "source": "stuff.co.nz",
+      "card_text": "Royal Navy sailor appears in court on charges of spying for Russia"
+    },
+    {
+      "rank": 35,
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "url": "https://bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Residents airlifted to safety after flooding in central Chile"
+    },
+    {
+      "rank": 36,
+      "title": "Judge says search warrants used to seize property from former Prince Andrew were unlawful",
+      "url": "https://stuff.co.nz/world-news/361044179/uk-judge-hear-opening-salvo-exprince-andrews-bid-t",
+      "source": "stuff.co.nz",
+      "card_text": "Judge says search warrants used to seize property from former Prince Andrew were unlawful"
+    },
+    {
+      "rank": 37,
+      "title": "Death of 87-year-old Maricarmen is reenergizing Spain's protests to stop evictions",
+      "url": "https://stuff.co.nz/world-news/361044217/death-87yearold-maricarmen-reenergizing-spains-protest",
+      "source": "stuff.co.nz",
+      "card_text": "Death of 87-year-old Maricarmen is reenergizing Spain's protests to stop evictions"
+    },
+    {
+      "rank": 38,
       "title": "National says cancer patients shouldn't face benefit cuts. Under its policy, they might",
       "url": "https://stuff.co.nz/politics/361043888/nationals-new-benefit-sanction-may-apply-some-cancer-patients-mp-admits-national-says-it-shouldnt",
       "source": "stuff.co.nz",
       "card_text": "National says cancer patients shouldn't face benefit cuts. Under its policy, they might"
     },
     {
-      "rank": 35,
+      "rank": 39,
+      "title": "Jonathan Cook: The West wants Netanyahu gone – so Palestinians can be killed more quietly again",
+      "url": "https://asiapacificreport.nz/2026/10/09/jonathan-cook-the-west-wants-netanyahu-gone-so-palestinians-can-be-killed-more-quietly-again",
+      "source": "asiapacificreport.nz",
+      "card_text": "Jonathan Cook: The West wants Netanyahu gone – so Palestinians can be killed more quietly again"
+    },
+    {
+      "rank": 40,
+      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "url": "https://bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Italy overhauls electoral system after fiercely contested debate"
+    },
+    {
+      "rank": 41,
       "title": "New poll sees coalition back in power as Opportunity falls short of 5% | Stuff",
       "url": "https://stuff.co.nz/politics/361044158/new-poll-sees-coalition-back-power-opportunity-falls-short-5",
       "source": "stuff.co.nz",
       "card_text": "New poll sees coalition back in power as Opportunity falls short of 5% | Stuff"
     },
     {
-      "rank": 36,
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "url": "https://bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "rank": 42,
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say"
+      "card_text": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation"
     },
     {
-      "rank": 37,
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "url": "https://bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain"
-    },
-    {
-      "rank": 38,
+      "rank": 43,
       "title": "Parliamentary committee echoes calls for greater oversight of animal welfare system",
       "url": "https://rnz.co.nz/news/country/1796007/parliamentary-committee-echoes-calls-for-greater-oversight-of-animal-welfare-system",
       "source": "rnz.co.nz",
       "card_text": "Parliamentary committee echoes calls for greater oversight of animal welfare system"
     },
     {
-      "rank": 39,
-      "title": "Southland District Council seeks to revoke resource consent for slink skin factory",
-      "url": "https://rnz.co.nz/news/regions/1795290/southland-district-council-seeks-to-revoke-resource-consent-for-slink-skin-factory",
-      "source": "rnz.co.nz",
-      "card_text": "Southland District Council seeks to revoke resource consent for slink skin factory"
-    },
-    {
-      "rank": 40,
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "url": "https://bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "South Korea recalls Ukraine envoy over prisoner-of-war row"
-    },
-    {
-      "rank": 41,
-      "title": "Alma Randell, bus driver who ran over and killed Olawande Braimoh in Napier, sentenced to community work and detention",
-      "url": "https://nzherald.co.nz/nz/alma-randell-bus-driver-who-ran-over-and-killed-olawande-braimoh-in-napier-sentenced-to-community-work-and-detention/Z2UDIOW64NFOXAJ73AV6PS3S2I",
-      "source": "nzherald.co.nz",
-      "card_text": "Alma Randell, bus driver who ran over and killed Olawande Braimoh in Napier, sentenced to community work and detention"
-    },
-    {
-      "rank": 42,
+      "rank": 44,
       "title": "Queenstown crash victim Sandesh Singh had moved to New Zealand six months ago",
       "url": "https://newstalkzb.co.nz/news/national/queenstown-crash-victim-sandesh-singh-had-moved-to-new-zealand-six-months-ago",
       "source": "newstalkzb.co.nz",
       "card_text": "Queenstown crash victim Sandesh Singh had moved to New Zealand six months ago"
     },
     {
-      "rank": 43,
+      "rank": 45,
+      "title": "Alma Randell, bus driver who ran over and killed Olawande Braimoh in Napier, sentenced to community work and detention",
+      "url": "https://nzherald.co.nz/nz/alma-randell-bus-driver-who-ran-over-and-killed-olawande-braimoh-in-napier-sentenced-to-community-work-and-detention/Z2UDIOW64NFOXAJ73AV6PS3S2I",
+      "source": "nzherald.co.nz",
+      "card_text": "Alma Randell, bus driver who ran over and killed Olawande Braimoh in Napier, sentenced to community work and detention"
+    },
+    {
+      "rank": 46,
       "title": "Family members reclaim both parliamentary seats vacated after election fraud and bribery rulings",
       "url": "https://kanivatonga.co.nz/2026/10/family-members-reclaim-both-parliamentary-seats-vacated-after-election-fraud-and-bribery-rulings",
       "source": "kanivatonga.co.nz",
       "card_text": "Family members reclaim both parliamentary seats vacated after election fraud and bribery rulings"
     },
     {
-      "rank": 44,
+      "rank": 47,
       "title": "Four more school redevelopments get the green light",
       "url": "https://beehive.govt.nz/release/four-more-school-redevelopments-get-green-light",
       "source": "beehive.govt.nz",
       "card_text": "Four more school redevelopments get the green light"
     },
     {
-      "rank": 45,
+      "rank": 48,
       "title": "Residential building costs increased sharply in Q3 and are now well above long term average",
       "url": "https://interest.co.nz/property/140574/residential-construction-costs-shot-q3-pushing-cost-new-homes",
       "source": "interest.co.nz",
       "card_text": "Residential building costs increased sharply in Q3 and are now well above long term average"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "title": "Government Cracks Down On Rockpool Vandals",
       "url": "https://scoop.co.nz/stories/PA2610/S00071/government-cracks-down-on-rockpool-vandals.htm",
       "source": "scoop.co.nz",
       "card_text": "Government Cracks Down On Rockpool Vandals"
     },
     {
-      "rank": 47,
-      "title": "When Never Again Happened Again",
-      "url": "https://goodoil.news/when-never-again-happened-again",
-      "source": "goodoil.news",
-      "card_text": "When Never Again Happened Again Remembering 7 October 2023. The Good Oil Yesterday Opinion"
-    },
-    {
-      "rank": 48,
-      "title": "Harima Chemicals to shut Mt Maunganui plant, 45 jobs at risk",
-      "url": "https://businessdesk.co.nz/article/economy/harima-chemicals-to-shut-mt-maunganui-plant-45-jobs-at-risk",
-      "source": "businessdesk.co.nz",
-      "card_text": "Harima Chemicals to shut Mt Maunganui plant, 45 jobs at risk"
-    },
-    {
-      "rank": 49,
-      "title": "Watch: Police fire tear gas at a barricaded high school in Paris as school protests rage on",
-      "url": "https://stuff.co.nz/world-news/361044182/police-fire-tear-gas-barricaded-high-school-paris",
-      "source": "stuff.co.nz",
-      "card_text": "Watch: Police fire tear gas at a barricaded high school in Paris as school protests rage on"
-    },
-    {
       "rank": 50,
-      "title": "‘Let them hit Los Angeles’: Trump persists with comments suggesting Iran could nuke US cities",
-      "url": "https://stuff.co.nz/world-news/361044069/let-them-hit-los-angeles-trump-persists-comments-suggesting-iran-could-nuke-us-cities",
+      "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
+      "url": "https://stuff.co.nz/world-news/361044203/canadian-poet-and-essayist-anne-carson-wins-nobel-prize-l",
       "source": "stuff.co.nz",
-      "card_text": "‘Let them hit Los Angeles’: Trump persists with comments suggesting Iran could nuke US cities"
+      "card_text": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature"
     }
   ],
   "json_endpoints_observed": [
