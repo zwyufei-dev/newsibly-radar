@@ -2,29 +2,29 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-09T15:18:31.516273+00:00",
+  "retrieved_at_utc": "2026-10-09T16:18:42.919939+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "Ethiopia warns Eritrea it will defend itself after troops enter Tigray - BBC News",
+      "url": "https://bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ethiopia warns Eritrea it will defend itself after troops enter Tigray - BBC News"
+    },
+    {
+      "rank": 2,
       "title": "‘Why would you need courage to speak the truth?’ Watch as Nobel Peace Prize winner responds to award",
       "url": "https://stuff.co.nz/world-news/361044652/navanethem-navi-pillay-wins-nobel-peace-prize",
       "source": "stuff.co.nz",
       "card_text": "‘Why would you need courage to speak the truth?’ Watch as Nobel Peace Prize winner responds to award"
     },
     {
-      "rank": 2,
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Three Saudi nationals killed in Houthi attacks on Riyadh airport"
-    },
-    {
       "rank": 3,
-      "title": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026",
-      "url": "https://interest.co.nz/economy/140606/westpac-nz-economists-see-inflation-heading-towards-three-year-all-gas-no-brakes",
-      "source": "interest.co.nz",
-      "card_text": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026"
+      "title": "Buyers cry foul after investing in controversial pastor’s subdivision",
+      "url": "https://thepress.co.nz/nz-news/361086476/buyers-cry-foul-after-investing-controversial-pastors-subdivision",
+      "source": "thepress.co.nz",
+      "card_text": "Buyers cry foul after investing in controversial pastor’s subdivision"
     },
     {
       "rank": 4,
@@ -35,31 +35,31 @@
     },
     {
       "rank": 5,
+      "title": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026",
+      "url": "https://interest.co.nz/economy/140606/westpac-nz-economists-see-inflation-heading-towards-three-year-all-gas-no-brakes",
+      "source": "interest.co.nz",
+      "card_text": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026"
+    },
+    {
+      "rank": 6,
       "title": "Children allegedly faced physical and sexual abuse following complaints to police",
       "url": "https://rnz.co.nz/news/crime-and-justice/1810855/children-allegedly-faced-physical-and-sexual-abuse-following-complaints-to-police",
       "source": "rnz.co.nz",
       "card_text": "Children allegedly faced physical and sexual abuse following complaints to police"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
       "url": "https://youtube.com/watch?v=noDSfnrTYpI",
       "source": "youtube.com",
       "card_text": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs",
       "url": "https://reseller.co.nz/article/4232873/datacom-spends-500k-a-month-on-ai-coding-but-focusses-on-outcomes-not-token-costs.html",
       "source": "reseller.co.nz",
       "card_text": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs"
-    },
-    {
-      "rank": 8,
-      "title": "‘Severe case’: Patient hospitalised for over a week after black market peptide use",
-      "url": "https://thepress.co.nz/nz-news/361092926/tip-iceberg-poisons-centre-sees-rise-black-market-peptide-exposures",
-      "source": "thepress.co.nz",
-      "card_text": "‘Severe case’: Patient hospitalised for over a week after black market peptide use"
     },
     {
       "rank": 9,
@@ -126,24 +126,24 @@
     },
     {
       "rank": 18,
-      "title": "‘Giving your vote away’ with Opportunity, Hipkins says",
-      "url": "https://stuff.co.nz/politics/361044120/nz-election-2026-live-updates-politics-campaign-news",
+      "title": "LIVE: Labour, Nats, Greens fight for Auckland vote today",
+      "url": "https://stuff.co.nz/politics/361044544/nz-election-2026-live-updates-politics-campaign-news",
       "source": "stuff.co.nz",
-      "card_text": "‘Giving your vote away’ with Opportunity, Hipkins says"
+      "card_text": "LIVE: Labour, Nats, Greens fight for Auckland vote today"
     },
     {
       "rank": 19,
+      "title": "‘Dark cloud’ over council as restructure takes toll on staff",
+      "url": "https://thepress.co.nz/nz-news/361086500/staff-exhausted-and-bitter-nelson-council-restructure-rolls",
+      "source": "thepress.co.nz",
+      "card_text": "‘Dark cloud’ over council as restructure takes toll on staff"
+    },
+    {
+      "rank": 20,
       "title": "Police, prisons, prevention: What would each party do about crime? – The Front Page",
       "url": "https://nzherald.co.nz/nz/police-prisons-prevention-what-would-each-party-do-about-crime-the-front-page/XMASZ7L3HVFGRCYSMXHAUXYU3U",
       "source": "nzherald.co.nz",
       "card_text": "Police, prisons, prevention: What would each party do about crime? – The Front Page"
-    },
-    {
-      "rank": 20,
-      "title": "Property managers wary of Labour’s rent plans",
-      "url": "https://odt.co.nz/business/property-managers-wary-of-labours-rent-plans-wrswh656",
-      "source": "odt.co.nz",
-      "card_text": "Property managers wary of Labour’s rent plans"
     },
     {
       "rank": 21,
@@ -168,10 +168,10 @@
     },
     {
       "rank": 24,
-      "title": "Saudi authorities say 3 were killed in attacks on Riyadh airport claimed by Houthi rebels",
+      "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport",
       "url": "https://stuff.co.nz/world-news/361044656/saudi-authorities-say-3-were-killed-attacks-riyadh-air",
       "source": "stuff.co.nz",
-      "card_text": "Saudi authorities say 3 were killed in attacks on Riyadh airport claimed by Houthi rebels"
+      "card_text": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport"
     },
     {
       "rank": 25,
@@ -196,59 +196,59 @@
     },
     {
       "rank": 28,
-      "title": "Watch: Northland overcome sluggish start to advance to NPC semifinals",
-      "url": "https://stuff.co.nz/sport/361042787/northland-overcome-sluggish-start-advance-beat-tasman-advance-npc-semifinals",
-      "source": "stuff.co.nz",
-      "card_text": "Watch: Northland overcome sluggish start to advance to NPC semifinals"
+      "title": "Confidential papers show the windfall NZ Cricket rejected from Cricket Australia’s BBL invitation",
+      "url": "https://thepress.co.nz/sport/361095571/confidential-papers-show-windfall-nz-cricket-rejected-cricket-australias-bbl-invitation",
+      "source": "thepress.co.nz",
+      "card_text": "Confidential papers show the windfall NZ Cricket rejected from Cricket Australia’s BBL invitation"
     },
     {
       "rank": 29,
-      "title": "Northland v Tasman live updates, NPC quarter-final",
-      "url": "https://nzherald.co.nz/sport/rugby/npc/northland-v-tasman-live-updates-npc-quarter-final/J2VI4OI54BF5HOUFBYSXDSFCDU",
-      "source": "nzherald.co.nz",
-      "card_text": "Northland v Tasman live updates, NPC quarter-final"
+      "title": "Bledisloe Cup rivalry renewed at Eden Park with All Blacks veterans in focus",
+      "url": "https://stuff.co.nz/sport/361042832/all-blacks-v-wallabies-all-you-need-know-about-first-bledisloe-cup-test-eden-park",
+      "source": "stuff.co.nz",
+      "card_text": "Bledisloe Cup rivalry renewed at Eden Park with All Blacks veterans in focus"
     },
     {
       "rank": 30,
+      "title": "Formula 1: Liam Lawson a shot at Singapore points, qualifies eighth in sprint race finale",
+      "url": "https://nzherald.co.nz/sport/motorsport/formula-1/formula-1-liam-lawson-a-shot-at-singapore-points-qualifies-eighth-in-sprint-race-finale/EAWDXAKIMJE6ZC4VAQG2CLJYY4",
+      "source": "nzherald.co.nz",
+      "card_text": "Formula 1: Liam Lawson a shot at Singapore points, qualifies eighth in sprint race finale"
+    },
+    {
+      "rank": 31,
       "title": "All Blacks v Wallabies: Why Tyrel Lomax, Fabian Holland missed selection for first Bledisloe Cup test",
       "url": "https://newstalkzb.co.nz/news/sport/all-blacks-v-wallabies-why-tyrel-lomax-fabian-holland-missed-selection-for-first-bledisloe-cup-test",
       "source": "newstalkzb.co.nz",
       "card_text": "All Blacks v Wallabies: Why Tyrel Lomax, Fabian Holland missed selection for first Bledisloe Cup test"
     },
     {
-      "rank": 31,
-      "title": "‘He’s got a 10-pack’: How Scooter Barrett transformed himself for ABs return",
-      "url": "https://thepress.co.nz/sport/361095579/all-blacks-v-wallabies-how-scott-barrett-built-himself-back-dramatic-bledisloe-return",
-      "source": "thepress.co.nz",
-      "card_text": "‘He’s got a 10-pack’: How Scooter Barrett transformed himself for ABs return"
+      "rank": 32,
+      "title": "‘Would have been a death sentence’: Teen deemed too sick to stay in NZ gets lifeline",
+      "url": "https://stuff.co.nz/nz-news/361027084/would-have-been-death-sentence-teen-deemed-too-sick-stay-nz-gets-lifeline",
+      "source": "stuff.co.nz",
+      "card_text": "‘Would have been a death sentence’: Teen deemed too sick to stay in NZ gets lifeline"
     },
     {
-      "rank": 32,
+      "rank": 33,
+      "title": "Timaru’s ‘zombie hospital’ comes with the best views but worst ICU",
+      "url": "https://thepress.co.nz/nz-news/361093472/timarus-zombie-hospital-comes-best-views-worst-icu-roadshow-told",
+      "source": "thepress.co.nz",
+      "card_text": "Timaru’s ‘zombie hospital’ comes with the best views but worst ICU"
+    },
+    {
+      "rank": 34,
       "title": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore",
       "url": "https://nzherald.co.nz/nz/auckland/norovirus-outbreak-impacts-three-rest-homes-and-hospital-ward-on-aucklands-north-shore/RIXPZ4U3H5FALAYF5GFQ6VBETA",
       "source": "nzherald.co.nz",
       "card_text": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "title": "Cow bones could offer cheap alternative for human jaw repair, dental treatment, researchers say",
       "url": "https://rnz.co.nz/news/health/1810932/cow-bones-could-offer-cheap-alternative-for-human-jaw-repair-dental-treatment-researchers-say",
       "source": "rnz.co.nz",
       "card_text": "Cow bones could offer cheap alternative for human jaw repair, dental treatment, researchers say"
-    },
-    {
-      "rank": 34,
-      "title": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA",
-      "url": "https://thepress.co.nz/business/361095663/rua-bioscience-signs-deal-supply-nz-medicinal-mdma",
-      "source": "thepress.co.nz",
-      "card_text": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA"
-    },
-    {
-      "rank": 35,
-      "title": "Inside Dunedin’s new $400m hospital building",
-      "url": "https://odt.co.nz/news/dunedin/watch-inside-dunedins-new-400m-hospital-building-gl7i70u2",
-      "source": "odt.co.nz",
-      "card_text": "Inside Dunedin’s new $400m hospital building"
     },
     {
       "rank": 36,
@@ -280,80 +280,80 @@
     },
     {
       "rank": 40,
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "url": "https://bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee"
+      "title": "Govt agency goes to court to block Stuff story on major cross-border investigation",
+      "url": "https://stuff.co.nz/nz-news/361044370/stuff-barred-reporting-details-major-cross-border-investigation",
+      "source": "stuff.co.nz",
+      "card_text": "Govt agency goes to court to block Stuff story on major cross-border investigation"
     },
     {
       "rank": 41,
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Three Saudi nationals killed in Houthi attacks on Riyadh airport"
+    },
+    {
+      "rank": 42,
+      "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+      "url": "https://stuff.co.nz/business/361044676/trump-establishes-committee-investigate-federal-reserves",
+      "source": "stuff.co.nz",
+      "card_text": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her"
+    },
+    {
+      "rank": 43,
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "url": "https://bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize"
+    },
+    {
+      "rank": 44,
+      "title": "She stole $2m. Now, she’s tearful and working on being ‘super humble’",
+      "url": "https://stuff.co.nz/nz-news/361044503/she-stole-2m-now-shes-tearful-and-working-being-super-humble",
+      "source": "stuff.co.nz",
+      "card_text": "She stole $2m. Now, she’s tearful and working on being ‘super humble’"
+    },
+    {
+      "rank": 45,
+      "title": "‘We've got a point to prove’: Can Dave Rennie’s ABs serve up a dose of Bledis-wow?",
+      "url": "https://thepress.co.nz/sport/361095441/all-blacks-v-wallabies-bledisloe-bounceback-non-negotiable-dave-rennies-men",
+      "source": "thepress.co.nz",
+      "card_text": "‘We've got a point to prove’: Can Dave Rennie’s ABs serve up a dose of Bledis-wow?"
+    },
+    {
+      "rank": 46,
       "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
       "url": "https://bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK"
     },
     {
-      "rank": 42,
+      "rank": 47,
+      "title": "If we’re going to increase the NZ Super age to 67, we must do this first",
+      "url": "https://stuff.co.nz/money/361043847/if-were-going-increase-nz-super-age-67-we-must-do-first",
+      "source": "stuff.co.nz",
+      "card_text": "If we’re going to increase the NZ Super age to 67, we must do this first"
+    },
+    {
+      "rank": 48,
+      "title": "The Wallabies threats the All Blacks must counter at Eden Park",
+      "url": "https://thepress.co.nz/sport/361095541/wallabies-threats-who-can-hurt-all-blacks-and-their-achilles-heel",
+      "source": "thepress.co.nz",
+      "card_text": "The Wallabies threats the All Blacks must counter at Eden Park"
+    },
+    {
+      "rank": 49,
       "title": "France promises 3,000 extra teachers in first step to calm student protests",
       "url": "https://bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "France promises 3,000 extra teachers in first step to calm student protests"
     },
     {
-      "rank": 43,
-      "title": "Two critical after Taranaki crash",
-      "url": "https://stuff.co.nz/nz-news/361044639/two-critical-after-two-car-crash-taranaki",
-      "source": "stuff.co.nz",
-      "card_text": "Two critical after Taranaki crash Fire crews freed one person who was trapped in their car. Stuff Yesterday Crime"
-    },
-    {
-      "rank": 44,
+      "rank": 50,
       "title": "Fewer residential properties rented in August - rents remain flat",
       "url": "https://interest.co.nz/property/140600/residential-rents-have-been-largely-stable-almost-three-years-now",
       "source": "interest.co.nz",
       "card_text": "Fewer residential properties rented in August - rents remain flat"
-    },
-    {
-      "rank": 45,
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "url": "https://bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Fired OpenAI researchers say they were let go for 'prioritising safety'"
-    },
-    {
-      "rank": 46,
-      "title": "Kiri Robb and Mark Puata sentenced for kidnapping Harley Shrimpton, who was later murdered in an unrelated incident",
-      "url": "https://nzherald.co.nz/nz/kiri-robb-and-mark-puata-sentenced-for-kidnapping-harley-shrimpton-who-was-later-murdered-in-an-unrelated-incident/73RXXM4OPZBMFFS2L5QU635DII",
-      "source": "nzherald.co.nz",
-      "card_text": "Kiri Robb and Mark Puata sentenced for kidnapping Harley Shrimpton, who was later murdered in an unrelated incident"
-    },
-    {
-      "rank": 47,
-      "title": "‘We’re all just gutted’: Police probe fire at historic racecourse",
-      "url": "https://stuff.co.nz/nz-news/361044641/were-all-just-gutted-police-probe-fire-historic-racecourse",
-      "source": "stuff.co.nz",
-      "card_text": "‘We’re all just gutted’: Police probe fire at historic racecourse"
-    },
-    {
-      "rank": 48,
-      "title": "Breakfast briefing: Investors reassess AI prospects",
-      "url": "https://interest.co.nz/economy/140596/us-data-positive-support-ust-30yr-soft-us-farm-debt-problems-jump-taiwan-stars-yet",
-      "source": "interest.co.nz",
-      "card_text": "Breakfast briefing: Investors reassess AI prospects"
-    },
-    {
-      "rank": 49,
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "url": "https://bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Meet India's feisty Gen Z protester who is taking on Modi"
-    },
-    {
-      "rank": 50,
-      "title": "Car checks urged as WoF periods set to extend",
-      "url": "https://odt.co.nz/news/national/car-checks-urged-as-wof-periods-set-to-extend-tmcq09xa",
-      "source": "odt.co.nz",
-      "card_text": "Car checks urged as WoF periods set to extend"
     }
   ],
   "json_endpoints_observed": [
