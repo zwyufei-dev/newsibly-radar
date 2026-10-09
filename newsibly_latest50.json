@@ -2,15 +2,15 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-09T08:20:10.790346+00:00",
+  "retrieved_at_utc": "2026-10-09T09:19:39.333962+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
-      "url": "https://bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee"
+      "title": "GeoNet’s earthquake monitoring centre closes due to lack of staff, Labour decries Govt cuts",
+      "url": "https://nzherald.co.nz/nz/politics/geonets-earthquake-monitoring-centre-closes-due-to-lack-of-staff-labour-decries-govt-cuts/ZHNJKVHW7VCHLA4F2DGJAG3RDE",
+      "source": "nzherald.co.nz",
+      "card_text": "GeoNet’s earthquake monitoring centre closes due to lack of staff, Labour decries Govt cuts"
     },
     {
       "rank": 2,
@@ -21,17 +21,17 @@
     },
     {
       "rank": 3,
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "url": "https://bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee"
+    },
+    {
+      "rank": 4,
       "title": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
       "url": "https://youtube.com/watch?v=noDSfnrTYpI",
       "source": "youtube.com",
       "card_text": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained"
-    },
-    {
-      "rank": 4,
-      "title": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore",
-      "url": "https://nzherald.co.nz/nz/auckland/norovirus-outbreak-impacts-three-rest-homes-and-hospital-ward-on-aucklands-north-shore/RIXPZ4U3H5FALAYF5GFQ6VBETA",
-      "source": "nzherald.co.nz",
-      "card_text": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore"
     },
     {
       "rank": 5,
@@ -42,10 +42,10 @@
     },
     {
       "rank": 6,
-      "title": "Car checks urged as WoF periods set to extend",
-      "url": "https://odt.co.nz/news/national/car-checks-urged-as-wof-periods-set-to-extend-tmcq09xa",
+      "title": "Property managers wary of Labour’s rent plans",
+      "url": "https://odt.co.nz/business/property-managers-wary-of-labours-rent-plans-wrswh656",
       "source": "odt.co.nz",
-      "card_text": "Car checks urged as WoF periods set to extend"
+      "card_text": "Property managers wary of Labour’s rent plans"
     },
     {
       "rank": 7,
@@ -126,10 +126,10 @@
     },
     {
       "rank": 18,
-      "title": "Property managers wary of Labour’s rent plans",
-      "url": "https://odt.co.nz/business/property-managers-wary-of-labours-rent-plans-wrswh656",
-      "source": "odt.co.nz",
-      "card_text": "Property managers wary of Labour’s rent plans"
+      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
+      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
+      "source": "rnz.co.nz",
+      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system"
     },
     {
       "rank": 19,
@@ -175,10 +175,10 @@
     },
     {
       "rank": 25,
-      "title": "Tasman lead Northland narrowly at halftime in NPC quarterfinal",
-      "url": "https://stuff.co.nz/sport/361042787/live-northland-v-tasman-npc-quarterfinal",
+      "title": "Watch: Northland overcome sluggish start to advance to NPC semifinals",
+      "url": "https://stuff.co.nz/sport/361042787/northland-overcome-sluggish-start-advance-beat-tasman-advance-npc-semifinals",
       "source": "stuff.co.nz",
-      "card_text": "Tasman lead Northland narrowly at halftime in NPC quarterfinal"
+      "card_text": "Watch: Northland overcome sluggish start to advance to NPC semifinals"
     },
     {
       "rank": 26,
@@ -203,10 +203,10 @@
     },
     {
       "rank": 29,
-      "title": "North Shore’s biggest private hospital expansion: Southern Cross is spending $190m, hospital with eight theatres will have 15",
-      "url": "https://nzherald.co.nz/property/north-shores-biggest-private-hospital-expansion-southern-cross-is-spending-190m-hospital-with-eight-theatres-will-have-15/premium/C22OIQGI6BE6BKMBCRBA3OMHEU",
+      "title": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore",
+      "url": "https://nzherald.co.nz/nz/auckland/norovirus-outbreak-impacts-three-rest-homes-and-hospital-ward-on-aucklands-north-shore/RIXPZ4U3H5FALAYF5GFQ6VBETA",
       "source": "nzherald.co.nz",
-      "card_text": "North Shore’s biggest private hospital expansion: Southern Cross is spending $190m, hospital with eight theatres will have 15"
+      "card_text": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore"
     },
     {
       "rank": 30,
@@ -238,17 +238,17 @@
     },
     {
       "rank": 34,
-      "title": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste",
-      "url": "https://thepress.co.nz/nz-news/361093924/dump-owners-illegal-waste-risked-water-supply-judge-says",
-      "source": "thepress.co.nz",
-      "card_text": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste"
-    },
-    {
-      "rank": 35,
       "title": "Lytton Rd ruled out for Gisborne waste centre after Seeka takes tenancy",
       "url": "https://nzherald.co.nz/gisborne-herald/news/lytton-rd-ruled-out-for-gisborne-waste-centre-after-seeka-takes-tenancy/B7U5WXKVTJA67JQG5CK2FSVZXI",
       "source": "nzherald.co.nz",
       "card_text": "Lytton Rd ruled out for Gisborne waste centre after Seeka takes tenancy"
+    },
+    {
+      "rank": 35,
+      "title": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste",
+      "url": "https://thepress.co.nz/nz-news/361093924/dump-owners-illegal-waste-risked-water-supply-judge-says",
+      "source": "thepress.co.nz",
+      "card_text": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste"
     },
     {
       "rank": 36,
@@ -259,38 +259,38 @@
     },
     {
       "rank": 37,
+      "title": "Two critical after Taranaki crash",
+      "url": "https://stuff.co.nz/nz-news/361044639/two-critical-after-two-car-crash-taranaki",
+      "source": "stuff.co.nz",
+      "card_text": "Two critical after Taranaki crash Fire crews freed one person who was trapped in their car. Stuff Today 8:20 pm Crime"
+    },
+    {
+      "rank": 38,
+      "title": "North Shore’s biggest private hospital expansion: Southern Cross is spending $190m, hospital with eight theatres will have 15",
+      "url": "https://nzherald.co.nz/property/north-shores-biggest-private-hospital-expansion-southern-cross-is-spending-190m-hospital-with-eight-theatres-will-have-15/premium/C22OIQGI6BE6BKMBCRBA3OMHEU",
+      "source": "nzherald.co.nz",
+      "card_text": "North Shore’s biggest private hospital expansion: Southern Cross is spending $190m, hospital with eight theatres will have 15"
+    },
+    {
+      "rank": 39,
       "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
       "url": "https://bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Cars torched and shops looted as anti-migrant violence erupts in South Africa"
     },
     {
-      "rank": 38,
+      "rank": 40,
+      "title": "Kiri Robb and Mark Puata sentenced for kidnapping Harley Shrimpton, who was later murdered in an unrelated incident",
+      "url": "https://nzherald.co.nz/nz/kiri-robb-and-mark-puata-sentenced-for-kidnapping-harley-shrimpton-who-was-later-murdered-in-an-unrelated-incident/73RXXM4OPZBMFFS2L5QU635DII",
+      "source": "nzherald.co.nz",
+      "card_text": "Kiri Robb and Mark Puata sentenced for kidnapping Harley Shrimpton, who was later murdered in an unrelated incident"
+    },
+    {
+      "rank": 41,
       "title": "Toyota RAV4 PHEV recalled over ECU issue",
       "url": "https://stuff.co.nz/motoring/361044542/toyota-rav4-phev-recalled-over-ecu-issue",
       "source": "stuff.co.nz",
       "card_text": "Toyota RAV4 PHEV recalled over ECU issue"
-    },
-    {
-      "rank": 39,
-      "title": "Chief of Air Force investigation: NZDF left out criticism of its handling of inquiry into inappropriate comment claim",
-      "url": "https://nzherald.co.nz/nz/chief-of-air-force-investigation-nzdf-left-out-criticism-of-its-handling-of-inquiry-into-inappropriate-comment-claim/premium/D7JBOXQQGFELRCNZ4HMJ5UBAHE",
-      "source": "nzherald.co.nz",
-      "card_text": "Chief of Air Force investigation: NZDF left out criticism of its handling of inquiry into inappropriate comment claim"
-    },
-    {
-      "rank": 40,
-      "title": "Euan Mackey murder: Couple jailed for life as brother urges Mangamuka unity",
-      "url": "https://nzherald.co.nz/nz/crime/euan-mackey-murder-couple-jailed-for-life-as-brother-urges-mangamuka-unity/ZIQF52RTM5E4TDKB67JFMNEKYA",
-      "source": "nzherald.co.nz",
-      "card_text": "Euan Mackey murder: Couple jailed for life as brother urges Mangamuka unity"
-    },
-    {
-      "rank": 41,
-      "title": "Abuse in Care: Labour not yet certain on design, cost of independent redress as National continues ‘fiscal hole’ claims",
-      "url": "https://nzherald.co.nz/nz/politics/abuse-in-care-labour-not-yet-certain-on-design-cost-of-independent-redress-as-national-continues-fiscal-hole-claims/WUOJMWUAV5CHRMRRG5BXRAT6UQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Abuse in Care: Labour not yet certain on design, cost of independent redress as National continues ‘fiscal hole’ claims"
     },
     {
       "rank": 42,
@@ -301,24 +301,24 @@
     },
     {
       "rank": 43,
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "url": "https://bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Meet India's feisty Gen Z protester who is taking on Modi"
+    },
+    {
+      "rank": 44,
       "title": "City Gallery Wellington reopens with Cornelia Parker’s surreal world",
       "url": "https://thepress.co.nz/culture/361093633/city-gallery-wellington-reopens-cornelia-parkers-surreal-world",
       "source": "thepress.co.nz",
       "card_text": "City Gallery Wellington reopens with Cornelia Parker’s surreal world"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "Modi wants India to power the AI age, but residents are pushing back",
       "url": "https://odt.co.nz/news/world/modi-wants-india-to-power-the-ai-age-but-residents-are-pushing-back-ewpd1hvz",
       "source": "odt.co.nz",
       "card_text": "Modi wants India to power the AI age, but residents are pushing back"
-    },
-    {
-      "rank": 45,
-      "title": "ICE agent shoots man in New York City",
-      "url": "https://bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "ICE agent shoots man in New York City The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\". BBC World News Today 2:59 pm World"
     },
     {
       "rank": 46,
