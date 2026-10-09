@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-09T00:29:45.765350+00:00",
-  "count": 217,
+  "updated_at_utc": "2026-10-09T01:20:08.158467+00:00",
+  "count": 237,
   "items": [
+    {
+      "rank": 5,
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks",
+      "url": "https://waateanews.com/2026/10/09/crime-crackdown-new-government-board-targets-gangs-drugs-and-international-criminal-networks",
+      "source": "waateanews.com",
+      "card_text": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Researcher calls for Māori-specific strategy to eliminate tuberculosis",
+      "url": "https://rnz.co.nz/news/health/1798141/researcher-calls-for-maori-specific-strategy-to-eliminate-tuberculosis",
+      "source": "rnz.co.nz",
+      "card_text": "Researcher calls for Māori-specific strategy to eliminate tuberculosis",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
+      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
+      "source": "rnz.co.nz",
+      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Woman who lost $400,000 to 'poor advice' wins $320,000 settlement",
+      "url": "https://rnz.co.nz/news/personal-finance/1798619/woman-who-lost-400-000-to-poor-advice-wins-320-000-settlement",
+      "source": "rnz.co.nz",
+      "card_text": "Woman who lost $400,000 to 'poor advice' wins $320,000 settlement",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Inside Dunedin’s new $400m hospital building",
+      "url": "https://odt.co.nz/news/dunedin/watch-inside-dunedins-new-400m-hospital-building-gl7i70u2",
+      "source": "odt.co.nz",
+      "card_text": "Inside Dunedin’s new $400m hospital building",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years",
+      "url": "https://nzherald.co.nz/nz/healthy-homes-initiative-linked-to-30-fewer-child-hospitalisations-over-five-years/N5SSX572B5FJZG2USQVRXDNIHY",
+      "source": "nzherald.co.nz",
+      "card_text": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027",
+      "url": "https://ruralnewsgroup.co.nz/rural-news/rural-farm-health/blanket-dry-cow-therapy-harder-to-justify-from-2027-selective-dct",
+      "source": "ruralnewsgroup.co.nz",
+      "card_text": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Trump says US won’t attack Iran before mid-term election",
+      "url": "https://thepress.co.nz/business/361095539/trump-says-us-wont-attack-iran-mid-term-election",
+      "source": "thepress.co.nz",
+      "card_text": "Trump says US won’t attack Iran before mid-term election",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "17 tuberculosis cases expose gaps in contact tracing",
+      "url": "https://thepress.co.nz/nz-news/361094826/waikato-tuberculosis-cases-expose-gaps-contact-tracing",
+      "source": "thepress.co.nz",
+      "card_text": "17 tuberculosis cases expose gaps in contact tracing",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "$150m to fix 'dreadful' Seaview stench",
+      "url": "https://odt.co.nz/news/national/150m-to-fix-dreadful-seaview-stench-h1y8qy15",
+      "source": "odt.co.nz",
+      "card_text": "$150m to fix 'dreadful' Seaview stench Otago Daily Times Today 8:14 am",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Watch: Election 2026: TVNZ 1News Leaders Debate October 6 2026",
+      "url": "https://youtube.com/watch?v=2gNEyySgIXQ",
+      "source": "youtube.com",
+      "card_text": "Watch: Election 2026: TVNZ 1News Leaders Debate October 6 2026",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Thousands march in Madrid to remember evicted 87-year-old",
+      "url": "https://odt.co.nz/news/world/thousands-march-in-madrid-to-remember-evicted-87-year-old-i7trr6kl",
+      "source": "odt.co.nz",
+      "card_text": "Thousands march in Madrid to remember evicted 87-year-old",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Woolworths New Zealand returns to profit as sector scrutiny ramps up",
+      "url": "https://businessdesk.co.nz/article/news-in-brief/woolworths-new-zealand-returns-to-profit-as-sector-scrutiny-ramps-up",
+      "source": "businessdesk.co.nz",
+      "card_text": "Woolworths New Zealand returns to profit as sector scrutiny ramps up",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Fifteen child harm reports were made about an Australian church school. Authorities never visited",
+      "url": "https://stuff.co.nz/world-news/361044294/fifteen-child-harm-reports-were-made-about-australian-church-school-authorities-never-visited",
+      "source": "stuff.co.nz",
+      "card_text": "Fifteen child harm reports were made about an Australian church school. Authorities never visited",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Food and fibre exports hit record $65.2 billion",
+      "url": "https://beehive.govt.nz/release/food-and-fibre-exports-hit-record-652-billion",
+      "source": "beehive.govt.nz",
+      "card_text": "Food and fibre exports hit record $65.2 billion",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Food And Fibre Exports Hit Record $65.2 Billion",
+      "url": "https://scoop.co.nz/stories/PA2610/S00075/food-and-fibre-exports-hit-record-652-billion.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Food And Fibre Exports Hit Record $65.2 Billion",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Watch: 'There's nothing here': Unemployment, addiction and a region at a crossroads | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=NrozJnbi6jE",
+      "source": "youtube.com",
+      "card_text": "Watch: 'There's nothing here': Unemployment, addiction and a region at a crossroads | Stuff.co.nz",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "US budget deficit jumps to nearly US$2 trillion",
+      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-budget-deficit-jumps-to-nearly-us2-trillion",
+      "source": "businessdesk.co.nz",
+      "card_text": "US budget deficit jumps to nearly US$2 trillion",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "‘Real good dark arts lock’: What Scott Barrett’s comeback means to the All Blacks",
+      "url": "https://stuff.co.nz/sport/361044267/real-good-dark-arts-lock-what-scott-barretts-comeback-means-all-blacks",
+      "source": "stuff.co.nz",
+      "card_text": "‘Real good dark arts lock’: What Scott Barrett’s comeback means to the All Blacks",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Damian McKenzie: All Blacks First Five previews this weekend's clash against the Wallabies",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/damian-mckenzie-all-blacks-first-five-previews-this-weekends-clash-against-the-wallabies",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Damian McKenzie: All Blacks First Five previews this weekend's clash against the Wallabies",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "World Heritage Hope: Te Hauturu-o-Toi Takes Major Step Towards UNESCO Recognition",
+      "url": "https://waateanews.com/2026/10/09/world-heritage-hope-te-hauturu-o-toi-takes-major-step-towards-unesco-recognition",
+      "source": "waateanews.com",
+      "card_text": "World Heritage Hope: Te Hauturu-o-Toi Takes Major Step Towards UNESCO Recognition",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Going electric could save South Island households billions of dollars, study finds",
+      "url": "https://thepress.co.nz/nz-news/361094266/going-electric-could-save-south-island-households-billions-dollars-study-finds",
+      "source": "thepress.co.nz",
+      "card_text": "Going electric could save South Island households billions of dollars, study finds",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Young girl stripped and assaulted in park attack",
+      "url": "https://thepress.co.nz/nz-news/361095740/young-girl-stripped-and-assaulted-park-attack",
+      "source": "thepress.co.nz",
+      "card_text": "Young girl stripped and assaulted in park attack",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Public Service Under Pressure: PSA Demands Answers as Election 2026 Looms",
+      "url": "https://waateanews.com/2026/10/09/public-service-under-pressure-psa-demands-answers-as-election-2026-looms",
+      "source": "waateanews.com",
+      "card_text": "Public Service Under Pressure: PSA Demands Answers as Election 2026 Looms",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "New bridge may be on the cards for Motueka",
+      "url": "https://thepress.co.nz/nz-news/361095743/new-bridge-may-be-cards-motueka",
+      "source": "thepress.co.nz",
+      "card_text": "New bridge may be on the cards for Motueka",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA",
+      "url": "https://thepress.co.nz/business/361095663/rua-bioscience-signs-deal-supply-nz-medicinal-mdma",
+      "source": "thepress.co.nz",
+      "card_text": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Waititi Leads Waiariki Poll as Māori Electorate Battle Heats Up",
+      "url": "https://waateanews.com/2026/10/09/waititi-leads-waiariki-poll-as-maori-electorate-battle-heats-up",
+      "source": "waateanews.com",
+      "card_text": "Waititi Leads Waiariki Poll as Māori Electorate Battle Heats Up",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Daytime heavy vehicle restrictions on Lewis Pass from Monday",
+      "url": "https://chrislynchmedia.com/news-items/daytime-heavy-vehicle-restrictions-on-lewis-pass-from-monday",
+      "source": "chrislynchmedia.com",
+      "card_text": "Daytime heavy vehicle restrictions on Lewis Pass from Monday",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown",
+      "url": "https://waateanews.com/2026/10/09/drug-test-showdown-labour-and-greens-slam-nationals-welfare-crackdown",
+      "source": "waateanews.com",
+      "card_text": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Pre-COP31: Pacific leaders air frustration over climate finance delays",
+      "url": "https://rnz.co.nz/news/pacific/1805482/pre-cop31-pacific-leaders-air-frustration-over-climate-finance-delays",
+      "source": "rnz.co.nz",
+      "card_text": "Pre-COP31: Pacific leaders air frustration over climate finance delays",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste",
+      "url": "https://thepress.co.nz/nz-news/361093924/dump-owners-illegal-waste-risked-water-supply-judge-says",
+      "source": "thepress.co.nz",
+      "card_text": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Grant McCallum: Northland MP discusses National's plan to implement random drug testing for Jobseeker beneficiaries",
+      "url": "https://newstalkzb.co.nz/on-air/kerre-woodham-mornings/audio/grant-mccallum-northland-mp-discusses-nationals-plan-to-implement-random-drug-testing-for-jobseeker-beneficiaries",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Grant McCallum: Northland MP discusses National's plan to implement random drug testing for Jobseeker beneficiaries",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "No 8 wire mentality no longer serves NZ well",
+      "url": "https://newsroom.co.nz/2026/10/09/no-8-wire-mentality-no-longer-serves-nz-well",
+      "source": "newsroom.co.nz",
+      "card_text": "No 8 wire mentality no longer serves NZ well",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Fiji’s Online Safety Act – why it poses risks for journalism",
+      "url": "https://asiapacificreport.nz/2026/10/09/fijis-online-safety-act-why-it-poses-risks-for-journalism",
+      "source": "asiapacificreport.nz",
+      "card_text": "Fiji’s Online Safety Act – why it poses risks for journalism",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Labour says it can fund pay equity and public services – its fiscal plan suggests it will have to pick one",
+      "url": "https://nzherald.co.nz/nz/politics/labour-says-it-can-fund-pay-equity-and-public-services-its-fiscal-plan-suggests-it-will-have-to-pick-one/SBOT25FRFVARVJP6C5I424E76Y",
+      "source": "nzherald.co.nz",
+      "card_text": "Labour says it can fund pay equity and public services – its fiscal plan suggests it will have to pick one",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Hawke’s Bay roading contractor layoffs as Cyclone Gabrielle highway recovery work finishes",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA",
+      "source": "nzherald.co.nz",
+      "card_text": "Hawke’s Bay roading contractor layoffs as Cyclone Gabrielle highway recovery work finishes",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "FMA cancels auditor’s licence over Greenfern audit breaches",
+      "url": "https://businessdesk.co.nz/article/markets/fma-cancels-auditors-licence-over-greenfern-audit-breaches",
+      "source": "businessdesk.co.nz",
+      "card_text": "FMA cancels auditor’s licence over Greenfern audit breaches",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Māori Economy in the Spotlight: Traci Houpapa Calls for Focus on Growth, Jobs and Investment",
+      "url": "https://waateanews.com/2026/10/09/maori-economy-in-the-spotlight-traci-houpapa-calls-for-focus-on-growth-jobs-and-investment",
+      "source": "waateanews.com",
+      "card_text": "Māori Economy in the Spotlight: Traci Houpapa Calls for Focus on Growth, Jobs and Investment",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Houthis claim attack on Riyadh airport, Saudi kindergarten damaged from missile interception",
+      "url": "https://nzherald.co.nz/business/companies/airlines/houthis-claim-attack-on-riyadh-airport-debris-hits-saudi-kindergarten/BOZ76DG7ZFBPDKRMW64VOYVGHU",
+      "source": "nzherald.co.nz",
+      "card_text": "Houthis claim attack on Riyadh airport, Saudi kindergarten damaged from missile interception",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "‘He’s got a 10-pack’: How Scooter Barrett transformed himself for ABs return",
+      "url": "https://thepress.co.nz/sport/361095579/all-blacks-v-wallabies-how-scott-barrett-built-himself-back-dramatic-bledisloe-return",
+      "source": "thepress.co.nz",
+      "card_text": "‘He’s got a 10-pack’: How Scooter Barrett transformed himself for ABs return",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Do Rennie's eye-catching changes make the All Blacks vulnerable in Bledisloe opener?",
+      "url": "https://stuff.co.nz/sport/361042784/all-blacks-v-wallabies-live-chat-ahead-bledisloe-cup-series",
+      "source": "stuff.co.nz",
+      "card_text": "Do Rennie's eye-catching changes make the All Blacks vulnerable in Bledisloe opener?",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Rotorua testing finds no PFAS contamination in lake life, no harm from forest irrigation",
+      "url": "https://nzherald.co.nz/rotorua-daily-post/news/rotorua-testing-finds-no-pfas-contamination-in-lake-life-no-harm-from-forest-irrigation/Z6BUHMZYFZD67E4C2I554AU3VA",
+      "source": "nzherald.co.nz",
+      "card_text": "Rotorua testing finds no PFAS contamination in lake life, no harm from forest irrigation",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Major roadworks planned across Christchurch this summer",
+      "url": "https://odt.co.nz/canterbury/christchurch/major-roadworks-planned-across-christchurch-this-summer-rqipq0u8",
+      "source": "odt.co.nz",
+      "card_text": "Major roadworks planned across Christchurch this summer",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Care home worker awarded $84k after being fired by text",
+      "url": "https://stuff.co.nz/business/361044443/care-home-worker-awarded-84000-after-being-fired-text-over-visa-pay-query",
+      "source": "stuff.co.nz",
+      "card_text": "Care home worker awarded $84k after being fired by text",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Ricardo Menéndez March: Green Party Social Development Spokesperson on National's plan to drug-test beneficiaries",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/ricardo-men%C3%A9ndez-march-green-party-social-development-spokesperson-on-nationals-plan-to-drug-test-beneficiaries",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Ricardo Menéndez March: Green Party Social Development Spokesperson on National's plan to drug-test beneficiaries",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "People cut from car after colliding with truck carrying house",
+      "url": "https://odt.co.nz/news/national/people-cut-from-car-after-colliding-with-truck-carrying-house-ckymzheh",
+      "source": "odt.co.nz",
+      "card_text": "People cut from car after colliding with truck carrying house",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "‘Enough is enough’: New Zealand First wants to ban fireworks",
+      "url": "https://nzherald.co.nz/nz/enough-is-enough-new-zealand-first-wants-to-ban-fireworks/Q5BHW4Z7P5BKRDKHRNNNWKUWDU",
+      "source": "nzherald.co.nz",
+      "card_text": "‘Enough is enough’: New Zealand First wants to ban fireworks",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Additional domestic student places for veterinary science at Massey University",
+      "url": "https://beehive.govt.nz/release/additional-domestic-student-places-veterinary-science-massey-university",
+      "source": "beehive.govt.nz",
+      "card_text": "Additional domestic student places for veterinary science at Massey University",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "People cut from car after colliding with truck carrying house",
+      "url": "https://rnz.co.nz/news/emergencies_local/1803629/people-cut-from-car-after-colliding-with-truck-carrying-house",
+      "source": "rnz.co.nz",
+      "card_text": "People cut from car after colliding with truck carrying house",
+      "discovered_at_utc": "2026-10-09T01:20:08.158467+00:00"
+    },
     {
       "rank": 22,
       "title": "Strike on Ukrainian public bus leaves 30 dead as Russian attacks surge before winter",
@@ -18,30 +418,6 @@
       "url": "https://interest.co.nz/insurance/140579/increasing-risks-disasters-under-climate-change-will-result-homes-high-risk-areas",
       "source": "interest.co.nz",
       "card_text": "More people and properties likely to be exposed to flooding and landslides, new climate report says",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks",
-      "url": "https://waateanews.com/2026/10/09/crime-crackdown-new-government-board-targets-gangs-drugs-and-international-criminal-networks",
-      "source": "waateanews.com",
-      "card_text": "Crime Crackdown: New Government Board Targets Gangs, Drugs and International Criminal Networks",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Researcher calls for Māori-specific strategy to eliminate tuberculosis",
-      "url": "https://rnz.co.nz/news/health/1798141/researcher-calls-for-maori-specific-strategy-to-eliminate-tuberculosis",
-      "source": "rnz.co.nz",
-      "card_text": "Researcher calls for Māori-specific strategy to eliminate tuberculosis",
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
@@ -85,14 +461,6 @@
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
-      "rank": 3,
-      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
-      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
-      "source": "rnz.co.nz",
-      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
       "rank": 14,
       "title": "Coalition teetering in the balance after disaster poll",
       "url": "https://thepress.co.nz/politics/361095519/coalition-teetering-balance-after-disaster-poll",
@@ -117,35 +485,11 @@
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
-      "rank": 17,
-      "title": "Woman who lost $400,000 to 'poor advice' wins $320,000 settlement",
-      "url": "https://rnz.co.nz/news/personal-finance/1798619/woman-who-lost-400-000-to-poor-advice-wins-320-000-settlement",
-      "source": "rnz.co.nz",
-      "card_text": "Woman who lost $400,000 to 'poor advice' wins $320,000 settlement",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
       "rank": 26,
       "title": "‘The Hypocrisy is mind-blowing’: NRL boss vows to defend NZ Rugby court action over Chiefs name",
       "url": "https://stuff.co.nz/sport/361043887/nzr-files-legal-action-over-naming-expansion-nrl-team",
       "source": "stuff.co.nz",
       "card_text": "‘The Hypocrisy is mind-blowing’: NRL boss vows to defend NZ Rugby court action over Chiefs name",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Inside Dunedin’s new $400m hospital building",
-      "url": "https://odt.co.nz/news/dunedin/watch-inside-dunedins-new-400m-hospital-building-gl7i70u2",
-      "source": "odt.co.nz",
-      "card_text": "Inside Dunedin’s new $400m hospital building",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years",
-      "url": "https://nzherald.co.nz/nz/healthy-homes-initiative-linked-to-30-fewer-child-hospitalisations-over-five-years/N5SSX572B5FJZG2USQVRXDNIHY",
-      "source": "nzherald.co.nz",
-      "card_text": "Healthy Homes Initiative linked to 30% fewer child hospitalisations over five years",
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
@@ -157,22 +501,6 @@
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
-      "rank": 12,
-      "title": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027",
-      "url": "https://ruralnewsgroup.co.nz/rural-news/rural-farm-health/blanket-dry-cow-therapy-harder-to-justify-from-2027-selective-dct",
-      "source": "ruralnewsgroup.co.nz",
-      "card_text": "Dry Cow Therapy: New Vet Guidance for NZ Dairy From 2027",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Trump says US won’t attack Iran before mid-term election",
-      "url": "https://thepress.co.nz/business/361095539/trump-says-us-wont-attack-iran-mid-term-election",
-      "source": "thepress.co.nz",
-      "card_text": "Trump says US won’t attack Iran before mid-term election",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
       "rank": 27,
       "title": "FIM World Supercross cancels Christchurch event at One NZ Stadium",
       "url": "https://newstalkzb.co.nz/news/national/fim-world-supercross-cancels-christchurch-event-at-one-nz-stadium",
@@ -181,83 +509,11 @@
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
-      "rank": 29,
-      "title": "17 tuberculosis cases expose gaps in contact tracing",
-      "url": "https://thepress.co.nz/nz-news/361094826/waikato-tuberculosis-cases-expose-gaps-contact-tracing",
-      "source": "thepress.co.nz",
-      "card_text": "17 tuberculosis cases expose gaps in contact tracing",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "$150m to fix 'dreadful' Seaview stench",
-      "url": "https://odt.co.nz/news/national/150m-to-fix-dreadful-seaview-stench-h1y8qy15",
-      "source": "odt.co.nz",
-      "card_text": "$150m to fix 'dreadful' Seaview stench Otago Daily Times Today 8:14 am",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
       "rank": 20,
       "title": "NZX-50 faces uncertainty as election looks to be close: UBS",
       "url": "https://businessdesk.co.nz/article/markets/nzx-50-faces-uncertainty-as-election-looks-to-be-close-ubs",
       "source": "businessdesk.co.nz",
       "card_text": "NZX-50 faces uncertainty as election looks to be close: UBS",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Watch: Election 2026: TVNZ 1News Leaders Debate October 6 2026",
-      "url": "https://youtube.com/watch?v=2gNEyySgIXQ",
-      "source": "youtube.com",
-      "card_text": "Watch: Election 2026: TVNZ 1News Leaders Debate October 6 2026",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Thousands march in Madrid to remember evicted 87-year-old",
-      "url": "https://odt.co.nz/news/world/thousands-march-in-madrid-to-remember-evicted-87-year-old-i7trr6kl",
-      "source": "odt.co.nz",
-      "card_text": "Thousands march in Madrid to remember evicted 87-year-old",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Woolworths New Zealand returns to profit as sector scrutiny ramps up",
-      "url": "https://businessdesk.co.nz/article/news-in-brief/woolworths-new-zealand-returns-to-profit-as-sector-scrutiny-ramps-up",
-      "source": "businessdesk.co.nz",
-      "card_text": "Woolworths New Zealand returns to profit as sector scrutiny ramps up",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Fifteen child harm reports were made about an Australian church school. Authorities never visited",
-      "url": "https://stuff.co.nz/world-news/361044294/fifteen-child-harm-reports-were-made-about-australian-church-school-authorities-never-visited",
-      "source": "stuff.co.nz",
-      "card_text": "Fifteen child harm reports were made about an Australian church school. Authorities never visited",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Food and fibre exports hit record $65.2 billion",
-      "url": "https://beehive.govt.nz/release/food-and-fibre-exports-hit-record-652-billion",
-      "source": "beehive.govt.nz",
-      "card_text": "Food and fibre exports hit record $65.2 billion",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Food And Fibre Exports Hit Record $65.2 Billion",
-      "url": "https://scoop.co.nz/stories/PA2610/S00075/food-and-fibre-exports-hit-record-652-billion.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Food And Fibre Exports Hit Record $65.2 Billion",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Watch: 'There's nothing here': Unemployment, addiction and a region at a crossroads | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=NrozJnbi6jE",
-      "source": "youtube.com",
-      "card_text": "Watch: 'There's nothing here': Unemployment, addiction and a region at a crossroads | Stuff.co.nz",
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
@@ -274,86 +530,6 @@
       "url": "https://nzherald.co.nz/waikato-news/news/waikato-district-council-restructure-125-staff-leave-strategy-and-growth-group-axed/premium/ZMGW6YKEFVCTLPD6CEOF3WFH3Q",
       "source": "nzherald.co.nz",
       "card_text": "Waikato District Council restructure: 125 staff leave, Strategy and Growth group axed",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "US budget deficit jumps to nearly US$2 trillion",
-      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-budget-deficit-jumps-to-nearly-us2-trillion",
-      "source": "businessdesk.co.nz",
-      "card_text": "US budget deficit jumps to nearly US$2 trillion",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "‘Real good dark arts lock’: What Scott Barrett’s comeback means to the All Blacks",
-      "url": "https://stuff.co.nz/sport/361044267/real-good-dark-arts-lock-what-scott-barretts-comeback-means-all-blacks",
-      "source": "stuff.co.nz",
-      "card_text": "‘Real good dark arts lock’: What Scott Barrett’s comeback means to the All Blacks",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Damian McKenzie: All Blacks First Five previews this weekend's clash against the Wallabies",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/damian-mckenzie-all-blacks-first-five-previews-this-weekends-clash-against-the-wallabies",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Damian McKenzie: All Blacks First Five previews this weekend's clash against the Wallabies",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "World Heritage Hope: Te Hauturu-o-Toi Takes Major Step Towards UNESCO Recognition",
-      "url": "https://waateanews.com/2026/10/09/world-heritage-hope-te-hauturu-o-toi-takes-major-step-towards-unesco-recognition",
-      "source": "waateanews.com",
-      "card_text": "World Heritage Hope: Te Hauturu-o-Toi Takes Major Step Towards UNESCO Recognition",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Going electric could save South Island households billions of dollars, study finds",
-      "url": "https://thepress.co.nz/nz-news/361094266/going-electric-could-save-south-island-households-billions-dollars-study-finds",
-      "source": "thepress.co.nz",
-      "card_text": "Going electric could save South Island households billions of dollars, study finds",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Young girl stripped and assaulted in park attack",
-      "url": "https://thepress.co.nz/nz-news/361095740/young-girl-stripped-and-assaulted-park-attack",
-      "source": "thepress.co.nz",
-      "card_text": "Young girl stripped and assaulted in park attack",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Public Service Under Pressure: PSA Demands Answers as Election 2026 Looms",
-      "url": "https://waateanews.com/2026/10/09/public-service-under-pressure-psa-demands-answers-as-election-2026-looms",
-      "source": "waateanews.com",
-      "card_text": "Public Service Under Pressure: PSA Demands Answers as Election 2026 Looms",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "New bridge may be on the cards for Motueka",
-      "url": "https://thepress.co.nz/nz-news/361095743/new-bridge-may-be-cards-motueka",
-      "source": "thepress.co.nz",
-      "card_text": "New bridge may be on the cards for Motueka",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA",
-      "url": "https://thepress.co.nz/business/361095663/rua-bioscience-signs-deal-supply-nz-medicinal-mdma",
-      "source": "thepress.co.nz",
-      "card_text": "Rua Bioscience signs deal to supply New Zealand with medicinal MDMA",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 42,
-      "title": "Waititi Leads Waiariki Poll as Māori Electorate Battle Heats Up",
-      "url": "https://waateanews.com/2026/10/09/waititi-leads-waiariki-poll-as-maori-electorate-battle-heats-up",
-      "source": "waateanews.com",
-      "card_text": "Waititi Leads Waiariki Poll as Māori Electorate Battle Heats Up",
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
@@ -386,14 +562,6 @@
       "url": "https://odt.co.nz/otago/queenstown/wastewater-to-be-pumped-into-kawarau-river-through-10m-pipe-rh5y08b1",
       "source": "odt.co.nz",
       "card_text": "Wastewater to be pumped into Kawarau River through 10m pipe",
-      "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "Daytime heavy vehicle restrictions on Lewis Pass from Monday",
-      "url": "https://chrislynchmedia.com/news-items/daytime-heavy-vehicle-restrictions-on-lewis-pass-from-monday",
-      "source": "chrislynchmedia.com",
-      "card_text": "Daytime heavy vehicle restrictions on Lewis Pass from Monday",
       "discovered_at_utc": "2026-10-09T00:29:45.765350+00:00"
     },
     {
@@ -658,14 +826,6 @@
       "url": "https://stuff.co.nz/world-news/361044205/explosions-are-heard-saudi-capital-riyadh-airport",
       "source": "stuff.co.nz",
       "card_text": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation",
-      "discovered_at_utc": "2026-10-08T20:19:32.061795+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown",
-      "url": "https://waateanews.com/2026/10/09/drug-test-showdown-labour-and-greens-slam-nationals-welfare-crackdown",
-      "source": "waateanews.com",
-      "card_text": "Drug Test Showdown: Labour and Greens Slam National’s Welfare Crackdown",
       "discovered_at_utc": "2026-10-08T20:19:32.061795+00:00"
     },
     {
