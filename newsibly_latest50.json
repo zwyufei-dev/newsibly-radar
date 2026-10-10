@@ -2,281 +2,281 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-09T23:16:17.046011+00:00",
+  "retrieved_at_utc": "2026-10-10T00:27:46.889509+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "HPV vaccine uptake lags in New Zealand as sexual myths hinder school rollout",
-      "url": "https://nzherald.co.nz/nz/hpv-vaccine-uptake-lags-in-new-zealand-as-sexual-myths-hinder-school-rollout/premium/DLEURJ2TYRAGRGU7DC37UAKJSQ",
-      "source": "nzherald.co.nz",
-      "card_text": "HPV vaccine uptake lags in New Zealand as sexual myths hinder school rollout"
+      "title": "Quake and tsunami monitoring centre closed for hours due to staff shortages",
+      "url": "https://rnz.co.nz/news/politics/1827032/quake-and-tsunami-monitoring-centre-closed-for-hours-due-to-staff-shortages",
+      "source": "rnz.co.nz",
+      "card_text": "Quake and tsunami monitoring centre closed for hours due to staff shortages"
     },
     {
       "rank": 2,
-      "title": "Election 2026: Overseas Voter Enrolments Surge 60% as Expats Could Decide Who Governs",
-      "url": "https://waateanews.com/2026/10/10/tekaupapa-election-2026-overseas-voter-enrolments-surge-60-as-expats-could-decide-who-governs",
-      "source": "waateanews.com",
-      "card_text": "Election 2026: Overseas Voter Enrolments Surge 60% as Expats Could Decide Who Governs"
-    },
-    {
-      "rank": 3,
-      "title": "Buyers cry foul after investing in controversial pastor’s subdivision",
-      "url": "https://thepress.co.nz/nz-news/361086476/buyers-cry-foul-after-investing-controversial-pastors-subdivision",
-      "source": "thepress.co.nz",
-      "card_text": "Buyers cry foul after investing in controversial pastor’s subdivision"
-    },
-    {
-      "rank": 4,
-      "title": "Trans-Tasman complacency in US-China rivalry risks second-rate future",
-      "url": "https://newsroom.co.nz/2026/10/10/trans-tasman-complacency-in-us-china-rivalry-risks-second-rate-future",
-      "source": "newsroom.co.nz",
-      "card_text": "Trans-Tasman complacency in US-China rivalry risks second-rate future"
-    },
-    {
-      "rank": 5,
-      "title": "PowerNet Funds AED Upgrades And Training",
-      "url": "https://whatsoninvers.nz/powernet-funds-aed-upgrades-and-training",
-      "source": "whatsoninvers.nz",
-      "card_text": "PowerNet Funds AED Upgrades And Training"
-    },
-    {
-      "rank": 6,
-      "title": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026",
-      "url": "https://interest.co.nz/economy/140606/westpac-nz-economists-see-inflation-heading-towards-three-year-all-gas-no-brakes",
-      "source": "interest.co.nz",
-      "card_text": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026"
-    },
-    {
-      "rank": 7,
-      "title": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
-      "url": "https://youtube.com/watch?v=noDSfnrTYpI",
-      "source": "youtube.com",
-      "card_text": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained"
-    },
-    {
-      "rank": 8,
-      "title": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs",
-      "url": "https://reseller.co.nz/article/4232873/datacom-spends-500k-a-month-on-ai-coding-but-focusses-on-outcomes-not-token-costs.html",
-      "source": "reseller.co.nz",
-      "card_text": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs"
-    },
-    {
-      "rank": 9,
-      "title": "LIVE: Labour, National, Greens fight for Auckland vote today",
-      "url": "https://stuff.co.nz/politics/361044544/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "LIVE: Labour, National, Greens fight for Auckland vote today"
-    },
-    {
-      "rank": 10,
-      "title": "Federated Farmers welcomes National's water storage scheme, says it should go further",
-      "url": "https://rnz.co.nz/news/politics_election-2026/1825141/federated-farmers-welcomes-national-s-water-storage-scheme-says-it-should-go-further",
-      "source": "rnz.co.nz",
-      "card_text": "Federated Farmers welcomes National's water storage scheme, says it should go further"
-    },
-    {
-      "rank": 11,
-      "title": "Dumping STV and retaining citywide voting would be ‘worst combination’ for DCC: Hayward",
-      "url": "https://odt.co.nz/news/dunedin/dumping-stv-and-retaining-citywide-voting-would-be-worst-combination-for-dcc-hayward-mji0i3zz",
-      "source": "odt.co.nz",
-      "card_text": "Dumping STV and retaining citywide voting would be ‘worst combination’ for DCC: Hayward"
-    },
-    {
-      "rank": 12,
-      "title": "Hands Off Our Assets: Two-Thirds of Kiwis Back Public Ownership as Election Looms",
-      "url": "https://waateanews.com/2026/10/10/hands-off-our-assets-two-thirds-of-kiwis-back-public-ownership-as-election-looms",
-      "source": "waateanews.com",
-      "card_text": "Hands Off Our Assets: Two-Thirds of Kiwis Back Public Ownership as Election Looms"
-    },
-    {
-      "rank": 13,
-      "title": "Private credit gains ground in New Zealand as regulators watch offshore risks",
-      "url": "https://nzherald.co.nz/business/companies/banking-finance/how-nz-is-playing-catch-up-with-rapidly-growing-global-private-credit-sector/premium/WMUCW4PUDRBHBOZO3ABUSJ4LHE",
-      "source": "nzherald.co.nz",
-      "card_text": "Private credit gains ground in New Zealand as regulators watch offshore risks"
-    },
-    {
-      "rank": 14,
-      "title": "Seeking the best returns, the current competitive landscape",
-      "url": "https://interest.co.nz/personal-finance/140603/term-deposit-rates-lag-overall-rises-wholesale-and-home-loan-rates-savers",
-      "source": "interest.co.nz",
-      "card_text": "Seeking the best returns, the current competitive landscape"
-    },
-    {
-      "rank": 15,
-      "title": "Australia’s Firmus Technologies pulls the pin on its ASX listing",
-      "url": "https://businessdesk.co.nz/article/news-in-brief/australias-firmus-technologies-pulls-the-pin-on-its-asx-listing",
-      "source": "businessdesk.co.nz",
-      "card_text": "Australia’s Firmus Technologies pulls the pin on its ASX listing"
-    },
-    {
-      "rank": 16,
       "title": "US imposes sanctions on International Criminal Court, hours after former judge wins Nobel Peace Prize",
       "url": "https://odt.co.nz/news/world/us-imposes-sanctions-on-international-criminal-court-hours-after-former-judge-wins-nobel-peace-prize-jw4xkeo2",
       "source": "odt.co.nz",
       "card_text": "US imposes sanctions on International Criminal Court, hours after former judge wins Nobel Peace Prize"
     },
     {
+      "rank": 3,
+      "title": "Drug Tests and Benefit Cuts: National Unveils Tough New Welfare Crackdown",
+      "url": "https://waateanews.com/2026/10/10/drug-tests-and-benefit-cuts-national-unveils-tough-new-welfare-crackdown",
+      "source": "waateanews.com",
+      "card_text": "Drug Tests and Benefit Cuts: National Unveils Tough New Welfare Crackdown"
+    },
+    {
+      "rank": 4,
+      "title": "Every health target is improving",
+      "url": "https://pointofordernz.wordpress.com/2026/10/10/every-health-target-is-improving",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Every health target is improving David Farrar writes – The previous Labour Government abolished almost all the health targets, did a distarous mega-merger during a pandemic, and outcomes in the health sector fell across the board. The health sector is still under great strain, but the data shows that there has been considerable improvement in all five target areas. This … Continue reading Every health target is improving → Point of Order Today 11:05 am Health"
+    },
+    {
+      "rank": 5,
+      "title": "Buyers cry foul after investing in controversial pastor’s subdivision",
+      "url": "https://thepress.co.nz/nz-news/361086476/buyers-cry-foul-after-investing-controversial-pastors-subdivision",
+      "source": "thepress.co.nz",
+      "card_text": "Buyers cry foul after investing in controversial pastor’s subdivision"
+    },
+    {
+      "rank": 6,
+      "title": "Trans-Tasman complacency in US-China rivalry risks second-rate future",
+      "url": "https://newsroom.co.nz/2026/10/10/trans-tasman-complacency-in-us-china-rivalry-risks-second-rate-future",
+      "source": "newsroom.co.nz",
+      "card_text": "Trans-Tasman complacency in US-China rivalry risks second-rate future"
+    },
+    {
+      "rank": 7,
+      "title": "PowerNet Funds AED Upgrades And Training",
+      "url": "https://whatsoninvers.nz/powernet-funds-aed-upgrades-and-training",
+      "source": "whatsoninvers.nz",
+      "card_text": "PowerNet Funds AED Upgrades And Training"
+    },
+    {
+      "rank": 8,
+      "title": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026",
+      "url": "https://interest.co.nz/economy/140606/westpac-nz-economists-see-inflation-heading-towards-three-year-all-gas-no-brakes",
+      "source": "interest.co.nz",
+      "card_text": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026"
+    },
+    {
+      "rank": 9,
+      "title": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
+      "url": "https://youtube.com/watch?v=noDSfnrTYpI",
+      "source": "youtube.com",
+      "card_text": "Watch: Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained"
+    },
+    {
+      "rank": 10,
+      "title": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs",
+      "url": "https://reseller.co.nz/article/4232873/datacom-spends-500k-a-month-on-ai-coding-but-focusses-on-outcomes-not-token-costs.html",
+      "source": "reseller.co.nz",
+      "card_text": "Datacom spends $500k a month on AI coding, but focusses on outcomes not token costs"
+    },
+    {
+      "rank": 11,
+      "title": "Election 2026: More than a third of young people eligible to vote are not enrolled",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-more-than-a-third-of-young-people-eligible-to-vote-not-enrolled/premium/FTEAYL6KHFGARLT75DS3TMRSJM",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: More than a third of young people eligible to vote are not enrolled"
+    },
+    {
+      "rank": 12,
+      "title": "Election 2026: Overseas Voter Enrolments Surge 60% as Expats Could Decide Who Governs",
+      "url": "https://waateanews.com/2026/10/10/tekaupapa-election-2026-overseas-voter-enrolments-surge-60-as-expats-could-decide-who-governs",
+      "source": "waateanews.com",
+      "card_text": "Election 2026: Overseas Voter Enrolments Surge 60% as Expats Could Decide Who Governs"
+    },
+    {
+      "rank": 13,
+      "title": "Federated Farmers welcomes National's water storage scheme, says it should go further",
+      "url": "https://rnz.co.nz/news/politics_election-2026/1825141/federated-farmers-welcomes-national-s-water-storage-scheme-says-it-should-go-further",
+      "source": "rnz.co.nz",
+      "card_text": "Federated Farmers welcomes National's water storage scheme, says it should go further"
+    },
+    {
+      "rank": 14,
+      "title": "National winks to Opportunity promising to review bottom trawling and create new Waiheke reserve",
+      "url": "https://newstalkzb.co.nz/news/politics/national-winks-to-opportunity-promising-to-review-bottom-trawling-and-create-new-waiheke-reserve",
+      "source": "newstalkzb.co.nz",
+      "card_text": "National winks to Opportunity promising to review bottom trawling and create new Waiheke reserve"
+    },
+    {
+      "rank": 15,
+      "title": "Fuel Now, Pay Later: Motorists Turn to Afterpay as Petrol Prices Soar Past $3.50",
+      "url": "https://waateanews.com/2026/10/10/tekaupapa-fuel-now-pay-later-motorists-turn-to-afterpay-as-petrol-prices-soar-past-3-50",
+      "source": "waateanews.com",
+      "card_text": "Fuel Now, Pay Later: Motorists Turn to Afterpay as Petrol Prices Soar Past $3.50"
+    },
+    {
+      "rank": 16,
+      "title": "Former EA chairwoman joins community push to cut Mahurangi power outages",
+      "url": "https://nzherald.co.nz/business/former-ea-chair-joins-community-push-to-cut-mahurangi-power-outages/premium/2OBU773SYVG65M3535VQO6C73U",
+      "source": "nzherald.co.nz",
+      "card_text": "Former EA chairwoman joins community push to cut Mahurangi power outages"
+    },
+    {
       "rank": 17,
-      "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-      "url": "https://stuff.co.nz/business/361044676/trump-establishes-committee-investigate-federal-reserves",
-      "source": "stuff.co.nz",
-      "card_text": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her"
+      "title": "Seeking the best returns, the current competitive landscape",
+      "url": "https://interest.co.nz/personal-finance/140603/term-deposit-rates-lag-overall-rises-wholesale-and-home-loan-rates-savers",
+      "source": "interest.co.nz",
+      "card_text": "Seeking the best returns, the current competitive landscape"
     },
     {
       "rank": 18,
-      "title": "Drought declared in parts of Tonga as El Niño intensifies",
-      "url": "https://rnz.co.nz/news/pacific/1808287/drought-declared-in-parts-of-tonga-as-el-nino-intensifies",
-      "source": "rnz.co.nz",
-      "card_text": "Drought declared in parts of Tonga as El Niño intensifies"
+      "title": "Two NATO allies refuse to give up Patriots that could save Ukraine",
+      "url": "https://stuff.co.nz/world-news/361044703/spain-and-greece-refuse-give-patriots-could-save",
+      "source": "stuff.co.nz",
+      "card_text": "Two NATO allies refuse to give up Patriots that could save Ukraine"
     },
     {
       "rank": 19,
+      "title": "Trump approves major disaster declaration for Guam following Super Typhoon Bavi",
+      "url": "https://rnz.co.nz/news/pacific/1827110/trump-approves-major-disaster-declaration-for-guam-following-super-typhoon-bavi",
+      "source": "rnz.co.nz",
+      "card_text": "Trump approves major disaster declaration for Guam following Super Typhoon Bavi"
+    },
+    {
+      "rank": 20,
+      "title": "Football Ferns safe in Panama after magnitude 7.7 earthquake",
+      "url": "https://nzherald.co.nz/nz/football-ferns-safe-in-panama-after-magnitude-77-earthquake/N3VJQXG75FENPIMIBFDNRFRLRE",
+      "source": "nzherald.co.nz",
+      "card_text": "Football Ferns safe in Panama after magnitude 7.7 earthquake"
+    },
+    {
+      "rank": 21,
+      "title": "Towering Black Caps seamer to miss India series with an eye on Australia",
+      "url": "https://stuff.co.nz/sport/361044763/towering-black-caps-seamer-will-orourke-miss-india-series-eye-australia",
+      "source": "stuff.co.nz",
+      "card_text": "Towering Black Caps seamer to miss India series with an eye on Australia"
+    },
+    {
+      "rank": 22,
       "title": "Leroy Carter: All Black Winger previews the first Bledisloe Cup clash against the Wallabies",
       "url": "https://newstalkzb.co.nz/on-air/the-all-sport-breakfast/audio/leroy-carter-all-black-winger-previews-the-first-bledisloe-cup-clash-against-the-wallabies",
       "source": "newstalkzb.co.nz",
       "card_text": "Leroy Carter: All Black Winger previews the first Bledisloe Cup clash against the Wallabies"
     },
     {
-      "rank": 20,
-      "title": "Barrett brothers reportedly in ‘advanced talks’ with English club",
-      "url": "https://stuff.co.nz/sport/361044699/all-blacks-beauden-and-scott-barrett-reportedly-advanced-talks-bristol-bears",
-      "source": "stuff.co.nz",
-      "card_text": "Barrett brothers reportedly in ‘advanced talks’ with English club"
-    },
-    {
-      "rank": 21,
+      "rank": 23,
       "title": "Confidential papers show the windfall NZ Cricket rejected from Cricket Australia’s BBL invitation",
       "url": "https://thepress.co.nz/sport/361095571/confidential-papers-show-windfall-nz-cricket-rejected-cricket-australias-bbl-invitation",
       "source": "thepress.co.nz",
       "card_text": "Confidential papers show the windfall NZ Cricket rejected from Cricket Australia’s BBL invitation"
     },
     {
-      "rank": 22,
-      "title": "Formula 1: Liam Lawson a shot at Singapore points, qualifies eighth in sprint race finale",
-      "url": "https://nzherald.co.nz/sport/motorsport/formula-1/formula-1-liam-lawson-a-shot-at-singapore-points-qualifies-eighth-in-sprint-race-finale/EAWDXAKIMJE6ZC4VAQG2CLJYY4",
-      "source": "nzherald.co.nz",
-      "card_text": "Formula 1: Liam Lawson a shot at Singapore points, qualifies eighth in sprint race finale"
-    },
-    {
-      "rank": 23,
+      "rank": 24,
       "title": "AI shows Kiwi researcher how to make sarin gas, then asked to borrow his phone",
       "url": "https://stuff.co.nz/nz-news/361043952/ai-shows-kiwi-researcher-how-make-sarin-gas-asks-borrow-his-phone",
       "source": "stuff.co.nz",
       "card_text": "AI shows Kiwi researcher how to make sarin gas, then asked to borrow his phone"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
       "url": "https://bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Fired OpenAI researchers say they were let go for 'prioritising safety'"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "Modi wants India to power the AI age, but residents are pushing back",
       "url": "https://odt.co.nz/news/world/modi-wants-india-to-power-the-ai-age-but-residents-are-pushing-back-ewpd1hvz",
       "source": "odt.co.nz",
       "card_text": "Modi wants India to power the AI age, but residents are pushing back"
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "title": "HPV vaccine uptake lags in New Zealand as sexual myths hinder school rollout",
+      "url": "https://nzherald.co.nz/nz/hpv-vaccine-uptake-lags-in-new-zealand-as-sexual-myths-hinder-school-rollout/premium/DLEURJ2TYRAGRGU7DC37UAKJSQ",
+      "source": "nzherald.co.nz",
+      "card_text": "HPV vaccine uptake lags in New Zealand as sexual myths hinder school rollout"
+    },
+    {
+      "rank": 28,
       "title": "‘Relying on luck’: Staff sickness leaves Dunedin with just one ambulance",
       "url": "https://odt.co.nz/news/dunedin/relying-on-luck-staff-sickness-leaves-dunedin-with-just-one-ambulance-ouvb9qcr",
       "source": "odt.co.nz",
       "card_text": "‘Relying on luck’: Staff sickness leaves Dunedin with just one ambulance"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "title": "‘Would have been a death sentence’: Teen deemed too sick to stay in NZ gets lifeline",
       "url": "https://stuff.co.nz/nz-news/361027084/would-have-been-death-sentence-teen-deemed-too-sick-stay-nz-gets-lifeline",
       "source": "stuff.co.nz",
       "card_text": "‘Would have been a death sentence’: Teen deemed too sick to stay in NZ gets lifeline"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "title": "Timaru’s ‘zombie hospital’ comes with the best views but worst ICU",
       "url": "https://thepress.co.nz/nz-news/361093472/timarus-zombie-hospital-comes-best-views-worst-icu-roadshow-told",
       "source": "thepress.co.nz",
       "card_text": "Timaru’s ‘zombie hospital’ comes with the best views but worst ICU"
     },
     {
-      "rank": 29,
-      "title": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore",
-      "url": "https://nzherald.co.nz/nz/auckland/norovirus-outbreak-impacts-three-rest-homes-and-hospital-ward-on-aucklands-north-shore/RIXPZ4U3H5FALAYF5GFQ6VBETA",
-      "source": "nzherald.co.nz",
-      "card_text": "Norovirus outbreak impacts three rest homes and hospital ward on Auckland’s North Shore"
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'"
     },
     {
-      "rank": 31,
+      "rank": 32,
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "url": "https://bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Questions remain over Ebola patient who travelled across three nations undetected"
+    },
+    {
+      "rank": 33,
+      "title": "One critical after ‘serious incident’ on SH2, road closed",
+      "url": "https://stuff.co.nz/nz-news/361044766/one-critical-after-serious-incident-sh2-road-closed",
+      "source": "stuff.co.nz",
+      "card_text": "One critical after ‘serious incident’ on SH2, road closed"
+    },
+    {
+      "rank": 34,
       "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
       "url": "https://bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Ethiopia warns Eritrea it will defend itself after troops cross border"
     },
     {
-      "rank": 32,
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "url": "https://bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Firing squad execution to be livestreamed, Pentagon says"
+      "rank": 35,
+      "title": "Highway closed, critical injuries after serious crash near Te Puke",
+      "url": "https://stuff.co.nz/nz-news/361044757/highway-closed-critical-injuries-after-serious-crash-near-te-puke",
+      "source": "stuff.co.nz",
+      "card_text": "Highway closed, critical injuries after serious crash near Te Puke"
     },
     {
-      "rank": 33,
-      "title": "Te Kāika audit reveals $1.3m loss as government probes continue",
-      "url": "https://odt.co.nz/news/dunedin/te-kaika-audit-reveals-13m-loss-as-government-probes-continue-b8z1xvy6",
-      "source": "odt.co.nz",
-      "card_text": "Te Kāika audit reveals $1.3m loss as government probes continue"
+      "rank": 36,
+      "title": "National winks to Opportunity promising to review bottom trawling and create new Waiheke reserve",
+      "url": "https://nzherald.co.nz/nz/politics/national-winks-to-opportunity-promising-to-review-bottom-trawling-and-create-new-waiheke-reserve/GZRZQIEUGFHHPHBR2SVTXKP6KU",
+      "source": "nzherald.co.nz",
+      "card_text": "National winks to Opportunity promising to review bottom trawling and create new Waiheke reserve"
     },
     {
-      "rank": 34,
+      "rank": 37,
       "title": "Leaders’ Debate: Who Really Won for Māori as Luxon’s Te Reo Comments Raise Eyebrows?",
       "url": "https://waateanews.com/2026/10/10/leaders-debate-who-really-won-for-maori-as-luxons-te-reo-comments-raise-eyebrows",
       "source": "waateanews.com",
       "card_text": "Leaders’ Debate: Who Really Won for Māori as Luxon’s Te Reo Comments Raise Eyebrows?"
     },
     {
-      "rank": 35,
-      "title": "Government agency wins High Court order to block Stuff story",
-      "url": "https://stuff.co.nz/nz-news/361044370/stuff-barred-reporting-details-major-cross-border-investigation",
-      "source": "stuff.co.nz",
-      "card_text": "Government agency wins High Court order to block Stuff story"
-    },
-    {
-      "rank": 36,
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "url": "https://bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Three men found guilty of murdering two Australian surfer brothers and US friend"
-    },
-    {
-      "rank": 37,
-      "title": "Turning wasted wood into biochemicals, biofuels seen as 'the future for New Zealand'",
-      "url": "https://rnz.co.nz/news/country/1825410/turning-wasted-wood-into-biochemicals-biofuels-seen-as-the-future-for-new-zealand",
-      "source": "rnz.co.nz",
-      "card_text": "Turning wasted wood into biochemicals, biofuels seen as 'the future for New Zealand'"
-    },
-    {
       "rank": 38,
-      "title": "Petrol station ‘legend’ revealed: Thames man explains moving burning car away from petrol pumps",
-      "url": "https://newstalkzb.co.nz/news/auckland/petrol-station-legend-revealed-thames-man-explains-moving-burning-car-away-from-petrol-pumps",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Petrol station ‘legend’ revealed: Thames man explains moving burning car away from petrol pumps"
+      "title": "'Threatened to smash my face in': Mum of autistic teen struggles with awful noisy neighbours",
+      "url": "https://rnz.co.nz/news/regions/1826087/threatened-to-smash-my-face-in-mum-of-autistic-teen-struggles-with-awful-noisy-neighbours",
+      "source": "rnz.co.nz",
+      "card_text": "'Threatened to smash my face in': Mum of autistic teen struggles with awful noisy neighbours"
     },
     {
       "rank": 39,
-      "title": "Sort It, Save Money! Waitākere Recycling Trial Keeps Up to 73% of Rubbish Out of Landfill",
-      "url": "https://waateanews.com/2026/10/10/sort-it-save-money-waitakere-recycling-trial-keeps-up-to-73-of-rubbish-out-of-landfill",
-      "source": "waateanews.com",
-      "card_text": "Sort It, Save Money! Waitākere Recycling Trial Keeps Up to 73% of Rubbish Out of Landfill"
+      "title": "New Lynn Bus Station death: Man dies at bus stop in unexplained circumstances",
+      "url": "https://newstalkzb.co.nz/news/auckland/new-lynn-bus-station-death-man-dies-at-bus-stop-in-unexplained-circumstances",
+      "source": "newstalkzb.co.nz",
+      "card_text": "New Lynn Bus Station death: Man dies at bus stop in unexplained circumstances"
     },
     {
       "rank": 40,
@@ -294,66 +294,66 @@
     },
     {
       "rank": 42,
+      "title": "Australia’s Firmus Technologies pulls the pin on its ASX listing",
+      "url": "https://businessdesk.co.nz/article/news-in-brief/australias-firmus-technologies-pulls-the-pin-on-its-asx-listing",
+      "source": "businessdesk.co.nz",
+      "card_text": "Australia’s Firmus Technologies pulls the pin on its ASX listing"
+    },
+    {
+      "rank": 43,
       "title": "Watch: Why Christopher Luxon May Need Qiulae Wong To Form Government",
       "url": "https://youtube.com/watch?v=l5ln5lFExk8",
       "source": "youtube.com",
       "card_text": "Watch: Why Christopher Luxon May Need Qiulae Wong To Form Government"
     },
     {
-      "rank": 43,
-      "title": "US budget deficit jumps to nearly US$2 trillion",
-      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-budget-deficit-jumps-to-nearly-us2-trillion",
-      "source": "businessdesk.co.nz",
-      "card_text": "US budget deficit jumps to nearly US$2 trillion"
+      "rank": 44,
+      "title": "Critical injuries reported in Te Puke Highway crash near Rangiuru Rd",
+      "url": "https://nzherald.co.nz/nz/critical-injuries-reported-in-te-puke-highway-crash-near-rangiuru-rd/EFW3ZGTCKNEXBKEBJEYMPGGVD4",
+      "source": "nzherald.co.nz",
+      "card_text": "Critical injuries reported in Te Puke Highway crash near Rangiuru Rd"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "url": "https://bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Commentator Katie Zacharia picked as new White House press secretary"
     },
     {
-      "rank": 45,
-      "title": "‘Huge’ plumes of smoke seen above Whakaari/White Island",
-      "url": "https://stuff.co.nz/nz-news/361044730/geonet-whakaari-not-erupting-plumes-smoke-seen-above-white-island",
-      "source": "stuff.co.nz",
-      "card_text": "‘Huge’ plumes of smoke seen above Whakaari/White Island"
+      "rank": 46,
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "url": "https://bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Three men found guilty of murdering two Australian surfer brothers and US friend"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
       "url": "https://bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "JD Vance casts doubt on firing squad execution and says he will not watch it"
     },
     {
-      "rank": 47,
-      "title": "GeoNet’s earthquake monitoring centre closes due to lack of staff, Labour decries Govt cuts",
-      "url": "https://nzherald.co.nz/nz/politics/geonets-earthquake-monitoring-centre-closes-due-to-lack-of-staff-labour-decries-govt-cuts/ZHNJKVHW7VCHLA4F2DGJAG3RDE",
+      "rank": 48,
+      "title": "Whakaari/White Island plume caused by steam emissions and weather, GeoNet says",
+      "url": "https://nzherald.co.nz/nz/whakaariwhite-island-plume-caused-by-steam-emissions-and-weather-geonet-says/TBXBWJJO4ZEYBGCQONMAW5OSQQ",
       "source": "nzherald.co.nz",
-      "card_text": "GeoNet’s earthquake monitoring centre closes due to lack of staff, Labour decries Govt cuts"
+      "card_text": "Whakaari/White Island plume caused by steam emissions and weather, GeoNet says"
     },
     {
-      "rank": 48,
+      "rank": 49,
+      "title": "Sort It, Save Money! Waitākere Recycling Trial Keeps Up to 73% of Rubbish Out of Landfill",
+      "url": "https://waateanews.com/2026/10/10/sort-it-save-money-waitakere-recycling-trial-keeps-up-to-73-of-rubbish-out-of-landfill",
+      "source": "waateanews.com",
+      "card_text": "Sort It, Save Money! Waitākere Recycling Trial Keeps Up to 73% of Rubbish Out of Landfill"
+    },
+    {
+      "rank": 50,
       "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
       "url": "https://bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?"
-    },
-    {
-      "rank": 49,
-      "title": "Pre-COP31: Pacific leaders air frustration over climate finance delays",
-      "url": "https://rnz.co.nz/news/pacific/1805482/pre-cop31-pacific-leaders-air-frustration-over-climate-finance-delays",
-      "source": "rnz.co.nz",
-      "card_text": "Pre-COP31: Pacific leaders air frustration over climate finance delays"
-    },
-    {
-      "rank": 50,
-      "title": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste",
-      "url": "https://thepress.co.nz/nz-news/361093924/dump-owners-illegal-waste-risked-water-supply-judge-says",
-      "source": "thepress.co.nz",
-      "card_text": "Dump owner ordered to pay $104,000 for ‘deliberate and cavalier’ illegal acceptance of waste"
     }
   ],
   "json_endpoints_observed": [
