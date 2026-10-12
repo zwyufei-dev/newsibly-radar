@@ -2,15 +2,15 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-12T05:19:34.428577+00:00",
+  "retrieved_at_utc": "2026-10-12T06:27:35.699608+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Children's advocate slams police delay after alleged abuse continued",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1861208/children-s-advocate-slams-police-delay-after-alleged-abuse-continued",
-      "source": "rnz.co.nz",
-      "card_text": "Children's advocate slams police delay after alleged abuse continued"
+      "title": "Children’s advocate criticises police delay",
+      "url": "https://odt.co.nz/news/national/childrens-advocate-criticises-police-delay-w8ru5fsy",
+      "source": "odt.co.nz",
+      "card_text": "Children’s advocate criticises police delay"
     },
     {
       "rank": 2,
@@ -21,213 +21,213 @@
     },
     {
       "rank": 3,
-      "title": "Peters says he ‘won’t betray the old people’ as National calls for cross-party pension plan",
-      "url": "https://thepress.co.nz/politics/361096871/national-calls-cross-party-plan-pension-winston-peters-says-he-wont-betray-old-people",
-      "source": "thepress.co.nz",
-      "card_text": "Peters says he ‘won’t betray the old people’ as National calls for cross-party pension plan"
-    },
-    {
-      "rank": 4,
-      "title": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy",
-      "url": "https://waateanews.com/2026/10/12/all-eyes-on-the-maori-seats-john-tamihere-defends-te-pati-maoris-high-stakes-election-strategy",
-      "source": "waateanews.com",
-      "card_text": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy"
-    },
-    {
-      "rank": 5,
-      "title": "Democracy Briefing: The Greens are learning to ride the populist wave",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-greens-are",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: The Greens are learning to ride the populist wave"
-    },
-    {
-      "rank": 6,
-      "title": "Te Pāti Māori Announces Toi Māori Authority And Artist Income Programme",
-      "url": "https://scoop.co.nz/stories/PA2610/S00101/te-pati-maori-announces-toi-maori-authority-and-artist-income-programme.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Te Pāti Māori Announces Toi Māori Authority And Artist Income Programme"
-    },
-    {
-      "rank": 7,
-      "title": "Ebos under pressure: From market darling to takeover target?",
-      "url": "https://businessdesk.co.nz/article/markets/ebos-under-pressure-from-market-darling-to-takeover-target",
-      "source": "businessdesk.co.nz",
-      "card_text": "Ebos under pressure: From market darling to takeover target?"
-    },
-    {
-      "rank": 8,
-      "title": "Manurewa voting scandal: Claims locals asked to hand over blank local body election ballots",
-      "url": "https://goodoil.news/manurewa-voting-scandal-claims-locals-asked-to-hand-over-blank-local-body-election-ballots",
-      "source": "goodoil.news",
-      "card_text": "Manurewa voting scandal: Claims locals asked to hand over blank local body election ballots"
-    },
-    {
-      "rank": 9,
-      "title": "NZ First Pushes Total Ban On Fireworks Sales",
-      "url": "https://whatsoninvers.nz/nz-first-pushes-total-ban-on-fireworks-sales",
-      "source": "whatsoninvers.nz",
-      "card_text": "NZ First Pushes Total Ban On Fireworks Sales"
-    },
-    {
-      "rank": 10,
-      "title": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy",
-      "url": "https://reseller.co.nz/article/4233497/accelerating-asia-inside-dicker-datas-sektor-deal-and-growth-strategy.html",
-      "source": "reseller.co.nz",
-      "card_text": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy"
-    },
-    {
-      "rank": 11,
-      "title": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
-      "url": "https://newsroom.co.nz/2026/10/12/kiwi-hits-multi-year-low-as-petrol-surges-towards-4-a-litre",
-      "source": "newsroom.co.nz",
-      "card_text": "Kiwi hits multi-year low as petrol surges towards $4 a litre"
-    },
-    {
-      "rank": 12,
-      "title": "Lies Damned Lies and National Party Employment statistics",
-      "url": "https://thestandard.nz/lies-damned-lies-and-national-party-employment-statistics",
-      "source": "thestandard.nz",
-      "card_text": "Lies Damned Lies and National Party Employment statistics"
-    },
-    {
-      "rank": 13,
-      "title": "‘Hipkins said no’: National confirms no superannuation policy to come",
-      "url": "https://stuff.co.nz/politics/361045172/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "‘Hipkins said no’: National confirms no superannuation policy to come"
-    },
-    {
-      "rank": 14,
-      "title": "‘Now is not the time to cut taxes’: National’s fiscal plan prioritises ‘getting on top of the debt first’",
-      "url": "https://thepress.co.nz/politics/361096742/national-launches-its-own-fiscal-plan-75-billion-headroom-no-tax-cut",
-      "source": "thepress.co.nz",
-      "card_text": "‘Now is not the time to cut taxes’: National’s fiscal plan prioritises ‘getting on top of the debt first’"
-    },
-    {
-      "rank": 15,
-      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
-      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
-      "source": "rnz.co.nz",
-      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system"
-    },
-    {
-      "rank": 16,
-      "title": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?",
-      "url": "https://nzherald.co.nz/nz/fuel-prices-who-is-cashing-in-as-petrol-prices-hit-record-highs-at-the-pump/HBHVLVE6WJEWRB474RDS754BYA",
-      "source": "nzherald.co.nz",
-      "card_text": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?"
-    },
-    {
-      "rank": 17,
-      "title": "Traffic worker awarded $10,000 after pay delays forced her to resign",
-      "url": "https://stuff.co.nz/business/361045446/traffic-worker-awarded-10000-after-pay-delays-forced-her-resign",
-      "source": "stuff.co.nz",
-      "card_text": "Traffic worker awarded $10,000 after pay delays forced her to resign"
-    },
-    {
-      "rank": 18,
-      "title": "RSA audit found 'significant governance mistakes, failures'",
-      "url": "https://odt.co.nz/canterbury/christchurch/rsa-audit-found-significant-governance-mistakes-failures-wa533pj0",
-      "source": "odt.co.nz",
-      "card_text": "RSA audit found 'significant governance mistakes, failures'"
-    },
-    {
-      "rank": 19,
-      "title": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results",
-      "url": "https://chrislynchmedia.com/news-items/airways-spends-thousands-on-rainbow-certification-but-cannot-demonstrate-measurable-results",
-      "source": "chrislynchmedia.com",
-      "card_text": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results"
-    },
-    {
-      "rank": 20,
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "url": "https://bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says"
-    },
-    {
-      "rank": 21,
-      "title": "‘We didn’t have a choice’: Students at Australian private school made to share beds with teachers",
-      "url": "https://stuff.co.nz/world-news/361045436/we-didnt-have-choice-students-australian-private-school-made-share-beds-teachers",
-      "source": "stuff.co.nz",
-      "card_text": "‘We didn’t have a choice’: Students at Australian private school made to share beds with teachers"
-    },
-    {
-      "rank": 22,
-      "title": "Woman stuck in Cook Islands for three years after NZ declines transit visa",
-      "url": "https://rnz.co.nz/news/pacific/1856118/woman-unable-to-leave-cook-islands-after-nz-australia-decline-transit-visa",
-      "source": "rnz.co.nz",
-      "card_text": "Woman stuck in Cook Islands for three years after NZ declines transit visa"
-    },
-    {
-      "rank": 23,
-      "title": "Monday 12 October 2026: Can anyone beat the All Blacks at Eden Park?",
-      "url": "https://newstalkzb.co.nz/podcasts/sports-fix/monday-12-october-2026-can-anyone-beat-the-all-blacks-at-eden-park",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Monday 12 October 2026: Can anyone beat the All Blacks at Eden Park?"
-    },
-    {
-      "rank": 24,
-      "title": "Matt Payne eyes Supercars championship after Bathurst that got away | Stuff",
-      "url": "https://stuff.co.nz/sport/361045108/matt-payne-eyes-supercars-championship-after-bathurst-got-away",
-      "source": "stuff.co.nz",
-      "card_text": "Matt Payne eyes Supercars championship after Bathurst that got away | Stuff"
-    },
-    {
-      "rank": 25,
-      "title": "One NZ Stadium reaches 31C in parts during rugby afternoon",
-      "url": "https://nzherald.co.nz/nz/one-nz-stadium-reaches-31c-in-parts-during-rugby-afternoon/723YWWTLJJHDRIUMKPP2HMFOMA",
-      "source": "nzherald.co.nz",
-      "card_text": "One NZ Stadium reaches 31C in parts during rugby afternoon"
-    },
-    {
-      "rank": 26,
       "title": "One in three households struggling for food, survey finds",
       "url": "https://rnz.co.nz/news/personal-finance/1856348/one-in-three-households-struggling-for-food-survey-finds",
       "source": "rnz.co.nz",
       "card_text": "One in three households struggling for food, survey finds"
     },
     {
+      "rank": 4,
+      "title": "Health and Disability Commissioner: Boy, 4, dies in hospital from sepsis days after falling from bike",
+      "url": "https://nzherald.co.nz/nz/health-and-disability-commissioner-boy-4-dies-in-hospital-from-sepsis-days-after-falling-from-bike/AWJ5VDIAQVDSRITL73NJ53W6GI",
+      "source": "nzherald.co.nz",
+      "card_text": "Health and Disability Commissioner: Boy, 4, dies in hospital from sepsis days after falling from bike"
+    },
+    {
+      "rank": 5,
+      "title": "Peters says he ‘won’t betray the old people’ as National calls for cross-party pension plan",
+      "url": "https://thepress.co.nz/politics/361096871/national-calls-cross-party-plan-pension-winston-peters-says-he-wont-betray-old-people",
+      "source": "thepress.co.nz",
+      "card_text": "Peters says he ‘won’t betray the old people’ as National calls for cross-party pension plan"
+    },
+    {
+      "rank": 6,
+      "title": "What is happening to Palestine is the tip of the spear of so much that is wrong with our world",
+      "url": "https://asiapacificreport.nz/2026/10/12/what-is-happening-to-palestine-is-the-tip-of-the-spear-of-so-much-that-is-wrong-with-our-world",
+      "source": "asiapacificreport.nz",
+      "card_text": "What is happening to Palestine is the tip of the spear of so much that is wrong with our world"
+    },
+    {
+      "rank": 7,
+      "title": "Watch: TOP’s Hung Parliament & National Drug Testing Policy",
+      "url": "https://youtube.com/watch?v=vT1nlkbS-Rk",
+      "source": "youtube.com",
+      "card_text": "Watch: TOP’s Hung Parliament & National Drug Testing Policy"
+    },
+    {
+      "rank": 8,
+      "title": "Te Pāti Māori Announces Toi Māori Authority And Artist Income Programme",
+      "url": "https://scoop.co.nz/stories/PA2610/S00101/te-pati-maori-announces-toi-maori-authority-and-artist-income-programme.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Te Pāti Māori Announces Toi Māori Authority And Artist Income Programme"
+    },
+    {
+      "rank": 9,
+      "title": "Democracy Briefing: The Greens are learning to ride the populist wave",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-the-greens-are",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: The Greens are learning to ride the populist wave"
+    },
+    {
+      "rank": 10,
+      "title": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy",
+      "url": "https://waateanews.com/2026/10/12/all-eyes-on-the-maori-seats-john-tamihere-defends-te-pati-maoris-high-stakes-election-strategy",
+      "source": "waateanews.com",
+      "card_text": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy"
+    },
+    {
+      "rank": 11,
+      "title": "Ebos under pressure: From market darling to takeover target?",
+      "url": "https://businessdesk.co.nz/article/markets/ebos-under-pressure-from-market-darling-to-takeover-target",
+      "source": "businessdesk.co.nz",
+      "card_text": "Ebos under pressure: From market darling to takeover target?"
+    },
+    {
+      "rank": 12,
+      "title": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy",
+      "url": "https://reseller.co.nz/article/4233497/accelerating-asia-inside-dicker-datas-sektor-deal-and-growth-strategy.html",
+      "source": "reseller.co.nz",
+      "card_text": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy"
+    },
+    {
+      "rank": 13,
+      "title": "Manurewa voting scandal: Claims locals asked to hand over blank local body election ballots",
+      "url": "https://goodoil.news/manurewa-voting-scandal-claims-locals-asked-to-hand-over-blank-local-body-election-ballots",
+      "source": "goodoil.news",
+      "card_text": "Manurewa voting scandal: Claims locals asked to hand over blank local body election ballots"
+    },
+    {
+      "rank": 14,
+      "title": "Lies Damned Lies and National Party Employment statistics",
+      "url": "https://thestandard.nz/lies-damned-lies-and-national-party-employment-statistics",
+      "source": "thestandard.nz",
+      "card_text": "Lies Damned Lies and National Party Employment statistics"
+    },
+    {
+      "rank": 15,
+      "title": "An independent judgement on the coalition government’s fiscal stewardship",
+      "url": "https://pointofordernz.wordpress.com/2026/10/12/an-independent-judgement-on-the-coalition-governments-fiscal-stewardship",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "An independent judgement on the coalition government’s fiscal stewardship"
+    },
+    {
+      "rank": 16,
+      "title": "‘Hipkins said no’: National confirms no superannuation policy to come",
+      "url": "https://stuff.co.nz/politics/361045172/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "‘Hipkins said no’: National confirms no superannuation policy to come"
+    },
+    {
+      "rank": 17,
+      "title": "‘Now is not the time to cut taxes’: National’s fiscal plan prioritises ‘getting on top of the debt first’",
+      "url": "https://thepress.co.nz/politics/361096742/national-launches-its-own-fiscal-plan-75-billion-headroom-no-tax-cut",
+      "source": "thepress.co.nz",
+      "card_text": "‘Now is not the time to cut taxes’: National’s fiscal plan prioritises ‘getting on top of the debt first’"
+    },
+    {
+      "rank": 18,
+      "title": "Youth advocates urge rangatahi to vote as homelessness concerns grow",
+      "url": "https://rnz.co.nz/news/politics_election-2026/1860476/youth-advocates-urge-rangatahi-to-vote-as-homelessness-concerns-grow",
+      "source": "rnz.co.nz",
+      "card_text": "Youth advocates urge rangatahi to vote as homelessness concerns grow"
+    },
+    {
+      "rank": 19,
+      "title": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?",
+      "url": "https://nzherald.co.nz/nz/fuel-prices-who-is-cashing-in-as-petrol-prices-hit-record-highs-at-the-pump/HBHVLVE6WJEWRB474RDS754BYA",
+      "source": "nzherald.co.nz",
+      "card_text": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?"
+    },
+    {
+      "rank": 20,
+      "title": "Traffic worker awarded $10,000 after pay delays forced her to resign",
+      "url": "https://stuff.co.nz/business/361045446/traffic-worker-awarded-10000-after-pay-delays-forced-her-resign",
+      "source": "stuff.co.nz",
+      "card_text": "Traffic worker awarded $10,000 after pay delays forced her to resign"
+    },
+    {
+      "rank": 21,
+      "title": "RSA audit found 'significant governance mistakes, failures'",
+      "url": "https://odt.co.nz/canterbury/christchurch/rsa-audit-found-significant-governance-mistakes-failures-wa533pj0",
+      "source": "odt.co.nz",
+      "card_text": "RSA audit found 'significant governance mistakes, failures'"
+    },
+    {
+      "rank": 22,
+      "title": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results",
+      "url": "https://chrislynchmedia.com/news-items/airways-spends-thousands-on-rainbow-certification-but-cannot-demonstrate-measurable-results",
+      "source": "chrislynchmedia.com",
+      "card_text": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results"
+    },
+    {
+      "rank": 23,
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "url": "https://bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds"
+    },
+    {
+      "rank": 24,
+      "title": "‘We didn’t have a choice’: Students at Australian private school made to share beds with teachers",
+      "url": "https://stuff.co.nz/world-news/361045436/we-didnt-have-choice-students-australian-private-school-made-share-beds-teachers",
+      "source": "stuff.co.nz",
+      "card_text": "‘We didn’t have a choice’: Students at Australian private school made to share beds with teachers"
+    },
+    {
+      "rank": 25,
+      "title": "Monday 12 October 2026: Can anyone beat the All Blacks at Eden Park?",
+      "url": "https://newstalkzb.co.nz/podcasts/sports-fix/monday-12-october-2026-can-anyone-beat-the-all-blacks-at-eden-park",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Monday 12 October 2026: Can anyone beat the All Blacks at Eden Park?"
+    },
+    {
+      "rank": 26,
+      "title": "Watch: The bizarre and ‘gut-wrenching' incident that cost Kiwi star at Bathurst",
+      "url": "https://stuff.co.nz/sport/361045108/matt-payne-eyes-supercars-championship-after-bathurst-got-away",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: The bizarre and ‘gut-wrenching' incident that cost Kiwi star at Bathurst"
+    },
+    {
       "rank": 27,
+      "title": "One NZ Stadium reaches 31C in parts during rugby afternoon",
+      "url": "https://nzherald.co.nz/nz/one-nz-stadium-reaches-31c-in-parts-during-rugby-afternoon/723YWWTLJJHDRIUMKPP2HMFOMA",
+      "source": "nzherald.co.nz",
+      "card_text": "One NZ Stadium reaches 31C in parts during rugby afternoon"
+    },
+    {
+      "rank": 28,
+      "title": "One in three households struggling for food, survey finds",
+      "url": "https://odt.co.nz/news/national/one-in-three-households-struggling-for-food-survey-finds-tdry3ncx",
+      "source": "odt.co.nz",
+      "card_text": "One in three households struggling for food, survey finds"
+    },
+    {
+      "rank": 29,
+      "title": "In-person appointments at Horowhenua clinic 'very limited' after 12 staff resign over past year",
+      "url": "https://rnz.co.nz/news/health/1858492/in-person-appointments-at-horowhenua-clinic-very-limited-after-12-staff-resign-over-past-year",
+      "source": "rnz.co.nz",
+      "card_text": "In-person appointments at Horowhenua clinic 'very limited' after 12 staff resign over past year"
+    },
+    {
+      "rank": 30,
       "title": "Māori Nursing Leader Kerri Nuku Sounds Alarm Over Health Workforce Crisis and Growing Inequities",
       "url": "https://waateanews.com/2026/10/12/maori-nursing-leader-kerri-nuku-sounds-alarm-over-health-workforce-crisis-and-growing-inequities",
       "source": "waateanews.com",
       "card_text": "Māori Nursing Leader Kerri Nuku Sounds Alarm Over Health Workforce Crisis and Growing Inequities"
     },
     {
-      "rank": 28,
+      "rank": 31,
       "title": "Dunedin teen breaks leg in school skylight fall",
       "url": "https://odt.co.nz/news/dunedin/dunedin-teen-breaks-leg-in-school-skylight-fall-fqe3have",
       "source": "odt.co.nz",
       "card_text": "Dunedin teen breaks leg in school skylight fall"
     },
     {
-      "rank": 29,
-      "title": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine",
-      "url": "https://thepress.co.nz/nz-news/361095925/respiratory-hospitalisations-surge-16-calls-grow-funded-baby-rsv-vaccine",
-      "source": "thepress.co.nz",
-      "card_text": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine"
-    },
-    {
-      "rank": 30,
-      "title": "House price recovery still some way off, experts warn",
-      "url": "https://thepress.co.nz/business/361096582/house-price-recovery-still-some-way-experts-warn",
-      "source": "thepress.co.nz",
-      "card_text": "House price recovery still some way off, experts warn"
-    },
-    {
-      "rank": 31,
-      "title": "World Homeless Day: Manaaki Rangatahi Sounds Alarm Over Aotearoa’s Youth Homelessness Crisis",
-      "url": "https://waateanews.com/2026/10/12/world-homeless-day-manaaki-rangatahi-sounds-alarm-over-aotearoas-youth-homelessness-crisis",
-      "source": "waateanews.com",
-      "card_text": "World Homeless Day: Manaaki Rangatahi Sounds Alarm Over Aotearoa’s Youth Homelessness Crisis"
-    },
-    {
       "rank": 32,
-      "title": "Council forced to redesign planned library after rechecking ground conditions",
-      "url": "https://odt.co.nz/canterbury/selwyn/council-forced-to-redesign-planned-library-after-rechecking-ground-conditions-pyy2vepx",
-      "source": "odt.co.nz",
-      "card_text": "Council forced to redesign planned library after rechecking ground conditions"
+      "title": "Soundproofing and dimmable lights: Purpose-built homes tackle autism housing shortage",
+      "url": "https://rnz.co.nz/news/community/1861815/soundproofing-and-dimmable-lights-purpose-built-homes-tackle-autism-housing-shortage",
+      "source": "rnz.co.nz",
+      "card_text": "Soundproofing and dimmable lights: Purpose-built homes tackle autism housing shortage"
     },
     {
       "rank": 33,
@@ -238,101 +238,101 @@
     },
     {
       "rank": 34,
-      "title": "One in three households struggling for food, survey finds",
-      "url": "https://odt.co.nz/news/national/one-in-three-households-struggling-for-food-survey-finds-tdry3ncx",
-      "source": "odt.co.nz",
-      "card_text": "One in three households struggling for food, survey finds"
+      "title": "House price recovery still some way off, experts warn",
+      "url": "https://thepress.co.nz/business/361096582/house-price-recovery-still-some-way-experts-warn",
+      "source": "thepress.co.nz",
+      "card_text": "House price recovery still some way off, experts warn"
     },
     {
       "rank": 35,
-      "title": "Man seriously injured after firearms incident near Christchurch mall",
-      "url": "https://stuff.co.nz/nz-news/361045471/emergency-services-serious-incident-near-palms-christchurch",
-      "source": "stuff.co.nz",
-      "card_text": "Man seriously injured after firearms incident near Christchurch mall"
+      "title": "World Homeless Day: Manaaki Rangatahi Sounds Alarm Over Aotearoa’s Youth Homelessness Crisis",
+      "url": "https://waateanews.com/2026/10/12/world-homeless-day-manaaki-rangatahi-sounds-alarm-over-aotearoas-youth-homelessness-crisis",
+      "source": "waateanews.com",
+      "card_text": "World Homeless Day: Manaaki Rangatahi Sounds Alarm Over Aotearoa’s Youth Homelessness Crisis"
     },
     {
       "rank": 36,
+      "title": "Children's advocate slams police delay after alleged abuse continued",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1861208/children-s-advocate-slams-police-delay-after-alleged-abuse-continued",
+      "source": "rnz.co.nz",
+      "card_text": "Children's advocate slams police delay after alleged abuse continued"
+    },
+    {
+      "rank": 37,
       "title": "Auckland University alumni say they weren't told of sexual misconduct review",
       "url": "https://rnz.co.nz/news/education/1859538/auckland-university-alumni-say-they-weren-t-told-of-sexual-misconduct-review",
       "source": "rnz.co.nz",
       "card_text": "Auckland University alumni say they weren't told of sexual misconduct review"
     },
     {
-      "rank": 37,
+      "rank": 38,
+      "title": "Election 2026 Campaign Diary: Jacinda Ardern and John Key join the fray",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-campaign-diary-jacinda-ardern-and-john-key-join-the-fray/premium/QCFJ5ONTGZDBFDFVKEPWHCGXHE",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 Campaign Diary: Jacinda Ardern and John Key join the fray"
+    },
+    {
+      "rank": 39,
+      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "url": "https://bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Documents falsified to evade tax on Abramovich's wealth"
+    },
+    {
+      "rank": 40,
+      "title": "Brad Olsen: Infometrics Principal Economists on all parties fiscal plans for Election 2026",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/brad-olsen-infometrics-principal-economists-on-all-parties-fiscal-plans-for-election-2026",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Brad Olsen: Infometrics Principal Economists on all parties fiscal plans for Election 2026"
+    },
+    {
+      "rank": 41,
+      "title": "“Show us your cuts”: Edmonds says Labour would reverse National’s future public service cuts",
+      "url": "https://chrislynchmedia.com/news-items/show-us-your-cuts-edmonds-says-labour-would-reverse-nationals-future-public-service-cuts",
+      "source": "chrislynchmedia.com",
+      "card_text": "“Show us your cuts”: Edmonds says Labour would reverse National’s future public service cuts"
+    },
+    {
+      "rank": 42,
       "title": "Election 2026: More Than 2,300 Voting Places Confirmed as Māori Voters Urged to Enrol Before Deadline",
       "url": "https://waateanews.com/2026/10/12/election-2026-more-than-2300-voting-places-confirmed-as-maori-voters-urged-to-enrol-before-deadline",
       "source": "waateanews.com",
       "card_text": "Election 2026: More Than 2,300 Voting Places Confirmed as Māori Voters Urged to Enrol Before Deadline"
     },
     {
-      "rank": 38,
-      "title": "More public service cuts proposed, this time at brand new mega-ministry MCERT",
-      "url": "https://thepress.co.nz/nz-news/361095661/public-service-cuts-proposed-brand-new-mega-ministry-mcert",
-      "source": "thepress.co.nz",
-      "card_text": "More public service cuts proposed, this time at brand new mega-ministry MCERT"
-    },
-    {
-      "rank": 39,
-      "title": "‘Not the time’: National’s fiscal plan confirms no tax cuts",
-      "url": "https://stuff.co.nz/politics/361045291/nationals-fiscal-plan-willis-confirms-no-tax-cuts-next-term",
-      "source": "stuff.co.nz",
-      "card_text": "‘Not the time’: National’s fiscal plan confirms no tax cuts"
-    },
-    {
-      "rank": 40,
-      "title": "Youth advocates urge rangatahi to vote as homelessness concerns grow",
-      "url": "https://rnz.co.nz/news/politics_election-2026/1860476/youth-advocates-urge-rangatahi-to-vote-as-homelessness-concerns-grow",
-      "source": "rnz.co.nz",
-      "card_text": "Youth advocates urge rangatahi to vote as homelessness concerns grow"
-    },
-    {
-      "rank": 41,
-      "title": "Police cordon off Marshland Road property following firearms incident",
-      "url": "https://chrislynchmedia.com/news-items/police-cordon-off-marshland-road-property-following-reports-of-serious-incident",
-      "source": "chrislynchmedia.com",
-      "card_text": "Police cordon off Marshland Road property following firearms incident"
-    },
-    {
-      "rank": 42,
+      "rank": 43,
       "title": "Team NZ seeks to move US patent fight to NZ arbitration",
       "url": "https://businessdesk.co.nz/article/sport/team-nz-seeks-to-move-us-patent-fight-to-nz-arbitration",
       "source": "businessdesk.co.nz",
       "card_text": "Team NZ seeks to move US patent fight to NZ arbitration"
     },
     {
-      "rank": 43,
-      "title": "An independent judgement on the coalition government’s fiscal stewardship",
-      "url": "https://pointofordernz.wordpress.com/2026/10/12/an-independent-judgement-on-the-coalition-governments-fiscal-stewardship",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "An independent judgement on the coalition government’s fiscal stewardship"
+      "rank": 44,
+      "title": "NZ First Pushes Total Ban On Fireworks Sales",
+      "url": "https://whatsoninvers.nz/nz-first-pushes-total-ban-on-fireworks-sales",
+      "source": "whatsoninvers.nz",
+      "card_text": "NZ First Pushes Total Ban On Fireworks Sales"
     },
     {
-      "rank": 44,
+      "rank": 45,
+      "title": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
+      "url": "https://newsroom.co.nz/2026/10/12/kiwi-hits-multi-year-low-as-petrol-surges-towards-4-a-litre",
+      "source": "newsroom.co.nz",
+      "card_text": "Kiwi hits multi-year low as petrol surges towards $4 a litre"
+    },
+    {
+      "rank": 46,
       "title": "Opportunity appears to give up on tax reform",
       "url": "https://thekaka.substack.com/p/opportunity-appears-to-give-up-on",
       "source": "thekaka.substack.com",
       "card_text": "Opportunity appears to give up on tax reform"
     },
     {
-      "rank": 45,
-      "title": "ACT Targets $12.4b Debt Cut With No New Taxes",
-      "url": "https://whatsoninvers.nz/act-targets-12-4b-debt-cut-with-no-new-taxes",
-      "source": "whatsoninvers.nz",
-      "card_text": "ACT Targets $12.4b Debt Cut With No New Taxes"
-    },
-    {
-      "rank": 46,
-      "title": "ACT's tax cut-less fiscal plan promises bigger surplus, less debt, $10b public service cuts",
-      "url": "https://interest.co.nz/public-policy/140622/act-wants-10b-slashed-public-service-124b-lower-debt-2031-and-lower-operating",
-      "source": "interest.co.nz",
-      "card_text": "ACT's tax cut-less fiscal plan promises bigger surplus, less debt, $10b public service cuts"
-    },
-    {
       "rank": 47,
-      "title": "‘So let down’: Complaints of children’s commissioner whose term was cut short revealed",
-      "url": "https://thespinoff.co.nz/politics/12-10-2026/so-let-down-complaints-of-childrens-commissioner-whose-term-was-cut-short-revealed",
-      "source": "thespinoff.co.nz",
-      "card_text": "‘So let down’: Complaints of children’s commissioner whose term was cut short revealed"
+      "title": "Deceased Christchurch man was asked to leave city mission over behavioural problems",
+      "url": "https://stuff.co.nz/nz-news/361045507/body-found-search-missing-christchurch-father-braydon-hepworth",
+      "source": "stuff.co.nz",
+      "card_text": "Deceased Christchurch man was asked to leave city mission over behavioural problems"
     },
     {
       "rank": 48,
@@ -350,10 +350,10 @@
     },
     {
       "rank": 50,
-      "title": "Pegasus woman killed in crash near Ōrari",
-      "url": "https://thepress.co.nz/nz-news/361096974/pegasus-woman-killed-crash-near-orari",
-      "source": "thepress.co.nz",
-      "card_text": "Pegasus woman killed in crash near Ōrari"
+      "title": "CCTV of brutal group attack on prisoner circulates online",
+      "url": "https://stuff.co.nz/nz-news/361045326/cctv-brutal-group-attack-prisoner-circulates-online",
+      "source": "stuff.co.nz",
+      "card_text": "CCTV of brutal group attack on prisoner circulates online"
     }
   ],
   "json_endpoints_observed": [
