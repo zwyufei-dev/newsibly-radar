@@ -1,23 +1,415 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-11T23:16:45.225583+00:00",
-  "count": 171,
+  "updated_at_utc": "2026-10-12T00:28:43.349760+00:00",
+  "count": 193,
   "items": [
+    {
+      "rank": 30,
+      "title": "Fire burns near Queenstown’s Walter Peak",
+      "url": "https://kiwikidsnews.co.nz/fire-burns-near-queenstowns-walter-peak",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Fire burns near Queenstown’s Walter Peak",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
+      "url": "https://goodoil.news/maori-statutory-board-voting-rights-removed-auckland-council-co-governance-debate-explained",
+      "source": "goodoil.news",
+      "card_text": "Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
+      "url": "https://rnz.co.nz/news/environment/1844890/marine-biologist-fears-effects-of-increasing-carbon-dioxide-levels-on-sealife",
+      "source": "rnz.co.nz",
+      "card_text": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "NZIER says young job seekers are 'locked out in a perfect storm'",
+      "url": "https://interest.co.nz/economy/140611/crisis-level-nzier-warns-economic-recovery-alone-wont-solve-surging-youth",
+      "source": "interest.co.nz",
+      "card_text": "NZIER says young job seekers are 'locked out in a perfect storm'",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "ACC brings the alpha again",
+      "url": "https://investmentnews.co.nz/investment-news/acc-brings-the-alpha-again",
+      "source": "investmentnews.co.nz",
+      "card_text": "ACC brings the alpha again The Accident Compensation Corporation (ACC) fund has handed in another above-benchmark annual investment performance to sustain a reference-beating record that has only been blotted twice in its 34-year history. According to the ACC annual report published last week, the almost $54 billion fund ended the 12 months to June 30 up 10.45 per cent before... [Read More...] Investment News Yesterday Business",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "url": "https://bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Labour Unveils Cost of Living Plan With Free GP Visits, Cheaper Transport and School Lunches",
+      "url": "https://waateanews.com/2026/10/12/election-2026-labour-unveils-cost-of-living-plan-with-free-gp-visits-cheaper-transport-and-school-lunches",
+      "source": "waateanews.com",
+      "card_text": "Labour Unveils Cost of Living Plan With Free GP Visits, Cheaper Transport and School Lunches",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Respiratory disease put 97,000 people in hospital in 2025",
+      "url": "https://rnz.co.nz/news/health/1852185/respiratory-disease-put-97-000-people-in-hospital-in-2025",
+      "source": "rnz.co.nz",
+      "card_text": "Respiratory disease put 97,000 people in hospital in 2025",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine",
+      "url": "https://thepress.co.nz/nz-news/361095925/respiratory-hospitalisations-surge-16-calls-grow-funded-baby-rsv-vaccine",
+      "source": "thepress.co.nz",
+      "card_text": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Ballance says no fertiliser supply issue now, but no future guarantees as National eyes security deals",
+      "url": "https://businessdesk.co.nz/article/primary-sector/ballance-says-no-fertiliser-supply-issue-now-but-no-future-guarantees-as-national-eyes-security-deals",
+      "source": "businessdesk.co.nz",
+      "card_text": "Ballance says no fertiliser supply issue now, but no future guarantees as National eyes security deals",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Labour promises tertiary funding review but dodges fee cap question",
+      "url": "https://newsroom.co.nz/2026/10/12/labour-promises-tertiary-funding-review-but-dodges-fee-cap-question",
+      "source": "newsroom.co.nz",
+      "card_text": "Labour promises tertiary funding review but dodges fee cap question",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Workers Win Five-Year Battle as Able Minds Drops 90-Day Trial Demands",
+      "url": "https://waateanews.com/2026/10/12/workers-win-five-year-battle-as-able-minds-drops-90-day-trial-demands",
+      "source": "waateanews.com",
+      "card_text": "Workers Win Five-Year Battle as Able Minds Drops 90-Day Trial Demands",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "National Wants Students to Stay in School Longer Under Tougher Leaving Rules",
+      "url": "https://waateanews.com/2026/10/12/election-2026-national-wants-students-to-stay-in-school-longer-under-tougher-leaving-rules",
+      "source": "waateanews.com",
+      "card_text": "National Wants Students to Stay in School Longer Under Tougher Leaving Rules",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
+      "url": "https://newsroom.co.nz/2026/10/12/kiwi-hits-multi-year-low-as-petrol-surges-towards-4-a-litre",
+      "source": "newsroom.co.nz",
+      "card_text": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Dozens strand as ferry loses power and left drifting at sea",
+      "url": "https://rnz.co.nz/news/pacific/1854266/solomon-islands-authorities-plan-rescue-of-dozens-stranded-at-sea",
+      "source": "rnz.co.nz",
+      "card_text": "Dozens strand as ferry loses power and left drifting at sea",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Christopher Luxon: Prime Minister and National Party Leader on party's fiscal plan, election campaign so far and fuel prices",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/christopher-luxon-prime-minister-and-national-party-leader-on-partys-fiscal-plan-election-campaign-so-far-and-fuel-prices",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Christopher Luxon: Prime Minister and National Party Leader on party's fiscal plan, election campaign so far and fuel prices",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Picks n’ Mixes & In the Papers for Monday Oct 12",
+      "url": "https://thekaka.substack.com/p/picks-n-mixes-and-in-the-papers-for",
+      "source": "thekaka.substack.com",
+      "card_text": "Picks n’ Mixes & In the Papers for Monday Oct 12",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Margaret Hamilton, Computing Pioneer, Dies at 90",
+      "url": "https://goodoil.news/margaret-hamilton-computing-pioneer-dies-at-90",
+      "source": "goodoil.news",
+      "card_text": "Margaret Hamilton, Computing Pioneer, Dies at 90",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Apprenticeship Shake-Up: Calls for Degrees, Student Loans and Better Support as Training Numbers Plunge",
+      "url": "https://waateanews.com/2026/10/12/apprenticeship-shake-up-calls-for-degrees-student-loans-and-better-support-as-training-numbers-plunge",
+      "source": "waateanews.com",
+      "card_text": "Apprenticeship Shake-Up: Calls for Degrees, Student Loans and Better Support as Training Numbers Plunge",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Rotorua Airport forces delay of Māori immersion school plans on safety grounds",
+      "url": "https://nzherald.co.nz/rotorua-daily-post/news/rotorua-airport-forces-delay-of-maori-immersion-school-plans-on-safety-grounds/2M6SLYN42ZA7PDBYZPCLY647BA",
+      "source": "nzherald.co.nz",
+      "card_text": "Rotorua Airport forces delay of Māori immersion school plans on safety grounds",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
+      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
+      "source": "rnz.co.nz",
+      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Air travel emerges as dangerous front line in global conflicts",
+      "url": "https://businessdesk.co.nz/article/world/air-travel-emerges-as-dangerous-front-line-in-global-conflicts",
+      "source": "businessdesk.co.nz",
+      "card_text": "Air travel emerges as dangerous front line in global conflicts",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Opportunity appears to give up on tax reform",
+      "url": "https://thekaka.substack.com/p/opportunity-appears-to-give-up-on",
+      "source": "thekaka.substack.com",
+      "card_text": "Opportunity appears to give up on tax reform",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "ACT Targets $12.4b Debt Cut With No New Taxes",
+      "url": "https://whatsoninvers.nz/act-targets-12-4b-debt-cut-with-no-new-taxes",
+      "source": "whatsoninvers.nz",
+      "card_text": "ACT Targets $12.4b Debt Cut With No New Taxes",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Petrol prices hit record high — who’s cashing in?",
+      "url": "https://odt.co.nz/business/petrol-prices-hit-record-high-whos-cashing-in-vctloyw5",
+      "source": "odt.co.nz",
+      "card_text": "Petrol prices hit record high — who’s cashing in?",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "url": "https://bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Orangutans released back into Borneo forest after devastating fires",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Brendon Crompton: Blue Light Ventures Chief Executive on National's policy to require students to complete Year 11",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/brendon-crompton-blue-light-ventures-chief-executive-on-nationals-policy-to-require-students-to-complete-year-11",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Brendon Crompton: Blue Light Ventures Chief Executive on National's policy to require students to complete Year 11",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Scrapped Firmus IPO points to limits of AI boom",
+      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/scrapped-firmus-ipo-points-to-limits-of-ai-boom",
+      "source": "businessdesk.co.nz",
+      "card_text": "Scrapped Firmus IPO points to limits of AI boom",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "One in three households struggling for food, survey finds",
+      "url": "https://rnz.co.nz/news/personal-finance/1856348/one-in-three-households-struggling-for-food-survey-finds",
+      "source": "rnz.co.nz",
+      "card_text": "One in three households struggling for food, survey finds",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "National promises surplus by 2028/29 and no new taxes as it releases fiscal plan",
+      "url": "https://chrislynchmedia.com/news-items/national-promises-surplus-by-2028-29-and-no-new-taxes-as-it-releases-fiscal-plan",
+      "source": "chrislynchmedia.com",
+      "card_text": "National promises surplus by 2028/29 and no new taxes as it releases fiscal plan",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy",
+      "url": "https://waateanews.com/2026/10/12/all-eyes-on-the-maori-seats-john-tamihere-defends-te-pati-maoris-high-stakes-election-strategy",
+      "source": "waateanews.com",
+      "card_text": "All Eyes on the Māori Seats: John Tamihere Defends Te Pāti Māori’s High-Stakes Election Strategy",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "NZ First Pushes Total Ban On Fireworks Sales",
+      "url": "https://whatsoninvers.nz/nz-first-pushes-total-ban-on-fireworks-sales",
+      "source": "whatsoninvers.nz",
+      "card_text": "NZ First Pushes Total Ban On Fireworks Sales",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy",
+      "url": "https://reseller.co.nz/article/4233497/accelerating-asia-inside-dicker-datas-sektor-deal-and-growth-strategy.html",
+      "source": "reseller.co.nz",
+      "card_text": "Accelerating Asia: Inside Dicker Data’s Sektor deal and growth strategy",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Lies Damned Lies and National Party Employment statistics",
+      "url": "https://thestandard.nz/lies-damned-lies-and-national-party-employment-statistics",
+      "source": "thestandard.nz",
+      "card_text": "Lies Damned Lies and National Party Employment statistics",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "An independent judgement on the coalition government’s fiscal stewardship",
+      "url": "https://pointofordernz.wordpress.com/2026/10/12/an-independent-judgement-on-the-coalition-governments-fiscal-stewardship",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "An independent judgement on the coalition government’s fiscal stewardship",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "‘So let down’: Complaints of children’s commissioner whose term was cut short revealed",
+      "url": "https://thespinoff.co.nz/politics/12-10-2026/so-let-down-complaints-of-childrens-commissioner-whose-term-was-cut-short-revealed",
+      "source": "thespinoff.co.nz",
+      "card_text": "‘So let down’: Complaints of children’s commissioner whose term was cut short revealed",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Election 2026: More Than 2,300 Voting Places Confirmed as Māori Voters Urged to Enrol Before Deadline",
+      "url": "https://waateanews.com/2026/10/12/election-2026-more-than-2300-voting-places-confirmed-as-maori-voters-urged-to-enrol-before-deadline",
+      "source": "waateanews.com",
+      "card_text": "Election 2026: More Than 2,300 Voting Places Confirmed as Māori Voters Urged to Enrol Before Deadline",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?",
+      "url": "https://nzherald.co.nz/nz/fuel-prices-who-is-cashing-in-as-petrol-prices-hit-record-highs-at-the-pump/HBHVLVE6WJEWRB474RDS754BYA",
+      "source": "nzherald.co.nz",
+      "card_text": "Fuel prices: Who is cashing in as petrol prices hit record highs at the pump?",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results",
+      "url": "https://chrislynchmedia.com/news-items/airways-spends-thousands-on-rainbow-certification-but-cannot-demonstrate-measurable-results",
+      "source": "chrislynchmedia.com",
+      "card_text": "Airways spends thousands on Rainbow certification but cannot demonstrate measurable results",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Media Insider: Chiefs v Chiefs in High Court - NZ Rugby fights for name over NRL’s new Papua New Guinea team",
+      "url": "https://newstalkzb.co.nz/news/sport/media-insider-chiefs-v-chiefs-in-high-court-nz-rugby-fights-for-name-over-nrl-s-new-papua-new-guinea-team",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Media Insider: Chiefs v Chiefs in High Court - NZ Rugby fights for name over NRL’s new Papua New Guinea team",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Māori Nursing Leader Kerri Nuku Sounds Alarm Over Health Workforce Crisis and Growing Inequities",
+      "url": "https://waateanews.com/2026/10/12/maori-nursing-leader-kerri-nuku-sounds-alarm-over-health-workforce-crisis-and-growing-inequities",
+      "source": "waateanews.com",
+      "card_text": "Māori Nursing Leader Kerri Nuku Sounds Alarm Over Health Workforce Crisis and Growing Inequities",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Dunedin teen breaks leg in school skylight fall",
+      "url": "https://odt.co.nz/news/dunedin/dunedin-teen-breaks-leg-in-school-skylight-fall-fqe3have",
+      "source": "odt.co.nz",
+      "card_text": "Dunedin teen breaks leg in school skylight fall",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Predator control expanded at Waitarakao Lagoon to protect black-billed gulls",
+      "url": "https://thepress.co.nz/nz-news/361094906/predator-control-expanded-waitarakao-washdyke-lagoon-protect-black-billed-gulls",
+      "source": "thepress.co.nz",
+      "card_text": "Predator control expanded at Waitarakao Lagoon to protect black-billed gulls",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Couple who helped minor after Invercargill assault sought",
+      "url": "https://stuff.co.nz/nz-news/361045314/couple-who-helped-minor-after-invercargill-assault-sought",
+      "source": "stuff.co.nz",
+      "card_text": "Couple who helped minor after Invercargill assault sought",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Erica Stanford: National's Education spokesperson on the party campaigning on requiring students to finish Year 11",
+      "url": "https://newstalkzb.co.nz/on-air/kerre-woodham-mornings/audio/erica-stanford-nationals-education-spokesperson-on-the-party-campaigning-on-requiring-students-to-finish-year-11",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Erica Stanford: National's Education spokesperson on the party campaigning on requiring students to finish Year 11",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "‘Good Samaritans’ helped victim of serious Invercargill assault",
+      "url": "https://odt.co.nz/news/southland/good-samaritans-helped-victim-of-serious-invercargill-assault-wpdwxva0",
+      "source": "odt.co.nz",
+      "card_text": "‘Good Samaritans’ helped victim of serious Invercargill assault",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "More public service cuts proposed, this time at brand new mega-ministry MCERT",
+      "url": "https://thepress.co.nz/nz-news/361095661/public-service-cuts-proposed-brand-new-mega-ministry-mcert",
+      "source": "thepress.co.nz",
+      "card_text": "More public service cuts proposed, this time at brand new mega-ministry MCERT",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Act’s fiscal plan: Deeper cuts, earlier surplus, but no income tax cuts",
+      "url": "https://thespinoff.co.nz/politics/12-10-2026/acts-fiscal-plan-deeper-cuts-earlier-surplus-but-no-income-tax-cuts",
+      "source": "thespinoff.co.nz",
+      "card_text": "Act’s fiscal plan: Deeper cuts, earlier surplus, but no income tax cuts",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "‘Serious shortcomings’ uncovered in Papanui RSA Poppy funds",
+      "url": "https://stuff.co.nz/nz-news/361045254/serious-shortcomings-uncovered-papanui-rsa-poppy-funds",
+      "source": "stuff.co.nz",
+      "card_text": "‘Serious shortcomings’ uncovered in Papanui RSA Poppy funds",
+      "discovered_at_utc": "2026-10-12T00:28:43.349760+00:00"
+    },
     {
       "rank": 43,
       "title": "ACT’s Welfare For The Wealthiest",
       "url": "https://scoop.co.nz/stories/PA2610/S00090/acts-welfare-for-the-wealthiest.htm",
       "source": "scoop.co.nz",
       "card_text": "ACT’s Welfare For The Wealthiest “The cutting of KiwiSaver Government contributions and removal of tax on gains will most benefit the richest, and they know it.,\" says Green Party Co-leader Chlöe Swarbrick. Scoop Yesterday Politics",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Fire burns near Queenstown’s Walter Peak",
-      "url": "https://kiwikidsnews.co.nz/fire-burns-near-queenstowns-walter-peak",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Fire burns near Queenstown’s Walter Peak",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -29,35 +421,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 41,
-      "title": "Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
-      "url": "https://goodoil.news/maori-statutory-board-voting-rights-removed-auckland-council-co-governance-debate-explained",
-      "source": "goodoil.news",
-      "card_text": "Māori Statutory Board Voting Rights Removed: Auckland Council Co-Governance Debate Explained",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
-      "url": "https://rnz.co.nz/news/environment/1844890/marine-biologist-fears-effects-of-increasing-carbon-dioxide-levels-on-sealife",
-      "source": "rnz.co.nz",
-      "card_text": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 39,
       "title": "Watch: ACT releases its fiscal plan, including lifting the age of superannuation | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=v5Vg9q2yT1M",
       "source": "youtube.com",
       "card_text": "Watch: ACT releases its fiscal plan, including lifting the age of superannuation | Stuff.co.nz",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "NZIER says young job seekers are 'locked out in a perfect storm'",
-      "url": "https://interest.co.nz/economy/140611/crisis-level-nzier-warns-economic-recovery-alone-wont-solve-surging-youth",
-      "source": "interest.co.nz",
-      "card_text": "NZIER says young job seekers are 'locked out in a perfect storm'",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -69,43 +437,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 10,
-      "title": "ACC brings the alpha again",
-      "url": "https://investmentnews.co.nz/investment-news/acc-brings-the-alpha-again",
-      "source": "investmentnews.co.nz",
-      "card_text": "ACC brings the alpha again The Accident Compensation Corporation (ACC) fund has handed in another above-benchmark annual investment performance to sustain a reference-beating record that has only been blotted twice in its 34-year history. According to the ACC annual report published last week, the almost $54 billion fund ended the 12 months to June 30 up 10.45 per cent before... [Read More...] Investment News Yesterday Business",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "url": "https://bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 29,
       "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
       "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Labour Unveils Cost of Living Plan With Free GP Visits, Cheaper Transport and School Lunches",
-      "url": "https://waateanews.com/2026/10/12/election-2026-labour-unveils-cost-of-living-plan-with-free-gp-visits-cheaper-transport-and-school-lunches",
-      "source": "waateanews.com",
-      "card_text": "Labour Unveils Cost of Living Plan With Free GP Visits, Cheaper Transport and School Lunches",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Respiratory disease put 97,000 people in hospital in 2025",
-      "url": "https://rnz.co.nz/news/health/1852185/respiratory-disease-put-97-000-people-in-hospital-in-2025",
-      "source": "rnz.co.nz",
-      "card_text": "Respiratory disease put 97,000 people in hospital in 2025",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -117,43 +453,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 24,
-      "title": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine",
-      "url": "https://thepress.co.nz/nz-news/361095925/respiratory-hospitalisations-surge-16-calls-grow-funded-baby-rsv-vaccine",
-      "source": "thepress.co.nz",
-      "card_text": "Respiratory hospitalisations surge 16% as calls grow for funded baby RSV vaccine",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Ballance says no fertiliser supply issue now, but no future guarantees as National eyes security deals",
-      "url": "https://businessdesk.co.nz/article/primary-sector/ballance-says-no-fertiliser-supply-issue-now-but-no-future-guarantees-as-national-eyes-security-deals",
-      "source": "businessdesk.co.nz",
-      "card_text": "Ballance says no fertiliser supply issue now, but no future guarantees as National eyes security deals",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Labour promises tertiary funding review but dodges fee cap question",
-      "url": "https://newsroom.co.nz/2026/10/12/labour-promises-tertiary-funding-review-but-dodges-fee-cap-question",
-      "source": "newsroom.co.nz",
-      "card_text": "Labour promises tertiary funding review but dodges fee cap question",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 13,
       "title": "NZ First Promises $120 Weekly Boost for Working Families and Inflation-Proof Minimum Wage",
       "url": "https://waateanews.com/2026/10/12/election-2026-nz-first-promises-120-weekly-boost-for-working-families-and-inflation-proof-minimum-wage-2",
       "source": "waateanews.com",
       "card_text": "NZ First Promises $120 Weekly Boost for Working Families and Inflation-Proof Minimum Wage",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Workers Win Five-Year Battle as Able Minds Drops 90-Day Trial Demands",
-      "url": "https://waateanews.com/2026/10/12/workers-win-five-year-battle-as-able-minds-drops-90-day-trial-demands",
-      "source": "waateanews.com",
-      "card_text": "Workers Win Five-Year Battle as Able Minds Drops 90-Day Trial Demands",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -173,14 +477,6 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 31,
-      "title": "National Wants Students to Stay in School Longer Under Tougher Leaving Rules",
-      "url": "https://waateanews.com/2026/10/12/election-2026-national-wants-students-to-stay-in-school-longer-under-tougher-leaving-rules",
-      "source": "waateanews.com",
-      "card_text": "National Wants Students to Stay in School Longer Under Tougher Leaving Rules",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 32,
       "title": "NZ First Targets Migrant Worker Visa System in Major Immigration Shake-Up",
       "url": "https://waateanews.com/2026/10/12/election-2026-nz-first-targets-migrant-worker-visa-system-in-major-immigration-shake-up",
@@ -197,51 +493,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 3,
-      "title": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
-      "url": "https://newsroom.co.nz/2026/10/12/kiwi-hits-multi-year-low-as-petrol-surges-towards-4-a-litre",
-      "source": "newsroom.co.nz",
-      "card_text": "Kiwi hits multi-year low as petrol surges towards $4 a litre",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Dozens strand as ferry loses power and left drifting at sea",
-      "url": "https://rnz.co.nz/news/pacific/1854266/solomon-islands-authorities-plan-rescue-of-dozens-stranded-at-sea",
-      "source": "rnz.co.nz",
-      "card_text": "Dozens strand as ferry loses power and left drifting at sea",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Christopher Luxon: Prime Minister and National Party Leader on party's fiscal plan, election campaign so far and fuel prices",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/christopher-luxon-prime-minister-and-national-party-leader-on-partys-fiscal-plan-election-campaign-so-far-and-fuel-prices",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Christopher Luxon: Prime Minister and National Party Leader on party's fiscal plan, election campaign so far and fuel prices",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 35,
       "title": "'Great concerns' for man missing from Central Otago",
       "url": "https://odt.co.nz/otago/central-otago/great-concerns-for-man-missing-from-central-otago-xnvoo1l3",
       "source": "odt.co.nz",
       "card_text": "'Great concerns' for man missing from Central Otago",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Picks n’ Mixes & In the Papers for Monday Oct 12",
-      "url": "https://thekaka.substack.com/p/picks-n-mixes-and-in-the-papers-for",
-      "source": "thekaka.substack.com",
-      "card_text": "Picks n’ Mixes & In the Papers for Monday Oct 12",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Margaret Hamilton, Computing Pioneer, Dies at 90",
-      "url": "https://goodoil.news/margaret-hamilton-computing-pioneer-dies-at-90",
-      "source": "goodoil.news",
-      "card_text": "Margaret Hamilton, Computing Pioneer, Dies at 90",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -269,27 +525,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 30,
-      "title": "Apprenticeship Shake-Up: Calls for Degrees, Student Loans and Better Support as Training Numbers Plunge",
-      "url": "https://waateanews.com/2026/10/12/apprenticeship-shake-up-calls-for-degrees-student-loans-and-better-support-as-training-numbers-plunge",
-      "source": "waateanews.com",
-      "card_text": "Apprenticeship Shake-Up: Calls for Degrees, Student Loans and Better Support as Training Numbers Plunge",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 45,
       "title": "Apprenticeships should be offered at same level as degrees - training provider",
       "url": "https://rnz.co.nz/news/education/1852769/apprenticeships-should-be-offered-at-same-level-as-degrees-training-provider",
       "source": "rnz.co.nz",
       "card_text": "Apprenticeships should be offered at same level as degrees - training provider",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Rotorua Airport forces delay of Māori immersion school plans on safety grounds",
-      "url": "https://nzherald.co.nz/rotorua-daily-post/news/rotorua-airport-forces-delay-of-maori-immersion-school-plans-on-safety-grounds/2M6SLYN42ZA7PDBYZPCLY647BA",
-      "source": "nzherald.co.nz",
-      "card_text": "Rotorua Airport forces delay of Māori immersion school plans on safety grounds",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -301,14 +541,6 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 1,
-      "title": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
-      "url": "https://rnz.co.nz/news/politics/1798624/warning-nz-could-be-cut-off-from-five-eyes-info-for-not-signing-up-to-digital-super-system",
-      "source": "rnz.co.nz",
-      "card_text": "Warning NZ could be cut off from Five Eyes info for not signing up to digital super-system",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 4,
       "title": "Luxon says we need to ‘die trying’ to get people off welfare and into work",
       "url": "https://stuff.co.nz/politics/361045172/nz-election-2026-live-updates-politics-campaign-news",
@@ -317,51 +549,11 @@
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
-      "rank": 6,
-      "title": "Air travel emerges as dangerous front line in global conflicts",
-      "url": "https://businessdesk.co.nz/article/world/air-travel-emerges-as-dangerous-front-line-in-global-conflicts",
-      "source": "businessdesk.co.nz",
-      "card_text": "Air travel emerges as dangerous front line in global conflicts",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Opportunity appears to give up on tax reform",
-      "url": "https://thekaka.substack.com/p/opportunity-appears-to-give-up-on",
-      "source": "thekaka.substack.com",
-      "card_text": "Opportunity appears to give up on tax reform",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "ACT Targets $12.4b Debt Cut With No New Taxes",
-      "url": "https://whatsoninvers.nz/act-targets-12-4b-debt-cut-with-no-new-taxes",
-      "source": "whatsoninvers.nz",
-      "card_text": "ACT Targets $12.4b Debt Cut With No New Taxes",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
       "rank": 14,
       "title": "David Seymour: ACT Party leader on the party's pledge to gradually raise the NZ Super age to 67",
       "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/david-seymour-act-party-leader-on-the-partys-pledge-to-gradually-raise-the-nz-super-age-to-67",
       "source": "newstalkzb.co.nz",
       "card_text": "David Seymour: ACT Party leader on the party's pledge to gradually raise the NZ Super age to 67",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Petrol prices hit record high — who’s cashing in?",
-      "url": "https://odt.co.nz/business/petrol-prices-hit-record-high-whos-cashing-in-vctloyw5",
-      "source": "odt.co.nz",
-      "card_text": "Petrol prices hit record high — who’s cashing in?",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "url": "https://bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Orangutans released back into Borneo forest after devastating fires",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -378,14 +570,6 @@
       "url": "https://stuff.co.nz/nz-news/361045198/former-kiwi-soldier-reportedly-killed-battle-africa",
       "source": "stuff.co.nz",
       "card_text": "Former Kiwi soldier reportedly killed in battle in Africa",
-      "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "Brendon Crompton: Blue Light Ventures Chief Executive on National's policy to require students to complete Year 11",
-      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/brendon-crompton-blue-light-ventures-chief-executive-on-nationals-policy-to-require-students-to-complete-year-11",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Brendon Crompton: Blue Light Ventures Chief Executive on National's policy to require students to complete Year 11",
       "discovered_at_utc": "2026-10-11T23:16:45.225583+00:00"
     },
     {
@@ -434,14 +618,6 @@
       "url": "https://odt.co.nz/news/dunedin/it-just-seems-a-bit-overkill-more-people-barred-from-dunedin-election-events-ffv9pudn",
       "source": "odt.co.nz",
       "card_text": "‘It just seems a bit overkill’: More people barred from Dunedin election events",
-      "discovered_at_utc": "2026-10-11T21:16:59.597645+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Scrapped Firmus IPO points to limits of AI boom",
-      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/scrapped-firmus-ipo-points-to-limits-of-ai-boom",
-      "source": "businessdesk.co.nz",
-      "card_text": "Scrapped Firmus IPO points to limits of AI boom",
       "discovered_at_utc": "2026-10-11T21:16:59.597645+00:00"
     },
     {
