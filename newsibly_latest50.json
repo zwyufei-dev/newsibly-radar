@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-13T10:20:44.045699+00:00",
+  "retrieved_at_utc": "2026-10-13T11:20:10.098643+00:00",
   "count": 50,
   "items": [
     {
@@ -129,7 +129,7 @@
       "title": "Reserve Bank puts digital cash on hold",
       "url": "https://odt.co.nz/business/reserve-bank-puts-digital-cash-on-hold-a47or4wy",
       "source": "odt.co.nz",
-      "card_text": "Reserve Bank puts digital cash on hold Otago Daily Times Today 4:24 pm"
+      "card_text": "Reserve Bank puts digital cash on hold Otago Daily Times Yesterday"
     },
     {
       "rank": 19,
@@ -178,7 +178,7 @@
       "title": "Musk pours mega-millions into midterms",
       "url": "https://odt.co.nz/news/world/musk-pours-mega-millions-into-midterms-axo0wkoa",
       "source": "odt.co.nz",
-      "card_text": "Musk pours mega-millions into midterms Otago Daily Times Today 1:34 pm"
+      "card_text": "Musk pours mega-millions into midterms Otago Daily Times Yesterday"
     },
     {
       "rank": 26,
