@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-13T01:20:53.969748+00:00",
-  "count": 204,
+  "updated_at_utc": "2026-10-13T02:19:10.749955+00:00",
+  "count": 218,
   "items": [
+    {
+      "rank": 42,
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Immigration agents search congresswoman Ilhan Omar's home",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "'Postcode lottery': Nine paediatric respiratory doctors from two regions serve whole country",
+      "url": "https://rnz.co.nz/news/health/1865632/postcode-lottery-nine-paediatric-respiratory-doctors-from-two-regions-serve-whole-country",
+      "source": "rnz.co.nz",
+      "card_text": "'Postcode lottery': Nine paediatric respiratory doctors from two regions serve whole country",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "From lavatory to Lauder, ‘every part of this stinks’",
+      "url": "https://newsroom.co.nz/2026/10/13/from-lavatory-to-lauder-every-part-of-this-stinks",
+      "source": "newsroom.co.nz",
+      "card_text": "From lavatory to Lauder, ‘every part of this stinks’",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Picks n’ Mixes & In the Papers for Tuesday Oct 13",
+      "url": "https://thekaka.substack.com/p/picks-n-mixes-and-in-the-papers-for-b62",
+      "source": "thekaka.substack.com",
+      "card_text": "Picks n’ Mixes & In the Papers for Tuesday Oct 13",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Eight dead in September massacre at Papua New Guinea's troubled Porgera",
+      "url": "https://rnz.co.nz/news/pacific/1865980/eight-dead-in-september-massacre-at-papua-new-guinea-s-troubled-porgera",
+      "source": "rnz.co.nz",
+      "card_text": "Eight dead in September massacre at Papua New Guinea's troubled Porgera",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Paediatric respiratory care a ‘postcode lottery’ with just nine doctors serving the whole country",
+      "url": "https://odt.co.nz/news/national/paediatric-respiratory-care-a-postcode-lottery-with-just-nine-doctors-serving-the-whole-country-lw7xcm3l",
+      "source": "odt.co.nz",
+      "card_text": "Paediatric respiratory care a ‘postcode lottery’ with just nine doctors serving the whole country",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Ukraine accuses Russia of violating Trump’s energy ceasefire",
+      "url": "https://thepress.co.nz/business/361097335/ukraine-accuses-russia-violating-trumps-energy-ceasefire",
+      "source": "thepress.co.nz",
+      "card_text": "Ukraine accuses Russia of violating Trump’s energy ceasefire",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "New Lifejacket Rule kicks in for Boaties",
+      "url": "https://kiwikidsnews.co.nz/new-lifejacket-rule-kicks-in-for-boaties",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "New Lifejacket Rule kicks in for Boaties",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Storm Recovery Fund Now Open For Preparedness Grants",
+      "url": "https://whatsoninvers.nz/storm-recovery-fund-now-open-for-preparedness-grants",
+      "source": "whatsoninvers.nz",
+      "card_text": "Storm Recovery Fund Now Open For Preparedness Grants",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Kiwi Swimmer smashes Two National Records",
+      "url": "https://kiwikidsnews.co.nz/kiwi-swimmer-smashes-two-national-records",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Kiwi Swimmer smashes Two National Records",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Investigation sparked by whistleblower into systemic hospital failures reports back",
+      "url": "https://rnz.co.nz/news/health/1867211/investigation-sparked-by-whistleblower-into-systemic-hospital-failures-reports-back",
+      "source": "rnz.co.nz",
+      "card_text": "Investigation sparked by whistleblower into systemic hospital failures reports back",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Congresswoman who Trump called ‘garbage’ has home raided by US agents",
+      "url": "https://stuff.co.nz/world-news/361045602/federal-agents-raid-home-democratic-congresswoman-targeted-trump",
+      "source": "stuff.co.nz",
+      "card_text": "Congresswoman who Trump called ‘garbage’ has home raided by US agents",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Auckland gets another Crisis Recovery Café",
+      "url": "https://beehive.govt.nz/release/auckland-gets-another-crisis-recovery-cafe",
+      "source": "beehive.govt.nz",
+      "card_text": "Auckland gets another Crisis Recovery Café",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Deputy mayor estimates Wellington pipe fix at $80k per ratepayer",
+      "url": "https://odt.co.nz/news/national/deputy-mayor-estimates-wellington-pipe-fix-at-80k-per-ratepayer-rarhyh91",
+      "source": "odt.co.nz",
+      "card_text": "Deputy mayor estimates Wellington pipe fix at $80k per ratepayer",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Police still looking for driver of mystery white car that suddenly stopped before fatal cyclist crash",
+      "url": "https://thepress.co.nz/nz-news/361097388/police-still-looking-mystery-driver-after-fatal-cyclist-crash",
+      "source": "thepress.co.nz",
+      "card_text": "Police still looking for driver of mystery white car that suddenly stopped before fatal cyclist crash",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Deputy mayor estimates price of fixing Wellington's pipes at $80k per ratepayer over 25 years",
+      "url": "https://rnz.co.nz/news/regions_wellington/1865635/deputy-mayor-estimates-price-of-fixing-wellington-s-pipes-at-80k-per-ratepayer-over-25-years",
+      "source": "rnz.co.nz",
+      "card_text": "Deputy mayor estimates price of fixing Wellington's pipes at $80k per ratepayer over 25 years",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "In Phoenix’s 20th season, one team looks set to end the wait for silverware",
+      "url": "https://stuff.co.nz/sport/361045175/20-years-wellington-phoenix-women-lead-charge-clubs-first-title",
+      "source": "stuff.co.nz",
+      "card_text": "In Phoenix’s 20th season, one team looks set to end the wait for silverware",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Teaching Council condemned for ignoring police warning about sex offender",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1868976/teaching-council-condemned-for-ignoring-police-warning-about-sex-offender",
+      "source": "rnz.co.nz",
+      "card_text": "Teaching Council condemned for ignoring police warning about sex offender",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Staff cuts blamed as NZ’s geohazards monitoring centre shut twice within days | Stuff",
+      "url": "https://stuff.co.nz/politics/361045811/staff-cuts-blamed-nzs-geohazards-monitoring-centre-shut-twice-within-days",
+      "source": "stuff.co.nz",
+      "card_text": "Staff cuts blamed as NZ’s geohazards monitoring centre shut twice within days | Stuff",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "TB Crisis: Māori Five Times More Likely to Develop Tuberculosis as Researchers Call for Urgent Health System Overhaul",
+      "url": "https://waateanews.com/2026/10/13/tb-crisis-maori-five-times-more-likely-to-develop-tuberculosis-as-researchers-call-for-urgent-health-system-overhaul",
+      "source": "waateanews.com",
+      "card_text": "TB Crisis: Māori Five Times More Likely to Develop Tuberculosis as Researchers Call for Urgent Health System Overhaul",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Peters overrides Govt ministers on UN pandemic vote",
+      "url": "https://newsroom.co.nz/2026/10/13/peters-overrides-govt-ministers-on-un-pandemic-vote",
+      "source": "newsroom.co.nz",
+      "card_text": "Peters overrides Govt ministers on UN pandemic vote",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "National’s fiscal plan: No tax cuts but a fight over health spending",
+      "url": "https://thespinoff.co.nz/politics/13-10-2026/nationals-fiscal-plan-no-tax-cuts-but-a-fight-over-health-spending",
+      "source": "thespinoff.co.nz",
+      "card_text": "National’s fiscal plan: No tax cuts but a fight over health spending",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "National & Labour fiscal plans lock in stagnation",
+      "url": "https://thekaka.substack.com/p/national-and-labour-fiscal-plans",
+      "source": "thekaka.substack.com",
+      "card_text": "National & Labour fiscal plans lock in stagnation",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Government rejects aluminium extruders’ safeguard bid",
+      "url": "https://businessdesk.co.nz/article/trade/government-rejects-aluminium-extruders-safeguard-bid",
+      "source": "businessdesk.co.nz",
+      "card_text": "Government rejects aluminium extruders’ safeguard bid",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Whenua Māori Shake-Up: Government Backs 12 Law Changes to Unlock Housing and Development",
+      "url": "https://waateanews.com/2026/10/13/whenua-maori-shake-up-government-backs-12-law-changes-to-unlock-housing-and-development",
+      "source": "waateanews.com",
+      "card_text": "Whenua Māori Shake-Up: Government Backs 12 Law Changes to Unlock Housing and Development",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Shane Jones set to open new kina factory owned by NZ First donor",
+      "url": "https://thepress.co.nz/politics/361095817/shane-jones-set-open-new-kina-factory-owned-nz-first-donor",
+      "source": "thepress.co.nz",
+      "card_text": "Shane Jones set to open new kina factory owned by NZ First donor",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Government rejects ‘Safeguard’ tariffs on ‘flood’ of Chinese aluminium",
+      "url": "https://thepress.co.nz/business/361097464/govt-rejects-safeguard-tariffs-flood-chinese-aluminium",
+      "source": "thepress.co.nz",
+      "card_text": "Government rejects ‘Safeguard’ tariffs on ‘flood’ of Chinese aluminium",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Woolworths store managers strike over proposed wage freeze",
+      "url": "https://stuff.co.nz/business/361045679/woolworths-store-managers-strike-over-proposed-wage-freeze",
+      "source": "stuff.co.nz",
+      "card_text": "Woolworths store managers strike over proposed wage freeze",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Formula One: Is Liam Lawson to thank for Max Verstappen’s return to form? One expert thinks so",
+      "url": "https://nzherald.co.nz/sport/motorsport/formula-1/formula-one-is-liam-lawson-to-thank-for-max-verstappens-return-to-form-one-expert-thinks-so/ZXKEZ6YBFNF5XBSV6SNPQJTKNM",
+      "source": "nzherald.co.nz",
+      "card_text": "Formula One: Is Liam Lawson to thank for Max Verstappen’s return to form? One expert thinks so",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "‘It’s crazy’: Kiwi bowler caps stunning year with Champion of Champions win",
+      "url": "https://thepress.co.nz/sport/361097377/mandy-boyd-caps-stunning-year-world-bowls-champion-champions-win-australia",
+      "source": "thepress.co.nz",
+      "card_text": "‘It’s crazy’: Kiwi bowler caps stunning year with Champion of Champions win",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Suicide Prevention Crisis: Pacific Leaders Gather in Fiji as Māori Death Rate Remains Highest in Aotearoa",
+      "url": "https://waateanews.com/2026/10/13/suicide-prevention-crisis-pacific-leaders-gather-in-fiji-as-maori-death-rate-remains-highest-in-aotearoa",
+      "source": "waateanews.com",
+      "card_text": "Suicide Prevention Crisis: Pacific Leaders Gather in Fiji as Māori Death Rate Remains Highest in Aotearoa",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Wind whips up Walter Peak fire hotspots",
+      "url": "https://odt.co.nz/otago/queenstown/wind-whips-up-walter-peak-fire-hotspots-rlhbutbd",
+      "source": "odt.co.nz",
+      "card_text": "Wind whips up Walter Peak fire hotspots Hot-spots fanned by strong winds have flared up at the site of the massive vegetation fire on the shore of Lake Wakatipu. Otago Daily Times Today 11:34 am Weather",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Apprenticeship Crisis: Calls for Degree-Level Training as New Zealand Faces Growing Skills Shortage",
+      "url": "https://waateanews.com/2026/10/13/apprenticeship-crisis-calls-for-degree-level-training-as-new-zealand-faces-growing-skills-shortage",
+      "source": "waateanews.com",
+      "card_text": "Apprenticeship Crisis: Calls for Degree-Level Training as New Zealand Faces Growing Skills Shortage",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Labour loyalty runs deep in Ikaroa-Rāwhiti, new poll shows",
+      "url": "https://thespinoff.co.nz/atea/13-10-2026/labour-loyalty-runs-deep-in-ikaroa-rawhiti-new-poll-shows",
+      "source": "thespinoff.co.nz",
+      "card_text": "Labour loyalty runs deep in Ikaroa-Rāwhiti, new poll shows",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Hipkins defends candidate after National dredges up past tax comments",
+      "url": "https://stuff.co.nz/politics/361045511/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Hipkins defends candidate after National dredges up past tax comments",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Election 2026: Labour claims Kiwis paying $6000 more a year for essentials under National",
+      "url": "https://nzherald.co.nz/nz/election-2026-labour-claims-kiwis-paying-6000-more-a-year-for-essentials-under-national/RD6TAO6VSRF7TINVUASPVETQC4",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: Labour claims Kiwis paying $6000 more a year for essentials under National",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Heritage Lifecare buys New Zealand Aged Care Services in major expansion",
+      "url": "https://businessdesk.co.nz/article/news-in-brief/heritage-lifecare-buys-new-zealand-aged-care-services-in-major-expansion",
+      "source": "businessdesk.co.nz",
+      "card_text": "Heritage Lifecare buys New Zealand Aged Care Services in major expansion",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "National and Labour commit to pursuing cross-party accord on superannuation",
+      "url": "https://interest.co.nz/public-policy/140648/%E2%80%98we-should-least-die-trying%E2%80%99-both-national-and-labour-say-they-will-commit",
+      "source": "interest.co.nz",
+      "card_text": "National and Labour commit to pursuing cross-party accord on superannuation",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Air NZ lifts lid on proposed closer relationship with Virgin Australia",
+      "url": "https://nzherald.co.nz/business/companies/airlines/air-nz-lifts-lid-on-proposed-closer-relationship-with-virgin-australia/premium/NGST4NYNSVDJFOXV3QMIVF453E",
+      "source": "nzherald.co.nz",
+      "card_text": "Air NZ lifts lid on proposed closer relationship with Virgin Australia",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Jake White: The South African master tactician believes Fiji rugby's 'great ascent starts now'",
+      "url": "https://rnz.co.nz/news/pacific/1871346/jake-white-the-south-african-master-tactician-believes-fiji-rugby-s-great-ascent-starts-now",
+      "source": "rnz.co.nz",
+      "card_text": "Jake White: The South African master tactician believes Fiji rugby's 'great ascent starts now'",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Five Eyes nears deal on military AI project",
+      "url": "https://rnz.co.nz/news/science-and-technology/1869872/five-eyes-nears-deal-on-military-ai-project",
+      "source": "rnz.co.nz",
+      "card_text": "Five Eyes nears deal on military AI project",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "French fridge hack a 'wake-up call' for NZ supermarkets - cyber expert",
+      "url": "https://odt.co.nz/business/french-fridge-hack-a-wake-up-call-for-nz-supermarkets-cyber-expert-leis0y1q",
+      "source": "odt.co.nz",
+      "card_text": "French fridge hack a 'wake-up call' for NZ supermarkets - cyber expert",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Canterbury space race ambitions open NZ up to satellite risk",
+      "url": "https://newsroom.co.nz/2026/10/13/canterbury-space-race-ambitions-opens-nz-up-to-satellite-risk",
+      "source": "newsroom.co.nz",
+      "card_text": "Canterbury space race ambitions open NZ up to satellite risk",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Physiotherapist censured after false ACC claims for treating relatives",
+      "url": "https://stuff.co.nz/nz-news/361045957/physiotherapist-censured-after-false-acc-claims-treating-relatives",
+      "source": "stuff.co.nz",
+      "card_text": "Physiotherapist censured after false ACC claims for treating relatives",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Governors Bay cyclist dies in chain-reaction crash after sudden braking",
+      "url": "https://newstalkzb.co.nz/news/national/governors-bay-cyclist-dies-in-chain-reaction-crash-after-sudden-braking",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Governors Bay cyclist dies in chain-reaction crash after sudden braking",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "'Suicidal' mental health patient was safe in respite care - coroner",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1798140/suicidal-mental-health-patient-was-safe-in-respite-care-coroner",
+      "source": "rnz.co.nz",
+      "card_text": "'Suicidal' mental health patient was safe in respite care - coroner",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "'Humiliating' - former PM Helen Clark slams NZ abstention on UN pandemic vote",
+      "url": "https://rnz.co.nz/news/politics/1871690/humiliating-former-pm-helen-clark-slams-nz-abstention-on-un-pandemic-vote",
+      "source": "rnz.co.nz",
+      "card_text": "'Humiliating' - former PM Helen Clark slams NZ abstention on UN pandemic vote",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "One dead, several others injured in US roller coaster accident",
+      "url": "https://stuff.co.nz/world-news/361045863/one-person-dead-several-others-injured-incident-involv",
+      "source": "stuff.co.nz",
+      "card_text": "One dead, several others injured in US roller coaster accident",
+      "discovered_at_utc": "2026-10-13T02:19:10.749955+00:00"
+    },
     {
       "rank": 50,
       "title": "King honours 40 years of Mate Maʻa Tonga as trademark dispute continues, leaving national team without historic name",
@@ -21,35 +421,11 @@
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
-      "rank": 6,
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "url": "https://bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Immigration agents search congresswoman Ilhan Omar's home",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "'Postcode lottery': Nine paediatric respiratory doctors from two regions serve whole country",
-      "url": "https://rnz.co.nz/news/health/1865632/postcode-lottery-nine-paediatric-respiratory-doctors-from-two-regions-serve-whole-country",
-      "source": "rnz.co.nz",
-      "card_text": "'Postcode lottery': Nine paediatric respiratory doctors from two regions serve whole country",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
       "rank": 30,
       "title": "Southern urology situation ‘unsustainable’",
       "url": "https://odt.co.nz/news/dunedin/southern-urology-situation-unsustainable-fre4evcq",
       "source": "odt.co.nz",
       "card_text": "Southern urology situation ‘unsustainable’",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "From lavatory to Lauder, ‘every part of this stinks’",
-      "url": "https://newsroom.co.nz/2026/10/13/from-lavatory-to-lauder-every-part-of-this-stinks",
-      "source": "newsroom.co.nz",
-      "card_text": "From lavatory to Lauder, ‘every part of this stinks’",
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
@@ -61,59 +437,11 @@
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
-      "rank": 48,
-      "title": "Picks n’ Mixes & In the Papers for Tuesday Oct 13",
-      "url": "https://thekaka.substack.com/p/picks-n-mixes-and-in-the-papers-for-b62",
-      "source": "thekaka.substack.com",
-      "card_text": "Picks n’ Mixes & In the Papers for Tuesday Oct 13",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Eight dead in September massacre at Papua New Guinea's troubled Porgera",
-      "url": "https://rnz.co.nz/news/pacific/1865980/eight-dead-in-september-massacre-at-papua-new-guinea-s-troubled-porgera",
-      "source": "rnz.co.nz",
-      "card_text": "Eight dead in September massacre at Papua New Guinea's troubled Porgera",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Paediatric respiratory care a ‘postcode lottery’ with just nine doctors serving the whole country",
-      "url": "https://odt.co.nz/news/national/paediatric-respiratory-care-a-postcode-lottery-with-just-nine-doctors-serving-the-whole-country-lw7xcm3l",
-      "source": "odt.co.nz",
-      "card_text": "Paediatric respiratory care a ‘postcode lottery’ with just nine doctors serving the whole country",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Ukraine accuses Russia of violating Trump’s energy ceasefire",
-      "url": "https://thepress.co.nz/business/361097335/ukraine-accuses-russia-violating-trumps-energy-ceasefire",
-      "source": "thepress.co.nz",
-      "card_text": "Ukraine accuses Russia of violating Trump’s energy ceasefire",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
       "rank": 16,
       "title": "Election 2026: Labour claims Kiwis paying $6000 more a year for essentials under National",
       "url": "https://nzherald.co.nz/nz/election-2026-winston-peters-calls-a-cross-party-accord-on-the-future-of-retirement-a-sham/RD6TAO6VSRF7TINVUASPVETQC4",
       "source": "nzherald.co.nz",
       "card_text": "Election 2026: Labour claims Kiwis paying $6000 more a year for essentials under National",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "New Lifejacket Rule kicks in for Boaties",
-      "url": "https://kiwikidsnews.co.nz/new-lifejacket-rule-kicks-in-for-boaties",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "New Lifejacket Rule kicks in for Boaties",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Storm Recovery Fund Now Open For Preparedness Grants",
-      "url": "https://whatsoninvers.nz/storm-recovery-fund-now-open-for-preparedness-grants",
-      "source": "whatsoninvers.nz",
-      "card_text": "Storm Recovery Fund Now Open For Preparedness Grants",
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
@@ -133,14 +461,6 @@
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
-      "rank": 25,
-      "title": "Kiwi Swimmer smashes Two National Records",
-      "url": "https://kiwikidsnews.co.nz/kiwi-swimmer-smashes-two-national-records",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Kiwi Swimmer smashes Two National Records",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
       "rank": 32,
       "title": "New Brighton clocks 300 townhouses as $45m development takes shape",
       "url": "https://thepress.co.nz/nz-news/361096532/brightons-45m-townhouse-project-gathers-pace-last",
@@ -157,27 +477,11 @@
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
-      "rank": 34,
-      "title": "Investigation sparked by whistleblower into systemic hospital failures reports back",
-      "url": "https://rnz.co.nz/news/health/1867211/investigation-sparked-by-whistleblower-into-systemic-hospital-failures-reports-back",
-      "source": "rnz.co.nz",
-      "card_text": "Investigation sparked by whistleblower into systemic hospital failures reports back",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
       "rank": 42,
       "title": "National adamant its superannuation stance has not changed",
       "url": "https://odt.co.nz/news/national/national-adamant-its-superannuation-stance-has-not-changed-wkm22xsc",
       "source": "odt.co.nz",
       "card_text": "National adamant its superannuation stance has not changed",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Congresswoman who Trump called ‘garbage’ has home raided by US agents",
-      "url": "https://stuff.co.nz/world-news/361045602/federal-agents-raid-home-democratic-congresswoman-targeted-trump",
-      "source": "stuff.co.nz",
-      "card_text": "Congresswoman who Trump called ‘garbage’ has home raided by US agents",
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
@@ -189,179 +493,11 @@
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
-      "rank": 29,
-      "title": "Auckland gets another Crisis Recovery Café",
-      "url": "https://beehive.govt.nz/release/auckland-gets-another-crisis-recovery-cafe",
-      "source": "beehive.govt.nz",
-      "card_text": "Auckland gets another Crisis Recovery Café",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Deputy mayor estimates Wellington pipe fix at $80k per ratepayer",
-      "url": "https://odt.co.nz/news/national/deputy-mayor-estimates-wellington-pipe-fix-at-80k-per-ratepayer-rarhyh91",
-      "source": "odt.co.nz",
-      "card_text": "Deputy mayor estimates Wellington pipe fix at $80k per ratepayer",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Police still looking for driver of mystery white car that suddenly stopped before fatal cyclist crash",
-      "url": "https://thepress.co.nz/nz-news/361097388/police-still-looking-mystery-driver-after-fatal-cyclist-crash",
-      "source": "thepress.co.nz",
-      "card_text": "Police still looking for driver of mystery white car that suddenly stopped before fatal cyclist crash",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Deputy mayor estimates price of fixing Wellington's pipes at $80k per ratepayer over 25 years",
-      "url": "https://rnz.co.nz/news/regions_wellington/1865635/deputy-mayor-estimates-price-of-fixing-wellington-s-pipes-at-80k-per-ratepayer-over-25-years",
-      "source": "rnz.co.nz",
-      "card_text": "Deputy mayor estimates price of fixing Wellington's pipes at $80k per ratepayer over 25 years",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
       "rank": 33,
       "title": "Quake risk closes second council building",
       "url": "https://odt.co.nz/news/west-coast/quake-risk-closes-second-council-building-d7wb3ffv",
       "source": "odt.co.nz",
       "card_text": "Quake risk closes second council building",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "In Phoenix’s 20th season, one team looks set to end the wait for silverware",
-      "url": "https://stuff.co.nz/sport/361045175/20-years-wellington-phoenix-women-lead-charge-clubs-first-title",
-      "source": "stuff.co.nz",
-      "card_text": "In Phoenix’s 20th season, one team looks set to end the wait for silverware",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 1,
-      "title": "Teaching Council condemned for ignoring police warning about sex offender",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1868976/teaching-council-condemned-for-ignoring-police-warning-about-sex-offender",
-      "source": "rnz.co.nz",
-      "card_text": "Teaching Council condemned for ignoring police warning about sex offender",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Staff cuts blamed as NZ’s geohazards monitoring centre shut twice within days",
-      "url": "https://stuff.co.nz/politics/361045811/staff-cuts-blamed-nzs-geohazards-monitoring-centre-shut-twice-within-days",
-      "source": "stuff.co.nz",
-      "card_text": "Staff cuts blamed as NZ’s geohazards monitoring centre shut twice within days",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "TB Crisis: Māori Five Times More Likely to Develop Tuberculosis as Researchers Call for Urgent Health System Overhaul",
-      "url": "https://waateanews.com/2026/10/13/tb-crisis-maori-five-times-more-likely-to-develop-tuberculosis-as-researchers-call-for-urgent-health-system-overhaul",
-      "source": "waateanews.com",
-      "card_text": "TB Crisis: Māori Five Times More Likely to Develop Tuberculosis as Researchers Call for Urgent Health System Overhaul",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Peters overrides Govt ministers on UN pandemic vote",
-      "url": "https://newsroom.co.nz/2026/10/13/peters-overrides-govt-ministers-on-un-pandemic-vote",
-      "source": "newsroom.co.nz",
-      "card_text": "Peters overrides Govt ministers on UN pandemic vote",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "National’s fiscal plan: No tax cuts but a fight over health spending",
-      "url": "https://thespinoff.co.nz/politics/13-10-2026/nationals-fiscal-plan-no-tax-cuts-but-a-fight-over-health-spending",
-      "source": "thespinoff.co.nz",
-      "card_text": "National’s fiscal plan: No tax cuts but a fight over health spending",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "National & Labour fiscal plans lock in stagnation",
-      "url": "https://thekaka.substack.com/p/national-and-labour-fiscal-plans",
-      "source": "thekaka.substack.com",
-      "card_text": "National & Labour fiscal plans lock in stagnation",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Government rejects aluminium extruders’ safeguard bid",
-      "url": "https://businessdesk.co.nz/article/trade/government-rejects-aluminium-extruders-safeguard-bid",
-      "source": "businessdesk.co.nz",
-      "card_text": "Government rejects aluminium extruders’ safeguard bid",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Whenua Māori Shake-Up: Government Backs 12 Law Changes to Unlock Housing and Development",
-      "url": "https://waateanews.com/2026/10/13/whenua-maori-shake-up-government-backs-12-law-changes-to-unlock-housing-and-development",
-      "source": "waateanews.com",
-      "card_text": "Whenua Māori Shake-Up: Government Backs 12 Law Changes to Unlock Housing and Development",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Shane Jones set to open new kina factory owned by NZ First donor",
-      "url": "https://thepress.co.nz/politics/361095817/shane-jones-set-open-new-kina-factory-owned-nz-first-donor",
-      "source": "thepress.co.nz",
-      "card_text": "Shane Jones set to open new kina factory owned by NZ First donor",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "Government rejects ‘Safeguard’ tariffs on ‘flood’ of Chinese aluminium",
-      "url": "https://thepress.co.nz/business/361097464/govt-rejects-safeguard-tariffs-flood-chinese-aluminium",
-      "source": "thepress.co.nz",
-      "card_text": "Government rejects ‘Safeguard’ tariffs on ‘flood’ of Chinese aluminium",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Woolworths store managers strike over proposed wage freeze",
-      "url": "https://stuff.co.nz/business/361045679/woolworths-store-managers-strike-over-proposed-wage-freeze",
-      "source": "stuff.co.nz",
-      "card_text": "Woolworths store managers strike over proposed wage freeze",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Formula One: Is Liam Lawson to thank for Max Verstappen’s return to form? One expert thinks so",
-      "url": "https://nzherald.co.nz/sport/motorsport/formula-1/formula-one-is-liam-lawson-to-thank-for-max-verstappens-return-to-form-one-expert-thinks-so/ZXKEZ6YBFNF5XBSV6SNPQJTKNM",
-      "source": "nzherald.co.nz",
-      "card_text": "Formula One: Is Liam Lawson to thank for Max Verstappen’s return to form? One expert thinks so",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "‘It’s crazy’: Kiwi bowler caps stunning year with Champion of Champions win",
-      "url": "https://thepress.co.nz/sport/361097377/mandy-boyd-caps-stunning-year-world-bowls-champion-champions-win-australia",
-      "source": "thepress.co.nz",
-      "card_text": "‘It’s crazy’: Kiwi bowler caps stunning year with Champion of Champions win",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Suicide Prevention Crisis: Pacific Leaders Gather in Fiji as Māori Death Rate Remains Highest in Aotearoa",
-      "url": "https://waateanews.com/2026/10/13/suicide-prevention-crisis-pacific-leaders-gather-in-fiji-as-maori-death-rate-remains-highest-in-aotearoa",
-      "source": "waateanews.com",
-      "card_text": "Suicide Prevention Crisis: Pacific Leaders Gather in Fiji as Māori Death Rate Remains Highest in Aotearoa",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Wind whips up Walter Peak fire hotspots",
-      "url": "https://odt.co.nz/otago/queenstown/wind-whips-up-walter-peak-fire-hotspots-rlhbutbd",
-      "source": "odt.co.nz",
-      "card_text": "Wind whips up Walter Peak fire hotspots Hot-spots fanned by strong winds have flared up at the site of the massive vegetation fire on the shore of Lake Wakatipu. Otago Daily Times Today 11:34 am Weather",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Apprenticeship Crisis: Calls for Degree-Level Training as New Zealand Faces Growing Skills Shortage",
-      "url": "https://waateanews.com/2026/10/13/apprenticeship-crisis-calls-for-degree-level-training-as-new-zealand-faces-growing-skills-shortage",
-      "source": "waateanews.com",
-      "card_text": "Apprenticeship Crisis: Calls for Degree-Level Training as New Zealand Faces Growing Skills Shortage",
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
@@ -386,14 +522,6 @@
       "url": "https://rnz.co.nz/news/crime-and-justice/1867224/explainer-why-does-america-want-to-publicly-execute-someone",
       "source": "rnz.co.nz",
       "card_text": "Explainer: Why does America want to publicly execute someone?",
-      "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Labour loyalty runs deep in Ikaroa-Rāwhiti, new poll shows",
-      "url": "https://thespinoff.co.nz/atea/13-10-2026/labour-loyalty-runs-deep-in-ikaroa-rawhiti-new-poll-shows",
-      "source": "thespinoff.co.nz",
-      "card_text": "Labour loyalty runs deep in Ikaroa-Rāwhiti, new poll shows",
       "discovered_at_utc": "2026-10-13T01:20:53.969748+00:00"
     },
     {
@@ -541,14 +669,6 @@
       "discovered_at_utc": "2026-10-12T23:17:54.045630+00:00"
     },
     {
-      "rank": 17,
-      "title": "Coalition will be ‘less stable’ with a stronger ACT or NZ First, Willis says",
-      "url": "https://stuff.co.nz/politics/361045511/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Coalition will be ‘less stable’ with a stronger ACT or NZ First, Willis says",
-      "discovered_at_utc": "2026-10-12T23:17:54.045630+00:00"
-    },
-    {
       "rank": 45,
       "title": "Motorcyclist critically injured in Te Puke Highway crash",
       "url": "https://stuff.co.nz/nz-news/361045689/motorcyclist-critically-injured-te-puke-highway-crash",
@@ -595,14 +715,6 @@
       "source": "rnz.co.nz",
       "card_text": "Counties Manukau health managers to strike",
       "discovered_at_utc": "2026-10-12T23:17:54.045630+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "discovered_at_utc": "2026-10-12T21:17:26.738938+00:00"
     },
     {
       "rank": 50,
