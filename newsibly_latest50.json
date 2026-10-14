@@ -2,50 +2,50 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-14T10:31:43.276844+00:00",
+  "retrieved_at_utc": "2026-10-14T11:30:19.797084+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
       "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says"
+      "card_text": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line"
     },
     {
       "rank": 2,
+      "title": "Zelenskyy says Russia keeps striking Ukraine’s energy sites despite Trump ceasefire push",
+      "url": "https://stuff.co.nz/world-news/361046584/zelenskyy-meet-burnham-london-kyiv-seeks-more-help",
+      "source": "stuff.co.nz",
+      "card_text": "Zelenskyy says Russia keeps striking Ukraine’s energy sites despite Trump ceasefire push"
+    },
+    {
+      "rank": 3,
       "title": "Internal documents warned of food safety risk after MPI said there were none",
       "url": "https://odt.co.nz/news/national/internal-documents-warned-of-food-safety-risk-after-mpi-said-there-were-none-chmvf11j",
       "source": "odt.co.nz",
       "card_text": "Internal documents warned of food safety risk after MPI said there were none"
     },
     {
-      "rank": 3,
-      "title": "Parallels between Royal Commission findings and Teaching Council failures, abuse survivor says",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1900692/parallels-between-royal-commission-findings-and-teaching-council-failures-abuse-survivor-says",
+      "rank": 4,
+      "title": "Internal documents warn of food safety risk after MPI said none existed",
+      "url": "https://rnz.co.nz/news/health/1902424/internal-documents-warn-of-food-safety-risk-after-mpi-said-none-existed",
       "source": "rnz.co.nz",
-      "card_text": "Parallels between Royal Commission findings and Teaching Council failures, abuse survivor says"
+      "card_text": "Internal documents warn of food safety risk after MPI said none existed"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Watch: Govt tries to claim credit for improved report cards, but are they really responsible? | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=OM2zNIrs_eM",
       "source": "youtube.com",
       "card_text": "Watch: Govt tries to claim credit for improved report cards, but are they really responsible? | Stuff.co.nz"
     },
     {
-      "rank": 5,
-      "title": "Hipkins criticises Greens, TPM over gang pad visit, rules out select ministries",
-      "url": "https://stuff.co.nz/politics/361046250/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Hipkins criticises Greens, TPM over gang pad visit, rules out select ministries"
-    },
-    {
       "rank": 6,
-      "title": "Infrastructure survey suggests nearly half of businesses in the sector are shedding jobs",
-      "url": "https://thepress.co.nz/business/361098711/infrastructure-survey-suggests-nearly-half-businesses-sector-are-shedding-jobs",
+      "title": "Wage growth remains stuck in neutral in September while hiring shows signs of life",
+      "url": "https://thepress.co.nz/business/361098797/wage-growth-remains-stuck-neutral-september-hiring-showing-signs-life",
       "source": "thepress.co.nz",
-      "card_text": "Infrastructure survey suggests nearly half of businesses in the sector are shedding jobs"
+      "card_text": "Wage growth remains stuck in neutral in September while hiring shows signs of life"
     },
     {
       "rank": 7,
@@ -112,24 +112,24 @@
     },
     {
       "rank": 16,
+      "title": "Hipkins criticises Greens, TPM over gang pad visit, rules out select ministries",
+      "url": "https://stuff.co.nz/politics/361046250/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Hipkins criticises Greens, TPM over gang pad visit, rules out select ministries"
+    },
+    {
+      "rank": 17,
       "title": "Te Tai Tonga: Race for electorate covering South Island wide open",
       "url": "https://odt.co.nz/news/national/te-tai-tonga-race-for-electorate-covering-south-is-wide-open-exzm0zaq",
       "source": "odt.co.nz",
       "card_text": "Te Tai Tonga: Race for electorate covering South Island wide open"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Watch: National courts Auckland Voters with promise to ease parking pressures | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=7sjuPVcKa6w",
       "source": "youtube.com",
       "card_text": "Watch: National courts Auckland Voters with promise to ease parking pressures | Stuff.co.nz"
-    },
-    {
-      "rank": 18,
-      "title": "Qiulae Wong to call party with most seats first - even if that isn’t party with most votes",
-      "url": "https://thepress.co.nz/politics/361098542/qiulae-wong-says-she-will-call-party-most-seats-first-even-if-they-have-fewer-votes",
-      "source": "thepress.co.nz",
-      "card_text": "Qiulae Wong to call party with most seats first - even if that isn’t party with most votes"
     },
     {
       "rank": 19,
@@ -140,31 +140,31 @@
     },
     {
       "rank": 20,
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "url": "https://bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Russian strikes hit key power plant in Kyiv, Zelensky says"
+      "card_text": "What we know about Russia's overnight strikes on Ukraine"
     },
     {
       "rank": 21,
+      "title": "Former Ukrainian officer goes on trial over Nord Stream gas pipeline blasts",
+      "url": "https://stuff.co.nz/world-news/361046598/former-ukrainian-officer-goes-trial-over-nord-stream-gas",
+      "source": "stuff.co.nz",
+      "card_text": "Former Ukrainian officer goes on trial over Nord Stream gas pipeline blasts"
+    },
+    {
+      "rank": 22,
       "title": "Another Russian attack ‘without warning’ in Ukraine",
       "url": "https://odt.co.nz/news/world/another-russian-attack-without-warning-in-ukraine-wvb1qw8n",
       "source": "odt.co.nz",
       "card_text": "Another Russian attack ‘without warning’ in Ukraine"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "Fijian minister sparks debate after trying to justify MPs' salaries",
       "url": "https://rnz.co.nz/news/pacific/1900147/fijian-minister-sparks-debate-after-trying-to-justify-mps-salaries",
       "source": "rnz.co.nz",
       "card_text": "Fijian minister sparks debate after trying to justify MPs' salaries"
-    },
-    {
-      "rank": 23,
-      "title": "US defence startups flock to Taiwan to build China-free drones",
-      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-defence-startups-flock-to-taiwan-to-build-china-free-drones",
-      "source": "businessdesk.co.nz",
-      "card_text": "US defence startups flock to Taiwan to build China-free drones"
     },
     {
       "rank": 24,
@@ -196,10 +196,10 @@
     },
     {
       "rank": 28,
-      "title": "Internal documents warn of food safety risk after MPI said none existed",
-      "url": "https://rnz.co.nz/news/health/1902424/internal-documents-warn-of-food-safety-risk-after-mpi-said-none-existed",
+      "title": "Health NZ suggests nursing schools look elsewhere for placements",
+      "url": "https://rnz.co.nz/news/health/1899866/health-nz-suggests-nursing-schools-look-elsewhere-for-placements",
       "source": "rnz.co.nz",
-      "card_text": "Internal documents warn of food safety risk after MPI said none existed"
+      "card_text": "Health NZ suggests nursing schools look elsewhere for placements"
     },
     {
       "rank": 29,
@@ -238,94 +238,94 @@
     },
     {
       "rank": 34,
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russian strikes hit key power plant in Kyiv, Zelensky says"
+    },
+    {
+      "rank": 35,
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines"
+    },
+    {
+      "rank": 36,
       "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "url": "https://bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Turkish police raid opposition TV station, halting live broadcasts"
     },
     {
-      "rank": 35,
+      "rank": 37,
+      "title": "Parallels between Royal Commission findings and Teaching Council failures, abuse survivor says",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1900692/parallels-between-royal-commission-findings-and-teaching-council-failures-abuse-survivor-says",
+      "source": "rnz.co.nz",
+      "card_text": "Parallels between Royal Commission findings and Teaching Council failures, abuse survivor says"
+    },
+    {
+      "rank": 38,
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "url": "https://bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot"
     },
     {
-      "rank": 36,
-      "title": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
-      "url": "https://rnz.co.nz/news/crime-and-justice/1899570/braydon-deserved-better-man-s-death-sparks-city-mission-resignation",
-      "source": "rnz.co.nz",
-      "card_text": "‘Braydon deserved better’: Man’s death sparks City Mission resignation"
-    },
-    {
-      "rank": 37,
+      "rank": 39,
       "title": "Kāinga Ora urged to halt pre-election sale of empty Wellington state houses",
       "url": "https://nzherald.co.nz/nz/kainga-ora-urged-to-halt-pre-election-sale-of-empty-wellington-state-houses/6Z7XM5CXGFC35DXDOKXMC64VXY",
       "source": "nzherald.co.nz",
       "card_text": "Kāinga Ora urged to halt pre-election sale of empty Wellington state houses"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "title": "Southwest Pacific cyclone outlook: Up to 11 forecast amid El Niño",
       "url": "https://nzherald.co.nz/nz/southwest-pacific-cyclone-outlook-up-to-11-forecast-amid-el-nino/NBFBVMLE4JCHZL7ZXLR4DBI33E",
       "source": "nzherald.co.nz",
       "card_text": "Southwest Pacific cyclone outlook: Up to 11 forecast amid El Niño"
     },
     {
-      "rank": 39,
-      "title": "‘Braydon deserved better’: City Mission staffer quits after death",
-      "url": "https://odt.co.nz/canterbury/christchurch/braydon-deserved-better-city-missioner-quits-after-mans-death-r8gulcvz",
-      "source": "odt.co.nz",
-      "card_text": "‘Braydon deserved better’: City Mission staffer quits after death"
-    },
-    {
-      "rank": 40,
-      "title": "Te Tai Tonga: The race for New Zealand's largest electorate is wide open",
-      "url": "https://rnz.co.nz/news/politics_election-2026/1899512/te-tai-tonga-the-race-for-new-zealand-s-largest-electorate-is-wide-open",
-      "source": "rnz.co.nz",
-      "card_text": "Te Tai Tonga: The race for New Zealand's largest electorate is wide open"
-    },
-    {
       "rank": 41,
+      "title": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
+      "url": "https://rnz.co.nz/news/crime-and-justice/1899570/braydon-deserved-better-man-s-death-sparks-city-mission-resignation",
+      "source": "rnz.co.nz",
+      "card_text": "‘Braydon deserved better’: Man’s death sparks City Mission resignation"
+    },
+    {
+      "rank": 42,
       "title": "Russia arrests Japanese journalist on spying charges",
       "url": "https://bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Russia arrests Japanese journalist on spying charges"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "Watch: Young Kiwis finding it harder to afford a home - but they're not the only ones | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=C-6p8P2znsI",
       "source": "youtube.com",
       "card_text": "Watch: Young Kiwis finding it harder to afford a home - but they're not the only ones | Stuff.co.nz"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "Greens pledge to give councils power to set up bed levy",
       "url": "https://odt.co.nz/business/greens-pledge-to-give-councils-power-to-set-up-bed-levy-ffauv8sy",
       "source": "odt.co.nz",
       "card_text": "Greens pledge to give councils power to set up bed levy"
     },
     {
-      "rank": 44,
-      "title": "Election 2026: Our experts pick who won the NZ Herald Leaders’ Debate",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-our-experts-pick-who-won-the-nz-herald-leaders-debate/premium/43EIT5RW4RFGDKYIKXSPVO43NU",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Our experts pick who won the NZ Herald Leaders’ Debate"
-    },
-    {
       "rank": 45,
-      "title": "Conservation minister 'closed his mind' over stewardship land, environmental groups say",
-      "url": "https://rnz.co.nz/news/environment/1898107/conservation-minister-closed-his-mind-over-stewardship-land-environmental-groups-say",
-      "source": "rnz.co.nz",
-      "card_text": "Conservation minister 'closed his mind' over stewardship land, environmental groups say"
+      "title": "Infrastructure survey suggests nearly half of businesses in the sector are shedding jobs",
+      "url": "https://thepress.co.nz/business/361098711/infrastructure-survey-suggests-nearly-half-businesses-sector-are-shedding-jobs",
+      "source": "thepress.co.nz",
+      "card_text": "Infrastructure survey suggests nearly half of businesses in the sector are shedding jobs"
     },
     {
       "rank": 46,
-      "title": "House values soar as demand grows in the Mackenzie",
-      "url": "https://thepress.co.nz/nz-news/361098731/house-values-soar-demand-grows-mackenzie",
-      "source": "thepress.co.nz",
-      "card_text": "House values soar as demand grows in the Mackenzie"
+      "title": "Major emergency response in Masterton, two people in hospital",
+      "url": "https://stuff.co.nz/nz-news/361046574/major-emergency-response-masterton-two-people-hospital",
+      "source": "stuff.co.nz",
+      "card_text": "Major emergency response in Masterton, two people in hospital"
     },
     {
       "rank": 47,
@@ -350,10 +350,10 @@
     },
     {
       "rank": 50,
-      "title": "Fletcher Building's residential arm remains a drag as settlements fall 39%",
-      "url": "https://businessdesk.co.nz/article/markets/fletcher-buildings-residential-arm-remains-a-drag-as-settlements-fall-39",
+      "title": "US defence startups flock to Taiwan to build China-free drones",
+      "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-defence-startups-flock-to-taiwan-to-build-china-free-drones",
       "source": "businessdesk.co.nz",
-      "card_text": "Fletcher Building's residential arm remains a drag as settlements fall 39%"
+      "card_text": "US defence startups flock to Taiwan to build China-free drones"
     }
   ],
   "json_endpoints_observed": [
