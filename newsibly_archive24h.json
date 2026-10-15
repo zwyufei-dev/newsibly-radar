@@ -1,24 +1,408 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-15T00:35:32.008591+00:00",
-  "count": 233,
+  "updated_at_utc": "2026-10-15T01:30:41.834384+00:00",
+  "count": 230,
   "items": [
     {
-      "rank": 22,
+      "rank": 20,
       "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
       "url": "https://bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "title": "Corrections admits failures over sexual harassment claims",
       "url": "https://rnz.co.nz/news/crime-and-justice/1913514/corrections-admits-failures-over-sexual-harassment-claims",
       "source": "rnz.co.nz",
       "card_text": "Corrections admits failures over sexual harassment claims",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Govt directive on nurse enrolments 'makes no sense'",
+      "url": "https://odt.co.nz/news/dunedin/order-to-train-fewer-nurses-makes-no-sense-ayrjuxu6",
+      "source": "odt.co.nz",
+      "card_text": "Govt directive on nurse enrolments 'makes no sense'",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "More Trees, Fewer Pests: Meridian Invests Another $2.5 Million in Native Forest Restoration",
+      "url": "https://waateanews.com/2026/10/15/more-trees-fewer-pests-meridian-invests-another-2-5-million-in-native-forest-restoration",
+      "source": "waateanews.com",
+      "card_text": "More Trees, Fewer Pests: Meridian Invests Another $2.5 Million in Native Forest Restoration",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "‘Insurers have reached their risk limits’: Impact of natural hazards on homeowners",
+      "url": "https://thepress.co.nz/business/361097386/insurers-have-reached-their-risk-limits-impact-natural-hazards-homeowners",
+      "source": "thepress.co.nz",
+      "card_text": "‘Insurers have reached their risk limits’: Impact of natural hazards on homeowners",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "48% now feel they have to leave NZ to get ahead",
+      "url": "https://thekaka.substack.com/p/48-now-feel-they-have-to-leave-nz",
+      "source": "thekaka.substack.com",
+      "card_text": "48% now feel they have to leave NZ to get ahead",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Kiwis kick off Rugby League World Cup today",
+      "url": "https://kiwikidsnews.co.nz/kiwis-kick-off-rugby-league-world-cup-today",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Kiwis kick off Rugby League World Cup today",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "SIT's Independence A Milestone For Invercargill",
+      "url": "https://whatsoninvers.nz/sits-independence-a-milestone-for-invercargill",
+      "source": "whatsoninvers.nz",
+      "card_text": "SIT's Independence A Milestone For Invercargill",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Container ship sinks in Strait of Hormuz",
+      "url": "https://thepress.co.nz/business/361098959/container-ship-sinks-strait-hormuz",
+      "source": "thepress.co.nz",
+      "card_text": "Container ship sinks in Strait of Hormuz",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Government quietly selects liquefied natural gas provider",
+      "url": "https://rnz.co.nz/news/politics/1915808/government-quietly-selects-liquefied-natural-gas-provider",
+      "source": "rnz.co.nz",
+      "card_text": "Government quietly selects liquefied natural gas provider",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Rugby League World Cup: Pacific Island teams name for opening round",
+      "url": "https://rnz.co.nz/news/pacific/1917323/rugby-league-world-cup-pacific-island-teams-name-for-opening-round",
+      "source": "rnz.co.nz",
+      "card_text": "Rugby League World Cup: Pacific Island teams name for opening round",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Govt quietly selects liquefied natural gas provider",
+      "url": "https://odt.co.nz/news/national/govt-quietly-selects-liquefied-natural-gas-provider-vd3aouic",
+      "source": "odt.co.nz",
+      "card_text": "Govt quietly selects liquefied natural gas provider",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Switzerland’s Glaciers melting at Record Pace",
+      "url": "https://kiwikidsnews.co.nz/switzerlands-glaciers-melting-at-record-pace",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Switzerland’s Glaciers melting at Record Pace",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Public sector CEOs set to face performance pay and sanctions",
+      "url": "https://newsroom.co.nz/2026/10/15/public-sector-ceos-set-to-face-performance-pay-and-sanctions",
+      "source": "newsroom.co.nz",
+      "card_text": "Public sector CEOs set to face performance pay and sanctions",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Constable David Cramp awarded Police Bravery Award as new details revealed from Waitārere Beach triple shooting",
+      "url": "https://nzherald.co.nz/nz/crime/constable-david-cramp-awarded-police-bravery-award-as-new-details-revealed-from-waitarere-beach-triple-shooting/Y4FB6UHHHFEZRAVXRBD4QYF7LE",
+      "source": "nzherald.co.nz",
+      "card_text": "Constable David Cramp awarded Police Bravery Award as new details revealed from Waitārere Beach triple shooting",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "The distressed girl opened the door but couldn’t say what was wrong. The cop leapt into action",
+      "url": "https://stuff.co.nz/nz-news/361046425/officer-honoured-after-saving-three-gunshot-victims-waitarere-beach",
+      "source": "stuff.co.nz",
+      "card_text": "The distressed girl opened the door but couldn’t say what was wrong. The cop leapt into action",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Labour would rather work with Opportunity than Te Pāti Māori, says campaign chair",
+      "url": "https://stuff.co.nz/politics/361046241/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Labour would rather work with Opportunity than Te Pāti Māori, says campaign chair",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Are We Missing the Obvious?",
+      "url": "https://goodoil.news/are-we-missing-the-obvious",
+      "source": "goodoil.news",
+      "card_text": "Are We Missing the Obvious? According to the report, New Zealand had the highest suicide rate amongst youth in the 36 countries that were analysed, the second highest rate of school bullying and the third highest percentage of overweight children. The Good Oil Today 12:00 pm Opinion",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "“It is so wrong”: Duvauchelle campers say council ignored 87 per cent of submitters",
+      "url": "https://chrislynchmedia.com/news-items/it-is-so-wrong-duvauchelle-campers-say-council-ignored-87-per-cent-of-submitters",
+      "source": "chrislynchmedia.com",
+      "card_text": "“It is so wrong”: Duvauchelle campers say council ignored 87 per cent of submitters",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Housing Crisis: Community Groups Demand Kāinga Ora Halt Wellington Land Sale Ahead of Election",
+      "url": "https://waateanews.com/2026/10/15/housing-crisis-community-groups-demand-kainga-ora-halt-wellington-land-sale-ahead-of-election",
+      "source": "waateanews.com",
+      "card_text": "Housing Crisis: Community Groups Demand Kāinga Ora Halt Wellington Land Sale Ahead of Election",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "The second leaders’ debate: ‘No fresh ideas and very little fresh information’",
+      "url": "https://thespinoff.co.nz/politics/15-10-2026/the-second-leaders-debate-no-fresh-ideas-and-very-little-fresh-information",
+      "source": "thespinoff.co.nz",
+      "card_text": "The second leaders’ debate: ‘No fresh ideas and very little fresh information’",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Christopher Luxon walks back promise to raise minimum wage by rate of inflation",
+      "url": "https://thepress.co.nz/politics/361099089/christopher-luxon-walks-back-commitment-raise-minimum-wage-rate-inflation",
+      "source": "thepress.co.nz",
+      "card_text": "Christopher Luxon walks back promise to raise minimum wage by rate of inflation",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Fulton Hogan boss warns politicians against chopping and changing projects",
+      "url": "https://newsroom.co.nz/2026/10/15/fulton-hogan-boss-warns-politicians-against-chopping-and-changing-projects",
+      "source": "newsroom.co.nz",
+      "card_text": "Fulton Hogan boss warns politicians against chopping and changing projects",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "NZSIS to support Fiji intelligence review amid foreign interference claims",
+      "url": "https://rnz.co.nz/news/pacific/1919842/nzsis-to-support-fiji-intelligence-review-amid-foreign-interference-claims",
+      "source": "rnz.co.nz",
+      "card_text": "NZSIS to support Fiji intelligence review amid foreign interference claims",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "url": "https://bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Why Zelensky's meeting with Burnham matters",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Black Ferns name side for France test as co-captain returns from injury",
+      "url": "https://stuff.co.nz/sport/361045986/black-ferns-name-side-france-test-ruahei-demant-returns",
+      "source": "stuff.co.nz",
+      "card_text": "Black Ferns name side for France test as co-captain returns from injury",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Solar farm granted consent after 25% size reduction",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/waipara-solar-farm-approved-at-reduced-scale-rgucyqxl",
+      "source": "odt.co.nz",
+      "card_text": "Solar farm granted consent after 25% size reduction",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "New term, same story; attendance up again",
+      "url": "https://beehive.govt.nz/release/new-term-same-story-attendance-again",
+      "source": "beehive.govt.nz",
+      "card_text": "New term, same story; attendance up again",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "SH54 resilience improvements on the way",
+      "url": "https://beehive.govt.nz/release/sh54-resilience-improvements-way",
+      "source": "beehive.govt.nz",
+      "card_text": "SH54 resilience improvements on the way A crash-prone bridge in Manawatū currently down to one lane is set to be replaced with funding from the Regional Infrastructure Fund, Regional Development Minister Shane Jones and Transport Minister Chris Bishop say. The project to replace Haynes Bridge on State Highway 54 will receive funding of $6.5 million from the Regional Infrastructure Fund. Mr Jones says the investment in the new bridge on a key... Beehive | Releases Today 10:30 am Transport",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "News Briefing: 15 October 2026",
+      "url": "https://democracyproject.org.nz/p/news-briefing-15-october-2026",
+      "source": "democracyproject.org.nz",
+      "card_text": "News Briefing: 15 October 2026 ELECTION 2026 – THE HERALD LEADERS’ DEBATE Democracy Project Today 7:46 am Politics",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "New Zealand Apple Bred to beat the heat",
+      "url": "https://kiwikidsnews.co.nz/new-zealand-apple-bred-to-beat-the-heat",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "New Zealand Apple Bred to beat the heat A New Zealand company has launched a new family of apples specially bred to grow well in hot weather, as the climate keeps warming. VentureFruit, part of the Kiwi company T&G Global, unveiled the new apples, called Adore, at a big fruit trade show in Madrid, Spain, on 6 October 2026. The apples come from […] Kiwi Kids News Today 8:21 am Rural",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Candidates talk the issues",
+      "url": "https://cambridgenews.nz/2026/10/candidates-talk-the-issues",
+      "source": "cambridgenews.nz",
+      "card_text": "Candidates talk the issues Taupō MP Louise Upston pointed to progress being made and planned for in health when speaking at a candidates meeting in Cambridge last week. Upston listed gains including the under-construction medical school at Waikato University... Cambridge News Today 8:00 am Politics",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Hunua Quarry development fast-tracked",
+      "url": "https://beehive.govt.nz/release/hunua-quarry-development-fast-tracked",
+      "source": "beehive.govt.nz",
+      "card_text": "Hunua Quarry development fast-tracked A third substantial Auckland quarry project has gained Fast-track approval to expand operations, Infrastructure Minister Chris Bishop and Resources Minister Shane Jones say. This is the 37th project approved through the Fast-track process. Winstone Aggregates lodged its application in March 2026, with approval taking around four months from the appointment of an independent expert panel. The redevelopment of... Beehive | Releases Today 12:38 pm Politics",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Banks withstand oil shock, recession and cyber-attack in stress test",
+      "url": "https://businessdesk.co.nz/article/news-in-brief/banks-withstand-oil-shock-recession-and-cyber-attack-in-stress-test",
+      "source": "businessdesk.co.nz",
+      "card_text": "Banks withstand oil shock, recession and cyber-attack in stress test",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Labour pledges $900 million in government contracts for Māori businesses",
+      "url": "https://chrislynchmedia.com/news-items/labour-pledges-900-million-in-government-contracts-for-maori-businesses",
+      "source": "chrislynchmedia.com",
+      "card_text": "Labour pledges $900 million in government contracts for Māori businesses",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "TUANZ calls out political short-termism ahead of election",
+      "url": "https://reseller.co.nz/article/4235438/tuanz-calls-out-political-short-termism-ahead-of-election.html",
+      "source": "reseller.co.nz",
+      "card_text": "TUANZ calls out political short-termism ahead of election",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Commerce Commission confirms it will not step in to keep Wellington water bills down",
+      "url": "https://rnz.co.nz/news/politics/1922827/commerce-commission-confirms-it-will-not-step-in-to-keep-wellington-water-bills-down",
+      "source": "rnz.co.nz",
+      "card_text": "Commerce Commission confirms it will not step in to keep Wellington water bills down",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "The Costco effect: Christchurch supermarkets could be forced to drop prices ConsumerNZ says",
+      "url": "https://chrislynchmedia.com/news-items/the-costco-effect-christchurch-supermarkets-could-be-forced-to-drop-prices-consumernz-says",
+      "source": "chrislynchmedia.com",
+      "card_text": "The Costco effect: Christchurch supermarkets could be forced to drop prices ConsumerNZ says",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Cornell president knew of alleged gang rape but never checked on outcome",
+      "url": "https://stuff.co.nz/world-news/361046864/cornell-president-admits-he-never-followed-gang-rape",
+      "source": "stuff.co.nz",
+      "card_text": "Cornell president knew of alleged gang rape but never checked on outcome",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "City Mission considers investigation into transitional housing service following death of Braydon Hepworth",
+      "url": "https://thepress.co.nz/nz-news/361099332/city-mission-considering-independent-review-following-death-braydon-hepworth",
+      "source": "thepress.co.nz",
+      "card_text": "City Mission considers investigation into transitional housing service following death of Braydon Hepworth",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
+      "url": "https://nzherald.co.nz/nz/christchurch/braydon-deserved-better-mans-death-sparks-city-mission-resignation/Z3EPGBE5RZGPJK73DAGELOSNVQ",
+      "source": "nzherald.co.nz",
+      "card_text": "‘Braydon deserved better’: Man’s death sparks City Mission resignation",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "North Canterbury moves to single tsunami zone",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/north-canterbury-moves-to-single-tsunami-zone-lagja936",
+      "source": "odt.co.nz",
+      "card_text": "North Canterbury moves to single tsunami zone",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Tertiary Education Commission defends its decision to limit nurse training enrolments",
+      "url": "https://rnz.co.nz/news/health/1923349/tertiary-education-commission-defends-its-decision-to-limit-nurse-training-enrolments",
+      "source": "rnz.co.nz",
+      "card_text": "Tertiary Education Commission defends its decision to limit nurse training enrolments",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Election 2026: National won’t back Act policy to give residential property investors tax relief by enabling negative gearing",
+      "url": "https://nzherald.co.nz/business/personal-finance/tax/national-wont-back-acts-policy-to-give-residential-property-investors-tax-relief-by-enabling-negative-gearing/premium/PSXVUPCFB5EWTJH5SHTSD7VG5A",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: National won’t back Act policy to give residential property investors tax relief by enabling negative gearing",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Changes proposed ‘outrageous’, resident villages advocate says",
+      "url": "https://odt.co.nz/canterbury/mid-canterbury/changes-proposed-outrageous-resident-villages-advocate-says-f4sepwi1",
+      "source": "odt.co.nz",
+      "card_text": "Changes proposed ‘outrageous’, resident villages advocate says",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Time running out to enrol to vote in election",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/time-running-out-to-enrol-to-vote-in-election-rmmnp9aa",
+      "source": "odt.co.nz",
+      "card_text": "Time running out to enrol to vote in election",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "One NZ signs 10-year deal with Prvidr to support MNVOs on its network",
+      "url": "https://reseller.co.nz/article/4235422/one-nz-signs-10-year-deal-with-prvidr-to-support-mnvos-on-its-network.html",
+      "source": "reseller.co.nz",
+      "card_text": "One NZ signs 10-year deal with Prvidr to support MNVOs on its network",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "New Term, Same Story; Attendance Up Again",
+      "url": "https://scoop.co.nz/stories/PA2610/S00129/new-term-same-story-attendance-up-again.htm",
+      "source": "scoop.co.nz",
+      "card_text": "New Term, Same Story; Attendance Up Again",
+      "discovered_at_utc": "2026-10-15T01:30:41.834384+00:00"
     },
     {
       "rank": 40,
@@ -37,27 +421,11 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 28,
-      "title": "Govt directive on nurse enrolments 'makes no sense'",
-      "url": "https://odt.co.nz/news/dunedin/order-to-train-fewer-nurses-makes-no-sense-ayrjuxu6",
-      "source": "odt.co.nz",
-      "card_text": "Govt directive on nurse enrolments 'makes no sense'",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 29,
       "title": "Men’s mental health: the cost of silence",
       "url": "https://businessdesk.co.nz/article/working-well/mens-mental-health-the-cost-of-silence",
       "source": "businessdesk.co.nz",
       "card_text": "Men’s mental health: the cost of silence",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "More Trees, Fewer Pests: Meridian Invests Another $2.5 Million in Native Forest Restoration",
-      "url": "https://waateanews.com/2026/10/15/more-trees-fewer-pests-meridian-invests-another-2-5-million-in-native-forest-restoration",
-      "source": "waateanews.com",
-      "card_text": "More Trees, Fewer Pests: Meridian Invests Another $2.5 Million in Native Forest Restoration",
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
@@ -77,67 +445,11 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 18,
-      "title": "‘Insurers have reached their risk limits’: Impact of natural hazards on homeowners",
-      "url": "https://thepress.co.nz/business/361097386/insurers-have-reached-their-risk-limits-impact-natural-hazards-homeowners",
-      "source": "thepress.co.nz",
-      "card_text": "‘Insurers have reached their risk limits’: Impact of natural hazards on homeowners",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "48% now feel they have to leave NZ to get ahead",
-      "url": "https://thekaka.substack.com/p/48-now-feel-they-have-to-leave-nz",
-      "source": "thekaka.substack.com",
-      "card_text": "48% now feel they have to leave NZ to get ahead",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Kiwis kick off Rugby League World Cup today",
-      "url": "https://kiwikidsnews.co.nz/kiwis-kick-off-rugby-league-world-cup-today",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Kiwis kick off Rugby League World Cup today",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "SIT's Independence A Milestone For Invercargill",
-      "url": "https://whatsoninvers.nz/sits-independence-a-milestone-for-invercargill",
-      "source": "whatsoninvers.nz",
-      "card_text": "SIT's Independence A Milestone For Invercargill",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Container ship sinks in Strait of Hormuz",
-      "url": "https://thepress.co.nz/business/361098959/container-ship-sinks-strait-hormuz",
-      "source": "thepress.co.nz",
-      "card_text": "Container ship sinks in Strait of Hormuz",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Government quietly selects liquefied natural gas provider",
-      "url": "https://rnz.co.nz/news/politics/1915808/government-quietly-selects-liquefied-natural-gas-provider",
-      "source": "rnz.co.nz",
-      "card_text": "Government quietly selects liquefied natural gas provider",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 19,
       "title": "'Poor becoming poorer': South Auckland foodbanks warn poverty is deepening among Pasifika",
       "url": "https://rnz.co.nz/news/pacific/1915558/poor-becoming-poorer-south-auckland-foodbanks-warn-poverty-is-deepening-among-pasifika",
       "source": "rnz.co.nz",
       "card_text": "'Poor becoming poorer': South Auckland foodbanks warn poverty is deepening among Pasifika",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Rugby League World Cup: Pacific Island teams name for opening round",
-      "url": "https://rnz.co.nz/news/pacific/1917323/rugby-league-world-cup-pacific-island-teams-name-for-opening-round",
-      "source": "rnz.co.nz",
-      "card_text": "Rugby League World Cup: Pacific Island teams name for opening round",
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
@@ -157,30 +469,6 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 4,
-      "title": "Govt quietly selects liquefied natural gas provider",
-      "url": "https://odt.co.nz/news/national/govt-quietly-selects-liquefied-natural-gas-provider-vd3aouic",
-      "source": "odt.co.nz",
-      "card_text": "Govt quietly selects liquefied natural gas provider",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Switzerland’s Glaciers melting at Record Pace",
-      "url": "https://kiwikidsnews.co.nz/switzerlands-glaciers-melting-at-record-pace",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Switzerland’s Glaciers melting at Record Pace",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Public sector CEOs set to face performance pay and sanctions",
-      "url": "https://newsroom.co.nz/2026/10/15/public-sector-ceos-set-to-face-performance-pay-and-sanctions",
-      "source": "newsroom.co.nz",
-      "card_text": "Public sector CEOs set to face performance pay and sanctions",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 17,
       "title": "Fact-checking the leaders’ debate after Luxon and Hipkins said they never lie",
       "url": "https://newsroom.co.nz/2026/10/15/fact-checking-the-leaders-debate-after-luxon-and-hipkins-said-they-never-lie",
@@ -197,35 +485,11 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 34,
-      "title": "Constable David Cramp awarded Police Bravery Award as new details revealed from Waitārere Beach triple shooting",
-      "url": "https://nzherald.co.nz/nz/crime/constable-david-cramp-awarded-police-bravery-award-as-new-details-revealed-from-waitarere-beach-triple-shooting/Y4FB6UHHHFEZRAVXRBD4QYF7LE",
-      "source": "nzherald.co.nz",
-      "card_text": "Constable David Cramp awarded Police Bravery Award as new details revealed from Waitārere Beach triple shooting",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "The distressed girl opened the door but couldn’t say what was wrong. The cop leapt into action",
-      "url": "https://stuff.co.nz/nz-news/361046425/officer-honoured-after-saving-three-gunshot-victims-waitarere-beach",
-      "source": "stuff.co.nz",
-      "card_text": "The distressed girl opened the door but couldn’t say what was wrong. The cop leapt into action",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 48,
       "title": "Christopher Luxon: National Party Leader takes talkback with Kerre Woodham",
       "url": "https://newstalkzb.co.nz/on-air/kerre-woodham-mornings/audio/christopher-luxon-national-party-leader-takes-talkback-with-kerre-woodham",
       "source": "newstalkzb.co.nz",
       "card_text": "Christopher Luxon: National Party Leader takes talkback with Kerre Woodham",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 42,
-      "title": "Live: ‘Hipkins wakes up in sweats’ thinking about his coalition partners, Peters says | Stuff",
-      "url": "https://stuff.co.nz/politics/361046241/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Live: ‘Hipkins wakes up in sweats’ thinking about his coalition partners, Peters says | Stuff",
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
@@ -237,22 +501,6 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 3,
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Are We Missing the Obvious?",
-      "url": "https://goodoil.news/are-we-missing-the-obvious",
-      "source": "goodoil.news",
-      "card_text": "Are We Missing the Obvious? According to the report, New Zealand had the highest suicide rate amongst youth in the 36 countries that were analysed, the second highest rate of school bullying and the third highest percentage of overweight children. The Good Oil Today 12:00 pm Opinion",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 9,
       "title": "US inflation jumps to 3.7% in September",
       "url": "https://businessdesk.co.nz/article/the-wall-street-journal/us-inflation-jumps-to-37-in-september",
@@ -261,91 +509,11 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 10,
-      "title": "“It is so wrong”: Duvauchelle campers say council ignored 87 per cent of submitters",
-      "url": "https://chrislynchmedia.com/news-items/it-is-so-wrong-duvauchelle-campers-say-council-ignored-87-per-cent-of-submitters",
-      "source": "chrislynchmedia.com",
-      "card_text": "“It is so wrong”: Duvauchelle campers say council ignored 87 per cent of submitters",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Housing Crisis: Community Groups Demand Kāinga Ora Halt Wellington Land Sale Ahead of Election",
-      "url": "https://waateanews.com/2026/10/15/housing-crisis-community-groups-demand-kainga-ora-halt-wellington-land-sale-ahead-of-election",
-      "source": "waateanews.com",
-      "card_text": "Housing Crisis: Community Groups Demand Kāinga Ora Halt Wellington Land Sale Ahead of Election",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "The second leaders’ debate: ‘No fresh ideas and very little fresh information’",
-      "url": "https://thespinoff.co.nz/politics/15-10-2026/the-second-leaders-debate-no-fresh-ideas-and-very-little-fresh-information",
-      "source": "thespinoff.co.nz",
-      "card_text": "The second leaders’ debate: ‘No fresh ideas and very little fresh information’",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Christopher Luxon walks back promise to raise minimum wage by rate of inflation",
-      "url": "https://thepress.co.nz/politics/361099089/christopher-luxon-walks-back-commitment-raise-minimum-wage-rate-inflation",
-      "source": "thepress.co.nz",
-      "card_text": "Christopher Luxon walks back promise to raise minimum wage by rate of inflation",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Fulton Hogan boss warns politicians against chopping and changing projects",
-      "url": "https://newsroom.co.nz/2026/10/15/fulton-hogan-boss-warns-politicians-against-chopping-and-changing-projects",
-      "source": "newsroom.co.nz",
-      "card_text": "Fulton Hogan boss warns politicians against chopping and changing projects",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "NZSIS to support Fiji intelligence review amid foreign interference claims",
-      "url": "https://rnz.co.nz/news/pacific/1919842/nzsis-to-support-fiji-intelligence-review-amid-foreign-interference-claims",
-      "source": "rnz.co.nz",
-      "card_text": "NZSIS to support Fiji intelligence review amid foreign interference claims",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "url": "https://bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Why Zelensky's meeting with Burnham matters",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "Black Ferns name side for France test as co-captain returns from injury",
-      "url": "https://stuff.co.nz/sport/361045986/black-ferns-name-side-france-test-ruahei-demant-returns",
-      "source": "stuff.co.nz",
-      "card_text": "Black Ferns name side for France test as co-captain returns from injury",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Solar farm granted consent after 25% size reduction",
-      "url": "https://odt.co.nz/canterbury/north-canterbury/waipara-solar-farm-approved-at-reduced-scale-rgucyqxl",
-      "source": "odt.co.nz",
-      "card_text": "Solar farm granted consent after 25% size reduction",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 33,
       "title": "Wintry blast plunges temps, SH3 Awakino Gorge closed by flooding as heavy rain hits",
       "url": "https://nzherald.co.nz/nz/metservice-forecast-temperatures-set-to-plunge-as-southerly-arrives-snow-possible-on-highways/OE4ACUPJZJAJZHJIEIWTDYILGA",
       "source": "nzherald.co.nz",
       "card_text": "Wintry blast plunges temps, SH3 Awakino Gorge closed by flooding as heavy rain hits",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
@@ -381,27 +549,11 @@
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
-      "rank": 46,
-      "title": "New term, same story; attendance up again",
-      "url": "https://beehive.govt.nz/release/new-term-same-story-attendance-again",
-      "source": "beehive.govt.nz",
-      "card_text": "New term, same story; attendance up again",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
       "rank": 47,
       "title": "Fewer Kiwis moving across the Tasman, figures show",
       "url": "https://odt.co.nz/news/national/fewer-kiwis-moving-across-the-tasman-figures-show-w7hikem1",
       "source": "odt.co.nz",
       "card_text": "Fewer Kiwis moving across the Tasman, figures show",
-      "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "SH54 resilience improvements on the way",
-      "url": "https://beehive.govt.nz/release/sh54-resilience-improvements-way",
-      "source": "beehive.govt.nz",
-      "card_text": "SH54 resilience improvements on the way A crash-prone bridge in Manawatū currently down to one lane is set to be replaced with funding from the Regional Infrastructure Fund, Regional Development Minister Shane Jones and Transport Minister Chris Bishop say. The project to replace Haynes Bridge on State Highway 54 will receive funding of $6.5 million from the Regional Infrastructure Fund. Mr Jones says the investment in the new bridge on a key... Beehive | Releases Today 10:30 am Transport",
       "discovered_at_utc": "2026-10-15T00:35:32.008591+00:00"
     },
     {
@@ -509,14 +661,6 @@
       "discovered_at_utc": "2026-10-14T22:27:03.616386+00:00"
     },
     {
-      "rank": 9,
-      "title": "News Briefing: 15 October 2026",
-      "url": "https://democracyproject.org.nz/p/news-briefing-15-october-2026",
-      "source": "democracyproject.org.nz",
-      "card_text": "News Briefing: 15 October 2026 ELECTION 2026 – THE HERALD LEADERS’ DEBATE Democracy Project Today 7:46 am Politics",
-      "discovered_at_utc": "2026-10-14T22:27:03.616386+00:00"
-    },
-    {
       "rank": 45,
       "title": "Picks n’ Mixes & In the Papers for Thursday Oct 15",
       "url": "https://thekaka.substack.com/p/picks-n-mixes-and-in-the-papers-for-4f9",
@@ -538,22 +682,6 @@
       "url": "https://stuff.co.nz/nz-news/361046699/heavy-rain-and-snow-watches-issued-spring-cold-front-sweeps-south",
       "source": "stuff.co.nz",
       "card_text": "Heavy rain and snow watches issued as spring cold front sweeps south",
-      "discovered_at_utc": "2026-10-14T22:27:03.616386+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "New Zealand Apple Bred to beat the heat",
-      "url": "https://kiwikidsnews.co.nz/new-zealand-apple-bred-to-beat-the-heat",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "New Zealand Apple Bred to beat the heat A New Zealand company has launched a new family of apples specially bred to grow well in hot weather, as the climate keeps warming. VentureFruit, part of the Kiwi company T&G Global, unveiled the new apples, called Adore, at a big fruit trade show in Madrid, Spain, on 6 October 2026. The apples come from […] Kiwi Kids News Today 8:21 am Rural",
-      "discovered_at_utc": "2026-10-14T22:27:03.616386+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "Candidates talk the issues",
-      "url": "https://cambridgenews.nz/2026/10/candidates-talk-the-issues",
-      "source": "cambridgenews.nz",
-      "card_text": "Candidates talk the issues Taupō MP Louise Upston pointed to progress being made and planned for in health when speaking at a candidates meeting in Cambridge last week. Upston listed gains including the under-construction medical school at Waikato University... Cambridge News Today 8:00 am Politics",
       "discovered_at_utc": "2026-10-14T22:27:03.616386+00:00"
     },
     {
@@ -1715,158 +1843,6 @@
       "source": "odt.co.nz",
       "card_text": "Christchurch man’s body found buried under a shed",
       "discovered_at_utc": "2026-10-14T02:26:57.556493+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "Southern wait times worst in NZ",
-      "url": "https://thepress.co.nz/nz-news/361096756/southern-wait-times-worst-nz",
-      "source": "thepress.co.nz",
-      "card_text": "Southern wait times worst in NZ The Press Today 4:00 am",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "He walked into hospital, and left a tetraplegic",
-      "url": "https://stuff.co.nz/nz-news/361044410/man-left-paralysed-after-hospital-scan-told-failings-have-been-found-his-care",
-      "source": "stuff.co.nz",
-      "card_text": "He walked into hospital, and left a tetraplegic",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Braydon Hepworth’s death prompts another Christchurch City Mission resignation and call for change",
-      "url": "https://thepress.co.nz/nz-news/361097385/braydon-hepworths-death-prompts-another-christchurch-city-mission-resignation-and-call-change",
-      "source": "thepress.co.nz",
-      "card_text": "Braydon Hepworth’s death prompts another Christchurch City Mission resignation and call for change",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Battery Fire Warning: 28 Fires Spark Auckland Council’s Urgent E-Waste Alert",
-      "url": "https://waateanews.com/2026/10/14/battery-fire-warning-28-fires-spark-auckland-councils-urgent-e-waste-alert",
-      "source": "waateanews.com",
-      "card_text": "Battery Fire Warning: 28 Fires Spark Auckland Council’s Urgent E-Waste Alert",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "It’s the younger generation versus the boomers, economist says",
-      "url": "https://rnz.co.nz/news/personal-finance/1885594/it-s-the-younger-generation-versus-the-boomers-economist-says",
-      "source": "rnz.co.nz",
-      "card_text": "It’s the younger generation versus the boomers, economist says",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Rachel Mackintosh: Etū National Secretary on the aluminium sector warning of job losses after govt declines request for safeguards",
-      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/rachel-mackintosh-et%C5%AB-national-secretary-on-the-aluminium-sector-warning-of-job-losses-after-govt-declines-request-for-safeguards",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Rachel Mackintosh: Etū National Secretary on the aluminium sector warning of job losses after govt declines request for safeguards",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Police watchdog prompted by McSkimming scandal unfunded, faces delays",
-      "url": "https://newstalkzb.co.nz/news/crime/police-watchdog-prompted-by-mcskimming-scandal-unfunded-faces-delays",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Police watchdog prompted by McSkimming scandal unfunded, faces delays",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "NZ First wants to slow down fast-track for housing, National says it’s already happened",
-      "url": "https://odt.co.nz/news/national/nz-first-wants-to-slow-down-fast-track-for-housing-gkjgx06h",
-      "source": "odt.co.nz",
-      "card_text": "NZ First wants to slow down fast-track for housing, National says it’s already happened",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "New Rules to protect rockpools",
-      "url": "https://kiwikidsnews.co.nz/new-rules-to-protect-rockpools",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "New Rules to protect rockpools Kiwi Kids News Today 8:18 am",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Man seriously injured after firearm discharged during Auckland altercation",
-      "url": "https://stuff.co.nz/nz-news/361046198/man-seriously-injured-after-firearm-discharged-during-auckland-altercation",
-      "source": "stuff.co.nz",
-      "card_text": "Man seriously injured after firearm discharged during Auckland altercation",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "Resource consent applications hit record high of nearly 10 a day - and it’s good news for consultants",
-      "url": "https://thepress.co.nz/nz-news/361097444/boom-resource-consents-good-news-consultants",
-      "source": "thepress.co.nz",
-      "card_text": "Resource consent applications hit record high of nearly 10 a day - and it’s good news for consultants",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "'No sense': Outrage over government order to limit nurse enrolments",
-      "url": "https://odt.co.nz/news/national/no-sense-outrage-over-government-order-to-limit-nurse-enrolments-ijppun6w",
-      "source": "odt.co.nz",
-      "card_text": "'No sense': Outrage over government order to limit nurse enrolments",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "'No sense': Outrage over government order to limit nurse enrolments",
-      "url": "https://rnz.co.nz/news/politics/1891371/no-sense-outrage-over-government-order-to-limit-nurse-enrolments",
-      "source": "rnz.co.nz",
-      "card_text": "'No sense': Outrage over government order to limit nurse enrolments",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Hawke’s Bay student missing overnight from school hike; search underway",
-      "url": "https://nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-student-missing-overnight-from-school-hike-search-underway/MZIGP7CWDFEWHEX55G7LCCQ2FU",
-      "source": "nzherald.co.nz",
-      "card_text": "Hawke’s Bay student missing overnight from school hike; search underway",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "‘Crisis point’: Violence, sex abuse against young Australians on the rise",
-      "url": "https://odt.co.nz/news/world/crisis-point-violence-sex-abuse-against-young-australians-on-the-rise-xyhinnez",
-      "source": "odt.co.nz",
-      "card_text": "‘Crisis point’: Violence, sex abuse against young Australians on the rise",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Australian man charged with murder of 12-year-old boy fatally shot in face",
-      "url": "https://stuff.co.nz/world-news/361046213/australian-man-charged-murder-12-year-old-boy-fatally-shot-face",
-      "source": "stuff.co.nz",
-      "card_text": "Australian man charged with murder of 12-year-old boy fatally shot in face",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "Senior police officer committed serious misconduct over searches of female influencers",
-      "url": "https://stuff.co.nz/nz-news/361046285/senior-police-officer-committed-serious-misconduct-over-searches-female-influencers",
-      "source": "stuff.co.nz",
-      "card_text": "Senior police officer committed serious misconduct over searches of female influencers",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "url": "https://bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "Long overdue replacement for critical bridge",
-      "url": "https://beehive.govt.nz/release/long-overdue-replacement-critical-bridge",
-      "source": "beehive.govt.nz",
-      "card_text": "Long overdue replacement for critical bridge",
-      "discovered_at_utc": "2026-10-14T00:36:11.280180+00:00"
     }
   ]
 }
