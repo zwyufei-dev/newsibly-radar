@@ -2,22 +2,22 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-16T09:30:36.562768+00:00",
+  "retrieved_at_utc": "2026-10-16T10:30:21.835823+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "url": "https://bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'"
+    },
+    {
+      "rank": 2,
       "title": "Labour and National both below 30%, Labour’s pollster tells corporate clients",
       "url": "https://thepress.co.nz/nz-news/361100468/labour-and-national-below-30-labours-pollster-tells-corporate-clients",
       "source": "thepress.co.nz",
       "card_text": "Labour and National both below 30%, Labour’s pollster tells corporate clients"
-    },
-    {
-      "rank": 2,
-      "title": "Which party has the best plan to fix New Zealand’s health system? – The Front Page",
-      "url": "https://nzherald.co.nz/nz/which-party-has-the-best-plan-to-fix-new-zealands-health-system-the-front-page/F7V7B3WXEJDMLHDJPVADIDQOVY",
-      "source": "nzherald.co.nz",
-      "card_text": "Which party has the best plan to fix New Zealand’s health system? – The Front Page"
     },
     {
       "rank": 3,
@@ -112,45 +112,45 @@
     },
     {
       "rank": 16,
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "url": "https://bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ship attack reports near Hormuz reach record high as oil exports slow"
-    },
-    {
-      "rank": 17,
       "title": "Guam declares 'Condition of Readiness 3' as tropical depression approaches",
       "url": "https://rnz.co.nz/news/pacific/1958607/guam-declares-condition-of-readiness-3-as-tropical-depression-approaches",
       "source": "rnz.co.nz",
       "card_text": "Guam declares 'Condition of Readiness 3' as tropical depression approaches"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Call for criminal groups to be declared ‘terrorists’, as PNG police seize more high-grade guns",
       "url": "https://asiapacificreport.nz/2026/10/16/call-for-criminal-groups-to-be-declared-terrorists-as-png-police-seize-more-high-grade-guns",
       "source": "asiapacificreport.nz",
       "card_text": "Call for criminal groups to be declared ‘terrorists’, as PNG police seize more high-grade guns"
     },
     {
-      "rank": 19,
-      "title": "Northland extend lead over Otago in second half of tense NPC semifinal",
-      "url": "https://stuff.co.nz/sport/361046287/live-northland-v-otago-npc-semifinal",
+      "rank": 18,
+      "title": "Boy, 5, found dead in Australian home was duct-taped into sleeping bag, blindfolded",
+      "url": "https://stuff.co.nz/world-news/361047453/boy-5-found-dead-australian-home-was-duct-taped-sleeping-bag-blindfolded",
       "source": "stuff.co.nz",
-      "card_text": "Northland extend lead over Otago in second half of tense NPC semifinal"
+      "card_text": "Boy, 5, found dead in Australian home was duct-taped into sleeping bag, blindfolded"
+    },
+    {
+      "rank": 19,
+      "title": "Northland make history and break Otago hearts",
+      "url": "https://odt.co.nz/sport/rugby/northland-make-history-and-break-otago-hearts-wmaqql9u",
+      "source": "odt.co.nz",
+      "card_text": "Northland make history and break Otago hearts"
     },
     {
       "rank": 20,
+      "title": "Samoa winger scores four tries to spark huge win over France in World Cup opener",
+      "url": "https://stuff.co.nz/sport/350422587/live-samoa-v-france-rugby-league-world-cup-match",
+      "source": "stuff.co.nz",
+      "card_text": "Samoa winger scores four tries to spark huge win over France in World Cup opener"
+    },
+    {
+      "rank": 21,
       "title": "Rugby League World Cup: Police warn fans to celebrate safely",
       "url": "https://nzherald.co.nz/nz/rugby-league-world-cup-police-warn-fans-to-celebrate-safely/HWW64HKOU5E3JMGEDFSEXVCT5M",
       "source": "nzherald.co.nz",
       "card_text": "Rugby League World Cup: Police warn fans to celebrate safely"
-    },
-    {
-      "rank": 21,
-      "title": "All Blacks coach dismayed at ‘crazy’ World Cup draw",
-      "url": "https://odt.co.nz/sport/rugby/all-blacks-coach-dismayed-at-crazy-world-cup-draw-cf2zfe26",
-      "source": "odt.co.nz",
-      "card_text": "All Blacks coach dismayed at ‘crazy’ World Cup draw"
     },
     {
       "rank": 22,
@@ -175,10 +175,10 @@
     },
     {
       "rank": 25,
-      "title": "Cancer treatment delays at Starship Hospital 'unacceptable', says Greens co-leader Marama Davidson",
-      "url": "https://rnz.co.nz/news/health/1953999/cancer-treatment-delays-at-starship-hospital-unacceptable-says-greens-co-leader-marama-davidson",
-      "source": "rnz.co.nz",
-      "card_text": "Cancer treatment delays at Starship Hospital 'unacceptable', says Greens co-leader Marama Davidson"
+      "title": "Which party has the best plan to fix New Zealand’s health system? – The Front Page",
+      "url": "https://nzherald.co.nz/nz/which-party-has-the-best-plan-to-fix-new-zealands-health-system-the-front-page/F7V7B3WXEJDMLHDJPVADIDQOVY",
+      "source": "nzherald.co.nz",
+      "card_text": "Which party has the best plan to fix New Zealand’s health system? – The Front Page"
     },
     {
       "rank": 26,
@@ -189,45 +189,45 @@
     },
     {
       "rank": 27,
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "url": "https://bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ship attack reports near Hormuz reach record high as oil exports slow"
+    },
+    {
+      "rank": 28,
+      "title": "Employment Court ruling over Calendar Girls sets 'important precedent' for country, dancers say",
+      "url": "https://rnz.co.nz/news/business/1958957/employment-court-ruling-over-calendar-girls-sets-important-precedent-for-country-dancers-say",
+      "source": "rnz.co.nz",
+      "card_text": "Employment Court ruling over Calendar Girls sets 'important precedent' for country, dancers say"
+    },
+    {
+      "rank": 29,
       "title": "Community sentence for owner of dog that mauled girl",
       "url": "https://odt.co.nz/news/national/community-sentence-for-owner-of-dog-that-mauled-girl-x04ndr7x",
       "source": "odt.co.nz",
       "card_text": "Community sentence for owner of dog that mauled girl"
     },
     {
-      "rank": 28,
-      "title": "Police name fishermen who died at same beach that claimed the life of 7yo boy",
-      "url": "https://stuff.co.nz/nz-news/361047500/police-name-fishermen-who-died-same-beach-claimed-life-7yo-boy",
-      "source": "stuff.co.nz",
-      "card_text": "Police name fishermen who died at same beach that claimed the life of 7yo boy"
-    },
-    {
-      "rank": 29,
-      "title": "Election 2026: New poll shows Labour edging ahead of National as Opportunity hits 5%",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-new-poll-shows-labour-edging-ahead-of-national-as-opportunity-hits-5/O3UA6PP5AZAFVEAFRHR7E4JV7U",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: New poll shows Labour edging ahead of National as Opportunity hits 5%"
-    },
-    {
       "rank": 30,
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "url": "https://bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "China tells Israel to stop 'forced establishment' of West Bank settlements"
+    },
+    {
+      "rank": 31,
       "title": "Cook Islanders urged to be prepared for potential cyclone",
       "url": "https://rnz.co.nz/news/pacific/1958250/cook-islanders-urged-to-be-prepared-for-potential-cyclone",
       "source": "rnz.co.nz",
       "card_text": "Cook Islanders urged to be prepared for potential cyclone"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "They fled Russia, but the West sent them back",
       "url": "https://bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "They fled Russia, but the West sent them back"
-    },
-    {
-      "rank": 32,
-      "title": "Democracy Briefing: The discontent election",
-      "url": "https://pointofordernz.wordpress.com/2026/10/16/democracy-briefing-the-discontent-election",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Democracy Briefing: The discontent election"
     },
     {
       "rank": 33,
@@ -238,17 +238,17 @@
     },
     {
       "rank": 34,
+      "title": "Democracy Briefing: The discontent election",
+      "url": "https://pointofordernz.wordpress.com/2026/10/16/democracy-briefing-the-discontent-election",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Democracy Briefing: The discontent election"
+    },
+    {
+      "rank": 35,
       "title": "96% of schools can be ‘very easily’ hacked",
       "url": "https://goodoil.news/96-of-schools-can-be-very-easily-hacked",
       "source": "goodoil.news",
       "card_text": "96% of schools can be ‘very easily’ hacked"
-    },
-    {
-      "rank": 35,
-      "title": "Frustrated Green co-leaders bat away questions on Mongrel Mob visit",
-      "url": "https://newstalkzb.co.nz/news/politics/frustrated-green-co-leaders-bat-away-questions-on-mongrel-mob-visit",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Frustrated Green co-leaders bat away questions on Mongrel Mob visit"
     },
     {
       "rank": 36,
@@ -322,10 +322,10 @@
     },
     {
       "rank": 46,
-      "title": "'This is what it looks like': Mayor speaks on city's water under-investment",
-      "url": "https://rnz.co.nz/news/regions/1953363/this-is-what-it-looks-like-mayor-speaks-on-city-s-water-under-investment",
+      "title": "Affordable rentals deal a win for ratepayers and elderly, New Plymouth mayor says",
+      "url": "https://rnz.co.nz/news/regions_taranaki/1956698/affordable-rentals-deal-a-win-for-ratepayers-and-elderly-new-plymouth-mayor-says",
       "source": "rnz.co.nz",
-      "card_text": "'This is what it looks like': Mayor speaks on city's water under-investment"
+      "card_text": "Affordable rentals deal a win for ratepayers and elderly, New Plymouth mayor says"
     },
     {
       "rank": 47,
@@ -350,10 +350,10 @@
     },
     {
       "rank": 50,
-      "title": "Female body recovered from car that crashed into water in Tauranga",
-      "url": "https://stuff.co.nz/nz-news/361047169/dive-squad-called-after-car-plunges-tauranga-water",
+      "title": "Dancers speak out after landmark Calendar Girls ruling",
+      "url": "https://stuff.co.nz/nz-news/361047600/hard-earned-closure-dancers-speak-out-after-landmark-calendar-girls-ruling",
       "source": "stuff.co.nz",
-      "card_text": "Female body recovered from car that crashed into water in Tauranga"
+      "card_text": "Dancers speak out after landmark Calendar Girls ruling"
     }
   ],
   "json_endpoints_observed": [
