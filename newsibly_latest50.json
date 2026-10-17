@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-17T13:28:09.534340+00:00",
+  "retrieved_at_utc": "2026-10-17T14:23:33.292324+00:00",
   "count": 50,
   "items": [
     {
@@ -14,59 +14,59 @@
     },
     {
       "rank": 2,
+      "title": "Fijian chief warns coup immunity debate must address inequality and social issues",
+      "url": "https://asiapacificreport.nz/2026/10/18/fijian-chief-warns-coup-immunity-debate-must-address-inequality-and-social-issues",
+      "source": "asiapacificreport.nz",
+      "card_text": "Fijian chief warns coup immunity debate must address inequality and social issues"
+    },
+    {
+      "rank": 3,
+      "title": "Tonga stun England 30–12 in historic first victory, sending powerful World Cup warning",
+      "url": "https://kanivatonga.co.nz/2026/10/tonga-stun-england-30-12-in-historic-first-victory-sending-powerful-world-cup-warning",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Tonga stun England 30–12 in historic first victory, sending powerful World Cup warning"
+    },
+    {
+      "rank": 4,
       "title": "Pictured: School shooting’s youngest victim, the killer, and the hero dad who took him down",
       "url": "https://stuff.co.nz/world-news/361047773/youngest-oregon-school-shooting-victim-was-fearless-climbe",
       "source": "stuff.co.nz",
       "card_text": "Pictured: School shooting’s youngest victim, the killer, and the hero dad who took him down"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Aitutaki residents urged to heed updates as Wati approaches",
       "url": "https://rnz.co.nz/news/pacific/1972158/aitutaki-residents-urged-to-heed-updates-as-wati-approaches",
       "source": "rnz.co.nz",
       "card_text": "Aitutaki residents urged to heed updates as Wati approaches"
     },
     {
-      "rank": 4,
-      "title": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home",
-      "url": "https://kanivatonga.co.nz/2026/10/tongan-seasonal-worker-jailed-for-stabbing-compatriot-leaving-victim-fearful-and-forced-to-return-home",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’",
       "url": "https://newstalkzb.co.nz/news/politics/election-2026-kiri-tamihere-waititi-calls-backlash-to-mongrel-mob-hui-manufactured-outrage",
       "source": "newstalkzb.co.nz",
       "card_text": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Carry on, nurse – but not if you don’t pass muster with the Thought Police",
       "url": "https://pointofordernz.wordpress.com/2026/10/17/carry-on-nurse-but-not-if-you-dont-pass-muster-with-the-thought-police",
       "source": "pointofordernz.wordpress.com",
       "card_text": "Carry on, nurse – but not if you don’t pass muster with the Thought Police"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Rural ADHD service aims to reach adults ‘locked out’ of diagnosis",
       "url": "https://chrislynchmedia.com/news-items/rural-adhd-service-aims-to-reach-adults-locked-out-of-diagnosis",
       "source": "chrislynchmedia.com",
       "card_text": "Rural ADHD service aims to reach adults ‘locked out’ of diagnosis"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Popular campground to reopen despite council recommendations",
       "url": "https://odt.co.nz/news/national/popular-campground-to-reopen-despite-council-recommendations-olkfx5t1",
       "source": "odt.co.nz",
       "card_text": "Popular campground to reopen despite council recommendations"
-    },
-    {
-      "rank": 9,
-      "title": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy",
-      "url": "https://asiapacificreport.nz/2026/10/17/free-palestine-party-slams-shameful-nz-stance-at-un-calls-for-independent-policy",
-      "source": "asiapacificreport.nz",
-      "card_text": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy"
     },
     {
       "rank": 10,
@@ -105,17 +105,17 @@
     },
     {
       "rank": 15,
-      "title": "Trump stops Russia sanctions amid worsening relations with Ukraine",
-      "url": "https://stuff.co.nz/world-news/361047831/trump-puts-new-russia-sanctions-he-recently-signed",
-      "source": "stuff.co.nz",
-      "card_text": "Trump stops Russia sanctions amid worsening relations with Ukraine"
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "url": "https://bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Nursery owner in China jailed for life after hundreds of children poisoned"
     },
     {
       "rank": 16,
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "url": "https://bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
+      "card_text": "Pope discharged from hospital days after lung cancer surgery"
     },
     {
       "rank": 17,
@@ -168,24 +168,24 @@
     },
     {
       "rank": 24,
-      "title": "North Korea says it tested new torpedo system with AI capabilities",
-      "url": "https://stuff.co.nz/world-news/361047828/north-korea-says-it-tested-new-torpedo-system-ai-capabi",
-      "source": "stuff.co.nz",
-      "card_text": "North Korea says it tested new torpedo system with AI capabilities"
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
     },
     {
       "rank": 25,
+      "title": "Trump stops Russia sanctions amid worsening relations with Ukraine",
+      "url": "https://stuff.co.nz/world-news/361047831/trump-puts-new-russia-sanctions-he-recently-signed",
+      "source": "stuff.co.nz",
+      "card_text": "Trump stops Russia sanctions amid worsening relations with Ukraine"
+    },
+    {
+      "rank": 26,
       "title": "Guam on high alert as Typhoon Champi strengthens, ports shut",
       "url": "https://rnz.co.nz/news/pacific/1972209/guam-on-high-alert-as-typhoon-champi-strengthens-ports-shut",
       "source": "rnz.co.nz",
       "card_text": "Guam on high alert as Typhoon Champi strengthens, ports shut"
-    },
-    {
-      "rank": 26,
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "url": "https://bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico"
     },
     {
       "rank": 27,
@@ -196,10 +196,10 @@
     },
     {
       "rank": 28,
-      "title": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies",
-      "url": "https://stuff.co.nz/sport/361047761/test-centurion-beauden-barrett-silences-critics-all-blacks-first-half-blitz-stuns-wallabies",
+      "title": "Tonga ends England’s Rugby League World Cup dreams in opening match",
+      "url": "https://stuff.co.nz/sport/361046305/live-england-v-tonga-rugby-league-world-cup-match",
       "source": "stuff.co.nz",
-      "card_text": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies"
+      "card_text": "Tonga ends England’s Rugby League World Cup dreams in opening match"
     },
     {
       "rank": 29,
@@ -273,87 +273,87 @@
     },
     {
       "rank": 39,
+      "title": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies",
+      "url": "https://stuff.co.nz/sport/361047761/test-centurion-beauden-barrett-silences-critics-all-blacks-first-half-blitz-stuns-wallabies",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies"
+    },
+    {
+      "rank": 40,
+      "title": "North Korea says it tested new torpedo system with AI capabilities",
+      "url": "https://stuff.co.nz/world-news/361047828/north-korea-says-it-tested-new-torpedo-system-ai-capabi",
+      "source": "stuff.co.nz",
+      "card_text": "North Korea says it tested new torpedo system with AI capabilities"
+    },
+    {
+      "rank": 41,
       "title": "Pizza store owner punished for failure to pay $500,000 in tax",
       "url": "https://stuff.co.nz/nz-news/361047827/pizza-store-owner-punished-failure-pay-500000-tax",
       "source": "stuff.co.nz",
       "card_text": "Pizza store owner punished for failure to pay $500,000 in tax"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "title": "Auckland FC v Melbourne City: Lachlan Bayliss shines in perfect start for A-League champions",
       "url": "https://nzherald.co.nz/sport/football/auckland-fc/auckland-fc-v-melbourne-city-lachlan-bayliss-shines-in-perfect-start-for-a-league-champions/XIKFEMVTINDMFIQ7KXZXRG5XNM",
       "source": "nzherald.co.nz",
       "card_text": "Auckland FC v Melbourne City: Lachlan Bayliss shines in perfect start for A-League champions"
     },
     {
-      "rank": 41,
+      "rank": 43,
+      "title": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home",
+      "url": "https://kanivatonga.co.nz/2026/10/tongan-seasonal-worker-jailed-for-stabbing-compatriot-leaving-victim-fearful-and-forced-to-return-home",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home"
+    },
+    {
+      "rank": 44,
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico"
+    },
+    {
+      "rank": 45,
       "title": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago",
       "url": "https://thepress.co.nz/sport/361100671/sam-nock-and-rivez-reihana-send-northland-npc-final-brimming-confidence",
       "source": "thepress.co.nz",
       "card_text": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago"
     },
     {
-      "rank": 42,
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump denies limiting Ukraine access to Starlink network"
+      "rank": 46,
+      "title": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy",
+      "url": "https://asiapacificreport.nz/2026/10/17/free-palestine-party-slams-shameful-nz-stance-at-un-calls-for-independent-policy",
+      "source": "asiapacificreport.nz",
+      "card_text": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy"
     },
     {
-      "rank": 43,
+      "rank": 47,
       "title": "National’s new welfare policies only raise more questions",
       "url": "https://pointofordernz.wordpress.com/2026/10/17/nationals-new-welfare-policies-only-raise-more-questions",
       "source": "pointofordernz.wordpress.com",
       "card_text": "National’s new welfare policies only raise more questions"
     },
     {
-      "rank": 44,
-      "title": "Tongan women among those warned by US Embassy against travelling to America to give birth for citizenship",
-      "url": "https://kanivatonga.co.nz/2026/10/tongan-women-among-those-warned-by-us-embassy-against-travelling-to-america-to-give-birth-for-citizenship",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Tongan women among those warned by US Embassy against travelling to America to give birth for citizenship"
-    },
-    {
-      "rank": 45,
+      "rank": 48,
       "title": "Quick Hit: Labour Wants Google to Pay for News Kiwis Don’t Trust",
       "url": "https://goodoil.news/quick-hit-labour-news-bargaining-bill-trust",
       "source": "goodoil.news",
       "card_text": "Quick Hit: Labour Wants Google to Pay for News Kiwis Don’t Trust"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "title": "Aotearoa cannot afford to leave another generation of young people behind.",
       "url": "https://waateanews.com/2026/10/17/opinion-aotearoa-cannot-afford-to-leave-another-generation-of-young-people-behind",
       "source": "waateanews.com",
       "card_text": "Aotearoa cannot afford to leave another generation of young people behind."
     },
     {
-      "rank": 47,
-      "title": "The blockade is working",
-      "url": "https://kiwiblog.co.nz/2026/10/the_blockade_is_working.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "The blockade is working Erick Erickson writes: Crude exports from the Persian Gulf are back at pre-war levels. J.P. Morgan puts the 10-day average at 17.5 million barrels a day, which is 98 percent of where it stood before the war. Goldman Sachs estimates the region exported 19 million barrels a day over the past week. Brent has come […] The post The blockade is working first appeared on Kiwiblog . Kiwiblog Yesterday Opinion"
-    },
-    {
-      "rank": 48,
+      "rank": 50,
       "title": "St John introduces female-form manikins to address cardiac arrest survival gender gap",
       "url": "https://rnz.co.nz/news/health/1971362/st-john-introduces-female-form-manikins-to-address-cardiac-arrest-survival-gender-gap",
       "source": "rnz.co.nz",
       "card_text": "St John introduces female-form manikins to address cardiac arrest survival gender gap"
-    },
-    {
-      "rank": 49,
-      "title": "4 men on jetskis saved from rocky, chilly waters off Mangawhai Beach, 2 had hypothermia",
-      "url": "https://nzherald.co.nz/nz/auckland/four-men-on-jet-skis-saved-from-rocky-icy-waters-off-mangawhai-beach-with-two-suffering-hypothermia/YJTTQA2Y5JFG3JZU4RL3633PJA",
-      "source": "nzherald.co.nz",
-      "card_text": "4 men on jetskis saved from rocky, chilly waters off Mangawhai Beach, 2 had hypothermia"
-    },
-    {
-      "rank": 50,
-      "title": "Four jet skiers rescued after getting into trouble off Northland coast",
-      "url": "https://stuff.co.nz/nz-news/361047768/four-jet-skiers-rescued-after-getting-trouble-northland-coast",
-      "source": "stuff.co.nz",
-      "card_text": "Four jet skiers rescued after getting into trouble off Northland coast"
     }
   ],
   "json_endpoints_observed": [
