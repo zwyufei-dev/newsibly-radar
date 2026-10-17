@@ -2,7 +2,7 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-17T10:24:07.500559+00:00",
+  "retrieved_at_utc": "2026-10-17T11:23:37.691436+00:00",
   "count": 50,
   "items": [
     {
@@ -28,17 +28,17 @@
     },
     {
       "rank": 4,
-      "title": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’",
-      "url": "https://newstalkzb.co.nz/news/politics/election-2026-kiri-tamihere-waititi-calls-backlash-to-mongrel-mob-hui-manufactured-outrage",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’"
-    },
-    {
-      "rank": 5,
       "title": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home",
       "url": "https://kanivatonga.co.nz/2026/10/tongan-seasonal-worker-jailed-for-stabbing-compatriot-leaving-victim-fearful-and-forced-to-return-home",
       "source": "kanivatonga.co.nz",
       "card_text": "Tongan seasonal worker jailed for stabbing compatriot, leaving victim fearful and forced to return home"
+    },
+    {
+      "rank": 5,
+      "title": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-kiri-tamihere-waititi-calls-backlash-to-mongrel-mob-hui-manufactured-outrage",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026: Kiri Tamihere-Waititi calls backlash to Mongrel Mob hui ‘manufactured outrage’"
     },
     {
       "rank": 6,
@@ -112,10 +112,10 @@
     },
     {
       "rank": 16,
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Brazil sees record fall in Amazon deforestation as key election looms"
+      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
     },
     {
       "rank": 17,
@@ -168,24 +168,24 @@
     },
     {
       "rank": 24,
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
-    },
-    {
-      "rank": 25,
       "title": "North Korea says it tested new torpedo system with AI capabilities",
       "url": "https://stuff.co.nz/world-news/361047828/north-korea-says-it-tested-new-torpedo-system-ai-capabi",
       "source": "stuff.co.nz",
       "card_text": "North Korea says it tested new torpedo system with AI capabilities"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Guam on high alert as Typhoon Champi strengthens, ports shut",
       "url": "https://rnz.co.nz/news/pacific/1972209/guam-on-high-alert-as-typhoon-champi-strengthens-ports-shut",
       "source": "rnz.co.nz",
       "card_text": "Guam on high alert as Typhoon Champi strengthens, ports shut"
+    },
+    {
+      "rank": 26,
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico"
     },
     {
       "rank": 27,
@@ -196,10 +196,10 @@
     },
     {
       "rank": 28,
-      "title": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago",
-      "url": "https://thepress.co.nz/sport/361100671/sam-nock-and-rivez-reihana-send-northland-npc-final-brimming-confidence",
-      "source": "thepress.co.nz",
-      "card_text": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago"
+      "title": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies",
+      "url": "https://stuff.co.nz/sport/361047761/test-centurion-beauden-barrett-silences-critics-all-blacks-first-half-blitz-stuns-wallabies",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies"
     },
     {
       "rank": 29,
@@ -210,10 +210,10 @@
     },
     {
       "rank": 30,
-      "title": "St John introduces female-form manikins to address cardiac arrest survival gender gap",
-      "url": "https://rnz.co.nz/news/health/1971362/st-john-introduces-female-form-manikins-to-address-cardiac-arrest-survival-gender-gap",
+      "title": "General practitioner called out of retirement to staff undermanned Horowhenua clinic",
+      "url": "https://rnz.co.nz/news/health/1972192/general-practitioner-called-out-of-retirement-to-staff-undermanned-horowhenua-clinic",
       "source": "rnz.co.nz",
-      "card_text": "St John introduces female-form manikins to address cardiac arrest survival gender gap"
+      "card_text": "General practitioner called out of retirement to staff undermanned Horowhenua clinic"
     },
     {
       "rank": 31,
@@ -238,45 +238,45 @@
     },
     {
       "rank": 34,
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Brazil sees record fall in Amazon deforestation as key election looms"
+    },
+    {
+      "rank": 35,
       "title": "‘She was going pretty good’: Whakaari plume catches driver’s eye",
       "url": "https://stuff.co.nz/nz-news/361047788/she-was-going-pretty-good-whakaari-plume-catches-drivers-eye",
       "source": "stuff.co.nz",
       "card_text": "‘She was going pretty good’: Whakaari plume catches driver’s eye"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Wind farm gets final approval; construction to start next month",
       "url": "https://odt.co.nz/news/dunedin/wind-farm-gets-final-approval-construction-to-start-next-month-yy5fn7oi",
       "source": "odt.co.nz",
       "card_text": "Wind farm gets final approval; construction to start next month"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Rotorua Goes Green: 180 Tonnes of Food and Garden Waste Saved From Landfill in Just Two Weeks!",
       "url": "https://waateanews.com/2026/10/17/rotorua-goes-green-180-tonnes-of-food-and-garden-waste-saved-from-landfill-in-just-two-weeks",
       "source": "waateanews.com",
       "card_text": "Rotorua Goes Green: 180 Tonnes of Food and Garden Waste Saved From Landfill in Just Two Weeks!"
     },
     {
-      "rank": 37,
-      "title": "Council shores up seawall repair budget",
-      "url": "https://odt.co.nz/otago/south-otago/council-shores-up-seawall-repair-budget-iyt6f2ih",
-      "source": "odt.co.nz",
-      "card_text": "Council shores up seawall repair budget Otago Daily Times Today 5:30 am"
-    },
-    {
       "rank": 38,
-      "title": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies",
-      "url": "https://stuff.co.nz/sport/361047761/test-centurion-beauden-barrett-silences-critics-all-blacks-first-half-blitz-stuns-wallabies",
+      "title": "Protesters across France rally over rising living costs, joining students' grievances",
+      "url": "https://stuff.co.nz/world-news/361047855/protesters-across-france-rally-over-rising-living-costs-join",
       "source": "stuff.co.nz",
-      "card_text": "Watch: Test centurion Barrett silences critics as ABs first-half blitz stuns Wallabies"
+      "card_text": "Protesters across France rally over rising living costs, joining students' grievances"
     },
     {
       "rank": 39,
-      "title": "General practitioner called out of retirement to staff undermanned Horowhenua clinic",
-      "url": "https://rnz.co.nz/news/health/1972192/general-practitioner-called-out-of-retirement-to-staff-undermanned-horowhenua-clinic",
-      "source": "rnz.co.nz",
-      "card_text": "General practitioner called out of retirement to staff undermanned Horowhenua clinic"
+      "title": "Pizza store owner punished for failure to pay $500,000 in tax",
+      "url": "https://stuff.co.nz/nz-news/361047827/pizza-store-owner-punished-failure-pay-500000-tax",
+      "source": "stuff.co.nz",
+      "card_text": "Pizza store owner punished for failure to pay $500,000 in tax"
     },
     {
       "rank": 40,
@@ -287,17 +287,17 @@
     },
     {
       "rank": 41,
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "url": "https://bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico"
+      "title": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago",
+      "url": "https://thepress.co.nz/sport/361100671/sam-nock-and-rivez-reihana-send-northland-npc-final-brimming-confidence",
+      "source": "thepress.co.nz",
+      "card_text": "NPC history beckons as Northland No 9-No 10 axis delivers clinic against Otago"
     },
     {
       "rank": 42,
-      "title": "Healthcare out of reach, Māori seats up for grabs",
-      "url": "https://rnz.co.nz/news/politics/1966958/healthcare-out-of-reach-maori-seats-up-for-grabs",
-      "source": "rnz.co.nz",
-      "card_text": "Healthcare out of reach, Māori seats up for grabs"
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump denies limiting Ukraine access to Starlink network"
     },
     {
       "rank": 43,
@@ -332,28 +332,28 @@
       "title": "The blockade is working",
       "url": "https://kiwiblog.co.nz/2026/10/the_blockade_is_working.html",
       "source": "kiwiblog.co.nz",
-      "card_text": "The blockade is working Erick Erickson writes: Crude exports from the Persian Gulf are back at pre-war levels. J.P. Morgan puts the 10-day average at 17.5 million barrels a day, which is 98 percent of where it stood before the war. Goldman Sachs estimates the region exported 19 million barrels a day over the past week. Brent has come […] The post The blockade is working first appeared on Kiwiblog . Kiwiblog Today 7:00 am Opinion"
+      "card_text": "The blockade is working Erick Erickson writes: Crude exports from the Persian Gulf are back at pre-war levels. J.P. Morgan puts the 10-day average at 17.5 million barrels a day, which is 98 percent of where it stood before the war. Goldman Sachs estimates the region exported 19 million barrels a day over the past week. Brent has come […] The post The blockade is working first appeared on Kiwiblog . Kiwiblog Yesterday Opinion"
     },
     {
       "rank": 48,
-      "title": "Pizza store owner punished for failure to pay $500,000 in tax",
-      "url": "https://stuff.co.nz/nz-news/361047827/pizza-store-owner-punished-failure-pay-500000-tax",
-      "source": "stuff.co.nz",
-      "card_text": "Pizza store owner punished for failure to pay $500,000 in tax"
+      "title": "St John introduces female-form manikins to address cardiac arrest survival gender gap",
+      "url": "https://rnz.co.nz/news/health/1971362/st-john-introduces-female-form-manikins-to-address-cardiac-arrest-survival-gender-gap",
+      "source": "rnz.co.nz",
+      "card_text": "St John introduces female-form manikins to address cardiac arrest survival gender gap"
     },
     {
       "rank": 49,
-      "title": "Teacher threw her phone at school gunman then tackled him, before parent shot him dead",
-      "url": "https://stuff.co.nz/world-news/361047704/teacher-threw-cellphone-and-tackled-gunman-who-killed-four-us-school",
-      "source": "stuff.co.nz",
-      "card_text": "Teacher threw her phone at school gunman then tackled him, before parent shot him dead"
-    },
-    {
-      "rank": 50,
       "title": "4 men on jetskis saved from rocky, chilly waters off Mangawhai Beach, 2 had hypothermia",
       "url": "https://nzherald.co.nz/nz/auckland/four-men-on-jet-skis-saved-from-rocky-icy-waters-off-mangawhai-beach-with-two-suffering-hypothermia/YJTTQA2Y5JFG3JZU4RL3633PJA",
       "source": "nzherald.co.nz",
       "card_text": "4 men on jetskis saved from rocky, chilly waters off Mangawhai Beach, 2 had hypothermia"
+    },
+    {
+      "rank": 50,
+      "title": "Four jet skiers rescued after getting into trouble off Northland coast",
+      "url": "https://stuff.co.nz/nz-news/361047768/four-jet-skiers-rescued-after-getting-trouble-northland-coast",
+      "source": "stuff.co.nz",
+      "card_text": "Four jet skiers rescued after getting into trouble off Northland coast"
     }
   ],
   "json_endpoints_observed": [
