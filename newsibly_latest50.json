@@ -2,43 +2,43 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-17T01:29:42.527514+00:00",
+  "retrieved_at_utc": "2026-10-17T02:26:49.277469+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump denies limiting Ukraine access to Starlink network"
-    },
-    {
-      "rank": 2,
       "title": "Healthcare out of reach, Māori seats up for grabs",
       "url": "https://rnz.co.nz/news/politics/1966958/healthcare-out-of-reach-maori-seats-up-for-grabs",
       "source": "rnz.co.nz",
       "card_text": "Healthcare out of reach, Māori seats up for grabs"
     },
     {
-      "rank": 3,
-      "title": "Elon Musk approached Trump with plan to slow Starlink in Ukraine",
-      "url": "https://stuff.co.nz/world-news/361047698/elon-musk-approached-trump-plan-slow-starlink-ukraine",
-      "source": "stuff.co.nz",
-      "card_text": "Elon Musk approached Trump with plan to slow Starlink in Ukraine"
+      "rank": 2,
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump denies limiting Ukraine access to Starlink network"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Northland has highest rate of severe food insecurity, Hunger Monitor finds",
       "url": "https://nzherald.co.nz/northern-advocate/news/northland-has-highest-rate-of-severe-food-insecurity-hunger-monitor-finds/CC5KE3UNRFFFNLJN67QJDBOMCY",
       "source": "nzherald.co.nz",
       "card_text": "Northland has highest rate of severe food insecurity, Hunger Monitor finds"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Tropical cyclone develops in Cook Islands waters",
       "url": "https://odt.co.nz/news/world/tropical-cyclone-develops-in-cook-islands-waters-tzhgei0f",
       "source": "odt.co.nz",
       "card_text": "Tropical cyclone develops in Cook Islands waters"
+    },
+    {
+      "rank": 5,
+      "title": "Carry on, nurse – but not if you don’t pass muster with the Thought Police",
+      "url": "https://pointofordernz.wordpress.com/2026/10/17/carry-on-nurse-but-not-if-you-dont-pass-muster-with-the-thought-police",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Carry on, nurse – but not if you don’t pass muster with the Thought Police"
     },
     {
       "rank": 6,
@@ -49,38 +49,38 @@
     },
     {
       "rank": 7,
-      "title": "One in Seven Children Living in Hardship: Poverty Groups Demand Urgent Action Ahead of Election",
-      "url": "https://waateanews.com/2026/10/17/one-in-seven-children-living-in-hardship-poverty-groups-demand-urgent-action-ahead-of-election",
-      "source": "waateanews.com",
-      "card_text": "One in Seven Children Living in Hardship: Poverty Groups Demand Urgent Action Ahead of Election"
+      "title": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy",
+      "url": "https://asiapacificreport.nz/2026/10/17/free-palestine-party-slams-shameful-nz-stance-at-un-calls-for-independent-policy",
+      "source": "asiapacificreport.nz",
+      "card_text": "Free Palestine Party slams ‘shameful’ NZ stance at UN, calls for independent foreign policy"
     },
     {
       "rank": 8,
-      "title": "Neighbouring views to be disregarded under new planning rules",
-      "url": "https://thepress.co.nz/nz-news/361100539/neighbouring-views-be-disregarded-under-new-planning-rules",
-      "source": "thepress.co.nz",
-      "card_text": "Neighbouring views to be disregarded under new planning rules"
-    },
-    {
-      "rank": 9,
       "title": "Healthcare out of reach, Māori seats up for grabs",
       "url": "https://goodoil.news/healthcare-out-of-reach-maori-seats-up-for-grabs",
       "source": "goodoil.news",
       "card_text": "Healthcare out of reach, Māori seats up for grabs"
     },
     {
-      "rank": 10,
-      "title": "National’s new welfare policies only raise more questions",
-      "url": "https://pointofordernz.wordpress.com/2026/10/17/nationals-new-welfare-policies-only-raise-more-questions",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "National’s new welfare policies only raise more questions"
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "title": "Tongan women among those warned by US Embassy against travelling to America to give birth for citizenship",
       "url": "https://kanivatonga.co.nz/2026/10/tongan-women-among-those-warned-by-us-embassy-against-travelling-to-america-to-give-birth-for-citizenship",
       "source": "kanivatonga.co.nz",
       "card_text": "Tongan women among those warned by US Embassy against travelling to America to give birth for citizenship"
+    },
+    {
+      "rank": 10,
+      "title": "One in Seven Children Living in Hardship: Poverty Groups Demand Urgent Action Ahead of Election",
+      "url": "https://waateanews.com/2026/10/17/one-in-seven-children-living-in-hardship-poverty-groups-demand-urgent-action-ahead-of-election",
+      "source": "waateanews.com",
+      "card_text": "One in Seven Children Living in Hardship: Poverty Groups Demand Urgent Action Ahead of Election"
+    },
+    {
+      "rank": 11,
+      "title": "Neighbouring views to be disregarded under new planning rules",
+      "url": "https://thepress.co.nz/nz-news/361100539/neighbouring-views-be-disregarded-under-new-planning-rules",
+      "source": "thepress.co.nz",
+      "card_text": "Neighbouring views to be disregarded under new planning rules"
     },
     {
       "rank": 12,
@@ -105,115 +105,115 @@
     },
     {
       "rank": 15,
-      "title": "Watch: What is going on? Chris Hipkins Distance From Gang Pad Scandal While Luxon Stumbles On Minimum Wage",
-      "url": "https://youtube.com/watch?v=mFU4jdmyYhE",
-      "source": "youtube.com",
-      "card_text": "Watch: What is going on? Chris Hipkins Distance From Gang Pad Scandal While Luxon Stumbles On Minimum Wage"
+      "title": "Teacher threw her phone at school gunman then tackled him, before parent shot him dead",
+      "url": "https://stuff.co.nz/world-news/361047704/teacher-threw-cellphone-and-tackled-gunman-who-killed-four-us-school",
+      "source": "stuff.co.nz",
+      "card_text": "Teacher threw her phone at school gunman then tackled him, before parent shot him dead"
     },
     {
       "rank": 16,
+      "title": "Elon Musk approached Trump with plan to slow Starlink in Ukraine",
+      "url": "https://stuff.co.nz/world-news/361047698/elon-musk-approached-trump-plan-slow-starlink-ukraine",
+      "source": "stuff.co.nz",
+      "card_text": "Elon Musk approached Trump with plan to slow Starlink in Ukraine"
+    },
+    {
+      "rank": 17,
       "title": "'The power is in our hands': Young people aim for biggest youth voter turnout yet",
       "url": "https://rnz.co.nz/news/politics_election-2026/1969495/the-power-is-in-our-hands-young-people-aim-for-biggest-youth-voter-turnout-yet",
       "source": "rnz.co.nz",
       "card_text": "'The power is in our hands': Young people aim for biggest youth voter turnout yet"
     },
     {
-      "rank": 17,
-      "title": "Southland candidates vie for your vote",
-      "url": "https://odt.co.nz/news/southland/southland-candidates-vie-for-your-vote-k3l0z6u4",
+      "rank": 18,
+      "title": "Popular campground to reopen despite council recommendations",
+      "url": "https://odt.co.nz/news/national/popular-campground-to-reopen-despite-council-recommendations-olkfx5t1",
       "source": "odt.co.nz",
-      "card_text": "Southland candidates vie for your vote Otago Daily Times Today 12:00 pm"
+      "card_text": "Popular campground to reopen despite council recommendations"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Quick Hit: Labour Wants Google to Pay for News Kiwis Don’t Trust",
       "url": "https://goodoil.news/quick-hit-labour-news-bargaining-bill-trust",
       "source": "goodoil.news",
       "card_text": "Quick Hit: Labour Wants Google to Pay for News Kiwis Don’t Trust"
     },
     {
-      "rank": 19,
-      "title": "More than 4700 people lose power in widespread outage",
-      "url": "https://stuff.co.nz/nz-news/361047680/more-4700-people-lose-power-widespread-outage",
+      "rank": 20,
+      "title": "Getting a job wasn’t Juliana’s biggest problem. Keeping it was",
+      "url": "https://stuff.co.nz/nz-news/361047627/getting-job-wasnt-julianas-biggest-problem-keeping-it-was",
       "source": "stuff.co.nz",
-      "card_text": "More than 4700 people lose power in widespread outage"
+      "card_text": "Getting a job wasn’t Juliana’s biggest problem. Keeping it was"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Bread, Milk, Power and Petrol: Cost-of-Living Squeeze Deepens as Essentials Keep Rising",
       "url": "https://waateanews.com/2026/10/17/bread-milk-power-and-petrol-cost-of-living-squeeze-deepens-as-essentials-keep-rising",
       "source": "waateanews.com",
       "card_text": "Bread, Milk, Power and Petrol: Cost-of-Living Squeeze Deepens as Essentials Keep Rising"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "‘Nothing’s going to change’: Pensioner gets response on Gore bank’s no-cash service",
       "url": "https://odt.co.nz/news/southland/nothings-going-to-change-pensioner-gets-response-on-gore-banks-no-cash-service-mpjs88rm",
       "source": "odt.co.nz",
       "card_text": "‘Nothing’s going to change’: Pensioner gets response on Gore bank’s no-cash service"
     },
     {
-      "rank": 22,
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "url": "https://bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "rank": 23,
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role"
+      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
     },
     {
-      "rank": 23,
+      "rank": 24,
+      "title": "Champi threatens Marianas as Guam braces for destructive winds",
+      "url": "https://rnz.co.nz/news/pacific/1969884/champi-threatens-marianas-as-guam-braces-for-destructive-winds",
+      "source": "rnz.co.nz",
+      "card_text": "Champi threatens Marianas as Guam braces for destructive winds"
+    },
+    {
+      "rank": 25,
       "title": "Police hunt e-bike rider after string of sexual assaults on Australian beach trail",
       "url": "https://stuff.co.nz/world-news/361047701/police-hunt-e-bike-rider-after-string-sexual-assaults-australian-beach-trail",
       "source": "stuff.co.nz",
       "card_text": "Police hunt e-bike rider after string of sexual assaults on Australian beach trail"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "title": "Zelenskyy blasts US-Russian diesel deal, welcomes bigger European role in peace process",
       "url": "https://odt.co.nz/news/world/zelenskyy-blasts-us-russian-diesel-deal-welcomes-bigger-european-role-in-peace-process-hj4whwnj",
       "source": "odt.co.nz",
       "card_text": "Zelenskyy blasts US-Russian diesel deal, welcomes bigger European role in peace process"
     },
     {
-      "rank": 25,
-      "title": "Tonga to receive $15.39 million in ADB emergency aid as Middle East conflict drives up fuel costs",
-      "url": "https://kanivatonga.co.nz/2026/10/tonga-to-receive-15-39-million-in-adb-emergency-aid-as-middle-east-conflict-drives-up-fuel-costs",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Tonga to receive $15.39 million in ADB emergency aid as Middle East conflict drives up fuel costs"
+      "rank": 27,
+      "title": "Black Ferns v France — WXV Global Series",
+      "url": "https://stuff.co.nz/sport/361036152/live-black-ferns-v-france-wxv-global-series-rugby-test",
+      "source": "stuff.co.nz",
+      "card_text": "Black Ferns v France — WXV Global Series"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "title": "Rugby League World Cup: Zahara Temara relishes Kiwi Ferns call-up after helping Australia to 2017 title",
       "url": "https://nzherald.co.nz/sport/rugby-league/rugby-league-world-cup-zahara-temara-relishes-kiwi-ferns-call-up-after-helping-australia-to-2017-title/25BG7437ABDIRI7QR2FM6ADFTU",
       "source": "nzherald.co.nz",
       "card_text": "Rugby League World Cup: Zahara Temara relishes Kiwi Ferns call-up after helping Australia to 2017 title"
     },
     {
-      "rank": 27,
-      "title": "South African rugby player dies after failed resuscitation attempt at French hotel",
-      "url": "https://stuff.co.nz/sport/361047676/south-african-rugby-player-hyron-andrews-dies-ahead-lions",
-      "source": "stuff.co.nz",
-      "card_text": "South African rugby player dies after failed resuscitation attempt at French hotel"
-    },
-    {
-      "rank": 28,
+      "rank": 29,
       "title": "Black Ferns look to build against France",
       "url": "https://odt.co.nz/sport/rugby/black-ferns-look-to-build-against-france-nkswv2gw",
       "source": "odt.co.nz",
       "card_text": "Black Ferns look to build against France"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "Cervical cancer: The women left in painful positions from failed prevention",
       "url": "https://nzherald.co.nz/nz/cervical-cancer-the-women-left-in-painful-positions-from-failed-prevention/premium/R6AHTV3B7BECXGUCWSFQYWU27U",
       "source": "nzherald.co.nz",
       "card_text": "Cervical cancer: The women left in painful positions from failed prevention"
-    },
-    {
-      "rank": 30,
-      "title": "Analysis: Christopher Luxon says his government has 'certainly strengthened healthcare' - has it really?",
-      "url": "https://rnz.co.nz/news/health/1963704/analysis-christopher-luxon-says-his-government-has-certainly-strengthened-healthcare-has-it-really",
-      "source": "rnz.co.nz",
-      "card_text": "Analysis: Christopher Luxon says his government has 'certainly strengthened healthcare' - has it really?"
     },
     {
       "rank": 31,
@@ -224,115 +224,115 @@
     },
     {
       "rank": 32,
+      "title": "Analysis: Christopher Luxon says his government has 'certainly strengthened healthcare' - has it really?",
+      "url": "https://rnz.co.nz/news/health/1963704/analysis-christopher-luxon-says-his-government-has-certainly-strengthened-healthcare-has-it-really",
+      "source": "rnz.co.nz",
+      "card_text": "Analysis: Christopher Luxon says his government has 'certainly strengthened healthcare' - has it really?"
+    },
+    {
+      "rank": 33,
       "title": "Watching a once highly regarded healthcare system progressively deteriorate",
       "url": "https://thepress.co.nz/nz-news/361099178/press-election-reader-panel-hard-working-staff-propping-health-system",
       "source": "thepress.co.nz",
       "card_text": "Watching a once highly regarded healthcare system progressively deteriorate"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "Wind farm gets final approval; construction to start next month",
       "url": "https://odt.co.nz/news/dunedin/wind-farm-gets-final-approval-construction-to-start-next-month-yy5fn7oi",
       "source": "odt.co.nz",
       "card_text": "Wind farm gets final approval; construction to start next month"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "Rotorua Goes Green: 180 Tonnes of Food and Garden Waste Saved From Landfill in Just Two Weeks!",
       "url": "https://waateanews.com/2026/10/17/rotorua-goes-green-180-tonnes-of-food-and-garden-waste-saved-from-landfill-in-just-two-weeks",
       "source": "waateanews.com",
       "card_text": "Rotorua Goes Green: 180 Tonnes of Food and Garden Waste Saved From Landfill in Just Two Weeks!"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "The Remarkables skifield wants to expand. DOC warns some of the damage can't be undone",
       "url": "https://thepress.co.nz/business/361099676/remarkables-skifield-wants-expand-doc-warns-some-damage-cant-be-undone",
       "source": "thepress.co.nz",
       "card_text": "The Remarkables skifield wants to expand. DOC warns some of the damage can't be undone"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "'Sky glow': Data centres could threaten Mackenzie's dark sky status",
       "url": "https://stuff.co.nz/nz-news/361047549/sky-glow-data-centres-could-threaten-mackenzies-dark-sky-status",
       "source": "stuff.co.nz",
       "card_text": "'Sky glow': Data centres could threaten Mackenzie's dark sky status"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Tropical depression develops into a cyclone in Cook Islands waters",
       "url": "https://rnz.co.nz/news/pacific/1967513/tropical-depression-develops-into-a-cyclone-in-cook-islands-waters",
       "source": "rnz.co.nz",
       "card_text": "Tropical depression develops into a cyclone in Cook Islands waters"
     },
     {
-      "rank": 38,
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
+      "rank": 39,
+      "title": "Watch: Canada stun England with late try to end four-year, 40-test unbeaten streak",
+      "url": "https://stuff.co.nz/sport/361047724/canada-stun-england-end-four-year-unbeaten-streak-womens-rugby",
+      "source": "stuff.co.nz",
+      "card_text": "Watch: Canada stun England with late try to end four-year, 40-test unbeaten streak"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "url": "https://bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC"
     },
     {
-      "rank": 40,
+      "rank": 41,
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "url": "https://bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role"
+    },
+    {
+      "rank": 42,
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "url": "https://bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Pope pictured for first time since surgery and cancer diagnosis"
     },
     {
-      "rank": 41,
-      "title": "'Simply unacceptable': Charities call for sustained political action on child poverty",
-      "url": "https://rnz.co.nz/news/politics_election-2026/1960918/simply-unacceptable-charities-call-for-sustained-political-action-on-child-poverty",
-      "source": "rnz.co.nz",
-      "card_text": "'Simply unacceptable': Charities call for sustained political action on child poverty"
+      "rank": 43,
+      "title": "Auckland landlords ordered to pay $31,786 over damp, mouldy rental",
+      "url": "https://nzherald.co.nz/nz/auckland-landlords-ordered-to-pay-31786-over-damp-mouldy-rental/NIZAERDUB5FZTJPPQVT3ZNVCVY",
+      "source": "nzherald.co.nz",
+      "card_text": "Auckland landlords ordered to pay $31,786 over damp, mouldy rental"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "title": "Election 2026: Small town struggles – Raetihi battles Winstone mill closures aftermath",
       "url": "https://newstalkzb.co.nz/news/national/election-2026-small-town-struggles-raetihi-battles-winstone-mill-closures-aftermath",
       "source": "newstalkzb.co.nz",
       "card_text": "Election 2026: Small town struggles – Raetihi battles Winstone mill closures aftermath"
     },
     {
-      "rank": 43,
-      "title": "Luxon won’t say if he’d choose opposition over Opportunity",
-      "url": "https://stuff.co.nz/politics/361047248/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Luxon won’t say if he’d choose opposition over Opportunity"
-    },
-    {
-      "rank": 44,
-      "title": "Council rejects $300,000 funding request to explore Tauranga congestion charging",
-      "url": "https://nzherald.co.nz/bay-of-plenty-times/news/tauranga-congestion-charging-council-rejects-investigating-time-of-use-charging-probe/NLXO37Z57FGCJPESAAABEYK6VI",
-      "source": "nzherald.co.nz",
-      "card_text": "Council rejects $300,000 funding request to explore Tauranga congestion charging"
-    },
-    {
       "rank": 45,
+      "title": "National’s new welfare policies only raise more questions",
+      "url": "https://pointofordernz.wordpress.com/2026/10/17/nationals-new-welfare-policies-only-raise-more-questions",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "National’s new welfare policies only raise more questions"
+    },
+    {
+      "rank": 46,
       "title": "What we learned from heated US midterm Senate debates",
       "url": "https://bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "What we learned from heated US midterm Senate debates"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "Aotearoa cannot afford to leave another generation of young people behind.",
       "url": "https://waateanews.com/2026/10/17/opinion-aotearoa-cannot-afford-to-leave-another-generation-of-young-people-behind",
       "source": "waateanews.com",
       "card_text": "Aotearoa cannot afford to leave another generation of young people behind."
-    },
-    {
-      "rank": 47,
-      "title": "The blockade is working",
-      "url": "https://kiwiblog.co.nz/2026/10/the_blockade_is_working.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "The blockade is working Erick Erickson writes: Crude exports from the Persian Gulf are back at pre-war levels. J.P. Morgan puts the 10-day average at 17.5 million barrels a day, which is 98 percent of where it stood before the war. Goldman Sachs estimates the region exported 19 million barrels a day over the past week. Brent has come […] The post The blockade is working first appeared on Kiwiblog . Kiwiblog Today 7:00 am Opinion"
     },
     {
       "rank": 48,
@@ -343,17 +343,17 @@
     },
     {
       "rank": 49,
+      "title": "The blockade is working",
+      "url": "https://kiwiblog.co.nz/2026/10/the_blockade_is_working.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "The blockade is working Erick Erickson writes: Crude exports from the Persian Gulf are back at pre-war levels. J.P. Morgan puts the 10-day average at 17.5 million barrels a day, which is 98 percent of where it stood before the war. Goldman Sachs estimates the region exported 19 million barrels a day over the past week. Brent has come […] The post The blockade is working first appeared on Kiwiblog . Kiwiblog Today 7:00 am Opinion"
+    },
+    {
+      "rank": 50,
       "title": "Cross-codes star Stacey Waaka primed for Rugby League World Cup debut alongside Kiwi Ferns' power centre",
       "url": "https://thepress.co.nz/sport/361099771/all-eyes-stacey-waaka-cross-codes-star-teams-mele-hufanga-kiwi-ferns-rugby-league-world-cup-opener",
       "source": "thepress.co.nz",
       "card_text": "Cross-codes star Stacey Waaka primed for Rugby League World Cup debut alongside Kiwi Ferns' power centre"
-    },
-    {
-      "rank": 50,
-      "title": "Tonga Power adds two generators amid longstanding electricity outages across Tongatapu",
-      "url": "https://kanivatonga.co.nz/2026/10/tonga-power-adds-two-generators-amid-longstanding-electricity-outages-across-tongatapu",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Tonga Power adds two generators amid longstanding electricity outages across Tongatapu"
     }
   ],
   "json_endpoints_observed": [
