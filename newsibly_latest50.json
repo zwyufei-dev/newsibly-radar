@@ -2,50 +2,50 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-19T12:38:34.938670+00:00",
+  "retrieved_at_utc": "2026-10-19T13:45:26.443920+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "url": "https://bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Funding shortages force World Food Programme to cut aid to Gaza"
-    },
-    {
-      "rank": 2,
-      "title": "Watch: Want to vote this election? There's just a few days left to enrol | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=pmQX1VSoG9Q",
-      "source": "youtube.com",
-      "card_text": "Watch: Want to vote this election? There's just a few days left to enrol | Stuff.co.nz"
-    },
-    {
-      "rank": 3,
       "title": "Australian MP Helen Haines critically injured in attack, man in custody",
       "url": "https://nzherald.co.nz/world/australian-mp-helen-haines-wounded-outside-office-in-serious-incident-albanese-says-suspect-in-custody/P723RBZQLBCJBIV3ASEN53LXOQ",
       "source": "nzherald.co.nz",
       "card_text": "Australian MP Helen Haines critically injured in attack, man in custody"
     },
     {
+      "rank": 2,
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "url": "https://bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Exiled critic of Rwandan president found beheaded"
+    },
+    {
+      "rank": 3,
+      "title": "Who is a ‘Fijian’?: Constitution reform reignites identity debate",
+      "url": "https://asiapacificreport.nz/2026/10/20/who-is-a-fijian-constitution-reform-reignites-identity-debate",
+      "source": "asiapacificreport.nz",
+      "card_text": "Who is a ‘Fijian’?: Constitution reform reignites identity debate"
+    },
+    {
       "rank": 4,
+      "title": "Watch: Want to vote this election? There's just a few days left to enrol | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=pmQX1VSoG9Q",
+      "source": "youtube.com",
+      "card_text": "Watch: Want to vote this election? There's just a few days left to enrol | Stuff.co.nz"
+    },
+    {
+      "rank": 5,
+      "title": "France's prime minister calls for localized curfews in cities to curb rioting and looting",
+      "url": "https://stuff.co.nz/world-news/361048389/macron-rejects-interior-ministers-resignation-rioting-and",
+      "source": "stuff.co.nz",
+      "card_text": "France's prime minister calls for localized curfews in cities to curb rioting and looting"
+    },
+    {
+      "rank": 6,
       "title": "Aitutaki marina causeway 'underwater', harbour damaged as Cyclone Wati sweeps south",
       "url": "https://rnz.co.nz/news/pacific/2021856/aitutaki-marina-causeway-underwater-harbour-damaged-as-cyclone-wati-sweeps-south",
       "source": "rnz.co.nz",
       "card_text": "Aitutaki marina causeway 'underwater', harbour damaged as Cyclone Wati sweeps south"
-    },
-    {
-      "rank": 5,
-      "title": "Macron rejects interior minister’s resignation as rioting and looting expose policing failures",
-      "url": "https://stuff.co.nz/world-news/361048389/macron-rejects-interior-ministers-resignation-rioting-and",
-      "source": "stuff.co.nz",
-      "card_text": "Macron rejects interior minister’s resignation as rioting and looting expose policing failures"
-    },
-    {
-      "rank": 6,
-      "title": "Charities & doctors plead for Govt action on child poverty & hospital staffing",
-      "url": "https://thekaka.substack.com/p/charities-and-doctors-plead-for-govt",
-      "source": "thekaka.substack.com",
-      "card_text": "Charities & doctors plead for Govt action on child poverty & hospital staffing"
     },
     {
       "rank": 7,
@@ -63,17 +63,17 @@
     },
     {
       "rank": 9,
+      "title": "Charities & doctors plead for Govt action on child poverty & hospital staffing",
+      "url": "https://thekaka.substack.com/p/charities-and-doctors-plead-for-govt",
+      "source": "thekaka.substack.com",
+      "card_text": "Charities & doctors plead for Govt action on child poverty & hospital staffing"
+    },
+    {
+      "rank": 10,
       "title": "Pope Leo Leaves Hospital After Cancer Surgery",
       "url": "https://kiwikidsnews.co.nz/pope-leo-leaves-hospital-after-cancer-surgery",
       "source": "kiwikidsnews.co.nz",
       "card_text": "Pope Leo Leaves Hospital After Cancer Surgery"
-    },
-    {
-      "rank": 10,
-      "title": "Democracy Briefing: Politicians must act on the overhang campaign",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-politicians-must",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: Politicians must act on the overhang campaign"
     },
     {
       "rank": 11,
@@ -84,31 +84,31 @@
     },
     {
       "rank": 12,
-      "title": "Watch: Why Your Election Vote Might Not Count This Year: Enrolment Rules Explained",
-      "url": "https://youtube.com/watch?v=zjnMv8SmPgU",
-      "source": "youtube.com",
-      "card_text": "Watch: Why Your Election Vote Might Not Count This Year: Enrolment Rules Explained"
+      "title": "Democracy Briefing: Politicians must act on the overhang campaign",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-politicians-must",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: Politicians must act on the overhang campaign"
     },
     {
       "rank": 13,
+      "title": "Watch: NZ Election Rule Change: Will Tens of Thousands Be Shut Out From Voting?",
+      "url": "https://youtube.com/watch?v=zjnMv8SmPgU",
+      "source": "youtube.com",
+      "card_text": "Watch: NZ Election Rule Change: Will Tens of Thousands Be Shut Out From Voting?"
+    },
+    {
+      "rank": 14,
       "title": "Phil Mauger on board with NZ First’s plan for commuter trains into Christchurch",
       "url": "https://chrislynchmedia.com/news-items/phil-mauger-on-board-with-nz-firsts-plan-for-commuter-trains-into-christchurch",
       "source": "chrislynchmedia.com",
       "card_text": "Phil Mauger on board with NZ First’s plan for commuter trains into Christchurch"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Watch: Election 2026: TVNZ 1News Multi-Party Leaders Debate October 13 2026",
       "url": "https://youtube.com/watch?v=fKxXvaibkIs",
       "source": "youtube.com",
       "card_text": "Watch: Election 2026: TVNZ 1News Multi-Party Leaders Debate October 13 2026"
-    },
-    {
-      "rank": 15,
-      "title": "Gang photos throw new focus on Labour and Te Pāti Māori’s battle for Tāmaki Makaurau seat",
-      "url": "https://newsroom.co.nz/2026/10/19/gang-photos-throw-new-focus-on-labour-and-te-pati-maoris-battle-for-tamaki-makaurau-seat",
-      "source": "newsroom.co.nz",
-      "card_text": "Gang photos throw new focus on Labour and Te Pāti Māori’s battle for Tāmaki Makaurau seat"
     },
     {
       "rank": 16,
@@ -154,10 +154,10 @@
     },
     {
       "rank": 22,
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "url": "https://bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "url": "https://bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Kenya pastor accused of ordering parents to starve their children to death faces verdict"
+      "card_text": "Personal attacks fire up debate before Brazil's run-off vote"
     },
     {
       "rank": 23,
@@ -238,122 +238,122 @@
     },
     {
       "rank": 34,
-      "title": "Council pinged after wastewater spills onto Bluff foreshore",
-      "url": "https://thepress.co.nz/nz-news/361100952/council-pinged-after-wastewater-spills-bluff-foreshore",
-      "source": "thepress.co.nz",
-      "card_text": "Council pinged after wastewater spills onto Bluff foreshore"
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "url": "https://bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Funding shortages force World Food Programme to cut aid to Gaza"
     },
     {
       "rank": 35,
-      "title": "Featherston supermarket shooting: Pelikani Taukei’aho and Tauave Sue acquitted of murder and manslaughter",
-      "url": "https://nzherald.co.nz/nz/featherston-supermarket-shooting-pelikani-taukeiaho-and-tauave-sue-acquitted-of-murder-and-manslaughter/F2K5OH3S3ZD3HLMZRX5MS6DURA",
-      "source": "nzherald.co.nz",
-      "card_text": "Featherston supermarket shooting: Pelikani Taukei’aho and Tauave Sue acquitted of murder and manslaughter"
-    },
-    {
-      "rank": 36,
-      "title": "Reuben Davidson: Labour's Technology spokesperson on the party's proposed teen social media ban",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/reuben-davidson-labours-technology-spokesperson-on-the-partys-proposed-teen-social-media-ban",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Reuben Davidson: Labour's Technology spokesperson on the party's proposed teen social media ban"
-    },
-    {
-      "rank": 37,
-      "title": "Police use of external AI systems raises 'high risks' of data breaches - expert",
-      "url": "https://rnz.co.nz/news/crime-and-justice/2023450/police-use-of-external-ai-systems-raises-high-risks-of-data-breaches-expert",
-      "source": "rnz.co.nz",
-      "card_text": "Police use of external AI systems raises 'high risks' of data breaches - expert"
-    },
-    {
-      "rank": 38,
-      "title": "Gloriavale School board defends response to allegation of historic sexual assault",
-      "url": "https://rnz.co.nz/news/education/2024693/gloriavale-school-board-defends-response-to-allegation-of-historic-sexual-assault",
-      "source": "rnz.co.nz",
-      "card_text": "Gloriavale School board defends response to allegation of historic sexual assault"
-    },
-    {
-      "rank": 39,
       "title": "Residents stage sleep-out at empty Kāinga Ora block to be sold",
       "url": "https://rnz.co.nz/news/regions_wellington/2026772/residents-stage-sleep-out-at-empty-kainga-ora-block-to-be-sold",
       "source": "rnz.co.nz",
       "card_text": "Residents stage sleep-out at empty Kāinga Ora block to be sold"
     },
     {
-      "rank": 40,
+      "rank": 36,
       "title": "Counter-terrorism team activated after Australian MP was struck by vehicle outside office",
       "url": "https://stuff.co.nz/world-news/361048380/australian-mp-helen-haines-attacked-serious-incident-outside-electorate-office",
       "source": "stuff.co.nz",
       "card_text": "Counter-terrorism team activated after Australian MP was struck by vehicle outside office"
     },
     {
-      "rank": 41,
+      "rank": 37,
+      "title": "Meloni calls emergency meeting after weekend of violent clashes",
+      "url": "https://bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Meloni calls emergency meeting after weekend of violent clashes"
+    },
+    {
+      "rank": 38,
+      "title": "Featherston supermarket shooting: Pelikani Taukei’aho and Tauave Sue acquitted of murder and manslaughter",
+      "url": "https://nzherald.co.nz/nz/featherston-supermarket-shooting-pelikani-taukeiaho-and-tauave-sue-acquitted-of-murder-and-manslaughter/F2K5OH3S3ZD3HLMZRX5MS6DURA",
+      "source": "nzherald.co.nz",
+      "card_text": "Featherston supermarket shooting: Pelikani Taukei’aho and Tauave Sue acquitted of murder and manslaughter"
+    },
+    {
+      "rank": 39,
       "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
       "url": "https://bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Katya Adler: France's government under pressure after weekend of widespread violence"
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "title": "Gloriavale School board defends response to allegation of historic sexual assault",
+      "url": "https://rnz.co.nz/news/education/2024693/gloriavale-school-board-defends-response-to-allegation-of-historic-sexual-assault",
+      "source": "rnz.co.nz",
+      "card_text": "Gloriavale School board defends response to allegation of historic sexual assault"
+    },
+    {
+      "rank": 41,
       "title": "Family, police concerned for missing Dunedin 15-year-old",
       "url": "https://odt.co.nz/news/dunedin/family-police-concerned-for-missing-dunedin-15-year-old-vyhgk6zh",
       "source": "odt.co.nz",
       "card_text": "Family, police concerned for missing Dunedin 15-year-old"
     },
     {
-      "rank": 43,
-      "title": "Will Rowntree: Mountain Guides Association spokesperson on the death of a skier at Mount Cook National Park",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/will-rowntree-mountain-guides-association-spokesperson-on-the-death-of-a-skier-at-mount-cook-national-park",
+      "rank": 42,
+      "title": "Reuben Davidson: Labour's Technology spokesperson on the party's proposed teen social media ban",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/reuben-davidson-labours-technology-spokesperson-on-the-partys-proposed-teen-social-media-ban",
       "source": "newstalkzb.co.nz",
-      "card_text": "Will Rowntree: Mountain Guides Association spokesperson on the death of a skier at Mount Cook National Park"
+      "card_text": "Reuben Davidson: Labour's Technology spokesperson on the party's proposed teen social media ban"
+    },
+    {
+      "rank": 43,
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'"
     },
     {
       "rank": 44,
-      "title": "Crash statistics show youth at high risk in Mackenzie",
-      "url": "https://thepress.co.nz/nz-news/361100560/crash-statistics-show-youth-high-risk-mackenzie",
-      "source": "thepress.co.nz",
-      "card_text": "Crash statistics show youth at high risk in Mackenzie"
+      "title": "Police use of external AI systems raises 'high risks' of data breaches - expert",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2023450/police-use-of-external-ai-systems-raises-high-risks-of-data-breaches-expert",
+      "source": "rnz.co.nz",
+      "card_text": "Police use of external AI systems raises 'high risks' of data breaches - expert"
     },
     {
       "rank": 45,
+      "title": "Property and housing developer Wolfbrook Group splits up",
+      "url": "https://thepress.co.nz/nz-news/361101365/property-and-housing-developer-wolfbrook-group-splits",
+      "source": "thepress.co.nz",
+      "card_text": "Property and housing developer Wolfbrook Group splits up"
+    },
+    {
+      "rank": 46,
       "title": "National proposes 10-year prison terms for silence in child killings",
       "url": "https://goodoil.news/national-proposes-10-year-prison-terms-for-silence-in-child-killings",
       "source": "goodoil.news",
       "card_text": "National proposes 10-year prison terms for silence in child killings"
     },
     {
-      "rank": 46,
-      "title": "Labour candidate warns Te Pāti Māori gang photos hand right wing ammunition",
-      "url": "https://newsroom.co.nz/2026/10/19/labour-candidate-warns-te-pati-maori-gang-photos-hand-right-wing-ammunition",
+      "rank": 47,
+      "title": "Gang photos throw new focus on Labour and Te Pāti Māori’s battle for Tāmaki Makaurau seat",
+      "url": "https://newsroom.co.nz/2026/10/19/gang-photos-throw-new-focus-on-labour-and-te-pati-maoris-battle-for-tamaki-makaurau-seat",
       "source": "newsroom.co.nz",
-      "card_text": "Labour candidate warns Te Pāti Māori gang photos hand right wing ammunition"
+      "card_text": "Gang photos throw new focus on Labour and Te Pāti Māori’s battle for Tāmaki Makaurau seat"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Driving productivity with heavy vehicle changes",
       "url": "https://beehive.govt.nz/release/driving-productivity-heavy-vehicle-changes",
       "source": "beehive.govt.nz",
       "card_text": "Driving productivity with heavy vehicle changes"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "Labour backs under-16 social media ban and letting users opt out of algorithms",
       "url": "https://interest.co.nz/technology/140735/labour-support-under-16-social-media-ban-and-follow-australia-algorithm-opt-outs",
       "source": "interest.co.nz",
       "card_text": "Labour backs under-16 social media ban and letting users opt out of algorithms"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Watch: Politicians out in full force with education, health, transport and justice promises | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=Ftw7vq-1xRQ",
       "source": "youtube.com",
       "card_text": "Watch: Politicians out in full force with education, health, transport and justice promises | Stuff.co.nz"
-    },
-    {
-      "rank": 50,
-      "title": "Health System at Breaking Point: Nursing Shortages, Delayed Cancer Treatments and Growing Fears of System Failure",
-      "url": "https://waateanews.com/2026/10/19/health-system-at-breaking-point-nursing-shortages-delayed-cancer-treatments-and-growing-fears-of-system-failure",
-      "source": "waateanews.com",
-      "card_text": "Health System at Breaking Point: Nursing Shortages, Delayed Cancer Treatments and Growing Fears of System Failure"
     }
   ],
   "json_endpoints_observed": [
