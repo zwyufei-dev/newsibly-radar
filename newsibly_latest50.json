@@ -2,358 +2,358 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-21T18:31:57.154548+00:00",
+  "retrieved_at_utc": "2026-10-21T19:32:11.624705+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "‘There is significant risk to life’ Franz Josef warned as river continues to rise",
+      "url": "https://thepress.co.nz/nz-news/361100035/there-significant-risk-life-franz-josef-warned-flood-prone-river-continues-rise",
+      "source": "thepress.co.nz",
+      "card_text": "‘There is significant risk to life’ Franz Josef warned as river continues to rise"
+    },
+    {
+      "rank": 2,
+      "title": "India Trade Deal Goes Live: Tariffs Slashed on 95% of Kiwi Exports as Māori Businesses Eye Massive New Market",
+      "url": "https://waateanews.com/2026/10/22/india-trade-deal-goes-live-tariffs-slashed-on-95-of-kiwi-exports-as-maori-businesses-eye-massive-new-market",
+      "source": "waateanews.com",
+      "card_text": "India Trade Deal Goes Live: Tariffs Slashed on 95% of Kiwi Exports as Māori Businesses Eye Massive New Market"
+    },
+    {
+      "rank": 3,
+      "title": "Starship Hospital nurse warns staff shortages leading to dire consequences",
+      "url": "https://nzherald.co.nz/nz/auckland/starship-hospital-nurse-warns-staff-shortages-leading-to-dire-consequences/4NCITHKMSRE7DJIZQ5DOVALOVI",
+      "source": "nzherald.co.nz",
+      "card_text": "Starship Hospital nurse warns staff shortages leading to dire consequences"
+    },
+    {
+      "rank": 4,
       "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "url": "https://bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Russia says it is ready to resume talks with Ukraine and US to end war"
     },
     {
-      "rank": 2,
-      "title": "No spring in the property market's step",
-      "url": "https://thepress.co.nz/nz-news/361102523/property-sales-fall-ninth-straight-month-buyers-retain-upper-hand",
-      "source": "thepress.co.nz",
-      "card_text": "No spring in the property market's step Property sales continue to slide while the number of homes available remains high, leaving buyers with plenty of choice and little pressure to make a move. The Press Today 12:00 am Housing"
+      "rank": 5,
+      "title": "Starship Hospital nurse warns staff shortages leading to dire consequences",
+      "url": "https://rnz.co.nz/news/health/2069741/starship-hospital-nurse-warns-staff-shortages-leading-to-dire-consequences",
+      "source": "rnz.co.nz",
+      "card_text": "Starship Hospital nurse warns staff shortages leading to dire consequences"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "title": "Brooke van Velden overlooked ACC warnings on workplace safety reforms",
+      "url": "https://businessdesk.co.nz/investigations/brooke-van-velden-overlooked-acc-warnings-on-workplace-safety-reforms/6XWZ7EYUNFEL7E5SSTAJ2W2W6E",
+      "source": "businessdesk.co.nz",
+      "card_text": "Brooke van Velden overlooked ACC warnings on workplace safety reforms"
+    },
+    {
+      "rank": 7,
+      "title": "Websites taken offline around world after ‘critical vulnerabilities’ discovered",
+      "url": "https://stuff.co.nz/world-news/361049393/some-websites-go-dark-operators-address-aidetected-fla",
+      "source": "stuff.co.nz",
+      "card_text": "Websites taken offline around world after ‘critical vulnerabilities’ discovered"
+    },
+    {
+      "rank": 8,
+      "title": "Chris Hipkins: Labour Leader live in studio with Mike Hosking",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/chris-hipkins-labour-leader-live-in-studio-with-mike-hosking",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Chris Hipkins: Labour Leader live in studio with Mike Hosking"
+    },
+    {
+      "rank": 9,
+      "title": "Dunedin man’s fight for 24/7 cath lab staffing after wife’s death turned down by minister",
+      "url": "https://odt.co.nz/news/dunedin/dunedin-mans-fight-for-24-7-cath-lab-staffing-after-wifes-death-turned-down-by-minister-alby4mnu",
+      "source": "odt.co.nz",
+      "card_text": "Dunedin man’s fight for 24/7 cath lab staffing after wife’s death turned down by minister"
+    },
+    {
+      "rank": 10,
+      "title": "Newsroom journalists took Starship case to CCRC – now it’s heading to Court of Appeal",
+      "url": "https://newsroom.co.nz/2026/10/22/newsroom-journalists-took-starship-case-to-ccrc-now-its-heading-to-court-of-appeal",
+      "source": "newsroom.co.nz",
+      "card_text": "Newsroom journalists took Starship case to CCRC – now it’s heading to Court of Appeal"
+    },
+    {
+      "rank": 11,
+      "title": "Government delivers more learning support for thousands of children",
+      "url": "https://beehive.govt.nz/release/government-delivers-more-learning-support-thousands-children",
+      "source": "beehive.govt.nz",
+      "card_text": "Government delivers more learning support for thousands of children"
+    },
+    {
+      "rank": 12,
+      "title": "Waka Challenge Returns To Lake Te Anau",
+      "url": "https://whatsoninvers.nz/waka-challenge-returns-to-lake-te-anau",
+      "source": "whatsoninvers.nz",
+      "card_text": "Waka Challenge Returns To Lake Te Anau Now in its sixth year, the day also features Betty the Bus with gynaecology support on board — and ties into wider suicide prevention work. What's On Invers Today 7:12 am Health"
+    },
+    {
+      "rank": 13,
       "title": "NZ’s foreign policy obligation to confront Israel’s Gaza genocide",
       "url": "https://asiapacificreport.nz/2026/10/22/nzs-foreign-policy-obligation-to-confront-israels-gaza-genocide",
       "source": "asiapacificreport.nz",
       "card_text": "NZ’s foreign policy obligation to confront Israel’s Gaza genocide"
     },
     {
-      "rank": 4,
-      "title": "Waitaki target to make ‘open space’ accessible to all",
-      "url": "https://odt.co.nz/otago/north-otago/wdc-target-to-make-open-space-accessible-to-all-j8ebloag",
-      "source": "odt.co.nz",
-      "card_text": "Waitaki target to make ‘open space’ accessible to all"
-    },
-    {
-      "rank": 5,
+      "rank": 14,
       "title": "Watch: Clashes continue as Chrises get back on the campaign trail | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=Ap6PrpTZNbM",
       "source": "youtube.com",
       "card_text": "Watch: Clashes continue as Chrises get back on the campaign trail | Stuff.co.nz"
     },
     {
-      "rank": 6,
+      "rank": 15,
       "title": "NZ Election Rule Change: Will Tens of Thousands Be Shut Out From Voting?",
       "url": "https://goodoil.news/nz-election-rule-change-will-tens-of-thousands-be-shut-out-from-voting",
       "source": "goodoil.news",
       "card_text": "NZ Election Rule Change: Will Tens of Thousands Be Shut Out From Voting?"
     },
     {
-      "rank": 7,
-      "title": "World’s only Triceratops herd coming to NZ",
-      "url": "https://kiwikidsnews.co.nz/worlds-only-triceratops-herd-coming-to-nz",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "World’s only Triceratops herd coming to NZ"
-    },
-    {
-      "rank": 8,
-      "title": "Watch: Chris Hipkins Blames John Key and Shane Jones On Mongrel Mob Controversy",
-      "url": "https://youtube.com/watch?v=o4GdErhrq5w",
-      "source": "youtube.com",
-      "card_text": "Watch: Chris Hipkins Blames John Key and Shane Jones On Mongrel Mob Controversy"
-    },
-    {
-      "rank": 9,
-      "title": "'House prices to drift mildly lower until the middle of 2027'",
-      "url": "https://interest.co.nz/property/140770/anz-nz-economists-say-house-prices-will-keep-falling-longer-they-previously",
-      "source": "interest.co.nz",
-      "card_text": "'House prices to drift mildly lower until the middle of 2027'"
-    },
-    {
-      "rank": 10,
-      "title": "Fletcher Building made $228m profit. Shareholders still won’t get a dividend - yet",
-      "url": "https://businessdesk.co.nz/markets/fletcher-building-made-228m-profit-shareholders-still-wont-get-a-dividend-yet/INRLMPVUZFEEFFJOFKTEDYZGZI",
-      "source": "businessdesk.co.nz",
-      "card_text": "Fletcher Building made $228m profit. Shareholders still won’t get a dividend - yet"
-    },
-    {
-      "rank": 11,
-      "title": "New schools planned as others shut down classes in housing rollercoaster",
-      "url": "https://newsroom.co.nz/2026/10/21/new-schools-planned-as-others-shutter-classes-and-lay-off-teachers-in-housing-rollercoaster",
-      "source": "newsroom.co.nz",
-      "card_text": "New schools planned as others shut down classes in housing rollercoaster"
-    },
-    {
-      "rank": 12,
-      "title": "Election 2026: Herald Powerbrokers’ debate - Winston Peters, David Seymour, Marama Davidson and Qiulae Wong",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-herald-powerbrokers-debate-winston-peters-david-seymour-marama-davidson-and-qiulae-wong/772YRVQARJHQFECRVBQL7YUDNM",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Herald Powerbrokers’ debate - Winston Peters, David Seymour, Marama Davidson and Qiulae Wong"
-    },
-    {
-      "rank": 13,
-      "title": "Barbara Edmonds: Labour Finance Spokesperson brushes off poll showing Labour down to 27%",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/barbara-edmonds-labour-finance-spokesperson-brushes-off-poll-showing-labour-down-to-27",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Barbara Edmonds: Labour Finance Spokesperson brushes off poll showing Labour down to 27%"
-    },
-    {
-      "rank": 14,
-      "title": "Peters dismisses coalition's youth bootcamps, clashes with Wong over immigration",
-      "url": "https://stuff.co.nz/politics/361048817/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Peters dismisses coalition's youth bootcamps, clashes with Wong over immigration"
-    },
-    {
-      "rank": 15,
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "url": "https://bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Elon Musk confirms he is considering merging Tesla and SpaceX"
-    },
-    {
       "rank": 16,
-      "title": "Almost 70 jobs to go as part of DIA, Archives New Zealand and National Library restructure",
-      "url": "https://thepress.co.nz/nz-news/361103074/almost-70-jobs-go-part-dia-archives-new-zealand-and-national-library-restructure",
-      "source": "thepress.co.nz",
-      "card_text": "Almost 70 jobs to go as part of DIA, Archives New Zealand and National Library restructure"
+      "title": "Inside the ACT van: David Seymour on housing, wealth and the overhang",
+      "url": "https://interest.co.nz/public-policy/140776/david-seymour-election-entirely-about-failure-create-wealth-over-15-years",
+      "source": "interest.co.nz",
+      "card_text": "Inside the ACT van: David Seymour on housing, wealth and the overhang"
     },
     {
       "rank": 17,
-      "title": "Home insurance premiums up 28% over last 3 years - Quashed",
-      "url": "https://interest.co.nz/insurance/140771/more-competition-insurance-market-people-continue-explore-higher-excess-options",
-      "source": "interest.co.nz",
-      "card_text": "Home insurance premiums up 28% over last 3 years - Quashed"
+      "title": "Labour Promises Emergency Department Overhaul: 2,400 Graduate Nurses a Year, More Hospital Beds and Faster Patient Care",
+      "url": "https://waateanews.com/2026/10/22/labour-promises-emergency-department-overhaul-2400-graduate-nurses-a-year-more-hospital-beds-and-faster-patient-care",
+      "source": "waateanews.com",
+      "card_text": "Labour Promises Emergency Department Overhaul: 2,400 Graduate Nurses a Year, More Hospital Beds and Faster Patient Care"
     },
     {
       "rank": 18,
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "url": "https://bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Is Ebola under control in Kenya after nine cases confirmed?"
+      "title": "Porn sites face age checks under Labour’s online safety policy; National defers action to phase two",
+      "url": "https://businessdesk.co.nz/news/porn-sites-face-age-checks-under-labours-online-safety-policy-national-defers-action-to-phase-two/ID6UK4F5E5CJFCMY6XPRAC3DIA",
+      "source": "businessdesk.co.nz",
+      "card_text": "Porn sites face age checks under Labour’s online safety policy; National defers action to phase two"
     },
     {
       "rank": 19,
-      "title": "Russia releases imprisoned American man, US envoy Witkoff says on visit to St. Petersburg",
-      "url": "https://stuff.co.nz/world-news/361049334/russia-releases-imprisoned-american-man-us-envoy-witkoff-say",
-      "source": "stuff.co.nz",
-      "card_text": "Russia releases imprisoned American man, US envoy Witkoff says on visit to St. Petersburg"
+      "title": "Rates capping will lead to multibillion-dollar shortfall - report",
+      "url": "https://thepress.co.nz/nz-news/361102581/rates-capping-will-lead-multibillion-dollar-shortfall-report",
+      "source": "thepress.co.nz",
+      "card_text": "Rates capping will lead to multibillion-dollar shortfall - report"
     },
     {
       "rank": 20,
-      "title": "Silver Ferns thump Australia to take Constellation Cup lead",
-      "url": "https://odt.co.nz/sport/netball/silver-ferns-thump-australia-to-take-constellation-cup-lead-e0cdw5e3",
-      "source": "odt.co.nz",
-      "card_text": "Silver Ferns thump Australia to take Constellation Cup lead"
+      "title": "Would KiwiSaver tax change just help wealthy?",
+      "url": "https://rnz.co.nz/news/politics_election-2026/2069818/would-kiwisaver-tax-change-just-help-wealthy",
+      "source": "rnz.co.nz",
+      "card_text": "Would KiwiSaver tax change just help wealthy?"
     },
     {
       "rank": 21,
+      "title": "Inflation tipped to fall today, but economists warn bump is on the way",
+      "url": "https://thepress.co.nz/business/361101821/inflation-expected-fall-today-bank-economists-warn-rebound-coming",
+      "source": "thepress.co.nz",
+      "card_text": "Inflation tipped to fall today, but economists warn bump is on the way"
+    },
+    {
+      "rank": 22,
+      "title": "Mike Jones: BNZ Chief Economist on inflation",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/mike-jones-bnz-chief-economist-on-inflation",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Mike Jones: BNZ Chief Economist on inflation"
+    },
+    {
+      "rank": 23,
+      "title": "$3.46 Billion Trade Boost: New Zealand and Canada Strike Deal to Grow Exports and Investment",
+      "url": "https://waateanews.com/2026/10/22/3-46-billion-trade-boost-new-zealand-and-canada-strike-deal-to-grow-exports-and-investment",
+      "source": "waateanews.com",
+      "card_text": "$3.46 Billion Trade Boost: New Zealand and Canada Strike Deal to Grow Exports and Investment"
+    },
+    {
+      "rank": 24,
+      "title": "Election risks loom large for retirement village and property stocks",
+      "url": "https://newsroom.co.nz/2026/10/22/election-risks-loom-large-for-retirement-village-and-property-stocks",
+      "source": "newsroom.co.nz",
+      "card_text": "Election risks loom large for retirement village and property stocks"
+    },
+    {
+      "rank": 25,
+      "title": "Watch Trump’s envoy calls Putin a 'humanitarian' as Kremlin agrees to talks with US and Ukraine",
+      "url": "https://stuff.co.nz/world-news/361049362/trump-envoy-witkoff-meets-putin-st-petersburg-ukraine",
+      "source": "stuff.co.nz",
+      "card_text": "Watch Trump’s envoy calls Putin a 'humanitarian' as Kremlin agrees to talks with US and Ukraine"
+    },
+    {
+      "rank": 26,
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+      "url": "https://bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "'Targeted' attack on much-loved MP leaves Australian town heartbroken"
+    },
+    {
+      "rank": 27,
+      "title": "Pacific police chiefs launch PACPOL to tackle transnational crime",
+      "url": "https://rnz.co.nz/news/pacific/2070260/pacific-police-chiefs-launch-pacpol-to-tackle-transnational-crime",
+      "source": "rnz.co.nz",
+      "card_text": "Pacific police chiefs launch PACPOL to tackle transnational crime"
+    },
+    {
+      "rank": 28,
       "title": "Tim Seifert: Black Caps Batsman discusses upcoming series against India",
       "url": "https://newstalkzb.co.nz/on-air/sportstalk/audio/tim-seifert-black-caps-batsman-discusses-upcoming-series-against-india",
       "source": "newstalkzb.co.nz",
       "card_text": "Tim Seifert: Black Caps Batsman discusses upcoming series against India"
     },
     {
-      "rank": 22,
+      "rank": 29,
       "title": "Australia Keep Rose Bowl After Beating White Ferns",
       "url": "https://kiwikidsnews.co.nz/australia-keep-rose-bowl-after-beating-white-ferns",
       "source": "kiwikidsnews.co.nz",
       "card_text": "Australia Keep Rose Bowl After Beating White Ferns"
     },
     {
-      "rank": 23,
-      "title": "Two dead after hazardous substance call in beach town north of Auckland",
-      "url": "https://stuff.co.nz/nz-news/361048523/sudden-death-after-hazardous-substance-call-beach-town-north-auckland",
+      "rank": 30,
+      "title": "Mobile surgical services at risk",
+      "url": "https://odt.co.nz/news/southland/mobile-surgical-services-at-risk-u4wtwfjc",
+      "source": "odt.co.nz",
+      "card_text": "Mobile surgical services at risk Otago Daily Times Today 5:00 am"
+    },
+    {
+      "rank": 31,
+      "title": "Campaign group says cost biggest barrier for dental care, welcomes student boost",
+      "url": "https://rnz.co.nz/news/health/2069667/campaign-group-says-cost-biggest-barrier-for-dental-care-welcomes-student-boost",
+      "source": "rnz.co.nz",
+      "card_text": "Campaign group says cost biggest barrier for dental care, welcomes student boost"
+    },
+    {
+      "rank": 32,
+      "title": "Dementia: Bay of Plenty specialist facility full with a waiting list as demand grows",
+      "url": "https://nzherald.co.nz/bay-of-plenty-times/news/dementia-bay-of-plenty-specialist-facility-full-with-a-waiting-list-as-demand-grows/premium/XN65FGYEINBFDBZFY7Y5PWHCY4",
+      "source": "nzherald.co.nz",
+      "card_text": "Dementia: Bay of Plenty specialist facility full with a waiting list as demand grows"
+    },
+    {
+      "rank": 33,
+      "title": "‘Good marketing, not good biology’: The myth of the ‘menopause cliff’",
+      "url": "https://stuff.co.nz/health/361047293/good-marketing-not-good-biology-myth-menopause-cliff",
       "source": "stuff.co.nz",
-      "card_text": "Two dead after hazardous substance call in beach town north of Auckland"
+      "card_text": "‘Good marketing, not good biology’: The myth of the ‘menopause cliff’"
     },
     {
-      "rank": 24,
-      "title": "Hamilton physio found guilty of professional misconduct over patient boundary breaches",
-      "url": "https://newstalkzb.co.nz/news/national/hamilton-physio-found-guilty-of-professional-misconduct-over-patient-boundary-breaches",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Hamilton physio found guilty of professional misconduct over patient boundary breaches"
+      "rank": 34,
+      "title": "No traces of rats found in part of Raukūmara Forest where population of kiwi live",
+      "url": "https://rnz.co.nz/news/environment/2070708/no-traces-of-rats-found-in-part-of-raukumara-forest-where-population-of-kiwi-live",
+      "source": "rnz.co.nz",
+      "card_text": "No traces of rats found in part of Raukūmara Forest where population of kiwi live"
     },
     {
-      "rank": 25,
-      "title": "Health NZ Managers Take Unprecedented Industrial Action as Pay Dispute Exposes Growing Pressure on Health System",
-      "url": "https://waateanews.com/2026/10/21/health-nz-managers-take-unprecedented-industrial-action-as-pay-dispute-exposes-growing-pressure-on-health-system",
+      "rank": 35,
+      "title": "Proposed tunnel could significantly reduce Dunedin wastewater overflows",
+      "url": "https://odt.co.nz/news/dunedin/proposed-tunnel-could-significantly-reduce-dunedin-wastewater-overflows-qr9l8csx",
+      "source": "odt.co.nz",
+      "card_text": "Proposed tunnel could significantly reduce Dunedin wastewater overflows"
+    },
+    {
+      "rank": 36,
+      "title": "Coastal Erosion Sparks Ōmokoroa Seawall Upgrade as Council Moves to Protect Popular Waterfront Reserve",
+      "url": "https://waateanews.com/2026/10/22/coastal-erosion-sparks-omokoroa-seawall-upgrade-as-council-moves-to-protect-popular-waterfront-reserve",
       "source": "waateanews.com",
-      "card_text": "Health NZ Managers Take Unprecedented Industrial Action as Pay Dispute Exposes Growing Pressure on Health System"
+      "card_text": "Coastal Erosion Sparks Ōmokoroa Seawall Upgrade as Council Moves to Protect Popular Waterfront Reserve"
     },
     {
-      "rank": 26,
+      "rank": 37,
       "title": "Environmental groups, chiefs file lawsuit as US pushes American Samoa deep sea mining plans",
       "url": "https://asiapacificreport.nz/2026/10/21/environmental-groups-chiefs-file-lawsuit-as-us-pushes-american-samoa-deep-sea-mining-plans",
       "source": "asiapacificreport.nz",
       "card_text": "Environmental groups, chiefs file lawsuit as US pushes American Samoa deep sea mining plans"
     },
     {
-      "rank": 27,
-      "title": "Cancerous chemical at centre of callout revealed",
-      "url": "https://rnz.co.nz/news/emergencies_local/2057418/cancerous-chemical-at-centre-of-callout-revealed",
-      "source": "rnz.co.nz",
-      "card_text": "Cancerous chemical at centre of callout revealed"
-    },
-    {
-      "rank": 28,
-      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-      "url": "https://bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Borneo burning: Life on the frontline of South East Asia's toxic haze"
-    },
-    {
-      "rank": 29,
-      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'"
-    },
-    {
-      "rank": 30,
-      "title": "Hungarian police arrest Orbán-era central bank governor on suspicion of fraud and abuse",
-      "url": "https://stuff.co.nz/world-news/361049331/hungarian-police-arrest-orbnera-central-bank-governor-sus",
-      "source": "stuff.co.nz",
-      "card_text": "Hungarian police arrest Orbán-era central bank governor on suspicion of fraud and abuse"
-    },
-    {
-      "rank": 31,
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "url": "https://bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion"
-    },
-    {
-      "rank": 32,
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin"
-    },
-    {
-      "rank": 33,
-      "title": "Election 2026: Our experts pick who won the Herald Powerbrokers’ Debate",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-our-experts-pick-who-won-the-herald-powerbrokers-debate/premium/5PKI6MYDBRBKTO64XO3LDI5ORM",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: Our experts pick who won the Herald Powerbrokers’ Debate"
-    },
-    {
-      "rank": 34,
-      "title": "Concerns grow for missing 70-year-old Christchurch woman",
-      "url": "https://chrislynchmedia.com/news-items/concerns-grow-for-missing-70-year-old-christchurch-woman",
-      "source": "chrislynchmedia.com",
-      "card_text": "Concerns grow for missing 70-year-old Christchurch woman"
-    },
-    {
-      "rank": 35,
-      "title": "Election 2026 debate: Greens’ Marama Davidson and Act’s David Seymour clash over gang visit",
-      "url": "https://newstalkzb.co.nz/news/politics/election-2026-debate-greens-marama-davidson-and-act-s-david-seymour-clash-over-gang-visit",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Election 2026 debate: Greens’ Marama Davidson and Act’s David Seymour clash over gang visit"
-    },
-    {
-      "rank": 36,
-      "title": "Watch: BASE jumper arrested after high-rise rescue in Auckland | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=qf70mN1SZhE",
-      "source": "youtube.com",
-      "card_text": "Watch: BASE jumper arrested after high-rise rescue in Auckland | Stuff.co.nz"
-    },
-    {
-      "rank": 37,
-      "title": "‘Please explain’, Palestine Forum tells NZ over Israeli-Pacific Islands Forum ‘partnership’",
-      "url": "https://asiapacificreport.nz/2026/10/21/please-explain-palestine-forum-tells-nz-over-israeli-pacific-islands-forum-partnership",
-      "source": "asiapacificreport.nz",
-      "card_text": "‘Please explain’, Palestine Forum tells NZ over Israeli-Pacific Islands Forum ‘partnership’"
-    },
-    {
       "rank": 38,
-      "title": "Major milestone reached in Waioweka Gorge recovery",
-      "url": "https://beehive.govt.nz/release/major-milestone-reached-waioweka-gorge-recovery",
-      "source": "beehive.govt.nz",
-      "card_text": "Major milestone reached in Waioweka Gorge recovery"
+      "title": "Battered baby case sent back to court",
+      "url": "https://thepress.co.nz/nz-news/361102522/battered-baby-case-sent-back-court",
+      "source": "thepress.co.nz",
+      "card_text": "Battered baby case sent back to court A mother was jailed for ‘horrific’ abuse of her daughter. But now the evidence is being questioned. The Press Today 5:00 am Crime"
     },
     {
       "rank": 39,
-      "title": "Fixing The Basics And Building The Future: National’s Plan For Kiwi Kids",
-      "url": "https://scoop.co.nz/stories/PA2610/S00180/fixing-the-basics-and-building-the-future-nationals-plan-for-kiwi-kids.htm",
-      "source": "scoop.co.nz",
-      "card_text": "Fixing The Basics And Building The Future: National’s Plan For Kiwi Kids"
+      "title": "Police quietly set up AI lab to test new machines",
+      "url": "https://rnz.co.nz/news/science-and-technology/2069792/police-quietly-set-up-ai-lab-to-test-new-machines",
+      "source": "rnz.co.nz",
+      "card_text": "Police quietly set up AI lab to test new machines"
     },
     {
       "rank": 40,
-      "title": "SkyCity eyes dividends and a turnaround",
-      "url": "https://businessdesk.co.nz/news/skycity-eyes-dividends-and-a-turnaround/AHELFKWHUNGYXGS3RVDFKKBX2Q",
+      "title": "Former Christchurch City Holdings boss Tim Boyd faces six charges",
+      "url": "https://businessdesk.co.nz/investigations/former-christchurch-city-holdings-boss-tim-boyd-faces-six-charges/AQ36QVQERZBFRDG5QXNPM4CLLE",
       "source": "businessdesk.co.nz",
-      "card_text": "SkyCity eyes dividends and a turnaround SkyCity expects to resume paying dividends, more than three years after its last payout. BusinessDesk Yesterday Business"
+      "card_text": "Former Christchurch City Holdings boss Tim Boyd faces six charges"
     },
     {
       "rank": 41,
-      "title": "Tāmaki Makaurau poll: Oriini Kaipara leads Labour rival by just two points",
-      "url": "https://thespinoff.co.nz/atea/21-10-2026/tamaki-makaurau-poll-oriini-kaipara-leads-labour-rival-by-just-two-points",
-      "source": "thespinoff.co.nz",
-      "card_text": "Tāmaki Makaurau poll: Oriini Kaipara leads Labour rival by just two points"
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "India 'cockroach' leaders who called on election chief to quit are freed from jail"
     },
     {
       "rank": 42,
-      "title": "Could the coalition get back in without needing Opportunity?",
-      "url": "https://interest.co.nz/public-policy/140769/election-poll-watch-right-majority-possible-even-if-opportunity-enters",
-      "source": "interest.co.nz",
-      "card_text": "Could the coalition get back in without needing Opportunity?"
+      "title": "West Papuan civil society calls for UN and Pacific access to region",
+      "url": "https://rnz.co.nz/news/pacific/2070620/west-papuan-civil-society-calls-for-un-and-pacific-access-to-region",
+      "source": "rnz.co.nz",
+      "card_text": "West Papuan civil society calls for UN and Pacific access to region"
     },
     {
       "rank": 43,
-      "title": "Election 2026: Opportunity Surges, National Rebounds – Can Te Pāti Māori Make a Comeback?",
-      "url": "https://waateanews.com/2026/10/21/election-2026-opportunity-surges-national-rebounds-can-te-pati-maori-make-a-comeback",
-      "source": "waateanews.com",
-      "card_text": "Election 2026: Opportunity Surges, National Rebounds – Can Te Pāti Māori Make a Comeback?"
+      "title": "Baby Ru: Police renew plea on three-year anniversary of Lower Hutt toddler's death",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2070341/baby-ru-police-renew-plea-on-three-year-anniversary-of-lower-hutt-toddler-s-death",
+      "source": "rnz.co.nz",
+      "card_text": "Baby Ru: Police renew plea on three-year anniversary of Lower Hutt toddler's death"
     },
     {
       "rank": 44,
-      "title": "Silver Ferns move step closer to Constellation Cup with another dominant win",
-      "url": "https://thepress.co.nz/sport/361101782/silver-ferns-take-commanding-2-0-constellation-cup-heaping-pressure-australian-diamonds",
-      "source": "thepress.co.nz",
-      "card_text": "Silver Ferns move step closer to Constellation Cup with another dominant win"
+      "title": "Northland police officer faces serious assault charges",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2069779/northland-police-officer-faces-serious-assault-charges",
+      "source": "rnz.co.nz",
+      "card_text": "Northland police officer faces serious assault charges"
     },
     {
       "rank": 45,
-      "title": "NZ housing bubble mostly deflated, biggest bank says",
-      "url": "https://stuff.co.nz/home-property/361049250/nz-housing-bubble-mostly-deflated-biggest-bank-says",
+      "title": "The Auckland Debate: Bed levy and fast-track changes vs housing certainty",
+      "url": "https://stuff.co.nz/politics/361049376/auckland-debate-labour-wants-bed-levy-and-fast-track-changes-national-wants-housing-certainty",
       "source": "stuff.co.nz",
-      "card_text": "NZ housing bubble mostly deflated, biggest bank says"
+      "card_text": "The Auckland Debate: Bed levy and fast-track changes vs housing certainty"
     },
     {
       "rank": 46,
-      "title": "Sale of Wellington Kāinga Ora houses sparks local backlash",
-      "url": "https://rnz.co.nz/news/regions_wellington/2051712/sale-of-wellington-kainga-ora-houses-sparks-local-backlash",
-      "source": "rnz.co.nz",
-      "card_text": "Sale of Wellington Kāinga Ora houses sparks local backlash"
+      "title": "Nearly 300 injured in accidents in 3 days",
+      "url": "https://odt.co.nz/news/dunedin/nearly-300-injured-in-accidents-in-3-days-rerc1eds",
+      "source": "odt.co.nz",
+      "card_text": "Nearly 300 injured in accidents in 3 days"
     },
     {
       "rank": 47,
-      "title": "No Young Person Should Be Homeless: Kick Back’s Aaron Hendry Calls for Urgent Action on Youth Housing Crisis",
-      "url": "https://waateanews.com/2026/10/21/no-young-person-should-be-homeless-kick-backs-aaron-hendry-calls-for-urgent-action-on-youth-housing-crisis",
-      "source": "waateanews.com",
-      "card_text": "No Young Person Should Be Homeless: Kick Back’s Aaron Hendry Calls for Urgent Action on Youth Housing Crisis"
+      "title": "The $12.1 billion energy blind spot",
+      "url": "https://newsroom.co.nz/2026/10/22/the-12-1-billion-energy-blind-spot",
+      "source": "newsroom.co.nz",
+      "card_text": "The $12.1 billion energy blind spot Comment: Every party has a plan for the supermarket aisle but none has shown a plan for the imported fuel that raises prices Newsroom Today 5:00 am Opinion"
     },
     {
       "rank": 48,
-      "title": "Chris Abercrombie: PPTA President discusses National's promise to expand Maths Acceleration Programme",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/chris-abercrombie-ppta-president-discusses-nationals-promise-to-expand-maths-acceleration-programme",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Chris Abercrombie: PPTA President discusses National's promise to expand Maths Acceleration Programme"
+      "title": "Mood of the Boardroom: CEOs rate the politicians ahead of the election",
+      "url": "https://nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-ceos-rate-the-politicians-ahead-of-the-election/INAGD443IFHJBMHEQIVRAK3ABI",
+      "source": "nzherald.co.nz",
+      "card_text": "Mood of the Boardroom: CEOs rate the politicians ahead of the election"
     },
     {
       "rank": 49,
-      "title": "More dentists to be trained in NZ after funding boost",
-      "url": "https://rnz.co.nz/news/health/2057125/more-dentists-to-be-trained-in-nz-after-funding-boost",
+      "title": "Here's how much wealth New Zealanders have tied up in property",
+      "url": "https://rnz.co.nz/news/personal-finance/2069819/here-s-how-much-wealth-new-zealanders-have-tied-up-in-property",
       "source": "rnz.co.nz",
-      "card_text": "More dentists to be trained in NZ after funding boost"
+      "card_text": "Here's how much wealth New Zealanders have tied up in property"
     },
     {
       "rank": 50,
-      "title": "‘Victory’ for Christchurch’s Haeata after school wins contract to provide its own lunches",
-      "url": "https://thepress.co.nz/nz-news/361102954/victory-haeata-after-school-wins-contract-provide-its-own-lunches",
-      "source": "thepress.co.nz",
-      "card_text": "‘Victory’ for Christchurch’s Haeata after school wins contract to provide its own lunches"
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "url": "https://bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Nigeria confirms Ebola case linked to East Africa"
     }
   ],
   "json_endpoints_observed": [
