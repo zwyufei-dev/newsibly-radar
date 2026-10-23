@@ -1,9 +1,33 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-23T16:53:22.929978+00:00",
-  "count": 50,
+  "updated_at_utc": "2026-10-23T20:17:00.538584+00:00",
+  "count": 53,
   "items": [
+    {
+      "rank": 1,
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "url": "https://bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "discovered_at_utc": "2026-10-23T20:17:00.538584+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "discovered_at_utc": "2026-10-23T20:17:00.538584+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "discovered_at_utc": "2026-10-23T20:17:00.538584+00:00"
+    },
     {
       "rank": 1,
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
