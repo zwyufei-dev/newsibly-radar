@@ -2,8 +2,8 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-10-23T20:17:00.538584+00:00",
-  "count": 3,
+  "retrieved_at_utc": "2026-10-23T23:48:48.560296+00:00",
+  "count": 50,
   "items": [
     {
       "rank": 1,
@@ -14,21 +14,351 @@
     },
     {
       "rank": 2,
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "url": "https://bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Seven shot dead by gunmen at church funeral in Jordan, officials say"
+      "title": "Israel threatens major West Bank attacks after two soldiers killed days before Israeli election",
+      "url": "https://odt.co.nz/news/world/israel-threatens-major-west-bank-attacks-after-two-soldiers-killed-days-before-israeli-election-thwk4fak",
+      "source": "odt.co.nz",
+      "card_text": "Israel threatens major West Bank attacks after two soldiers killed days before Israeli election"
     },
     {
       "rank": 3,
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "title": "Oregon man who killed school shooter says he regrets there were children he didn't save",
+      "url": "https://stuff.co.nz/world-news/361050589/oregon-man-who-killed-school-shooter-says-he-regrets-there-w",
+      "source": "stuff.co.nz",
+      "card_text": "Oregon man who killed school shooter says he regrets there were children he didn't save"
+    },
+    {
+      "rank": 4,
+      "title": "MĀORI HEALTH CRISIS DEEPENS! Two in Three Māori Going Without Healthcare as NZNO Demands Election Action",
+      "url": "https://waateanews.com/2026/10/24/maori-health-crisis-deepens-two-in-three-maori-going-without-healthcare-as-nzno-demands-election-action",
+      "source": "waateanews.com",
+      "card_text": "MĀORI HEALTH CRISIS DEEPENS! Two in Three Māori Going Without Healthcare as NZNO Demands Election Action"
+    },
+    {
+      "rank": 5,
+      "title": "At least five schools impacted by tutor under investigation",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2119587/at-least-five-schools-impacted-by-tutor-under-investigation",
+      "source": "rnz.co.nz",
+      "card_text": "At least five schools impacted by tutor under investigation"
+    },
+    {
+      "rank": 6,
+      "title": "Election enrolment change could leave homeless voters off the roll",
+      "url": "https://newstalkzb.co.nz/news/politics/election-enrolment-change-could-leave-homeless-voters-off-the-roll",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election enrolment change could leave homeless voters off the roll"
+    },
+    {
+      "rank": 7,
+      "title": "Brothers’ near-death ordeal on Lake Rotoiti sparks lifejacket warning",
+      "url": "https://nzherald.co.nz/rotorua-daily-post/news/brothers-near-death-ordeal-on-lake-rotoiti-sparks-lifejacket-warning/premium/6QV2RIJFXFCOJKOAD2FCIS7GYE",
+      "source": "nzherald.co.nz",
+      "card_text": "Brothers’ near-death ordeal on Lake Rotoiti sparks lifejacket warning"
+    },
+    {
+      "rank": 8,
+      "title": "‘Fighting hardcore for you’: Politicians make their 11th-hour plea to young voters",
+      "url": "https://thespinoff.co.nz/politics/24-10-2026/fighting-hardcore-for-you-politicians-make-their-11th-hour-plea-to-young-voters",
+      "source": "thespinoff.co.nz",
+      "card_text": "‘Fighting hardcore for you’: Politicians make their 11th-hour plea to young voters"
+    },
+    {
+      "rank": 9,
+      "title": "‘Catastrophic impact’: City council’s draft budget proposes cutting flood defence work along the Avon River",
+      "url": "https://thepress.co.nz/nz-news/361104381/catastrophic-impact-city-councils-draft-budget-proposes-cutting-flood-defence-work-along-avon-river",
+      "source": "thepress.co.nz",
+      "card_text": "‘Catastrophic impact’: City council’s draft budget proposes cutting flood defence work along the Avon River"
+    },
+    {
+      "rank": 10,
+      "title": "Start-up investment breaks records as companies scale and early-stage recovers",
+      "url": "https://businessdesk.co.nz/companies/startups/start-up-investment-breaks-records-as-companies-scale-and-early-stage-recovers/RGBQLGV3TZBMZPORNNJ7ZFMLUI",
+      "source": "businessdesk.co.nz",
+      "card_text": "Start-up investment breaks records as companies scale and early-stage recovers"
+    },
+    {
+      "rank": 11,
+      "title": "Not a right to silence issue",
+      "url": "https://pointofordernz.wordpress.com/2026/10/24/not-a-right-to-silence-issue-2",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Not a right to silence issue David Harvey writes – How politicians misunderstand highly nuanced legal concepts. The National Party announced a policy that proposes to remove the right to silence that can be invoked by adults who may (or may not) have information surrounding the cause of death of a child under 12. The term “right to silence” has a … Continue reading Not a right to silence issue → Point of Order Today 7:08 am Opinion"
+    },
+    {
+      "rank": 12,
+      "title": "Why the world is working around the US",
+      "url": "https://newsroom.co.nz/2026/10/24/why-the-world-is-working-around-the-us",
+      "source": "newsroom.co.nz",
+      "card_text": "Why the world is working around the US From The Detail: Pulitzer prize winning historian says process of the world restructuring itself around America has begun Newsroom Today 5:00 am Opinion"
+    },
+    {
+      "rank": 13,
+      "title": "Watch: AI research exposes a flaw that could see global websites more easily hacked | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=hu4reI6Er9Y",
+      "source": "youtube.com",
+      "card_text": "Watch: AI research exposes a flaw that could see global websites more easily hacked | Stuff.co.nz"
+    },
+    {
+      "rank": 14,
+      "title": "Fire and Emergency boss resigns with immediate effect",
+      "url": "https://chrislynchmedia.com/news-items/fire-and-emergency-boss-resigns-with-immediate-effect",
+      "source": "chrislynchmedia.com",
+      "card_text": "Fire and Emergency boss resigns with immediate effect"
+    },
+    {
+      "rank": 15,
+      "title": "Chief Of Defence Resigns",
+      "url": "https://scoop.co.nz/stories/PA2610/S00210/chief-of-defence-resigns.htm",
+      "source": "scoop.co.nz",
+      "card_text": "Chief Of Defence Resigns The Chief of Army, Major General Rose King, will act as Chief of Defence Force until Sunday. Then Vice Chief of Defence Force, Rear Admiral Mat Williams, will act as Chief of Defence Force. Scoop Yesterday Politics"
+    },
+    {
+      "rank": 16,
+      "title": "‘Test of regionalism’ – Pacific churches call for review of Israel’s PIF role",
+      "url": "https://asiapacificreport.nz/2026/10/23/test-of-regionalism-pacific-churches-call-for-review-of-israels-pif-role",
+      "source": "asiapacificreport.nz",
+      "card_text": "‘Test of regionalism’ – Pacific churches call for review of Israel’s PIF role"
+    },
+    {
+      "rank": 17,
+      "title": "Auckland Mayor Wayne Brown demands $220m tourism funding in Weekend Herald ad",
+      "url": "https://nzherald.co.nz/nz/auckland/auckland-mayor-wayne-brown-demands-220m-tourism-funding-in-weekend-herald-ad/76JZ2LHLGVBIBL5OWVH7EN74OI",
+      "source": "nzherald.co.nz",
+      "card_text": "Auckland Mayor Wayne Brown demands $220m tourism funding in Weekend Herald ad"
+    },
+    {
+      "rank": 18,
+      "title": "Left bloc 'lost control' of election campaign in the last week - commentator",
+      "url": "https://rnz.co.nz/news/politics_election-2026/2120794/left-bloc-lost-control-of-election-campaign-in-the-last-week-commentator",
+      "source": "rnz.co.nz",
+      "card_text": "Left bloc 'lost control' of election campaign in the last week - commentator"
+    },
+    {
+      "rank": 19,
+      "title": "Rates cap may lead to sale of pools, libraries, union warns — won’t happen in Dunedin, Cr says",
+      "url": "https://odt.co.nz/news/dunedin/rates-cap-may-lead-to-sell-off-pools-libraries-union-warns-but-wont-happen-in-dunedin-cr-says-b0g8bdnr",
+      "source": "odt.co.nz",
+      "card_text": "Rates cap may lead to sale of pools, libraries, union warns — won’t happen in Dunedin, Cr says"
+    },
+    {
+      "rank": 20,
+      "title": "NZ WARSHIPS RETURN HOME! Defence Force Strengthens Military Ties Across Indo-Pacific Amid Rising Regional Tensions",
+      "url": "https://waateanews.com/2026/10/24/nz-warships-return-home-defence-force-strengthens-military-ties-across-indo-pacific-amid-rising-regional-tensions",
+      "source": "waateanews.com",
+      "card_text": "NZ WARSHIPS RETURN HOME! Defence Force Strengthens Military Ties Across Indo-Pacific Amid Rising Regional Tensions"
+    },
+    {
+      "rank": 21,
+      "title": "‘It does take a toll’: Creditors of failed Southland firm owing $10m have little hope of seeing money",
+      "url": "https://odt.co.nz/news/southland/it-does-take-a-toll-creditors-of-failed-southland-firm-owing-10m-have-little-hope-of-seeing-money-w3zm1uy5",
+      "source": "odt.co.nz",
+      "card_text": "‘It does take a toll’: Creditors of failed Southland firm owing $10m have little hope of seeing money"
+    },
+    {
+      "rank": 22,
+      "title": "‘Like being caught in a vice’: Readers reveal what they have given up as living costs rise",
+      "url": "https://thepress.co.nz/nz-news/361103009/being-caught-vice-readers-reveal-what-they-have-given-living-costs-rise",
+      "source": "thepress.co.nz",
+      "card_text": "‘Like being caught in a vice’: Readers reveal what they have given up as living costs rise"
+    },
+    {
+      "rank": 23,
+      "title": "Watch: Figures reveal inflation had eased off but economists warn it's likely to rise again | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=4VmUzAV9IVU",
+      "source": "youtube.com",
+      "card_text": "Watch: Figures reveal inflation had eased off but economists warn it's likely to rise again | Stuff.co.nz"
+    },
+    {
+      "rank": 24,
+      "title": "Dissent at Winton AGM: ‘What it has lacked is trust’",
+      "url": "https://newsroom.co.nz/2026/10/23/dissent-at-winton-agm-what-it-has-lacked-is-trust",
+      "source": "newsroom.co.nz",
+      "card_text": "Dissent at Winton AGM: ‘What it has lacked is trust’"
+    },
+    {
+      "rank": 25,
+      "title": "First tanker of Russian diesel sets sail for the US in Trump's controversial deal with Putin",
+      "url": "https://stuff.co.nz/world-news/361050586/first-tanker-russian-diesel-sets-sail-us-trump",
+      "source": "stuff.co.nz",
+      "card_text": "First tanker of Russian diesel sets sail for the US in Trump's controversial deal with Putin"
+    },
+    {
+      "rank": 26,
+      "title": "‘Terrorist and racist’ machine gun rampage leaves one dead, five injured in Paris",
+      "url": "https://odt.co.nz/news/world/terrorist-and-racist-machine-gun-rampage-leaves-one-dead-five-injured-in-paris-mfivyv6t",
+      "source": "odt.co.nz",
+      "card_text": "‘Terrorist and racist’ machine gun rampage leaves one dead, five injured in Paris"
+    },
+    {
+      "rank": 27,
+      "title": "'Test of regionalism': Pacific church group calls for review of Israel's PIF role",
+      "url": "https://rnz.co.nz/news/pacific/2098703/test-of-regionalism-pacific-church-group-calls-for-review-of-israel-s-pif-role",
+      "source": "rnz.co.nz",
+      "card_text": "'Test of regionalism': Pacific church group calls for review of Israel's PIF role"
+    },
+    {
+      "rank": 28,
+      "title": "Adam Blair: Kiwis Assistant Coach reflects on their Rugby League World Cup opener, looks ahead to second clash",
+      "url": "https://newstalkzb.co.nz/on-air/the-all-sport-breakfast/audio/adam-blair-kiwis-assistant-coach-reflects-on-their-rugby-league-world-cup-opener-looks-ahead-to-second-clash",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Adam Blair: Kiwis Assistant Coach reflects on their Rugby League World Cup opener, looks ahead to second clash"
+    },
+    {
+      "rank": 29,
+      "title": "Australia rugby league head stands firm by PNG Chiefs name",
+      "url": "https://rnz.co.nz/news/pacific/2116589/australia-rugby-league-head-stands-firm-by-png-chiefs-name",
+      "source": "rnz.co.nz",
+      "card_text": "Australia rugby league head stands firm by PNG Chiefs name"
+    },
+    {
+      "rank": 30,
+      "title": "Sonny Bill Williams feared he would die after emergency heart surgery",
+      "url": "https://nzherald.co.nz/nz/sonny-bill-williams-feared-he-would-die-after-emergency-heart-surgery/TS7PEYIHRNFW3A3OUPHPGVJK7Q",
+      "source": "nzherald.co.nz",
+      "card_text": "Sonny Bill Williams feared he would die after emergency heart surgery"
+    },
+    {
+      "rank": 31,
+      "title": "Canterbury chasing back-to-back titles",
+      "url": "https://odt.co.nz/sport/rugby/canterbury-chasing-back-to-back-titles-gaup17jl",
+      "source": "odt.co.nz",
+      "card_text": "Canterbury chasing back-to-back titles Otago Daily Times Today 5:30 am"
+    },
+    {
+      "rank": 32,
+      "title": "Mathematicians in mourning as AI cracks their lives’ work",
+      "url": "https://odt.co.nz/life-and-style/the-mix/mathematicians-in-mourning-as-ai-cracks-their-lives-work-t27rxgan",
+      "source": "odt.co.nz",
+      "card_text": "Mathematicians in mourning as AI cracks their lives’ work"
+    },
+    {
+      "rank": 33,
+      "title": "The ‘big guys’ will win the AI copyright fight, says visiting legal expert",
+      "url": "https://thepress.co.nz/business/361102313/big-guys-will-win-ai-copyright-fight-says-visiting-legal-expert",
+      "source": "thepress.co.nz",
+      "card_text": "The ‘big guys’ will win the AI copyright fight, says visiting legal expert"
+    },
+    {
+      "rank": 34,
+      "title": "Too early to determine local impact of PHP vulnerabilities – NCSC",
+      "url": "https://reseller.co.nz/article/4239423/ncsc-urges-businesses-to-check-websites-and-online-services-following-php-vulnerability.html",
+      "source": "reseller.co.nz",
+      "card_text": "Too early to determine local impact of PHP vulnerabilities – NCSC"
+    },
+    {
+      "rank": 35,
+      "title": "Dawn Aerospace breaks ground on $7.5m Oklahoma spaceplane facility",
+      "url": "https://businessdesk.co.nz/news/dawn-aerospace-breaks-ground-on-75m-oklahoma-spaceplane-facility/PCYRJOYPKRCURIWOULG3NK2ZZY",
+      "source": "businessdesk.co.nz",
+      "card_text": "Dawn Aerospace breaks ground on $7.5m Oklahoma spaceplane facility"
+    },
+    {
+      "rank": 36,
+      "title": "A new prescription for public healthcare: Airport land eyed up for new Queenstown public hospital",
+      "url": "https://odt.co.nz/otago/queenstown/a-new-prescription-for-public-healthcare-airport-land-eyed-up-for-new-queenstown-public-hospital-y2lx6780",
+      "source": "odt.co.nz",
+      "card_text": "A new prescription for public healthcare: Airport land eyed up for new Queenstown public hospital"
+    },
+    {
+      "rank": 37,
+      "title": "You may not know the medical term, but it affects one in three New Zealand adults – and rates are rising",
+      "url": "https://stuff.co.nz/health/361045226/you-may-not-know-medical-term-it-affects-one-three-new-zealanders-and-rates-are-rising",
+      "source": "stuff.co.nz",
+      "card_text": "You may not know the medical term, but it affects one in three New Zealand adults – and rates are rising"
+    },
+    {
+      "rank": 38,
+      "title": "Starship needs long-term plan in place, Child Cancer Foundation warns",
+      "url": "https://rnz.co.nz/news/health/2105131/starship-needs-long-term-plan-in-place-child-cancer-foundation-warns",
+      "source": "rnz.co.nz",
+      "card_text": "Starship needs long-term plan in place, Child Cancer Foundation warns"
+    },
+    {
+      "rank": 39,
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "url": "https://bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat"
+    },
+    {
+      "rank": 40,
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead"
+    },
+    {
+      "rank": 41,
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'"
+      "card_text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'"
+    },
+    {
+      "rank": 42,
+      "title": "Emboldened Israeli settlers lead a surge of attacks on Palestinians' olive harvest",
+      "url": "https://stuff.co.nz/world-news/361050528/emboldened-israeli-settlers-lead-surge-attacks-pales",
+      "source": "stuff.co.nz",
+      "card_text": "Emboldened Israeli settlers lead a surge of attacks on Palestinians' olive harvest"
+    },
+    {
+      "rank": 43,
+      "title": "Cyclist may have witnessed fatal car v truck crash at Blenheim intersection",
+      "url": "https://stuff.co.nz/nz-news/361050515/cyclist-may-have-witnessed-fatal-car-v-truck-crash-blenheim-intersection",
+      "source": "stuff.co.nz",
+      "card_text": "Cyclist may have witnessed fatal car v truck crash at Blenheim intersection"
+    },
+    {
+      "rank": 44,
+      "title": "‘I’m not having my grandkids drinking this water’: Former ECan science director slams dumping of human waste",
+      "url": "https://odt.co.nz/otago/wanaka/im-not-having-my-grandkids-drinking-this-water-top-scientist-slams-dumping-of-human-waste-fomswjvw",
+      "source": "odt.co.nz",
+      "card_text": "‘I’m not having my grandkids drinking this water’: Former ECan science director slams dumping of human waste"
+    },
+    {
+      "rank": 45,
+      "title": "Police repeatedly called to home where Dunedin mother found dead after fire",
+      "url": "https://odt.co.nz/news/dunedin/police-repeatedly-called-to-home-where-dunedin-mother-found-dead-after-fire-m84jcbz1",
+      "source": "odt.co.nz",
+      "card_text": "Police repeatedly called to home where Dunedin mother found dead after fire"
+    },
+    {
+      "rank": 46,
+      "title": "Wet and windy end to long weekend in the South",
+      "url": "https://odt.co.nz/news/dunedin/wet-and-windy-end-to-long-weekend-in-the-south-i051h8x8",
+      "source": "odt.co.nz",
+      "card_text": "Wet and windy end to long weekend in the South"
+    },
+    {
+      "rank": 47,
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Ukraine says Starlink still restricted after Trump says limits lifted"
+    },
+    {
+      "rank": 48,
+      "title": "Winitana Dellow and Mongrel Mob associates sentenced for attacks on patrons at Common Room bar, Hastings",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/winitana-dellow-and-mongrel-mob-associates-sentenced-for-attacks-on-patrons-at-common-room-bar-hastings/N32VYP3Z3NE6VGKFSCWCQU26HY",
+      "source": "nzherald.co.nz",
+      "card_text": "Winitana Dellow and Mongrel Mob associates sentenced for attacks on patrons at Common Room bar, Hastings"
+    },
+    {
+      "rank": 49,
+      "title": "‘The word justified has haunted me’: Video of Mississippi police shooting 1-year-old boy released",
+      "url": "https://stuff.co.nz/world-news/361050519/mississippi-releases-video-showing-fatal-shooting-1yearol",
+      "source": "stuff.co.nz",
+      "card_text": "‘The word justified has haunted me’: Video of Mississippi police shooting 1-year-old boy released"
+    },
+    {
+      "rank": 50,
+      "title": "Cyclist wanted as witness after Blenheim fatal crash",
+      "url": "https://rnz.co.nz/news/regions/2121400/cyclist-wanted-as-witness-after-blenheim-fatal-crash",
+      "source": "rnz.co.nz",
+      "card_text": "Cyclist wanted as witness after Blenheim fatal crash"
     }
   ],
   "json_endpoints_observed": [
     "https://newsibly.nz/api/home?stage=initial",
+    "https://newsibly.nz/api/home?stage=next",
     "https://newsibly.nz/api/meta",
     "https://newsibly.nz/api/sources",
     "https://newsibly.nz/cdn-cgi/speculation"
