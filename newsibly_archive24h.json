@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-26T00:03:03.930577+00:00",
-  "count": 154,
+  "updated_at_utc": "2026-10-26T05:56:15.179796+00:00",
+  "count": 162,
   "items": [
+    {
+      "rank": 41,
+      "title": "Hipkins’ campaign gets a filip at Filipino festival",
+      "url": "https://newsroom.co.nz/2026/10/25/hipkins-campaign-gets-a-filip-at-filipino-festival",
+      "source": "newsroom.co.nz",
+      "card_text": "Hipkins’ campaign gets a filip at Filipino festival",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Bonds whack conservative funds, MJW",
+      "url": "https://investmentnews.co.nz/investment-news/bonds-whack-conservative-funds-mjw",
+      "source": "investmentnews.co.nz",
+      "card_text": "Bonds whack conservative funds, MJW Conservative-leaning KiwiSaver funds took a hit during the September quarter as tough bond markets ate into returns, new Melville Jessup Weaver (MJW) data shows. In fact, almost all KiwiSaver diversified funds other than growth-oriented strategies fell into the red for the three months to September 30, according to the MJW quarterly investment report. The median... [Read More...] Investment News Yesterday Business",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Venezuelan opposition leader María Machado returns after months in exile",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Doctor feared being branded a 'troublemaker' after senior colleague jailed for assaulting her",
+      "url": "https://stuff.co.nz/nz-news/361046483/doctor-feared-career-ruin-after-senior-colleague-drugged-and-assaulted-her",
+      "source": "stuff.co.nz",
+      "card_text": "Doctor feared being branded a 'troublemaker' after senior colleague jailed for assaulting her",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "HANDS OFF OUR MOANA! Community Rallies to End Bottom Trawling in Hauraki Gulf Ahead of Election",
+      "url": "https://waateanews.com/2026/10/26/hands-off-our-moana-community-rallies-to-end-bottom-trawling-in-hauraki-gulf-ahead-of-election",
+      "source": "waateanews.com",
+      "card_text": "HANDS OFF OUR MOANA! Community Rallies to End Bottom Trawling in Hauraki Gulf Ahead of Election",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Early Bird: Greens promise extra health funding",
+      "url": "https://thekaka.substack.com/p/early-bird-greens-promise-extra-health",
+      "source": "thekaka.substack.com",
+      "card_text": "Early Bird: Greens promise extra health funding",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Six Choppers Battle Blaze Near Te Anau",
+      "url": "https://whatsoninvers.nz/six-choppers-battle-blaze-near-te-anau",
+      "source": "whatsoninvers.nz",
+      "card_text": "Six Choppers Battle Blaze Near Te Anau A seventh aircraft is directing the air attack from above, as severe northwesterly gales gusting up to 120km/h in exposed places are forecast for the region tomorrow. What's On Invers Today 7:41 am Rural",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Seven ways this election will be different",
+      "url": "https://thespinoff.co.nz/politics/26-10-2026/seven-ways-this-will-be-a-different-election",
+      "source": "thespinoff.co.nz",
+      "card_text": "Seven ways this election will be different",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Hipkins casts vote, promises a Government by Christmas",
+      "url": "https://stuff.co.nz/politics/361049792/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Hipkins casts vote, promises a Government by Christmas",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "LABOUR TARGETS COST-OF-LIVING CRISIS! Party Promises Action From Day One if Elected",
+      "url": "https://waateanews.com/2026/10/26/labour-targets-cost-of-living-crisis-party-promises-action-from-day-one-if-elected",
+      "source": "waateanews.com",
+      "card_text": "LABOUR TARGETS COST-OF-LIVING CRISIS! Party Promises Action From Day One if Elected",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "LUXON UNVEILS 100-DAY BLITZ! National Promises 26 Actions on Cost of Living, Health, Housing and Crime",
+      "url": "https://waateanews.com/2026/10/26/luxon-unveils-100-day-blitz-national-promises-26-actions-on-cost-of-living-health-housing-and-crime",
+      "source": "waateanews.com",
+      "card_text": "LUXON UNVEILS 100-DAY BLITZ! National Promises 26 Actions on Cost of Living, Health, Housing and Crime",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Why Israel's election is one of the most important in its history",
+      "url": "https://bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Why Israel's election is one of the most important in its history",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Silver Ferns Stun Australia! Kiwi Netballers Claim Constellation Cup After Sensational Final-Quarter Comeback!",
+      "url": "https://waateanews.com/2026/10/26/silver-ferns-stun-australia-kiwi-netballers-claim-constellation-cup-after-sensational-final-quarter-comeback",
+      "source": "waateanews.com",
+      "card_text": "Silver Ferns Stun Australia! Kiwi Netballers Claim Constellation Cup After Sensational Final-Quarter Comeback!",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Boil water notice issued for Omakau and Ophir",
+      "url": "https://odt.co.nz/otago/central-otago/boil-water-notice-issued-for-omakau-and-ophir-qk1jinxi",
+      "source": "odt.co.nz",
+      "card_text": "Boil water notice issued for Omakau and Ophir",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Christchurch attracts much needed dermatologist to KM Surgical",
+      "url": "https://chrislynchmedia.com/news-items/christchurch-attracts-much-needed-dermatologist-to-km-surgical",
+      "source": "chrislynchmedia.com",
+      "card_text": "Christchurch attracts much needed dermatologist to KM Surgical",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Deeply divided Israel braces for pivotal election",
+      "url": "https://bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Deeply divided Israel braces for pivotal election",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "‘Could have seen this coming’: Long queues and closed polling centres fire up critics on advanced voting’s opening day",
+      "url": "https://thepress.co.nz/politics/361105341/labour-promises-early-christmas-present-votes-roll",
+      "source": "thepress.co.nz",
+      "card_text": "‘Could have seen this coming’: Long queues and closed polling centres fire up critics on advanced voting’s opening day",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Large scrub fire threatens telecommunications towers in Southland",
+      "url": "https://rnz.co.nz/news/emergencies_local/2156197/large-scrub-fire-threatens-telecommunications-towers-in-southland",
+      "source": "rnz.co.nz",
+      "card_text": "Large scrub fire threatens telecommunications towers in Southland",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Just how much could your rent go up over the next year?",
+      "url": "https://stuff.co.nz/home-property/361050298/why-your-rent-could-go-more-over-next-year",
+      "source": "stuff.co.nz",
+      "card_text": "Just how much could your rent go up over the next year?",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Government wants a booming space industry but agency funding hasn’t risen in 10 years",
+      "url": "https://thepress.co.nz/business/361102710/government-wants-booming-space-industry-agency-funding-hasnt-risen-10-years",
+      "source": "thepress.co.nz",
+      "card_text": "Government wants a booming space industry but agency funding hasn’t risen in 10 years",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Here’s what it actually costs to rebuild a Kiwi house destroyed by a storm or fire",
+      "url": "https://stuff.co.nz/home-property/361049946/heres-what-it-actually-costs-rebuild-house-destroyed-storm-or-fire",
+      "source": "stuff.co.nz",
+      "card_text": "Here’s what it actually costs to rebuild a Kiwi house destroyed by a storm or fire",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Roman Reyhani, CEO of NZ’s new advanced technology agency, outlines 3 target areas",
+      "url": "https://nzherald.co.nz/business/the-crowns-advanced-technology-agency-gets-a-boss-who-outlines-three-target-areas/premium/6VHGGSR26JH4PFOW6HRKNDTKZQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Roman Reyhani, CEO of NZ’s new advanced technology agency, outlines 3 target areas",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "National planned social media ban launch before Cabinet signed off",
+      "url": "https://goodoil.news/national-planned-social-media-ban-launch-before-cabinet-signed-off",
+      "source": "goodoil.news",
+      "card_text": "National planned social media ban launch before Cabinet signed off",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Fiji ‘worse off today’, former PM warns, as Rabuka’s constitution overhaul faces backlash",
+      "url": "https://asiapacificreport.nz/2026/10/26/fiji-worse-off-today-former-pm-warns-as-rabukas-constitution-overhaul-faces-backlash",
+      "source": "asiapacificreport.nz",
+      "card_text": "Fiji ‘worse off today’, former PM warns, as Rabuka’s constitution overhaul faces backlash",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Democracy Briefing: Business leaders give lobbying reform a welcome boost",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-business-leaders",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: Business leaders give lobbying reform a welcome boost",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "ACT hits the road on Big Pinky and releases manifesto as Labour says it will tackle cost of living from day one if elected",
+      "url": "https://interest.co.nz/public-policy/140825/political-activity-act-releases-election-manifesto-labour-says-it-will-make",
+      "source": "interest.co.nz",
+      "card_text": "ACT hits the road on Big Pinky and releases manifesto as Labour says it will tackle cost of living from day one if elected",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Council admits consultation error",
+      "url": "https://cambridgenews.nz/2026/10/council-admits-consultation-error",
+      "source": "cambridgenews.nz",
+      "card_text": "Council admits consultation error Waipā District Council has admitted it failed to comply with a key requirement of the Reserves Act during consultation on the Karāpiro Lake Domain Reserve Management Plan. A report to councillors for Wednesday’s council meeting... Cambridge News Today 2:00 pm Politics",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Former Speaker alleges Trump-style ‘voter suppression’ in NZ",
+      "url": "https://stuff.co.nz/politics/361051140/former-speaker-alleges-trump-style-voter-suppression-nz",
+      "source": "stuff.co.nz",
+      "card_text": "Former Speaker alleges Trump-style ‘voter suppression’ in NZ",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Election 2026 – energy policies: What parties propose for power prices and renewables",
+      "url": "https://nzherald.co.nz/business/companies/energy/election-energy-policies-what-parties-propose-for-power-prices-and-renewables/premium/U3PJVGIVERHVPEYYYGS2X6MSWA",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 – energy policies: What parties propose for power prices and renewables",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Police can now move on rough sleepers — even without disorderly behaviour",
+      "url": "https://goodoil.news/police-can-now-move-on-rough-sleepers-even-without-disorderly-behaviour",
+      "source": "goodoil.news",
+      "card_text": "Police can now move on rough sleepers — even without disorderly behaviour",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Business leaders warn of New Zealand energy security risks",
+      "url": "https://nzherald.co.nz/business/business-reports/mood-of-the-boardroom/business-leaders-warn-of-new-zealand-energy-security-risks/premium/HWAYNNNZ7JH2LI62MRTX7ZZGAQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Business leaders warn of New Zealand energy security risks",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Tiaki Wai customers facing direct-debit delays on Wellington water bills",
+      "url": "https://rnz.co.nz/news/regions/2170358/tiaki-wai-customers-facing-direct-debit-delays-on-wellington-water-bills",
+      "source": "rnz.co.nz",
+      "card_text": "Tiaki Wai customers facing direct-debit delays on Wellington water bills",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Tesla remotely disabled fast-charging on repaired cars bought at auction",
+      "url": "https://newstalkzb.co.nz/news/national/tesla-remotely-disabled-fast-charging-on-repaired-cars-bought-at-auction",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Tesla remotely disabled fast-charging on repaired cars bought at auction",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Holiday briefing: Elections, war prep, & rate decisions ahead this week",
+      "url": "https://interest.co.nz/economy/140824/big-week-ahead-central-bank-decisions-inflation-elevated-while-pmis-positive-canada",
+      "source": "interest.co.nz",
+      "card_text": "Holiday briefing: Elections, war prep, & rate decisions ahead this week",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "'A stone in our hearts': Tears as colleagues honour MP who lost legs",
+      "url": "https://odt.co.nz/news/world/a-stone-in-our-hearts-tears-as-colleagues-honour-mp-who-lost-legs-nu37tir0",
+      "source": "odt.co.nz",
+      "card_text": "'A stone in our hearts': Tears as colleagues honour MP who lost legs",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "PNG communities stuggle with El Niño drought",
+      "url": "https://rnz.co.nz/news/pacific/2168659/png-communities-stuggle-with-el-nino-drought",
+      "source": "rnz.co.nz",
+      "card_text": "PNG communities stuggle with El Niño drought",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Injury forces Black Ferns hooker out of final test against France",
+      "url": "https://newstalkzb.co.nz/news/sport/injury-forces-black-ferns-hooker-out-of-final-test-against-france",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Injury forces Black Ferns hooker out of final test against France",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "AI hackers speed up attacks as defenders struggle to keep pace",
+      "url": "https://goodoil.news/ai-hackers-speed-up-attacks-as-defenders-struggle-to-keep-pace",
+      "source": "goodoil.news",
+      "card_text": "AI hackers speed up attacks as defenders struggle to keep pace",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Allevia Health plans new $100m Epsom Specialist Hospital with 4 to 6 new operating theatres",
+      "url": "https://nzherald.co.nz/property/allevia-health-plans-new-100m-epsom-specialist-hospital-with-four-to-six-new-operating-theatres/premium/C47X3G7475FR7DPYR2Z3WUUDCE",
+      "source": "nzherald.co.nz",
+      "card_text": "Allevia Health plans new $100m Epsom Specialist Hospital with 4 to 6 new operating theatres",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Pharmac funds cancer drug for some — but this father faces $17,000 a month",
+      "url": "https://goodoil.news/pharmac-funds-cancer-drug-for-some-but-this-father-faces-17-000-a-month",
+      "source": "goodoil.news",
+      "card_text": "Pharmac funds cancer drug for some — but this father faces $17,000 a month",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Hundreds without power as crews battle Roxburgh blaze",
+      "url": "https://odt.co.nz/otago/central-otago/houses-threatened-by-fire-in-roxburgh-east-as-high-winds-fan-flames-vy4x7tts",
+      "source": "odt.co.nz",
+      "card_text": "Hundreds without power as crews battle Roxburgh blaze",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Candidates push back on ACT's plan to abolish 'done nothing' Pacific ministry",
+      "url": "https://rnz.co.nz/news/pacific/2165188/candidates-push-back-on-act-s-plan-to-abolish-done-nothing-pacific-ministry",
+      "source": "rnz.co.nz",
+      "card_text": "Candidates push back on ACT's plan to abolish 'done nothing' Pacific ministry",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Ex-Air NZ baggage handler Puapii Mokotua sentenced over Auckland Airport meth imports",
+      "url": "https://nzherald.co.nz/nz/crime/ex-air-nz-baggage-handler-puapii-mokotua-sentenced-over-auckland-airport-meth-imports/A36CERIONJCEFBTUMYHDRJ5BBY",
+      "source": "nzherald.co.nz",
+      "card_text": "Ex-Air NZ baggage handler Puapii Mokotua sentenced over Auckland Airport meth imports",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Search for potential witness captured on camera prior to fatal crash",
+      "url": "https://odt.co.nz/news/marlborough/search-for-potential-witness-captured-on-camera-prior-to-fatal-crash-wzsmffpo",
+      "source": "odt.co.nz",
+      "card_text": "Search for potential witness captured on camera prior to fatal crash",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Seymour takes aim at 'activist judges'",
+      "url": "https://goodoil.news/seymour-takes-aim-at-activist-judges",
+      "source": "goodoil.news",
+      "card_text": "Seymour takes aim at 'activist judges' ACT leader David Seymour says he has no objection to Māori customary rights, but believes judges have expanded their application beyond what Parliament intended. The Good Oil Today 12:25 pm Politics",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Marlborough’s Stadium 2000 to get solar panels as visits hit 1.4 million",
+      "url": "https://odt.co.nz/news/marlborough/marlboroughs-stadium-2000-to-get-solar-panels-as-visits-hit-14-million-y6673iov",
+      "source": "odt.co.nz",
+      "card_text": "Marlborough’s Stadium 2000 to get solar panels as visits hit 1.4 million",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "RENT RELIEF OVER? Tenant Demand Surges as New Zealand’s Rental Market Tightens Again!",
+      "url": "https://waateanews.com/2026/10/26/rent-relief-over-tenant-demand-surges-as-new-zealands-rental-market-tightens-again",
+      "source": "waateanews.com",
+      "card_text": "RENT RELIEF OVER? Tenant Demand Surges as New Zealand’s Rental Market Tightens Again!",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Jesse Laurenson sentenced for possessing nude images requested from 15-year-old",
+      "url": "https://nzherald.co.nz/nz/crime/jesse-laurenson-sentenced-for-possessing-nude-images-requested-from-15-year-old/YCQCGBYE4ZDE3EJSBIWLCCR7X4",
+      "source": "nzherald.co.nz",
+      "card_text": "Jesse Laurenson sentenced for possessing nude images requested from 15-year-old",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Police seek man missing in Dunedin",
+      "url": "https://odt.co.nz/news/dunedin/police-seek-man-missing-in-dunedin-xjnvdthk",
+      "source": "odt.co.nz",
+      "card_text": "Police seek man missing in Dunedin Otago Daily Times Today 5:08 pm",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Fire spreads after power lines fall near Gore",
+      "url": "https://odt.co.nz/news/southland/fire-spreads-after-power-lines-fall-near-gore-c55r2voh",
+      "source": "odt.co.nz",
+      "card_text": "Fire spreads after power lines fall near Gore",
+      "discovered_at_utc": "2026-10-26T05:56:15.179796+00:00"
+    },
     {
       "rank": 32,
       "title": "Dunedin Hospital failures: HDC criticises Health NZ after patient deaths",
@@ -21,43 +421,11 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 14,
-      "title": "Hipkins’ campaign gets a filip at Filipino festival",
-      "url": "https://newsroom.co.nz/2026/10/25/hipkins-campaign-gets-a-filip-at-filipino-festival",
-      "source": "newsroom.co.nz",
-      "card_text": "Hipkins’ campaign gets a filip at Filipino festival",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 21,
       "title": "Mood of the Boardroom: CEOs fear loss of skilled New Zealanders to Australia",
       "url": "https://nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-ceos-fear-loss-of-skilled-new-zealanders-to-australia/premium/KAF4IGAPGFDNPOE5664BZ6T3JU",
       "source": "nzherald.co.nz",
       "card_text": "Mood of the Boardroom: CEOs fear loss of skilled New Zealanders to Australia",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Bonds whack conservative funds, MJW",
-      "url": "https://investmentnews.co.nz/investment-news/bonds-whack-conservative-funds-mjw",
-      "source": "investmentnews.co.nz",
-      "card_text": "Bonds whack conservative funds, MJW Conservative-leaning KiwiSaver funds took a hit during the September quarter as tough bond markets ate into returns, new Melville Jessup Weaver (MJW) data shows. In fact, almost all KiwiSaver diversified funds other than growth-oriented strategies fell into the red for the three months to September 30, according to the MJW quarterly investment report. The median... [Read More...] Investment News Yesterday Business",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Venezuelan opposition leader María Machado returns after months in exile",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Doctor feared being branded a 'troublemaker' after senior colleague jailed for assaulting her",
-      "url": "https://stuff.co.nz/nz-news/361046483/doctor-feared-career-ruin-after-senior-colleague-drugged-and-assaulted-her",
-      "source": "stuff.co.nz",
-      "card_text": "Doctor feared being branded a 'troublemaker' after senior colleague jailed for assaulting her",
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
@@ -85,14 +453,6 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 34,
-      "title": "HANDS OFF OUR MOANA! Community Rallies to End Bottom Trawling in Hauraki Gulf Ahead of Election",
-      "url": "https://waateanews.com/2026/10/26/hands-off-our-moana-community-rallies-to-end-bottom-trawling-in-hauraki-gulf-ahead-of-election",
-      "source": "waateanews.com",
-      "card_text": "HANDS OFF OUR MOANA! Community Rallies to End Bottom Trawling in Hauraki Gulf Ahead of Election",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 37,
       "title": "140kph gusts and heavy rain incoming as cold front marches north",
       "url": "https://stuff.co.nz/nz-news/361051050/winds-hit-168kmh-wild-weather-sweeps-across-south-island",
@@ -109,22 +469,6 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 8,
-      "title": "Early Bird: Greens promise extra health funding",
-      "url": "https://thekaka.substack.com/p/early-bird-greens-promise-extra-health",
-      "source": "thekaka.substack.com",
-      "card_text": "Early Bird: Greens promise extra health funding",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Six Choppers Battle Blaze Near Te Anau",
-      "url": "https://whatsoninvers.nz/six-choppers-battle-blaze-near-te-anau",
-      "source": "whatsoninvers.nz",
-      "card_text": "Six Choppers Battle Blaze Near Te Anau A seventh aircraft is directing the air attack from above, as severe northwesterly gales gusting up to 120km/h in exposed places are forecast for the region tomorrow. What's On Invers Today 7:41 am Rural",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 10,
       "title": "Quick Hit: Petty and Pathetic, by the Numbers",
       "url": "https://goodoil.news/quick-hit-petty-and-pathetic-by-the-numbers",
@@ -138,14 +482,6 @@
       "url": "https://rnz.co.nz/news/emergencies_local/2160209/fenz-assessing-ground-after-southland-scrub-fire",
       "source": "rnz.co.nz",
       "card_text": "FENZ assessing ground after Southland scrub fire",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Seven ways this election will be different",
-      "url": "https://thespinoff.co.nz/politics/26-10-2026/seven-ways-this-will-be-a-different-election",
-      "source": "thespinoff.co.nz",
-      "card_text": "Seven ways this election will be different",
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
@@ -181,14 +517,6 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 1,
-      "title": "Hipkins casts vote, promises a Government by Christmas",
-      "url": "https://stuff.co.nz/politics/361049792/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Hipkins casts vote, promises a Government by Christmas",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 2,
       "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
       "url": "https://bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -210,14 +538,6 @@
       "url": "https://asiapacificreport.nz/2026/10/26/i-said-no-samoan-pm-told-luxon-treaty-refresh-must-wait-until-new-nz-govt-elected",
       "source": "asiapacificreport.nz",
       "card_text": "‘I said no’ – Samoan PM told Luxon treaty refresh must wait until new NZ govt elected",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "LABOUR TARGETS COST-OF-LIVING CRISIS! Party Promises Action From Day One if Elected",
-      "url": "https://waateanews.com/2026/10/26/labour-targets-cost-of-living-crisis-party-promises-action-from-day-one-if-elected",
-      "source": "waateanews.com",
-      "card_text": "LABOUR TARGETS COST-OF-LIVING CRISIS! Party Promises Action From Day One if Elected",
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
@@ -245,14 +565,6 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 16,
-      "title": "LUXON UNVEILS 100-DAY BLITZ! National Promises 26 Actions on Cost of Living, Health, Housing and Crime",
-      "url": "https://waateanews.com/2026/10/26/luxon-unveils-100-day-blitz-national-promises-26-actions-on-cost-of-living-health-housing-and-crime",
-      "source": "waateanews.com",
-      "card_text": "LUXON UNVEILS 100-DAY BLITZ! National Promises 26 Actions on Cost of Living, Health, Housing and Crime",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 17,
       "title": "'I said no': Samoan PM told Luxon treaty refresh must wait until new NZ government elected",
       "url": "https://rnz.co.nz/news/pacific/2162036/i-said-no-samoan-pm-told-luxon-treaty-refresh-must-wait-until-new-nz-government-elected",
@@ -269,27 +581,11 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 22,
-      "title": "Why Israel's election is one of the most important in its history",
-      "url": "https://bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Why Israel's election is one of the most important in its history",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 23,
       "title": "Putin ally concedes defeat to student-led movement, ending 14-year strongman rule",
       "url": "https://stuff.co.nz/world-news/361051097/serbias-strongman-leader-vucic-concedes-defeat-studentled",
       "source": "stuff.co.nz",
       "card_text": "Putin ally concedes defeat to student-led movement, ending 14-year strongman rule",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Silver Ferns Stun Australia! Kiwi Netballers Claim Constellation Cup After Sensational Final-Quarter Comeback!",
-      "url": "https://waateanews.com/2026/10/26/silver-ferns-stun-australia-kiwi-netballers-claim-constellation-cup-after-sensational-final-quarter-comeback",
-      "source": "waateanews.com",
-      "card_text": "Silver Ferns Stun Australia! Kiwi Netballers Claim Constellation Cup After Sensational Final-Quarter Comeback!",
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
@@ -306,30 +602,6 @@
       "url": "https://rnz.co.nz/news/pacific/2156180/recap-fiji-push-australia-to-limit-in-tight-tussle",
       "source": "rnz.co.nz",
       "card_text": "Recap: Fiji push Australia to limit in tight tussle",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Boil water notice issued for Omakau and Ophir",
-      "url": "https://odt.co.nz/otago/central-otago/boil-water-notice-issued-for-omakau-and-ophir-qk1jinxi",
-      "source": "odt.co.nz",
-      "card_text": "Boil water notice issued for Omakau and Ophir",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Christchurch attracts much needed dermatologist to KM Surgical",
-      "url": "https://chrislynchmedia.com/news-items/christchurch-attracts-much-needed-dermatologist-to-km-surgical",
-      "source": "chrislynchmedia.com",
-      "card_text": "Christchurch attracts much needed dermatologist to KM Surgical",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Deeply divided Israel braces for pivotal election",
-      "url": "https://bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Deeply divided Israel braces for pivotal election",
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
@@ -397,14 +669,6 @@
       "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
     },
     {
-      "rank": 49,
-      "title": "Labour promises an early Christmas present as votes roll in",
-      "url": "https://thepress.co.nz/politics/361105341/labour-promises-early-christmas-present-votes-roll",
-      "source": "thepress.co.nz",
-      "card_text": "Labour promises an early Christmas present as votes roll in",
-      "discovered_at_utc": "2026-10-26T00:03:03.930577+00:00"
-    },
-    {
       "rank": 25,
       "title": "Israel forces 1200 Palestinians from their homes as ‘collective punishment’ for soldiers’ deaths",
       "url": "https://odt.co.nz/news/world/israel-forces-1200-palestinians-from-their-homes-as-collective-punishment-for-soldiers-deaths-d3vhnpfe",
@@ -442,14 +706,6 @@
       "url": "https://youtube.com/watch?v=_vfWK5k9kJo",
       "source": "youtube.com",
       "card_text": "Watch: National shifts focus to law and order, claiming gang photos show left soft on crime | Stuff.co.nz",
-      "discovered_at_utc": "2026-10-25T21:37:10.697988+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Large scrub fire threatens telecommunications towers in Southland",
-      "url": "https://rnz.co.nz/news/emergencies_local/2156197/large-scrub-fire-threatens-telecommunications-towers-in-southland",
-      "source": "rnz.co.nz",
-      "card_text": "Large scrub fire threatens telecommunications towers in Southland",
       "discovered_at_utc": "2026-10-25T21:37:10.697988+00:00"
     },
     {
@@ -522,22 +778,6 @@
       "url": "https://waateanews.com/2026/10/26/weekendsportswrap5am-samoa-makes-waves-black-ferns-fire-black-caps-stumble-and-all-blacks-hit-by-injury-crisis",
       "source": "waateanews.com",
       "card_text": "Weekendsportswrap@5am: Samoa Makes Waves, Black Ferns Fire, Black Caps Stumble And All Blacks Hit By Injury Crisis!",
-      "discovered_at_utc": "2026-10-25T21:37:10.697988+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Just how much could your rent go up over the next year?",
-      "url": "https://stuff.co.nz/home-property/361050298/why-your-rent-could-go-more-over-next-year",
-      "source": "stuff.co.nz",
-      "card_text": "Just how much could your rent go up over the next year?",
-      "discovered_at_utc": "2026-10-25T21:37:10.697988+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Government wants a booming space industry but agency funding hasn’t risen in 10 years",
-      "url": "https://thepress.co.nz/business/361102710/government-wants-booming-space-industry-agency-funding-hasnt-risen-10-years",
-      "source": "thepress.co.nz",
-      "card_text": "Government wants a booming space industry but agency funding hasn’t risen in 10 years",
       "discovered_at_utc": "2026-10-25T21:37:10.697988+00:00"
     },
     {
@@ -741,27 +981,11 @@
       "discovered_at_utc": "2026-10-25T18:18:58.438828+00:00"
     },
     {
-      "rank": 39,
-      "title": "Here’s what it actually costs to rebuild a Kiwi house destroyed by a storm or fire",
-      "url": "https://stuff.co.nz/home-property/361049946/heres-what-it-actually-costs-rebuild-house-destroyed-storm-or-fire",
-      "source": "stuff.co.nz",
-      "card_text": "Here’s what it actually costs to rebuild a Kiwi house destroyed by a storm or fire",
-      "discovered_at_utc": "2026-10-25T18:18:58.438828+00:00"
-    },
-    {
       "rank": 40,
       "title": "Media Insider: NBR v MBIE - stakes escalate in copyright case; paywalled articles sent to unlicensed staff on 8221 occasions",
       "url": "https://nzherald.co.nz/business/media-insider/media-insider-nbr-v-mbie-stakes-escalate-in-copyright-case-paywalled-articles-sent-to-unlicensed-staff-on-8221-occasions/premium/7EEKXNUTE5GR3HKZKBFQMHWRJY",
       "source": "nzherald.co.nz",
       "card_text": "Media Insider: NBR v MBIE - stakes escalate in copyright case; paywalled articles sent to unlicensed staff on 8221 occasions",
-      "discovered_at_utc": "2026-10-25T18:18:58.438828+00:00"
-    },
-    {
-      "rank": 43,
-      "title": "Roman Reyhani, CEO of NZ’s new advanced technology agency, outlines 3 target areas",
-      "url": "https://nzherald.co.nz/business/the-crowns-advanced-technology-agency-gets-a-boss-who-outlines-three-target-areas/premium/6VHGGSR26JH4PFOW6HRKNDTKZQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Roman Reyhani, CEO of NZ’s new advanced technology agency, outlines 3 target areas",
       "discovered_at_utc": "2026-10-25T18:18:58.438828+00:00"
     },
     {
@@ -1075,166 +1299,6 @@
       "source": "nzherald.co.nz",
       "card_text": "Far North Coastguard: Four fishers stranded offshore spark 100-nautical-mile mission",
       "discovered_at_utc": "2026-10-25T09:42:18.706658+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Karl Le Quesne On Final Days To Register To Vote In 2026 Election",
-      "url": "https://goodoil.news/karl-le-quesne-on-final-days-to-register-to-vote-in-2026-election",
-      "source": "goodoil.news",
-      "card_text": "Karl Le Quesne On Final Days To Register To Vote In 2026 Election",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Mood of the Boardroom: CEOs say businesses are too cautious to invest",
-      "url": "https://nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-ceos-say-businesses-are-too-cautious-to-invest/premium/OFON5RCCKNE5RKOXQHEIFROVMU",
-      "source": "nzherald.co.nz",
-      "card_text": "Mood of the Boardroom: CEOs say businesses are too cautious to invest",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "Carjacking incident in Hornby",
-      "url": "https://chrislynchmedia.com/news-items/carjacking-incident-in-hornby",
-      "source": "chrislynchmedia.com",
-      "card_text": "Carjacking incident in Hornby Police are investigating an alleged armed carjacking in Hornby after two people threatened a person sitting inside a stationary vehicle... Chris Lynch Media Yesterday Crime",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Local digestive health boost",
-      "url": "https://odt.co.nz/otago/queenstown/local-digestive-health-boost-tikf48q7",
-      "source": "odt.co.nz",
-      "card_text": "Local digestive health boost Otago Daily Times Today 5:00 am",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "A year ago, these Kiwis were struggling. Has anything actually got better?",
-      "url": "https://stuff.co.nz/nz-news/361049496/year-ago-these-kiwis-were-struggling-has-anything-actually-got-better",
-      "source": "stuff.co.nz",
-      "card_text": "A year ago, these Kiwis were struggling. Has anything actually got better?",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "url": "https://bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Christchurch father faces $17,000-a-month cancer drug bill",
-      "url": "https://nzherald.co.nz/nz/christchurch-father-faces-17000-a-month-cancer-drug-bill/WTG5QADRCJETTCQNLPNNANSTZQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Christchurch father faces $17,000-a-month cancer drug bill",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "url": "https://bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "url": "https://bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Who are the candidates in Brazil's presidential election?",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Musk admits he was behind Starlink speed restriction in Ukraine",
-      "url": "https://stuff.co.nz/world-news/361050856/musk-says-he-was-behind-starlink-speed-restriction-after-ser",
-      "source": "stuff.co.nz",
-      "card_text": "Musk admits he was behind Starlink speed restriction in Ukraine",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Explainer: How to enrol to vote and why today is your final chance",
-      "url": "https://odt.co.nz/news/national/explainer-how-to-enrol-to-vote-and-why-today-is-your-final-chance-sntrgmt2",
-      "source": "odt.co.nz",
-      "card_text": "Explainer: How to enrol to vote and why today is your final chance",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Apology, then ‘personal responsibility’: Luxon’s two messages to state abuse survivors in gangs",
-      "url": "https://thepress.co.nz/politics/361105171/apology-then-personal-responsibility-christopher-luxons-two-messages-state-abuse-survivors-gangs",
-      "source": "thepress.co.nz",
-      "card_text": "Apology, then ‘personal responsibility’: Luxon’s two messages to state abuse survivors in gangs",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "‘You’re gonna have to kill me’: Footage emerges of Aussie MP’s alleged attacker in earlier stand-off",
-      "url": "https://stuff.co.nz/world-news/361050895/youre-gonna-have-kill-me-australian-mps-alleged-attacker-earlier-police-stand",
-      "source": "stuff.co.nz",
-      "card_text": "‘You’re gonna have to kill me’: Footage emerges of Aussie MP’s alleged attacker in earlier stand-off",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "Tsunami warning cancelled after magnitude 7.2 quake off Vanuatu",
-      "url": "https://rnz.co.nz/news/world/2127034/tsunami-warning-cancelled-after-magnitude-7-point-2-quake-off-vanuatu",
-      "source": "rnz.co.nz",
-      "card_text": "Tsunami warning cancelled after magnitude 7.2 quake off Vanuatu",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Red-hot Kiwi Ferns pile on tries in World Cup clash with France",
-      "url": "https://stuff.co.nz/sport/361048944/live-kiwi-ferns-v-france-rugby-league-world-cup-match",
-      "source": "stuff.co.nz",
-      "card_text": "Red-hot Kiwi Ferns pile on tries in World Cup clash with France",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Southlander Sexton best of Kiwi riders in China",
-      "url": "https://thepress.co.nz/sport/361101909/southlander-sexton-best-kiwi-riders-china",
-      "source": "thepress.co.nz",
-      "card_text": "Southlander Sexton best of Kiwi riders in China",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Kawerau homicide investigation: Woman’s body found at property",
-      "url": "https://nzherald.co.nz/nz/kawerau-homicide-investigation-womans-body-found-at-property/3UXTHWPMA5G6TMUCXZZ3HM3B4A",
-      "source": "nzherald.co.nz",
-      "card_text": "Kawerau homicide investigation: Woman’s body found at property",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "Five parties are campaigning on KiwiSaver changes. How would each affect you? – Brian Fallow",
-      "url": "https://nzherald.co.nz/nz/five-parties-are-campaigning-on-kiwisaver-changes-how-would-each-affect-you-brian-fallow/premium/PNCIVXQPPFA6VJQ6DHQCFDSLAU",
-      "source": "nzherald.co.nz",
-      "card_text": "Five parties are campaigning on KiwiSaver changes. How would each affect you? – Brian Fallow",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "Phoenix player ratings: Tell us how they performed against the Mariners",
-      "url": "https://stuff.co.nz/sport/361048250/wellington-phoenix-player-ratings-tell-us-how-they-performed-against-central-coast-mariners",
-      "source": "stuff.co.nz",
-      "card_text": "Phoenix player ratings: Tell us how they performed against the Mariners",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "Kiwi Ferns v France: Live updates from the Rugby League World Cup clash in Christchurch",
-      "url": "https://nzherald.co.nz/sport/rugby-league/kiwi-ferns-v-france-live-updates-from-the-rugby-league-world-cup-clash-in-christchurch/EHP55QJDYNAP3GDSSDUKE6K6R4",
-      "source": "nzherald.co.nz",
-      "card_text": "Kiwi Ferns v France: Live updates from the Rugby League World Cup clash in Christchurch",
-      "discovered_at_utc": "2026-10-25T04:17:54.529058+00:00"
     }
   ]
 }
