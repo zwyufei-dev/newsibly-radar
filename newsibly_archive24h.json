@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-10-28T20:55:13.483095+00:00",
-  "count": 191,
+  "updated_at_utc": "2026-10-29T00:44:05.441330+00:00",
+  "count": 195,
   "items": [
+    {
+      "rank": 29,
+      "title": "Uncertain Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+      "url": "https://stuff.co.nz/world-news/361052254/israelis-await-final-election-results-netanyahu-remains-f",
+      "source": "stuff.co.nz",
+      "card_text": "Uncertain Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue",
+      "url": "https://stuff.co.nz/world-news/361052286/gaza-residents-watch-israel-election-hoping-unseat-netany",
+      "source": "stuff.co.nz",
+      "card_text": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Live: Nicola Willis slams ‘out of whack’ poll putting National under 25% | Stuff",
+      "url": "https://stuff.co.nz/politics/361052056/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "Live: Nicola Willis slams ‘out of whack’ poll putting National under 25% | Stuff",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-live-updates-rnz-reid-research-poll-has-national-below-25",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Election 2026 live updates: Chris Bishop responds to Winston Peters’ surprise endorsement for Hutt South seat",
+      "url": "https://nzherald.co.nz/nz/election-2026-live-updates-rnz-reid-research-poll-has-national-below-25/4QMYOXYCFNGF7FNEMDPIW5DLJM",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 live updates: Chris Bishop responds to Winston Peters’ surprise endorsement for Hutt South seat",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "How coalition talks could sink legacy warships",
+      "url": "https://newsroom.co.nz/2026/10/29/coalition-talks-could-sink-legacy-warships",
+      "source": "newsroom.co.nz",
+      "card_text": "How coalition talks could sink legacy warships",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "RBNZ turns blind eye to formidable inflation pressures",
+      "url": "https://interest.co.nz/currencies/140871/hawkish-rba-testimony-boosted-expectations-hike-there-next-week-bank-canada",
+      "source": "interest.co.nz",
+      "card_text": "RBNZ turns blind eye to formidable inflation pressures",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "‘People should be outraged’: $23m spent to send Southland patients to private care",
+      "url": "https://odt.co.nz/news/southland/hospital-spends-23m-on-private-health-care-e6v2rg2y",
+      "source": "odt.co.nz",
+      "card_text": "‘People should be outraged’: $23m spent to send Southland patients to private care",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Darfield housing development hits roadblock over drinking water supply, wastewater capacity",
+      "url": "https://thepress.co.nz/nz-news/361106321/no-wastewater-capacity-drinking-water-uncertain-proposed-darfield-housing-development-hits-roadblock",
+      "source": "thepress.co.nz",
+      "card_text": "Darfield housing development hits roadblock over drinking water supply, wastewater capacity",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Rhodestown - the proposed 1500-home development that could create a new Selwyn township",
+      "url": "https://thepress.co.nz/nz-news/361107252/1500-home-development-could-create-new-selwyn-township",
+      "source": "thepress.co.nz",
+      "card_text": "Rhodestown - the proposed 1500-home development that could create a new Selwyn township",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Labour pledges to ban no-cause evictions and strengthen rental standards",
+      "url": "https://chrislynchmedia.com/news-items/labour-pledges-to-ban-no-cause-evictions-and-strengthen-rental-standards",
+      "source": "chrislynchmedia.com",
+      "card_text": "Labour pledges to ban no-cause evictions and strengthen rental standards",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Pay equity: Simeon Brown expects Health NZ to ‘co-operate’ on hospice workers’ claim as progress stalls",
+      "url": "https://nzherald.co.nz/nz/politics/pay-equity-simeon-brown-expects-health-nz-to-co-operate-on-hospice-workers-claim-as-progress-stalls/FSYNHKAZBZCGBL2ZXUGQQZC65Y",
+      "source": "nzherald.co.nz",
+      "card_text": "Pay equity: Simeon Brown expects Health NZ to ‘co-operate’ on hospice workers’ claim as progress stalls",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "NZ First would cancel $6-8b replacement frigates",
+      "url": "https://newsroom.co.nz/2026/10/29/nz-first-would-cancel-8b-replacement-frigates",
+      "source": "newsroom.co.nz",
+      "card_text": "NZ First would cancel $6-8b replacement frigates",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Latest RNZ Poll paints bleak picture for National",
+      "url": "https://interest.co.nz/public-policy/140873/national-dips-248-labour-306-support-latest-rnz-poll",
+      "source": "interest.co.nz",
+      "card_text": "Latest RNZ Poll paints bleak picture for National",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "RIF Funds New Gisborne Medical Research Centre",
+      "url": "https://scoop.co.nz/stories/PA2610/S00250/rif-funds-new-gisborne-medical-research-centre.htm",
+      "source": "scoop.co.nz",
+      "card_text": "RIF Funds New Gisborne Medical Research Centre",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Government lends $20m for Mātai Research Institute expansion",
+      "url": "https://businessdesk.co.nz/companies/startups/government-lends-20m-for-matai-research-institute-expansion/23NKL3RKOVCW5D4NHD5QJFYOXE",
+      "source": "businessdesk.co.nz",
+      "card_text": "Government lends $20m for Mātai Research Institute expansion",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Activists still targeted over Indonesian forest fires and in West Papua, says rights group",
+      "url": "https://asiapacificreport.nz/2026/10/29/activists-still-targeted-over-indonesian-forest-fires-and-in-west-papua-says-rights-group",
+      "source": "asiapacificreport.nz",
+      "card_text": "Activists still targeted over Indonesian forest fires and in West Papua, says rights group",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Mihi Blair | Deputy Chief Executive Māori Health and Engagement at Hato Hone St John",
+      "url": "https://waateanews.com/2026/10/29/mihi-blair-deputy-chief-executive-maori-health-and-engagement-at-hato-hone-st-john",
+      "source": "waateanews.com",
+      "card_text": "Mihi Blair | Deputy Chief Executive Māori Health and Engagement at Hato Hone St John",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Simeon Brown won’t say if he’ll make Health NZ hand over pay equity info",
+      "url": "https://thepress.co.nz/politics/361107225/simeon-brown-wont-say-if-hell-make-health-nz-hand-over-pay-equity-info",
+      "source": "thepress.co.nz",
+      "card_text": "Simeon Brown won’t say if he’ll make Health NZ hand over pay equity info",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%, Bishop responds to Peters' surprise endorsement",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-live-updates-rnz-reid-research-poll-has-national-below-25-bishop-responds-to-peters-surprise-endorsement",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%, Bishop responds to Peters' surprise endorsement",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
+      "url": "https://thepress.co.nz/business/361107536/federal-reserve-keeps-rates-unchanged-despite-elevated-inflation",
+      "source": "thepress.co.nz",
+      "card_text": "Federal Reserve keeps rates unchanged despite elevated inflation",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Cost of claims for weather events more than doubles for many insurers",
+      "url": "https://rnz.co.nz/news/business/2215238/cost-of-claims-for-weather-events-more-than-doubles-for-many-insurers",
+      "source": "rnz.co.nz",
+      "card_text": "Cost of claims for weather events more than doubles for many insurers",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Opening of new Tongan detector dog facility",
+      "url": "https://beehive.govt.nz/release/opening-new-tongan-detector-dog-facility",
+      "source": "beehive.govt.nz",
+      "card_text": "Opening of new Tongan detector dog facility",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Under-siege Black Caps bowlers dealt another blow",
+      "url": "https://stuff.co.nz/sport/361052513/under-siege-black-caps-bowlers-dealt-another-blow-lockie-ferguson-ruled-out-remaining-t20s",
+      "source": "stuff.co.nz",
+      "card_text": "Under-siege Black Caps bowlers dealt another blow",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Eden Park sells out for Black Caps-India clash",
+      "url": "https://rnz.co.nz/news/sport/2202814/eden-park-sells-out-for-black-caps-india-clash",
+      "source": "rnz.co.nz",
+      "card_text": "Eden Park sells out for Black Caps-India clash",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Demant retains No 10 jersey as rookie flankers return for Black Ferns’ season finale",
+      "url": "https://thepress.co.nz/sport/361106806/ruahei-demant-retains-no-10-jersey-rookie-flankers-return-black-ferns-season-finale",
+      "source": "thepress.co.nz",
+      "card_text": "Demant retains No 10 jersey as rookie flankers return for Black Ferns’ season finale",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "India Smash Black Caps to Win T20 Series",
+      "url": "https://kiwikidsnews.co.nz/india-smash-black-caps-to-win-t20-series",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "India Smash Black Caps to Win T20 Series",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Spinal patient travelled from Chatham Islands for health appointment that didn’t exist",
+      "url": "https://stuff.co.nz/nz-news/361052168/health-nz-booked-patients-clinics-werent-real-appointments",
+      "source": "stuff.co.nz",
+      "card_text": "Spinal patient travelled from Chatham Islands for health appointment that didn’t exist",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Northland to get fourth Rural Training Hub",
+      "url": "https://beehive.govt.nz/release/northland-get-fourth-rural-training-hub",
+      "source": "beehive.govt.nz",
+      "card_text": "Northland to get fourth Rural Training Hub",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Waiouru fire remains at 3700ha as containment efforts continue",
+      "url": "https://rnz.co.nz/news/emergencies_local/2217074/waiouru-fire-remains-at-3700ha-as-containment-efforts-continue",
+      "source": "rnz.co.nz",
+      "card_text": "Waiouru fire remains at 3700ha as containment efforts continue",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Weather-related claims cost $184.6 million over past year - Vero Insurance",
+      "url": "https://interest.co.nz/insurance/140858/vero-insurance-says-weather-related-claims-have-surged-1864-million-over-past-year",
+      "source": "interest.co.nz",
+      "card_text": "Weather-related claims cost $184.6 million over past year - Vero Insurance",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Creative solutions sought to pay for climate-driven managed retreat",
+      "url": "https://odt.co.nz/business/creative-solutions-sought-to-pay-for-climate-driven-managed-retreat-ief1benn",
+      "source": "odt.co.nz",
+      "card_text": "Creative solutions sought to pay for climate-driven managed retreat",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Managed retreat on the cards for long-term storm recovery on East Cape",
+      "url": "https://nzherald.co.nz/gisborne-herald/news/managed-retreat-on-the-cards-for-long-term-storm-recovery-on-east-cape/T2WHFMHZPFHOPNBURSWJRXJP7I",
+      "source": "nzherald.co.nz",
+      "card_text": "Managed retreat on the cards for long-term storm recovery on East Cape",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "url": "https://bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Israel's election deadlock is a sign of the country's deep divisions",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Dr Suliana Mone among 20 NZ researchers awarded prestigious $820,000 fellowships",
+      "url": "https://kanivatonga.co.nz/2026/10/dr-suliana-mone-among-20-nz-researchers-awarded-prestigious-820000-fellowships",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Dr Suliana Mone among 20 NZ researchers awarded prestigious $820,000 fellowships",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "How an overhang (or two) could decide the election, in one simple table",
+      "url": "https://thespinoff.co.nz/politics/29-10-2026/how-an-overhang-or-two-could-decide-the-election-in-one-simple-table",
+      "source": "thespinoff.co.nz",
+      "card_text": "How an overhang (or two) could decide the election, in one simple table",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Early Bird: Nearly half of 18-24s want to leave NZ",
+      "url": "https://thekaka.substack.com/p/early-bird-nearly-half-of-18-24s",
+      "source": "thekaka.substack.com",
+      "card_text": "Early Bird: Nearly half of 18-24s want to leave NZ",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Air NZ makes Christchurch-Singapore flights year-round, adds Bali route",
+      "url": "https://businessdesk.co.nz/news/air-nz-makes-christchurch-singapore-flights-year-round-adds-bali-route/LWW2FPT5YBC6NAANUIE6AOO3LA",
+      "source": "businessdesk.co.nz",
+      "card_text": "Air NZ makes Christchurch-Singapore flights year-round, adds Bali route",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Marnie Prickett | Senior Science Lead at the Public Health Communication Centre at the University of Otago",
+      "url": "https://waateanews.com/2026/10/29/marnie-prickett-senior-science-lead-at-the-public-health-communication-centre-at-the-university-of-otago",
+      "source": "waateanews.com",
+      "card_text": "Marnie Prickett | Senior Science Lead at the Public Health Communication Centre at the University of Otago",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Thunderstorm and hail risk for Canterbury as front tracks north",
+      "url": "https://chrislynchmedia.com/news-items/thunderstorm-and-hail-risk-for-canterbury-as-front-tracks-north",
+      "source": "chrislynchmedia.com",
+      "card_text": "Thunderstorm and hail risk for Canterbury as front tracks north",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Wētā find sanctuary",
+      "url": "https://cambridgenews.nz/2026/10/weta-find-sanctuary",
+      "source": "cambridgenews.nz",
+      "card_text": "Wētā find sanctuary Danielle Lloyd held back tears as she released the first of 122 Māhoenui giant wētā at Sanctuary Mountain Maungatautari. “My girl’s gone,” she said. Lloyd has spent 18 months raising the nationally critical species at... Cambridge News Today 10:00 am Environment",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Fake ChatGPT, Claude apps spread malware via signed AI binaries",
+      "url": "https://reseller.co.nz/article/4241874/fake-chatgpt-claude-apps-spread-malware-via-signed-ai-binaries-2.html",
+      "source": "reseller.co.nz",
+      "card_text": "Fake ChatGPT, Claude apps spread malware via signed AI binaries",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Salvation Army responds to growing homelessness",
+      "url": "https://odt.co.nz/canterbury/north-canterbury/salvation-army-responds-to-growing-homelessness-iedo4e9f",
+      "source": "odt.co.nz",
+      "card_text": "Salvation Army responds to growing homelessness",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Shock at ‘silent sell down’ of Dunedin state housing",
+      "url": "https://odt.co.nz/news/dunedin/shock-at-silent-sell-down-of-dunedin-state-housing-s5z061mx",
+      "source": "odt.co.nz",
+      "card_text": "Shock at ‘silent sell down’ of Dunedin state housing",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "‘Simply not acceptable’: Motel owner sentenced for exploiting migrant workers",
+      "url": "https://odt.co.nz/canterbury/christchurch/motel-owner-sentenced-for-exploiting-migrant-workers-mjbd2g1l",
+      "source": "odt.co.nz",
+      "card_text": "‘Simply not acceptable’: Motel owner sentenced for exploiting migrant workers",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Ruakituri incident: One dead, another person seriously injured on rural property near Wairoa",
+      "url": "https://nzherald.co.nz/gisborne-herald/news/ruakituri-crash-pedestrian-dies-another-person-seriously-injured-on-rural-property-near-wairoa/IV5AUV4JORD73ABN5D7KBXQFVY",
+      "source": "nzherald.co.nz",
+      "card_text": "Ruakituri incident: One dead, another person seriously injured on rural property near Wairoa",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "More than $1m in assets seized from illegal migrant sex work operation",
+      "url": "https://stuff.co.nz/nz-news/361052498/more-1m-assets-seized-illegal-migrant-sex-work-operation",
+      "source": "stuff.co.nz",
+      "card_text": "More than $1m in assets seized from illegal migrant sex work operation",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Ashburton second bridge project on track despite weather risks",
+      "url": "https://odt.co.nz/canterbury/mid-canterbury/ashburton-second-bridge-project-on-track-despite-weather-risks-bl7sibj9",
+      "source": "odt.co.nz",
+      "card_text": "Ashburton second bridge project on track despite weather risks",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Bali joins the departure board as Christchurch gains new direct flights",
+      "url": "https://thepress.co.nz/business/361107479/bali-joins-departure-board-christchurch-gains-new-direct-flights",
+      "source": "thepress.co.nz",
+      "card_text": "Bali joins the departure board as Christchurch gains new direct flights",
+      "discovered_at_utc": "2026-10-29T00:44:05.441330+00:00"
+    },
     {
       "rank": 33,
       "title": "Greenhouse gas levels again hit record high in 2025",
@@ -61,14 +461,6 @@
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
-      "rank": 19,
-      "title": "Uncertain Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
-      "url": "https://stuff.co.nz/world-news/361052254/israelis-await-final-election-results-netanyahu-remains-f",
-      "source": "stuff.co.nz",
-      "card_text": "Uncertain Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
       "rank": 23,
       "title": "Stadium operators want ‘enduring solution’ after six treated for heat-related conditions at NPC final",
       "url": "https://thepress.co.nz/nz-news/361106641/stadium-boss-urges-fans-wear-hat-keep-hydrated-after-six-treated-heat-related-conditions-npc-final",
@@ -93,27 +485,11 @@
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
-      "rank": 34,
-      "title": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue",
-      "url": "https://stuff.co.nz/world-news/361052286/gaza-residents-watch-israel-election-hoping-unseat-netany",
-      "source": "stuff.co.nz",
-      "card_text": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
       "rank": 42,
       "title": "Welcome to the economic recovery. Terms and conditions apply",
       "url": "https://thepress.co.nz/business/361106871/welcome-economic-recovery-terms-and-conditions-apply",
       "source": "thepress.co.nz",
       "card_text": "Welcome to the economic recovery. Terms and conditions apply",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "‘Completely out of whack’: National dismisses horror poll",
-      "url": "https://stuff.co.nz/politics/361052056/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "‘Completely out of whack’: National dismisses horror poll",
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
@@ -125,35 +501,11 @@
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
-      "rank": 2,
-      "title": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
-      "url": "https://newstalkzb.co.nz/news/politics/election-2026-live-updates-rnz-reid-research-poll-has-national-below-25",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
       "rank": 3,
       "title": "Ferry project hits government's $1.7b ceiling",
       "url": "https://thepress.co.nz/business/361107288/ferry-project-hits-governments-17b-ceiling",
       "source": "thepress.co.nz",
       "card_text": "Ferry project hits government's $1.7b ceiling",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
-      "url": "https://nzherald.co.nz/nz/election-2026-live-updates-rnz-reid-research-poll-has-national-below-25/4QMYOXYCFNGF7FNEMDPIW5DLJM",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026 live updates: RNZ-Reid Research poll has National below 25%",
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
@@ -178,14 +530,6 @@
       "url": "https://whatsoninvers.nz/rbnz-shocks-markets-with-4-3-vote-to-hold-ocr",
       "source": "whatsoninvers.nz",
       "card_text": "RBNZ Shocks Markets With 4-3 Vote To Hold OCR",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "How coalition talks could sink legacy warships",
-      "url": "https://newsroom.co.nz/2026/10/29/coalition-talks-could-sink-legacy-warships",
-      "source": "newsroom.co.nz",
-      "card_text": "How coalition talks could sink legacy warships",
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
@@ -237,14 +581,6 @@
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
-      "rank": 18,
-      "title": "RBNZ turns blind eye to formidable inflation pressures",
-      "url": "https://interest.co.nz/currencies/140871/hawkish-rba-testimony-boosted-expectations-hike-there-next-week-bank-canada",
-      "source": "interest.co.nz",
-      "card_text": "RBNZ turns blind eye to formidable inflation pressures",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
       "rank": 22,
       "title": "One NZ Stadium operators review misting fan option to deal with hot temperatures",
       "url": "https://rnz.co.nz/news/regions_canterbury/2211478/one-nz-stadium-operators-review-misting-fan-option-to-deal-with-hot-temperatures",
@@ -258,14 +594,6 @@
       "url": "https://rnz.co.nz/news/health/2213308/surge-in-people-injecting-peptides-prompts-health-nz-needle-exchange-kits",
       "source": "rnz.co.nz",
       "card_text": "Surge in people injecting peptides prompts Health NZ needle exchange kits",
-      "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "‘People should be outraged’: $23m spent to send Southland patients to private care",
-      "url": "https://odt.co.nz/news/southland/hospital-spends-23m-on-private-health-care-e6v2rg2y",
-      "source": "odt.co.nz",
-      "card_text": "‘People should be outraged’: $23m spent to send Southland patients to private care",
       "discovered_at_utc": "2026-10-28T20:55:13.483095+00:00"
     },
     {
@@ -525,14 +853,6 @@
       "discovered_at_utc": "2026-10-28T15:53:21.503931+00:00"
     },
     {
-      "rank": 3,
-      "title": "No wastewater capacity, drinking water uncertain: Proposed Darfield housing development hits roadblock",
-      "url": "https://thepress.co.nz/nz-news/361106321/no-wastewater-capacity-drinking-water-uncertain-proposed-darfield-housing-development-hits-roadblock",
-      "source": "thepress.co.nz",
-      "card_text": "No wastewater capacity, drinking water uncertain: Proposed Darfield housing development hits roadblock",
-      "discovered_at_utc": "2026-10-28T15:53:21.503931+00:00"
-    },
-    {
       "rank": 6,
       "title": "Jenee Tibshraeny: NZ Herald Wellington business editor on how the OCR announcement will impact mortgages",
       "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jenee-tibshraeny-nz-herald-wellington-business-editor-on-how-the-ocr-announcement-will-impact-mortgages",
@@ -626,14 +946,6 @@
       "url": "https://stuff.co.nz/nz-news/361051501/faulty-273kg-roller-door-killed-all-blacks-sister-auckland-church-coroner-finds",
       "source": "stuff.co.nz",
       "card_text": "Faulty 273kg roller door killed All Black’s sister at Auckland church",
-      "discovered_at_utc": "2026-10-28T15:53:21.503931+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "Rhodestown - the proposed 1500-home development that could create a new Selwyn township",
-      "url": "https://thepress.co.nz/nz-news/361107252/1500-home-development-could-create-new-selwyn-township",
-      "source": "thepress.co.nz",
-      "card_text": "Rhodestown - the proposed 1500-home development that could create a new Selwyn township",
       "discovered_at_utc": "2026-10-28T15:53:21.503931+00:00"
     },
     {
@@ -1251,286 +1563,6 @@
       "source": "nzherald.co.nz",
       "card_text": "There is no pipeline for Auckland transport projects post-CRL. Here are 3 musts – Barney Irvine",
       "discovered_at_utc": "2026-10-28T01:06:28.127921+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Netanyahu touts Trump endorsement on eve of vote",
-      "url": "https://odt.co.nz/news/world/netanyahu-touts-trump-endorsement-on-eve-of-vote-izdxwnwz",
-      "source": "odt.co.nz",
-      "card_text": "Netanyahu touts Trump endorsement on eve of vote",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 14,
-      "title": "Cyclist seriously injured in Christchurch crash",
-      "url": "https://chrislynchmedia.com/news-items/cyclist-seriously-injured-in-christchurch-crash",
-      "source": "chrislynchmedia.com",
-      "card_text": "Cyclist seriously injured in Christchurch crash",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "National drops back below 30% in the latest poll, still ahead of Labour",
-      "url": "https://interest.co.nz/public-policy/140846/national-drops-29-support-latest-1news-verian-poll-still-ahead-labours-27",
-      "source": "interest.co.nz",
-      "card_text": "National drops back below 30% in the latest poll, still ahead of Labour",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Lawson Scores Points in US Grand Prix",
-      "url": "https://kiwikidsnews.co.nz/lawson-scores-points-in-us-grand-prix",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Lawson Scores Points in US Grand Prix Kiwi Formula 1 driver Liam Lawson finished ninth in the United States Grand Prix, held at the Circuit of the Americas in Austin, Texas, on 26 October 2026. Mercedes driver Kimi Antonelli won the race from pole position, picking up his ninth win of the season. Lawson, who races for Racing Bulls, started the 56-lap […] Kiwi Kids News Yesterday Sport",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "No Ground Operations Needed At Centre Hill Fireground",
-      "url": "https://whatsoninvers.nz/no-ground-operations-needed-at-centre-hill-fireground",
-      "source": "whatsoninvers.nz",
-      "card_text": "No Ground Operations Needed At Centre Hill Fireground",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Whatever the RBNZ does to the OCR, some will welcome it as the right decision – and some will decry it as wrong",
-      "url": "https://pointofordernz.wordpress.com/2026/10/27/whatever-the-rbnz-does-to-the-ocr-some-will-welcome-it-as-the-right-decision-and-some-will-decry-it-as-wrong",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Whatever the RBNZ does to the OCR, some will welcome it as the right decision – and some will decry it as wrong",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "Edward Miller: Public Futures Aotearoa report author on the increased spending on private healthcare",
-      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/edward-miller-public-futures-aotearoa-report-author-on-the-increased-spending-on-private-healthcare",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Edward Miller: Public Futures Aotearoa report author on the increased spending on private healthcare",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Evacuations in Otago township, firefighters battle several blazes",
-      "url": "https://rnz.co.nz/news/emergencies_local/2171007/evacuations-in-otago-township-firefighters-battle-several-blazes",
-      "source": "rnz.co.nz",
-      "card_text": "Evacuations in Otago township, firefighters battle several blazes",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 38,
-      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "url": "https://bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "‘Deliberate sabotage’: Health NZ accused of blocking pay equity claims",
-      "url": "https://thepress.co.nz/nz-news/361105373/deliberate-sabotage-health-nz-accused-blocking-pay-equity-claims",
-      "source": "thepress.co.nz",
-      "card_text": "‘Deliberate sabotage’: Health NZ accused of blocking pay equity claims",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Why Palestinian citizens of Israel can vote, but can’t expect any change",
-      "url": "https://asiapacificreport.nz/2026/10/27/why-palestinian-citizens-of-israel-can-vote-but-cant-expect-any-change",
-      "source": "asiapacificreport.nz",
-      "card_text": "Why Palestinian citizens of Israel can vote, but can’t expect any change",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Govt’s retirement village U-turn: initial plan was no deadline on family payouts",
-      "url": "https://stuff.co.nz/nz-news/361050380/govts-retirement-village-u-turn-initial-plan-was-no-deadline-family-payouts",
-      "source": "stuff.co.nz",
-      "card_text": "Govt’s retirement village U-turn: initial plan was no deadline on family payouts",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "At least 62 people killed in attack on a community in northeastern Nigeria",
-      "url": "https://stuff.co.nz/world-news/361051707/least-62-people-killed-attack-community-northe",
-      "source": "stuff.co.nz",
-      "card_text": "At least 62 people killed in attack on a community in northeastern Nigeria",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Expect official interest rates to rise today - and no end to cost of living pain",
-      "url": "https://stuff.co.nz/money/361051592/rising-petrol-prices-heap-pressure-reserve-bank-lift-ocr-again",
-      "source": "stuff.co.nz",
-      "card_text": "Expect official interest rates to rise today - and no end to cost of living pain",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "Contingency plans under way in case port upgrades lag behind ferry rollout",
-      "url": "https://thepress.co.nz/politics/361106225/back-plan-underway-if-ports-not-ready-ferries",
-      "source": "thepress.co.nz",
-      "card_text": "Contingency plans under way in case port upgrades lag behind ferry rollout",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "'Strengthening ties' or 'Shameful'?: Why Israel's new Pacific status is splitting the region",
-      "url": "https://rnz.co.nz/news/pacific/2182481/strengthening-ties-or-shameful-why-israel-s-new-pacific-status-is-splitting-the-region",
-      "source": "rnz.co.nz",
-      "card_text": "'Strengthening ties' or 'Shameful'?: Why Israel's new Pacific status is splitting the region",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "$96 MILLION HOSPITAL UPGRADE, BUT NO STAFF! Labour Slams National as Waitākere ICU Beds Sit Empty",
-      "url": "https://waateanews.com/2026/10/28/96-million-hospital-upgrade-but-no-staff-labour-slams-national-as-waitakere-icu-beds-sit-empty",
-      "source": "waateanews.com",
-      "card_text": "$96 MILLION HOSPITAL UPGRADE, BUT NO STAFF! Labour Slams National as Waitākere ICU Beds Sit Empty",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Online casino bidders pitch sponsored content before legalisation",
-      "url": "https://newsroom.co.nz/2026/10/28/online-casino-bidders-pitch-sponsored-content-before-legalisation",
-      "source": "newsroom.co.nz",
-      "card_text": "Online casino bidders pitch sponsored content before legalisation",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "‘As bad as it gets’: WDC residents’ satisfaction survey makes for grim reading at council",
-      "url": "https://odt.co.nz/otago/north-otago/as-bad-as-it-gets-wdc-residents-satisfaction-survey-makes-for-grim-reading-at-council-v71wh657",
-      "source": "odt.co.nz",
-      "card_text": "‘As bad as it gets’: WDC residents’ satisfaction survey makes for grim reading at council",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Boos and applause as candidates talk health, mining and council funding in Wānaka",
-      "url": "https://rnz.co.nz/news/politics_election-2026/2197472/boos-and-applause-as-candidates-talk-health-mining-and-council-funding-in-wanaka",
-      "source": "rnz.co.nz",
-      "card_text": "Boos and applause as candidates talk health, mining and council funding in Wānaka",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Channel Infrastructure boss warns of the rising risk of fuel disruptions and shortages",
-      "url": "https://nzherald.co.nz/business/companies/energy/channel-infrastructure-boss-warns-of-the-rising-risk-of-fuel-disruptions-and-shortages/premium/4DZDRNAIZZHGNJ4OGO6HY2CJOE",
-      "source": "nzherald.co.nz",
-      "card_text": "Channel Infrastructure boss warns of the rising risk of fuel disruptions and shortages",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Applicants 'ghosted' as AI floods job market",
-      "url": "https://rnz.co.nz/news/personal-finance/2197641/applicants-ghosted-as-ai-floods-job-market",
-      "source": "rnz.co.nz",
-      "card_text": "Applicants 'ghosted' as AI floods job market",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Full Show Podcast: 28 October 2026",
-      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/full-show-podcast-28-october-2026",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Full Show Podcast: 28 October 2026 Newstalk ZB Today 6:07 am",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "url": "https://bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "'People are being hurt': West New Britain governor speaks out as 12 gunmen killed in Kimbe shootout",
-      "url": "https://rnz.co.nz/news/pacific/2197945/people-are-being-hurt-west-new-britain-governor-speaks-out-as-12-gunmen-killed-in-kimbe-shootout",
-      "source": "rnz.co.nz",
-      "card_text": "'People are being hurt': West New Britain governor speaks out as 12 gunmen killed in Kimbe shootout",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "‘It blows my mind’: Distressed patient discharged, overdoses in hospital carpark",
-      "url": "https://nzherald.co.nz/nz/it-blows-my-mind-distressed-patient-discharged-overdoses-in-hospital-carpark/premium/TXG3ARJDBVCURPD3WBZIKBQJ74",
-      "source": "nzherald.co.nz",
-      "card_text": "‘It blows my mind’: Distressed patient discharged, overdoses in hospital carpark",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Aged Care Association hits back at report on public money going to private sector",
-      "url": "https://rnz.co.nz/news/health/2197814/aged-care-association-hits-back-at-report-on-public-money-going-to-private-sector",
-      "source": "rnz.co.nz",
-      "card_text": "Aged Care Association hits back at report on public money going to private sector",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Approval sought for next stage of Alexandra and Clyde wastewater upgrade design",
-      "url": "https://odt.co.nz/otago/central-otago/approval-sought-for-next-stage-of-alexandra-and-clyde-wastewater-upgrade-design-bpldvuif",
-      "source": "odt.co.nz",
-      "card_text": "Approval sought for next stage of Alexandra and Clyde wastewater upgrade design",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "NCEA numeracy test continues to trip up students from poor backgrounds",
-      "url": "https://rnz.co.nz/news/education/2197868/ncea-numeracy-test-continues-to-trip-up-students-from-poor-backgrounds",
-      "source": "rnz.co.nz",
-      "card_text": "NCEA numeracy test continues to trip up students from poor backgrounds",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "‘They are stealing’: Netanyahu unleashes election day scare tactics to rally voters",
-      "url": "https://stuff.co.nz/world-news/361051725/they-are-stealing-netanyahu-unleashes-election-day-scare-tactics-rally-voters",
-      "source": "stuff.co.nz",
-      "card_text": "‘They are stealing’: Netanyahu unleashes election day scare tactics to rally voters",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 42,
-      "title": "NZDF cyber upgrade: $53m investment raises questions over offensive capabilities",
-      "url": "https://businessdesk.co.nz/news/nzdf-cyber-upgrade-53m-investment-raises-questions-over-offensive-capabilities/RBHYHPYZ6JH2PICXVOTGRWUHR4",
-      "source": "businessdesk.co.nz",
-      "card_text": "NZDF cyber upgrade: $53m investment raises questions over offensive capabilities",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 45,
-      "title": "Woman shot in leg and assaulted at Auckland property",
-      "url": "https://stuff.co.nz/nz-news/361051798/woman-shot-leg-and-assaulted-auckland-property",
-      "source": "stuff.co.nz",
-      "card_text": "Woman shot in leg and assaulted at Auckland property",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "url": "https://bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "The jobs market is rebounding, but one island is doing much better than the other",
-      "url": "https://stuff.co.nz/nz-news/361051792/jobs-market-rebounding-one-island-doing-much-better-other",
-      "source": "stuff.co.nz",
-      "card_text": "The jobs market is rebounding, but one island is doing much better than the other",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "Council admits damage done with bus service changes",
-      "url": "https://odt.co.nz/news/dunedin/council-admits-damage-done-with-bus-service-changes-wbi2lodh",
-      "source": "odt.co.nz",
-      "card_text": "Council admits damage done with bus service changes",
-      "discovered_at_utc": "2026-10-27T21:11:14.620706+00:00"
     }
   ]
 }
