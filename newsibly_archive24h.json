@@ -1,16 +1,408 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-11-03T06:18:17.293043+00:00",
-  "count": 141,
+  "updated_at_utc": "2026-11-03T14:57:48.488682+00:00",
+  "count": 166,
   "items": [
     {
-      "rank": 12,
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "rank": 1,
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
+      "card_text": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Fiji military chief urges accountability to the people amid coup immunity debate",
+      "url": "https://asiapacificreport.nz/2026/11/03/fiji-military-chief-urges-accountability-to-the-people-amid-coup-immunity-debate",
+      "source": "asiapacificreport.nz",
+      "card_text": "Fiji military chief urges accountability to the people amid coup immunity debate",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US strikes Iranian island ahead of midterm elections",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Election 2026 live updates: Poll leaves race on a knife-edge as Opportunity holds the keys to power",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-opportunity-campaign-team-may-have-driven-unroadworthy-van-illegally/27DWKFI7WFD5HC52JUY2DQET5I",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 live updates: Poll leaves race on a knife-edge as Opportunity holds the keys to power",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Spark investigates cause of South Island EFTPOS outage",
+      "url": "https://reseller.co.nz/article/4243656/spark-investigates-cause-of-south-island-eftpos-outage.html",
+      "source": "reseller.co.nz",
+      "card_text": "Spark investigates cause of South Island EFTPOS outage",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "‘Can we deliver?’ – getting product to market next big challenge and opportunity for NZ’s food exporters",
+      "url": "https://interest.co.nz/rural-news/140937/rabobank-now-says-our-new-goal-food-suppliers-understand-where-critical-exposures",
+      "source": "interest.co.nz",
+      "card_text": "‘Can we deliver?’ – getting product to market next big challenge and opportunity for NZ’s food exporters",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Iwi Seeks return of Taonga from UK",
+      "url": "https://kiwikidsnews.co.nz/iwi-seeks-return-of-taonga-from-uk",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Iwi Seeks return of Taonga from UK Hawke’s Bay iwi Ngāti Kahungunu is calling on the British Museum in London to return taonga (treasured Māori items) taken from their Waimārama area more than a century ago. The British Museum holds several thousand Māori taonga, and more than 600 of them come from Waimārama alone. Many were taken after a British settler named […] Kiwi Kids News Yesterday Culture",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Regional radio strengthened for emergencies",
+      "url": "https://beehive.govt.nz/release/regional-radio-strengthened-emergencies",
+      "source": "beehive.govt.nz",
+      "card_text": "Regional radio strengthened for emergencies",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Nduga shooting victims’ families ask Papua Legal Aid Institute to oversee investigation",
+      "url": "https://asiapacificreport.nz/2026/11/03/nduga-shooting-victims-families-ask-papua-legal-aid-institute-to-oversee-investigation",
+      "source": "asiapacificreport.nz",
+      "card_text": "Nduga shooting victims’ families ask Papua Legal Aid Institute to oversee investigation",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "New home consents rise 18% in year to September, but may have peaked",
+      "url": "https://businessdesk.co.nz/news/new-home-consents-rise-18-in-year-to-september-but-may-have-peaked/64HGY7ZI7ZHILAPXGVZLXL4S2A",
+      "source": "businessdesk.co.nz",
+      "card_text": "New home consents rise 18% in year to September, but may have peaked",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Nat list MPs face underarm ball in final over",
+      "url": "https://newsroom.co.nz/2026/11/03/nat-list-mps-face-underarm-ball-in-final-over",
+      "source": "newsroom.co.nz",
+      "card_text": "Nat list MPs face underarm ball in final over",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Māori voters reportedly walk away as voting booths run out of ballot papers",
+      "url": "https://thepress.co.nz/politics/361110498/maori-voters-reportedly-walk-away-voting-booths-run-out-ballot-papers",
+      "source": "thepress.co.nz",
+      "card_text": "Māori voters reportedly walk away as voting booths run out of ballot papers",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Non-residential building consents fall to 12-year low",
+      "url": "https://thepress.co.nz/business/361110400/non-residential-building-consents-fall-12-year-low",
+      "source": "thepress.co.nz",
+      "card_text": "Non-residential building consents fall to 12-year low",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Watts Goes Back-To-Back At The SBS Bank Tour Of Southland",
+      "url": "https://whatsoninvers.nz/watts-goes-back-to-back-at-the-sbs-bank-tour-of-southland",
+      "source": "whatsoninvers.nz",
+      "card_text": "Watts Goes Back-To-Back At The SBS Bank Tour Of Southland",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Whooping cough cases on the rise as 21 Auckland schools report illness",
+      "url": "https://rnz.co.nz/news/health/2314221/whooping-cough-cases-on-the-rise-as-21-auckland-schools-report-illness",
+      "source": "rnz.co.nz",
+      "card_text": "Whooping cough cases on the rise as 21 Auckland schools report illness",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Wellington nurse suspended after stealing disabled patient’s debit card to fund gambling addiction",
+      "url": "https://newstalkzb.co.nz/news/national/wellington-nurse-suspended-after-stealing-disabled-patient-s-debit-card-to-fund-gambling-addiction",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Wellington nurse suspended after stealing disabled patient’s debit card to fund gambling addiction",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Regional fund provides $2.1m loan for critical 24-bed Westport rest home expansion",
+      "url": "https://thepress.co.nz/nz-news/361110226/regional-fund-provides-21m-loan-critical-24-bed-westport-rest-home-expansion",
+      "source": "thepress.co.nz",
+      "card_text": "Regional fund provides $2.1m loan for critical 24-bed Westport rest home expansion",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "Lawyer questions balance of environmental, economic goals in RMA directions",
+      "url": "https://rnz.co.nz/news/country/2316825/lawyer-questions-balance-of-environmental-economic-goals-in-rma-directions",
+      "source": "rnz.co.nz",
+      "card_text": "Lawyer questions balance of environmental, economic goals in RMA directions",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Tairāwhiti wāhine take indigenous conservation ideas to COP17 biodiversity summit",
+      "url": "https://nzherald.co.nz/gisborne-herald/news/tairawhiti-wahine-take-indigenous-conservation-ideas-to-cop17-biodiversity-summit/2OUK3ARRQRAV3FFCZN6KQS6I6I",
+      "source": "nzherald.co.nz",
+      "card_text": "Tairāwhiti wāhine take indigenous conservation ideas to COP17 biodiversity summit",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "url": "https://bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "WHO urged to review nitrate drinking water limit",
+      "url": "https://rnz.co.nz/news/environment/2313066/who-urged-to-review-nitrate-drinking-water-limit",
+      "source": "rnz.co.nz",
+      "card_text": "WHO urged to review nitrate drinking water limit",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Abolishing the right to silence: another good reason not to vote National",
+      "url": "https://kiwiblog.co.nz/2026/11/abolishing_the_right_to_silence_another_good_reason_not_to_vote_national.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "Abolishing the right to silence: another good reason not to vote National",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Labour dominates Ipsos poll, but rival survey raises questions about online-only sampling",
+      "url": "https://goodoil.news/labour-dominates-ipsos-poll-but-rival-survey-raises-questions-about-online-only-sampling",
+      "source": "goodoil.news",
+      "card_text": "Labour dominates Ipsos poll, but rival survey raises questions about online-only sampling",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "National climb in latest poll but not all good news for right bloc",
+      "url": "https://stuff.co.nz/politics/361054111/nz-election-2026-live-updates-politics-campaign-news",
+      "source": "stuff.co.nz",
+      "card_text": "National climb in latest poll but not all good news for right bloc",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "US midterm elections are coming to a close as voters pass judgment on Trump's second term",
+      "url": "https://stuff.co.nz/world-news/361054631/election-day-arrives-after-surge-early-voting-obse",
+      "source": "stuff.co.nz",
+      "card_text": "US midterm elections are coming to a close as voters pass judgment on Trump's second term",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Gordon Robison: US and Middle East correspondent on the state of the US midterm elections",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/gordon-robison-us-and-middle-east-correspondent-on-the-state-of-the-us-midterm-elections",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Gordon Robison: US and Middle East correspondent on the state of the US midterm elections",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Watch: Willis reveals why she didn’t run for safe National seat as major parties neck in neck | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=NfyKBBhW4GY",
+      "source": "youtube.com",
+      "card_text": "Watch: Willis reveals why she didn’t run for safe National seat as major parties neck in neck | Stuff.co.nz",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Disclosing donors behind millions in hidden election spending would help voters judge dodgy decisions",
+      "url": "https://newsroom.co.nz/2026/11/04/disclosing-donors-behind-millions-in-hidden-election-spending-would-help-voters-judge-dodgy-decisions",
+      "source": "newsroom.co.nz",
+      "card_text": "Disclosing donors behind millions in hidden election spending would help voters judge dodgy decisions",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Democracy Briefing: Red against green in Wellington North",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-red-against-green",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: Red against green in Wellington North",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Wellington City Council proposes pulling funding from waterfront Chinese Garden and Fale Malae projects",
+      "url": "https://nzherald.co.nz/nz/wellington/wellington-city-council-proposes-pulling-funding-from-waterfront-chinese-garden-and-fale-malae-projects/BJWZCJTPWVDZHH7ZN4WVCTBWIY",
+      "source": "nzherald.co.nz",
+      "card_text": "Wellington City Council proposes pulling funding from waterfront Chinese Garden and Fale Malae projects",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Jamie Mackay: The Country host on Federated Farmers' ranking of the major political parties",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jamie-mackay-the-country-host-on-federated-farmers-ranking-of-the-major-political-parties",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Jamie Mackay: The Country host on Federated Farmers' ranking of the major political parties",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Watch: The eye watering cost of raising children - and the impact it has on family finances | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=yr6u194KoAw",
+      "source": "youtube.com",
+      "card_text": "Watch: The eye watering cost of raising children - and the impact it has on family finances | Stuff.co.nz",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "url": "https://bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Trump says US will halt $7B in aid to Israel as country shifts to buying military hardware instead",
+      "url": "https://stuff.co.nz/world-news/361054649/trump-says-us-will-halt-4b-aid-israel-country-shift",
+      "source": "stuff.co.nz",
+      "card_text": "Trump says US will halt $7B in aid to Israel as country shifts to buying military hardware instead",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Watch: Crucial US midterms to deliver verdict on Trump's leadership | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=Z3tAHnb7V4Q",
+      "source": "youtube.com",
+      "card_text": "Watch: Crucial US midterms to deliver verdict on Trump's leadership | Stuff.co.nz",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "url": "https://bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "Asian Football Confederation postpones the 2027 Asian Cup because of conflict in the Middle East",
+      "url": "https://stuff.co.nz/world-news/361054626/asian-football-confederation-postpones-2027-asian-cup-be",
+      "source": "stuff.co.nz",
+      "card_text": "Asian Football Confederation postpones the 2027 Asian Cup because of conflict in the Middle East",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "Inside Musk’s plan to upend the wireless phone industry",
+      "url": "https://nzherald.co.nz/business/inside-musks-plan-to-upend-the-wireless-phone-industry/premium/TBWRNC3LSZAFBMC7ULJICDIP7E",
+      "source": "nzherald.co.nz",
+      "card_text": "Inside Musk’s plan to upend the wireless phone industry",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Auckland residents unable to stop telco towers being built near their properties",
+      "url": "https://newstalkzb.co.nz/news/business/auckland-residents-unable-to-stop-telco-towers-being-built-near-their-properties",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Auckland residents unable to stop telco towers being built near their properties",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "url": "https://bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "US urges Venezuela to release remaining political prisoners",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Australia's highest court hears challenges to social media ban for children",
+      "url": "https://stuff.co.nz/world-news/361054641/australias-highest-court-hears-challenges-social-media-ba",
+      "source": "stuff.co.nz",
+      "card_text": "Australia's highest court hears challenges to social media ban for children",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Western Sahara: Morocco celebrates end of the UN mission Minurso - BBC News",
+      "url": "https://bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Western Sahara: Morocco celebrates end of the UN mission Minurso - BBC News",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump to remove Rwanda and South Africa from US trade deal",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Footballer dies after sickening collision with goalkeeper in Spain",
+      "url": "https://stuff.co.nz/sport/361054388/footballer-collapses-after-sickening-collision-goalkeep",
+      "source": "stuff.co.nz",
+      "card_text": "Footballer dies after sickening collision with goalkeeper in Spain",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Election poll points to Opportunity being in kingmaker position unless National triggers overhang",
+      "url": "https://nzherald.co.nz/nz/politics/election-poll-points-to-opportunity-being-in-kingmaker-position-unless-national-triggers-overhang/AFHLJJNKZRCKLALBKYDLPDCMZY",
+      "source": "nzherald.co.nz",
+      "card_text": "Election poll points to Opportunity being in kingmaker position unless National triggers overhang",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "‘Grossly inaccurate’ claims prompt warning of fourth complaint against Ong",
+      "url": "https://odt.co.nz/news/dunedin/grossly-inaccurate-claims-prompt-warning-of-fourth-complaint-against-ong-bacijgc2",
+      "source": "odt.co.nz",
+      "card_text": "‘Grossly inaccurate’ claims prompt warning of fourth complaint against Ong",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "url": "https://bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Tenerife striker De Miguel dies after on-field collision",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Advocate seeks new site for Bexley homeless",
+      "url": "https://rnz.co.nz/news/regions/2318383/advocate-seeks-new-site-for-bexley-homeless",
+      "source": "rnz.co.nz",
+      "card_text": "Advocate seeks new site for Bexley homeless",
+      "discovered_at_utc": "2026-11-03T14:57:48.488682+00:00"
     },
     {
       "rank": 20,
@@ -26,14 +418,6 @@
       "url": "https://thespinoff.co.nz/politics/03-11-2026/election-update-a-quarter-have-voted-national-targets-swarbrick-and-labours-last-minute-policy",
       "source": "thespinoff.co.nz",
       "card_text": "Election update: A quarter have voted, National targets Swarbrick, and Labour’s last-minute policy",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Fiji military chief urges accountability to the people amid coup immunity debate",
-      "url": "https://asiapacificreport.nz/2026/11/03/fiji-military-chief-urges-accountability-to-the-people-amid-coup-immunity-debate",
-      "source": "asiapacificreport.nz",
-      "card_text": "Fiji military chief urges accountability to the people amid coup immunity debate",
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
@@ -53,91 +437,11 @@
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
-      "rank": 1,
-      "title": "US strikes Iran ahead of midterm elections",
-      "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "US strikes Iran ahead of midterm elections",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Election 2026 live updates: New Zealanders rush to polls before election day",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-opportunity-campaign-team-may-have-driven-unroadworthy-van-illegally/27DWKFI7WFD5HC52JUY2DQET5I",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026 live updates: New Zealanders rush to polls before election day",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
       "rank": 3,
       "title": "Tehran threatens US bases in Europe if Trump orders new strikes",
       "url": "https://thepress.co.nz/world-news/361110077/tehran-threatens-us-bases-europe-if-trump-orders-new-strikes",
       "source": "thepress.co.nz",
       "card_text": "Tehran threatens US bases in Europe if Trump orders new strikes",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Spark investigates cause of South Island EFTPOS outage",
-      "url": "https://reseller.co.nz/article/4243656/spark-investigates-cause-of-south-island-eftpos-outage.html",
-      "source": "reseller.co.nz",
-      "card_text": "Spark investigates cause of South Island EFTPOS outage",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "‘Can we deliver?’ – getting product to market next big challenge and opportunity for NZ’s food exporters",
-      "url": "https://interest.co.nz/rural-news/140937/rabobank-now-says-our-new-goal-food-suppliers-understand-where-critical-exposures",
-      "source": "interest.co.nz",
-      "card_text": "‘Can we deliver?’ – getting product to market next big challenge and opportunity for NZ’s food exporters",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "Iwi Seeks return of Taonga from UK",
-      "url": "https://kiwikidsnews.co.nz/iwi-seeks-return-of-taonga-from-uk",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "Iwi Seeks return of Taonga from UK Hawke’s Bay iwi Ngāti Kahungunu is calling on the British Museum in London to return taonga (treasured Māori items) taken from their Waimārama area more than a century ago. The British Museum holds several thousand Māori taonga, and more than 600 of them come from Waimārama alone. Many were taken after a British settler named […] Kiwi Kids News Today 3:42 pm Culture",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Regional radio strengthened for emergencies",
-      "url": "https://beehive.govt.nz/release/regional-radio-strengthened-emergencies",
-      "source": "beehive.govt.nz",
-      "card_text": "Regional radio strengthened for emergencies",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Nduga shooting victims’ families ask Papua Legal Aid Institute to oversee investigation",
-      "url": "https://asiapacificreport.nz/2026/11/03/nduga-shooting-victims-families-ask-papua-legal-aid-institute-to-oversee-investigation",
-      "source": "asiapacificreport.nz",
-      "card_text": "Nduga shooting victims’ families ask Papua Legal Aid Institute to oversee investigation",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "New home consents rise 18% in year to September, but may have peaked",
-      "url": "https://businessdesk.co.nz/news/new-home-consents-rise-18-in-year-to-september-but-may-have-peaked/64HGY7ZI7ZHILAPXGVZLXL4S2A",
-      "source": "businessdesk.co.nz",
-      "card_text": "New home consents rise 18% in year to September, but may have peaked",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 10,
-      "title": "Nat list MPs face underarm ball in final over",
-      "url": "https://newsroom.co.nz/2026/11/03/nat-list-mps-face-underarm-ball-in-final-over",
-      "source": "newsroom.co.nz",
-      "card_text": "Nat list MPs face underarm ball in final over",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Māori voters reportedly walk away as voting booths run out of ballot papers",
-      "url": "https://thepress.co.nz/politics/361110498/maori-voters-reportedly-walk-away-voting-booths-run-out-ballot-papers",
-      "source": "thepress.co.nz",
-      "card_text": "Māori voters reportedly walk away as voting booths run out of ballot papers",
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
@@ -157,27 +461,11 @@
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
-      "rank": 16,
-      "title": "Non-residential building consents fall to 12-year low",
-      "url": "https://thepress.co.nz/business/361110400/non-residential-building-consents-fall-12-year-low",
-      "source": "thepress.co.nz",
-      "card_text": "Non-residential building consents fall to 12-year low",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
       "rank": 17,
       "title": "How secure is cryptocurrency?",
       "url": "https://interest.co.nz/personal-finance/140935/us63-billion-binance-hack-biggest-heist-ever-%E2%80%93-it-should-be-wake-call",
       "source": "interest.co.nz",
       "card_text": "How secure is cryptocurrency? Interest Today 2:47 pm",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
@@ -213,70 +501,6 @@
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
-      "rank": 25,
-      "title": "Watts Goes Back-To-Back At The SBS Bank Tour Of Southland",
-      "url": "https://whatsoninvers.nz/watts-goes-back-to-back-at-the-sbs-bank-tour-of-southland",
-      "source": "whatsoninvers.nz",
-      "card_text": "Watts Goes Back-To-Back At The SBS Bank Tour Of Southland",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Whooping cough cases on the rise as 21 Auckland schools report illness",
-      "url": "https://rnz.co.nz/news/health/2314221/whooping-cough-cases-on-the-rise-as-21-auckland-schools-report-illness",
-      "source": "rnz.co.nz",
-      "card_text": "Whooping cough cases on the rise as 21 Auckland schools report illness",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Wellington nurse suspended after stealing disabled patient’s debit card to fund gambling addiction",
-      "url": "https://newstalkzb.co.nz/news/national/wellington-nurse-suspended-after-stealing-disabled-patient-s-debit-card-to-fund-gambling-addiction",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Wellington nurse suspended after stealing disabled patient’s debit card to fund gambling addiction",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Regional fund provides $2.1m loan for critical 24-bed Westport rest home expansion",
-      "url": "https://thepress.co.nz/nz-news/361110226/regional-fund-provides-21m-loan-critical-24-bed-westport-rest-home-expansion",
-      "source": "thepress.co.nz",
-      "card_text": "Regional fund provides $2.1m loan for critical 24-bed Westport rest home expansion",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Lawyer questions balance of environmental, economic goals in RMA directions",
-      "url": "https://rnz.co.nz/news/country/2316825/lawyer-questions-balance-of-environmental-economic-goals-in-rma-directions",
-      "source": "rnz.co.nz",
-      "card_text": "Lawyer questions balance of environmental, economic goals in RMA directions",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Tairāwhiti wāhine take indigenous conservation ideas to COP17 biodiversity summit",
-      "url": "https://nzherald.co.nz/gisborne-herald/news/tairawhiti-wahine-take-indigenous-conservation-ideas-to-cop17-biodiversity-summit/2OUK3ARRQRAV3FFCZN6KQS6I6I",
-      "source": "nzherald.co.nz",
-      "card_text": "Tairāwhiti wāhine take indigenous conservation ideas to COP17 biodiversity summit",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "url": "https://bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "WHO urged to review nitrate drinking water limit",
-      "url": "https://rnz.co.nz/news/environment/2313066/who-urged-to-review-nitrate-drinking-water-limit",
-      "source": "rnz.co.nz",
-      "card_text": "WHO urged to review nitrate drinking water limit",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
       "rank": 33,
       "title": "Search under way for 14-year-old believed to be in Wellington or Porirua",
       "url": "https://stuff.co.nz/nz-news/361054561/search-under-way-14-year-old-believed-be-wellington-or-porirua",
@@ -293,27 +517,11 @@
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
-      "rank": 35,
-      "title": "Abolishing the right to silence: another good reason not to vote National",
-      "url": "https://kiwiblog.co.nz/2026/11/abolishing_the_right_to_silence_another_good_reason_not_to_vote_national.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "Abolishing the right to silence: another good reason not to vote National",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
       "rank": 36,
       "title": "Residential building consents show a steady rise - non-residential consents still declining",
       "url": "https://interest.co.nz/property/140930/latest-building-consent-figures-suggest-good-growth-residential-construction-not-so",
       "source": "interest.co.nz",
       "card_text": "Residential building consents show a steady rise - non-residential consents still declining",
-      "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Labour dominates Ipsos poll, but rival survey raises questions about online-only sampling",
-      "url": "https://goodoil.news/labour-dominates-ipsos-poll-but-rival-survey-raises-questions-about-online-only-sampling",
-      "source": "goodoil.news",
-      "card_text": "Labour dominates Ipsos poll, but rival survey raises questions about online-only sampling",
       "discovered_at_utc": "2026-11-03T06:18:17.293043+00:00"
     },
     {
@@ -522,14 +730,6 @@
       "url": "https://rnz.co.nz/news/politics_election-2026/2311349/election-2026-police-looking-into-harry-mowbray-s-split-your-vote-website",
       "source": "rnz.co.nz",
       "card_text": "Election 2026: Police looking into Harry Mowbray's 'Split Your Vote' website",
-      "discovered_at_utc": "2026-11-02T23:23:54.824455+00:00"
-    },
-    {
-      "rank": 18,
-      "title": "Wealthy businessman under police investigation over strategic voting campaign",
-      "url": "https://stuff.co.nz/politics/361054111/nz-election-2026-live-updates-politics-campaign-news",
-      "source": "stuff.co.nz",
-      "card_text": "Wealthy businessman under police investigation over strategic voting campaign",
       "discovered_at_utc": "2026-11-02T23:23:54.824455+00:00"
     },
     {
