@@ -1,31 +1,415 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-11-08T19:29:22.692825+00:00",
-  "count": 163,
+  "updated_at_utc": "2026-11-08T23:34:37.431276+00:00",
+  "count": 170,
   "items": [
+    {
+      "rank": 14,
+      "title": "2026 Election: What happens next?",
+      "url": "https://kiwikidsnews.co.nz/2026-election-what-happens-next",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "2026 Election: What happens next? New Zealanders voted in the general election on Saturday 7 November 2026, but it could be weeks before we know for sure who will lead the next government. Early results show that National, ACT and NZ First, the three parties in the current Government, have 67 of the 131 seats in Parliament. That’s just one […] Kiwi Kids News Yesterday Politics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Women facing significant inequalities in diagnosis, treatment of heart disease in NZ",
+      "url": "https://rnz.co.nz/news/health/2438004/women-facing-significant-inequalities-in-diagnosis-treatment-of-heart-disease-in-nz",
+      "source": "rnz.co.nz",
+      "card_text": "Women facing significant inequalities in diagnosis, treatment of heart disease in NZ",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "… publishes fee disclosure findings",
+      "url": "https://investmentnews.co.nz/investment-news/publishes-fee-disclosure-findings",
+      "source": "investmentnews.co.nz",
+      "card_text": "… publishes fee disclosure findings Between about a quarter and 50 per cent of various licensed entity types probed by the Financial Markets Authority (FMA) displayed some kind of fee disclosure flaw, a new regulatory report reveals. In an early shot across the bows of fund managers, discretionary investment management scheme (DIMS) providers and financial advisory firms, the FMA uncovered... [Read More...] Investment News Yesterday Business",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Post 2026 Election Reflections",
+      "url": "https://thestandard.nz/post-2026-election-reflections",
+      "source": "thestandard.nz",
+      "card_text": "Post 2026 Election Reflections Where we are now The electoral position is clear pre-special votes: National, ACT and NZ First are up on the opposition parties by […] The Standard Yesterday Opinion",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "What just happened? What will happen?",
+      "url": "https://thespinoff.co.nz/politics/09-11-2026/what-just-happened-what-will-happen",
+      "source": "thespinoff.co.nz",
+      "card_text": "What just happened? What will happen? No one has won. No one has conceded. The governing coalition holds 67 of 131 seats on the preliminary count, but nearly 400,000 special votes won't be counted until 27 November, and the arithmetic could still flip. The Spinoff Today 7:13 am Politics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Election 2026 live updates: Christopher Luxon will be making phone call to Qiulae Wong",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-opportunity-in-box-seat-but-christopher-luxon-confident-he-wont-need-them/OOSNJP6GL5DJJLHZOFCV22UZP4",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 live updates: Christopher Luxon will be making phone call to Qiulae Wong",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance",
+      "url": "https://rnz.co.nz/news/pacific/2380049/pacific-warns-of-debt-pressure-as-commonwealth-looks-to-strengthen-climate-finance",
+      "source": "rnz.co.nz",
+      "card_text": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "‘Pretty special’: Te Tai Tonga returns to Labour",
+      "url": "https://odt.co.nz/news/dunedin/pretty-special-te-tai-tonga-returns-to-labour-b8dqhydw",
+      "source": "odt.co.nz",
+      "card_text": "‘Pretty special’: Te Tai Tonga returns to Labour",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "The warning signs were there. Why did Cindy’s cancer take eight months to diagnose?",
+      "url": "https://stuff.co.nz/nz-news/361054894/warning-signs-were-there-why-did-cindys-cancer-take-eight-months-diagnose",
+      "source": "stuff.co.nz",
+      "card_text": "The warning signs were there. Why did Cindy’s cancer take eight months to diagnose?",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Gavin Grey: UK/Europe Correspondent on Krakow shooting",
+      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/gavin-grey-ukeurope-correspondent-on-krakow-shooting",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Gavin Grey: UK/Europe Correspondent on Krakow shooting",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Labour’s ‘CGT light’ is also light on specifics",
+      "url": "https://businessdesk.co.nz/property/labours-cgt-light-is-also-light-on-specifics/DJK2IGSPBBE2XM46RNNRIC3ZH4",
+      "source": "businessdesk.co.nz",
+      "card_text": "Labour’s ‘CGT light’ is also light on specifics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Taumalolo’s World Cup future uncertain as legacy of inspiring players and unprecedented Tongan support endures",
+      "url": "https://kanivatonga.co.nz/2026/11/taumalolos-world-cup-future-uncertain-as-legacy-of-inspiring-players-and-unprecedented-tongan-support-endures",
+      "source": "kanivatonga.co.nz",
+      "card_text": "Taumalolo’s World Cup future uncertain as legacy of inspiring players and unprecedented Tongan support endures",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "The winners, losers, big losers and gigantic losers from the 2026 NZ election",
+      "url": "https://thespinoff.co.nz/politics/09-11-2026/the-winners-losers-big-losers-and-gigantic-losers-from-the-2026-new-zealand-general-election",
+      "source": "thespinoff.co.nz",
+      "card_text": "The winners, losers, big losers and gigantic losers from the 2026 NZ election",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "Election 2026: National Party’s Todd McClay becomes Rotorua’s longest-serving MP after election win",
+      "url": "https://nzherald.co.nz/rotorua-daily-post/news/todd-mcclay-becomes-rotoruas-longest-serving-mp-after-election-win/premium/EWTMQM3HPNGIHBBCQBVDPNPWRI",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026: National Party’s Todd McClay becomes Rotorua’s longest-serving MP after election win",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "Brooking keeps Dunedin a Labour stronghold",
+      "url": "https://odt.co.nz/news/dunedin/brooking-keeps-dunedin-a-labour-stronghold-ewhupk5k",
+      "source": "odt.co.nz",
+      "card_text": "Brooking keeps Dunedin a Labour stronghold",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "url": "https://bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Iran executes three men for 'armed unrest' after January protests",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Australia thrash Samoa to set up World Cup final against Kiwis | RNZ",
+      "url": "https://rnz.co.nz/news/sport/2443548/australia-thrash-samoa-to-set-up-world-cup-final-against-kiwis",
+      "source": "rnz.co.nz",
+      "card_text": "Australia thrash Samoa to set up World Cup final against Kiwis | RNZ",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "‘Struggling’ Awanui lab workers to strike",
+      "url": "https://odt.co.nz/news/dunedin/struggling-awanui-lab-workers-to-strike-b5cdg9n1",
+      "source": "odt.co.nz",
+      "card_text": "‘Struggling’ Awanui lab workers to strike",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
+      "url": "https://nzherald.co.nz/nz/auckland/auckland-beach-warnings-after-thunderstorms-wash-untreated-wastewater-into-waitemata-harbour/3N7HMBDVMZBE5PVAB56OEP73UM",
+      "source": "nzherald.co.nz",
+      "card_text": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Last Shotover ponds to be drained and dried",
+      "url": "https://odt.co.nz/otago/queenstown/last-shotover-ponds-to-be-drained-and-dried-nvtdkxic",
+      "source": "odt.co.nz",
+      "card_text": "Last Shotover ponds to be drained and dried",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "What we know and don't know as we wait for the final election results",
+      "url": "https://thespinoff.co.nz/politics/09-11-2026/what-we-know-and-dont-know-as-we-wait-for-the-final-election-results",
+      "source": "thespinoff.co.nz",
+      "card_text": "What we know and don't know as we wait for the final election results",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Vote splitting costs National in knife-edge election",
+      "url": "https://odt.co.nz/news/dunedin/vote-splitting-costs-national-in-knife-edge-election-ct8jibqb",
+      "source": "odt.co.nz",
+      "card_text": "Vote splitting costs National in knife-edge election",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Election 2026: On these numbers, the whole thing is still up for grabs",
+      "url": "https://newsroom.co.nz/2026/11/09/election-2026-on-these-numbers-the-whole-thing-is-still-up-for-grabs",
+      "source": "newsroom.co.nz",
+      "card_text": "Election 2026: On these numbers, the whole thing is still up for grabs",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "NZ First soars in the South",
+      "url": "https://odt.co.nz/news/dunedin/nz-first-soars-in-the-south-qxppcxhh",
+      "source": "odt.co.nz",
+      "card_text": "NZ First soars in the South Having increased its party vote in every southern electorate, New Zealand First can be well pleased with its election night performance, senior MP Mark Patterson says. Otago Daily Times Today 10:58 am Politics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "More tankers hit in Strait of Hormuz",
+      "url": "https://thepress.co.nz/business/361113917/shipping-tankers-hit-strait-hormuz",
+      "source": "thepress.co.nz",
+      "card_text": "More tankers hit in Strait of Hormuz Cargo ships and tankers continue to be hit in or near the Strait of Hormuz, disrupting commodities and energy vital to the world economy. Since the US and Israel began attacks on Iran in February, Iran has been targeting vessels in the Strait of Hormuz to block energy exports. The Press Today 7:41 am World",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "News Briefing: 9 November 2026",
+      "url": "https://democracyproject.org.nz/p/news-briefing-9-november-2026",
+      "source": "democracyproject.org.nz",
+      "card_text": "News Briefing: 9 November 2026 1. Farah Hancock (RNZ): Election uncertainty: What happens now? Labour, the Greens, Te Pāti Māori and Opportunity would need to outperform their election-night result by about seven percentage points in the special votes to reach a majority, according to modelling by RNZ’s data journalist Farah Hancock. If the 399,365 specials fall the way they did in 2023, the current coalition narrowly keeps its majority.... Democracy Project Today 9:21 am Politics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "In the Zuru mansion with the rich listers behind the new campaign to get rid of MMP",
+      "url": "https://newsroom.co.nz/2026/11/09/who-is-behind-the-new-campaign-to-get-rid-of-mmp",
+      "source": "newsroom.co.nz",
+      "card_text": "In the Zuru mansion with the rich listers behind the new campaign to get rid of MMP",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "New Christchurch MP George Hampton reveals what surprised him most on the campaign trail",
+      "url": "https://chrislynchmedia.com/news-items/new-christchurch-mp-george-hampton-reveals-what-surprised-him-most-on-the-campaign-trail",
+      "source": "chrislynchmedia.com",
+      "card_text": "New Christchurch MP George Hampton reveals what surprised him most on the campaign trail",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Taiwan shuts Papua New Guinea office, cuts all aid and halts LNG purchases",
+      "url": "https://rnz.co.nz/news/pacific/2457099/taiwan-shuts-papua-new-guinea-office-cuts-all-aid-and-halts-lng-purchases",
+      "source": "rnz.co.nz",
+      "card_text": "Taiwan shuts Papua New Guinea office, cuts all aid and halts LNG purchases",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "John Tamihere | President of Te Pāti Māori",
+      "url": "https://waateanews.com/2026/11/09/john-tamihere-president-of-te-pati-maori-53",
+      "source": "waateanews.com",
+      "card_text": "John Tamihere | President of Te Pāti Māori",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Housing values continued declining in most parts of NZ during October",
+      "url": "https://interest.co.nz/property/141011/north-island-housing-values-dropped-october-declines-also-creeping-values-nelson",
+      "source": "interest.co.nz",
+      "card_text": "Housing values continued declining in most parts of NZ during October",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Who are the new MPs?",
+      "url": "https://odt.co.nz/news/national/who-are-the-new-mps-a1hr7ecu",
+      "source": "odt.co.nz",
+      "card_text": "Who are the new MPs? Otago Daily Times Today 10:41 am",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "What Luxon says is not negotiable in the tough talks ahead",
+      "url": "https://stuff.co.nz/politics/361056724/live-updates-election-night-blog",
+      "source": "stuff.co.nz",
+      "card_text": "What Luxon says is not negotiable in the tough talks ahead",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "‘Explicit economic populism’ unlocked Green Party’s record vote",
+      "url": "https://newsroom.co.nz/2026/11/09/explicit-economic-focus-unlocked-green-partys-record-vote",
+      "source": "newsroom.co.nz",
+      "card_text": "‘Explicit economic populism’ unlocked Green Party’s record vote",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "ANZ follows Westpac and BNZ with profit drop ‒ but still rakes in $2.3 billion",
+      "url": "https://thepress.co.nz/business/361113960/anz-follows-westpac-and-bnz-profit-drop-still-rakes-23-billion",
+      "source": "thepress.co.nz",
+      "card_text": "ANZ follows Westpac and BNZ with profit drop ‒ but still rakes in $2.3 billion",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "'Kiwi dollar falls to 24-year lows – RBNZ verbal intervention should not be out of the question'",
+      "url": "https://interest.co.nz/currencies/141002/roger-j-kerr-sees-nzd-caught-backwash-perfect-storm-and-newly-uncertain-election",
+      "source": "interest.co.nz",
+      "card_text": "'Kiwi dollar falls to 24-year lows – RBNZ verbal intervention should not be out of the question'",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "More than 400 parking fine complaints to Commerce Commission this year",
+      "url": "https://rnz.co.nz/news/community/2456614/more-than-400-parking-fine-complaints-to-commerce-commission-this-year",
+      "source": "rnz.co.nz",
+      "card_text": "More than 400 parking fine complaints to Commerce Commission this year",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "What an uncertain election result means for households’ finances",
+      "url": "https://nzherald.co.nz/nz/what-an-uncertain-election-result-means-for-households-finances/JTMUROLLYFEG5ONJPQVXIPSEAA",
+      "source": "nzherald.co.nz",
+      "card_text": "What an uncertain election result means for households’ finances",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Israel’s president gives Eisenkot the first chance to form the next government",
+      "url": "https://stuff.co.nz/world-news/361056750/israels-president-gives-eisenkot-first-chance-form-th",
+      "source": "stuff.co.nz",
+      "card_text": "Israel’s president gives Eisenkot the first chance to form the next government",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "California Governor says he will commute all death sentences in state to life without parole",
+      "url": "https://thepress.co.nz/world-news/361113942/california-governor-says-he-will-commute-all-death-sentences-state-life-without-parole",
+      "source": "thepress.co.nz",
+      "card_text": "California Governor says he will commute all death sentences in state to life without parole",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Norris unscathed after mishaps, Lawson banks valuable points",
+      "url": "https://odt.co.nz/sport/motorsport/norris-unscathed-after-mishaps-lawson-banks-valuable-points-l251wtq3",
+      "source": "odt.co.nz",
+      "card_text": "Norris unscathed after mishaps, Lawson banks valuable points",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Ponga v Walsh: How round two of this clash of the titans will decide Rugby League World Cup final",
+      "url": "https://thepress.co.nz/sport/361113961/fullback-rivals-kalyn-ponga-and-reece-walsh-set-second-act-clash-kiwis-v-kangaroos-rugby-league",
+      "source": "thepress.co.nz",
+      "card_text": "Ponga v Walsh: How round two of this clash of the titans will decide Rugby League World Cup final",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Whakatāne teen Ellyce Forbes became addicted to vaping at 11",
+      "url": "https://nzherald.co.nz/lifestyle/whakatane-teen-ellyce-forbes-became-addicted-to-vaping-at-11/premium/QF4DFT37UFHW7L2KPPX5Q63EYM",
+      "source": "nzherald.co.nz",
+      "card_text": "Whakatāne teen Ellyce Forbes became addicted to vaping at 11",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Another Invercargill treefall, but whose tree was it?",
+      "url": "https://thepress.co.nz/nz-news/361109839/another-invercargill-treefall-whose-tree-was-it",
+      "source": "thepress.co.nz",
+      "card_text": "Another Invercargill treefall, but whose tree was it?",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Democracy Briefing: How the overhang put the right ahead",
+      "url": "https://democracyproject.org.nz/p/democracy-briefing-how-the-overhang",
+      "source": "democracyproject.org.nz",
+      "card_text": "Democracy Briefing: How the overhang put the right ahead",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Tania Waikato | Green Party MP",
+      "url": "https://waateanews.com/2026/11/09/tania-waikato-green-party-mp",
+      "source": "waateanews.com",
+      "card_text": "Tania Waikato | Green Party MP It was all on in Te Teko Texas on Saturday night at the candidate party of Tania Waikato. Tania is set to join Parliament as a List MP after an […] Waatea News Today 10:00 am Politics",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "'I want Te Tai Tonga to reach its political potential': Mananui Ramsden on winning country's largest electorate",
+      "url": "https://rnz.co.nz/news/politics_election-2026/2456260/i-want-te-tai-tonga-to-reach-its-political-potential-mananui-ramsden-on-winning-country-s-largest-electorate",
+      "source": "rnz.co.nz",
+      "card_text": "'I want Te Tai Tonga to reach its political potential': Mananui Ramsden on winning country's largest electorate",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 47,
+      "title": "Processing plant still smouldering after major Marlborough fire",
+      "url": "https://thepress.co.nz/nz-news/361113698/processing-plant-still-smouldering-after-major-fire-marlborough",
+      "source": "thepress.co.nz",
+      "card_text": "Processing plant still smouldering after major Marlborough fire",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "From 15-minute drones to instant kill chains: What does NZ’s future army look like?",
+      "url": "https://nzherald.co.nz/nz/from-15-minute-drones-to-instant-kill-chains-what-does-nzs-future-army-look-like/ROWTIKAHNNC7PDVFT6Y6Q6PA7Y",
+      "source": "nzherald.co.nz",
+      "card_text": "From 15-minute drones to instant kill chains: What does NZ’s future army look like?",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "Off-duty cop cleared of indecent assault after trying to grab stickers off person's body",
+      "url": "https://stuff.co.nz/nz-news/361056819/duty-cop-cleared-indecent-assault-after-trying-grab-stickers-persons-body",
+      "source": "stuff.co.nz",
+      "card_text": "Off-duty cop cleared of indecent assault after trying to grab stickers off person's body",
+      "discovered_at_utc": "2026-11-08T23:34:37.431276+00:00"
+    },
     {
       "rank": 22,
       "title": "Fire engulfs winery in Marlborough",
       "url": "https://rnz.co.nz/news/emergencies_local/2431455/fire-engulfs-winery-in-marlborough",
       "source": "rnz.co.nz",
       "card_text": "Fire engulfs winery in Marlborough RNZ Yesterday",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "2026 Election: What happens next?",
-      "url": "https://kiwikidsnews.co.nz/2026-election-what-happens-next",
-      "source": "kiwikidsnews.co.nz",
-      "card_text": "2026 Election: What happens next? New Zealanders voted in the general election on Saturday 7 November 2026, but it could be weeks before we know for sure who will lead the next government. Early results show that National, ACT and NZ First, the three parties in the current Government, have 67 of the 131 seats in Parliament. That’s just one […] Kiwi Kids News Yesterday Politics",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "Women facing significant inequalities in diagnosis, treatment of heart disease in NZ",
-      "url": "https://rnz.co.nz/news/health/2438004/women-facing-significant-inequalities-in-diagnosis-treatment-of-heart-disease-in-nz",
-      "source": "rnz.co.nz",
-      "card_text": "Women facing significant inequalities in diagnosis, treatment of heart disease in NZ",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -53,27 +437,11 @@
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
-      "rank": 10,
-      "title": "… publishes fee disclosure findings",
-      "url": "https://investmentnews.co.nz/investment-news/publishes-fee-disclosure-findings",
-      "source": "investmentnews.co.nz",
-      "card_text": "… publishes fee disclosure findings Between about a quarter and 50 per cent of various licensed entity types probed by the Financial Markets Authority (FMA) displayed some kind of fee disclosure flaw, a new regulatory report reveals. In an early shot across the bows of fund managers, discretionary investment management scheme (DIMS) providers and financial advisory firms, the FMA uncovered... [Read More...] Investment News Yesterday Business",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
       "rank": 12,
       "title": "What happened to the party vote in National’s Canterbury strongholds?",
       "url": "https://chrislynchmedia.com/news-items/what-happened-to-the-party-vote-in-nationals-canterbury-strongholds",
       "source": "chrislynchmedia.com",
       "card_text": "What happened to the party vote in National’s Canterbury strongholds?",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "Post 2026 Election Reflections",
-      "url": "https://thestandard.nz/post-2026-election-reflections",
-      "source": "thestandard.nz",
-      "card_text": "Post 2026 Election Reflections Where we are now The electoral position is clear pre-special votes: National, ACT and NZ First are up on the opposition parties by […] The Standard Yesterday Opinion",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -93,99 +461,11 @@
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
-      "rank": 1,
-      "title": "What just happened? What will happen?",
-      "url": "https://thespinoff.co.nz/politics/09-11-2026/what-just-happened-what-will-happen",
-      "source": "thespinoff.co.nz",
-      "card_text": "What just happened? What will happen? No one has won. No one has conceded. The governing coalition holds 67 of 131 seats on the preliminary count, but nearly 400,000 special votes won't be counted until 27 November, and the arithmetic could still flip. The Spinoff Today 7:13 am Politics",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Election 2026 live updates: Opportunity in box seat but Christopher Luxon confident he won’t need them",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-opportunity-in-box-seat-but-christopher-luxon-confident-he-wont-need-them/OOSNJP6GL5DJJLHZOFCV22UZP4",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026 live updates: Opportunity in box seat but Christopher Luxon confident he won’t need them",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance",
-      "url": "https://rnz.co.nz/news/pacific/2380049/pacific-warns-of-debt-pressure-as-commonwealth-looks-to-strengthen-climate-finance",
-      "source": "rnz.co.nz",
-      "card_text": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "‘Pretty special’: Te Tai Tonga returns to Labour",
-      "url": "https://odt.co.nz/news/dunedin/pretty-special-te-tai-tonga-returns-to-labour-b8dqhydw",
-      "source": "odt.co.nz",
-      "card_text": "‘Pretty special’: Te Tai Tonga returns to Labour",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
       "rank": 5,
       "title": "How Christchurch Airport cut its emissions on paper while planes pumped out more",
       "url": "https://thepress.co.nz/business/361111219/how-christchurch-airport-cut-its-emissions-paper-while-planes-pumped-out-more",
       "source": "thepress.co.nz",
       "card_text": "How Christchurch Airport cut its emissions on paper while planes pumped out more",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 6,
-      "title": "The warning signs were there. Why did Cindy’s cancer take eight months to diagnose?",
-      "url": "https://stuff.co.nz/nz-news/361054894/warning-signs-were-there-why-did-cindys-cancer-take-eight-months-diagnose",
-      "source": "stuff.co.nz",
-      "card_text": "The warning signs were there. Why did Cindy’s cancer take eight months to diagnose?",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 7,
-      "title": "Gavin Grey: UK/Europe Correspondent on Krakow shooting",
-      "url": "https://newstalkzb.co.nz/on-air/early-edition-with-ryan-bridge/audio/gavin-grey-ukeurope-correspondent-on-krakow-shooting",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Gavin Grey: UK/Europe Correspondent on Krakow shooting",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "Labour’s ‘CGT light’ is also light on specifics",
-      "url": "https://businessdesk.co.nz/property/labours-cgt-light-is-also-light-on-specifics/DJK2IGSPBBE2XM46RNNRIC3ZH4",
-      "source": "businessdesk.co.nz",
-      "card_text": "Labour’s ‘CGT light’ is also light on specifics",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "Taumalolo’s World Cup future uncertain as legacy of inspiring players and unprecedented Tongan support endures",
-      "url": "https://kanivatonga.co.nz/2026/11/taumalolos-world-cup-future-uncertain-as-legacy-of-inspiring-players-and-unprecedented-tongan-support-endures",
-      "source": "kanivatonga.co.nz",
-      "card_text": "Taumalolo’s World Cup future uncertain as legacy of inspiring players and unprecedented Tongan support endures",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "The winners, losers, big losers and gigantic losers from the 2026 NZ election",
-      "url": "https://thespinoff.co.nz/politics/09-11-2026/the-winners-losers-big-losers-and-gigantic-losers-from-the-2026-new-zealand-general-election",
-      "source": "thespinoff.co.nz",
-      "card_text": "The winners, losers, big losers and gigantic losers from the 2026 NZ election",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Election 2026: National Party’s Todd McClay becomes Rotorua’s longest-serving MP after election win",
-      "url": "https://nzherald.co.nz/rotorua-daily-post/news/todd-mcclay-becomes-rotoruas-longest-serving-mp-after-election-win/premium/EWTMQM3HPNGIHBBCQBVDPNPWRI",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026: National Party’s Todd McClay becomes Rotorua’s longest-serving MP after election win",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "Brooking keeps Dunedin a Labour stronghold",
-      "url": "https://odt.co.nz/news/dunedin/brooking-keeps-dunedin-a-labour-stronghold-ewhupk5k",
-      "source": "odt.co.nz",
-      "card_text": "Brooking keeps Dunedin a Labour stronghold",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -205,27 +485,11 @@
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
-      "rank": 23,
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "url": "https://bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Iran executes three men for 'armed unrest' after January protests",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
       "rank": 24,
       "title": "'Shared values' see Pacific Forum increase partnerships with Middle East countries",
       "url": "https://rnz.co.nz/news/pacific/2394866/shared-values-see-pacific-forum-increase-partnerships-with-middle-east-countries",
       "source": "rnz.co.nz",
       "card_text": "'Shared values' see Pacific Forum increase partnerships with Middle East countries",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 26,
-      "title": "Australia thrash Samoa to set up World Cup final against Kiwis | RNZ",
-      "url": "https://rnz.co.nz/news/sport/2443548/australia-thrash-samoa-to-set-up-world-cup-final-against-kiwis",
-      "source": "rnz.co.nz",
-      "card_text": "Australia thrash Samoa to set up World Cup final against Kiwis | RNZ",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -237,14 +501,6 @@
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
-      "rank": 28,
-      "title": "‘Struggling’ Awanui lab workers to strike",
-      "url": "https://odt.co.nz/news/dunedin/struggling-awanui-lab-workers-to-strike-b5cdg9n1",
-      "source": "odt.co.nz",
-      "card_text": "‘Struggling’ Awanui lab workers to strike",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
       "rank": 30,
       "title": "Dr. Bryan Betty: How can you stop diabetes?",
       "url": "https://newstalkzb.co.nz/on-air/the-weekend-collective/the-health-hub/dr-bryan-betty-how-can-you-stop-diabetes",
@@ -253,51 +509,11 @@
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
-      "rank": 31,
-      "title": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
-      "url": "https://nzherald.co.nz/nz/auckland/auckland-beach-warnings-after-thunderstorms-wash-untreated-wastewater-into-waitemata-harbour/3N7HMBDVMZBE5PVAB56OEP73UM",
-      "source": "nzherald.co.nz",
-      "card_text": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Last Shotover ponds to be drained and dried",
-      "url": "https://odt.co.nz/otago/queenstown/last-shotover-ponds-to-be-drained-and-dried-nvtdkxic",
-      "source": "odt.co.nz",
-      "card_text": "Last Shotover ponds to be drained and dried",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
       "rank": 33,
       "title": "Ocean Patch changing colour from plastic",
       "url": "https://kiwikidsnews.co.nz/ocean-patch-changing-colour-from-plastic",
       "source": "kiwikidsnews.co.nz",
       "card_text": "Ocean Patch changing colour from plastic",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "What we know and don't know as we wait for the final election results",
-      "url": "https://thespinoff.co.nz/politics/09-11-2026/what-we-know-and-dont-know-as-we-wait-for-the-final-election-results",
-      "source": "thespinoff.co.nz",
-      "card_text": "What we know and don't know as we wait for the final election results",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Vote splitting costs National in knife-edge election",
-      "url": "https://odt.co.nz/news/dunedin/vote-splitting-costs-national-in-knife-edge-election-ct8jibqb",
-      "source": "odt.co.nz",
-      "card_text": "Vote splitting costs National in knife-edge election",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Election 2026: On these numbers, the whole thing is still up for grabs",
-      "url": "https://newsroom.co.nz/2026/11/09/election-2026-on-these-numbers-the-whole-thing-is-still-up-for-grabs",
-      "source": "newsroom.co.nz",
-      "card_text": "Election 2026: On these numbers, the whole thing is still up for grabs",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -378,14 +594,6 @@
       "url": "https://rnz.co.nz/news/science-and-technology/2448804/otago-university-researcher-receives-2027-fleming-prize",
       "source": "rnz.co.nz",
       "card_text": "Otago University researcher receives 2027 Fleming Prize",
-      "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
-    },
-    {
-      "rank": 47,
-      "title": "NZ First soars in the South",
-      "url": "https://odt.co.nz/news/dunedin/nz-first-soars-in-the-south-qxppcxhh",
-      "source": "odt.co.nz",
-      "card_text": "NZ First soars in the South Having increased its party vote in every southern electorate, New Zealand First can be well pleased with its election night performance, senior MP Mark Patterson says. Otago Daily Times Today 5:30 am Politics",
       "discovered_at_utc": "2026-11-08T19:29:22.692825+00:00"
     },
     {
@@ -1155,158 +1363,6 @@
       "source": "thepress.co.nz",
       "card_text": "No regrets from campaign chair Simeon Brown as National slips behind Labour",
       "discovered_at_utc": "2026-11-08T00:20:58.428699+00:00"
-    },
-    {
-      "rank": 13,
-      "title": "Roadworks Update Invercargill And Southland Week Ahead",
-      "url": "https://whatsoninvers.nz/roadworks-update-invercargill-and-southland-week-ahead",
-      "source": "whatsoninvers.nz",
-      "card_text": "Roadworks Update Invercargill And Southland Week Ahead",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 40,
-      "title": "How the insanely tight election night unfolded",
-      "url": "https://thespinoff.co.nz/politics/07-11-2026/election-2026-live-updates-all-the-action-as-it-happens",
-      "source": "thespinoff.co.nz",
-      "card_text": "How the insanely tight election night unfolded",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 42,
-      "title": "National pushes 'finish the job' rhetoric in final days of campaign",
-      "url": "https://goodoil.news/national-pushes-finish-the-job-rhetoric-in-final-days-of-campaign",
-      "source": "goodoil.news",
-      "card_text": "National pushes 'finish the job' rhetoric in final days of campaign",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Tenant with motor neurone disease wins Auckland rent dispute with landlord",
-      "url": "https://nzherald.co.nz/nz/tenant-with-motor-neurone-disease-wins-auckland-rent-dispute-with-landlord/QTJ7DGMXGRF5HFHCD6LSGW6HC4",
-      "source": "nzherald.co.nz",
-      "card_text": "Tenant with motor neurone disease wins Auckland rent dispute with landlord",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 46,
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "url": "https://bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Green Party 'made history' with record high minor party vote",
-      "url": "https://thepress.co.nz/politics/361113490/green-party-made-history-record-high-minor-party-vote",
-      "source": "thepress.co.nz",
-      "card_text": "Green Party 'made history' with record high minor party vote",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "‘Overhang hangover’ for big names cast out of Parliament in blue bloodbath",
-      "url": "https://stuff.co.nz/nz-news/361056374/overhang-hangover-big-names-cast-out-parliament-blue-bloodbath",
-      "source": "stuff.co.nz",
-      "card_text": "‘Overhang hangover’ for big names cast out of Parliament in blue bloodbath",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "A Labour led Government is incredibly improbable",
-      "url": "https://kiwiblog.co.nz/2026/11/a_labour_led_government_is_incredibly_improbable.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "A Labour led Government is incredibly improbable",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 27,
-      "title": "Fewer deaths and serious injuries reported on Canterbury roads",
-      "url": "https://odt.co.nz/canterbury/christchurch/fewer-deaths-and-serious-injuries-reported-on-canterbury-roads-a7cwhu98",
-      "source": "odt.co.nz",
-      "card_text": "Fewer deaths and serious injuries reported on Canterbury roads",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "url": "https://bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 16,
-      "title": "Gunman kills six in historic centre of Poland’s Krakow",
-      "url": "https://newstalkzb.co.nz/news/world/gunman-kills-six-in-historic-centre-of-poland-s-krakow",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Gunman kills six in historic centre of Poland’s Krakow",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Gunman kills six people in Polish city square",
-      "url": "https://odt.co.nz/news/world/gunman-kills-six-people-in-polish-city-square-o2vhdoe3",
-      "source": "odt.co.nz",
-      "card_text": "Gunman kills six people in Polish city square",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "‘Not good enough, nor sustainable’: How NZ Cricket lost $7.35 million",
-      "url": "https://thepress.co.nz/sport/361112282/breaking-down-nz-crickets-735-million-loss-and-what-lies-ahead",
-      "source": "thepress.co.nz",
-      "card_text": "‘Not good enough, nor sustainable’: How NZ Cricket lost $7.35 million",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 21,
-      "title": "Darwin Howe jailed for Wainuiomata house shooting and other offences",
-      "url": "https://rnz.co.nz/news/crime-and-justice/2402698/darwin-howe-jailed-for-wainuiomata-house-shooting-and-other-offences",
-      "source": "rnz.co.nz",
-      "card_text": "Darwin Howe jailed for Wainuiomata house shooting and other offences",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Canterbury drug bust: Four men arrested after cocaine, MDMA, 3D gun haul",
-      "url": "https://nzherald.co.nz/nz/canterbury-drug-bust-four-men-arrested-after-cocaine-mdma-3d-gun-haul/I6MU4FQUIZFOFP2G5L5MU3IJMQ",
-      "source": "nzherald.co.nz",
-      "card_text": "Canterbury drug bust: Four men arrested after cocaine, MDMA, 3D gun haul",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Youth unemployment: The worrying issue our new Government will need to tackle fast – Liam Dann",
-      "url": "https://nzherald.co.nz/business/the-worrying-issue-our-new-government-will-need-to-tackle-fast-liam-dann/premium/OF22M2XA7JECPLV6Z2E7NGNIOM",
-      "source": "nzherald.co.nz",
-      "card_text": "Youth unemployment: The worrying issue our new Government will need to tackle fast – Liam Dann",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 25,
-      "title": "2023 was a trainwreck for Labour. Last night wasn’t much better",
-      "url": "https://newsroom.co.nz/2026/11/08/2023-was-a-trainwreck-for-labour-last-night-wasnt-much-better",
-      "source": "newsroom.co.nz",
-      "card_text": "2023 was a trainwreck for Labour. Last night wasn’t much better",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "One dead, four injured in Wellington crash",
-      "url": "https://rnz.co.nz/news/emergencies_local/2393195/one-dead-four-injured-in-wellington-crash",
-      "source": "rnz.co.nz",
-      "card_text": "One dead, four injured in Wellington crash",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "South Island looks to keep its 10 National electorate MPs, to Labour’s six",
-      "url": "https://thepress.co.nz/nz-news/361113126/south-island-looks-set-keep-its-10-national-electorate-mps-labours-six",
-      "source": "thepress.co.nz",
-      "card_text": "South Island looks to keep its 10 National electorate MPs, to Labour’s six",
-      "discovered_at_utc": "2026-11-07T20:46:06.864990+00:00"
     }
   ]
 }
