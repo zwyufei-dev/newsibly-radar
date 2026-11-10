@@ -2,358 +2,358 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-11-09T15:54:08.715467+00:00",
+  "retrieved_at_utc": "2026-11-10T00:05:04.445334+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "At least 34 dead after Europe-bound migrant boat sinks off Senegal"
+      "title": "Election 2026 live updates: National, Labour hold first caucus meetings",
+      "url": "https://newstalkzb.co.nz/news/politics/election-2026-live-updates-national-labour-hold-first-caucus-meetings",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Election 2026 live updates: National, Labour hold first caucus meetings"
     },
     {
       "rank": 2,
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "url": "https://bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Turkey steel factory blast kills at least 17 people"
+    },
+    {
+      "rank": 3,
+      "title": "Media Insider: RNZ’s former audit and risk committee chair Jane Wrightson on $11.8m fiscal hole: ‘It’s devastating’",
+      "url": "https://nzherald.co.nz/business/media-insider/media-insider-rnzs-former-audit-and-risk-committee-chair-jane-wrightson-on-118m-fiscal-hole-its-devastating/premium/UQ5DD7ZSHBEKHDH3BZO5RRAHKE",
+      "source": "nzherald.co.nz",
+      "card_text": "Media Insider: RNZ’s former audit and risk committee chair Jane Wrightson on $11.8m fiscal hole: ‘It’s devastating’"
+    },
+    {
+      "rank": 4,
+      "title": "It was the ‘overhang’ wot done it",
+      "url": "https://pointofordernz.wordpress.com/2026/11/10/it-was-the-overhang-wot-done-it",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "It was the ‘overhang’ wot done it Chris Trotter writes – What a mess! The 2026 General Election has delivered one of the most equivocal judgements in New Zealand’s political history. Ask yourself: When was the last time the largest party in an incumbent coalition government, in spite of shedding more than 20 percent of the support it had attracted just three … Continue reading It was the ‘overhang’ wot done it → Point of Order Today 9:53 am Opinion"
+    },
+    {
+      "rank": 5,
+      "title": "Southern Police Urge Care After Three Road Fatalities",
+      "url": "https://whatsoninvers.nz/southern-police-urge-care-after-three-road-fatalities",
+      "source": "whatsoninvers.nz",
+      "card_text": "Southern Police Urge Care After Three Road Fatalities"
+    },
+    {
+      "rank": 6,
+      "title": "Fast-tracked $506m Mahinerangi wind farm breaks ground",
+      "url": "https://odt.co.nz/business/fast-tracked-506m-mahinerangi-wind-farm-breaks-ground-q1v6mf9s",
+      "source": "odt.co.nz",
+      "card_text": "Fast-tracked $506m Mahinerangi wind farm breaks ground"
+    },
+    {
+      "rank": 7,
+      "title": "No ‘bailout’ for cash-strapped RNZ after ‘disturbing’ budget blowout",
+      "url": "https://thepress.co.nz/politics/361114747/no-bailout-cash-strapped-rnz-after-shocking-budget-blowout",
+      "source": "thepress.co.nz",
+      "card_text": "No ‘bailout’ for cash-strapped RNZ after ‘disturbing’ budget blowout"
+    },
+    {
+      "rank": 8,
+      "title": "Opportunity newbies school Luxon on reading the public mood",
+      "url": "https://newsroom.co.nz/2026/11/10/opportunity-newbies-school-luxon-on-reading-the-public-mood",
+      "source": "newsroom.co.nz",
+      "card_text": "Opportunity newbies school Luxon on reading the public mood"
+    },
+    {
+      "rank": 9,
+      "title": "Rocket Lab third-quarter revenue ahead of guidance",
+      "url": "https://businessdesk.co.nz/news/rocket-lab-third-quarter-revenue-ahead-of-guidance/WF757L4YBBC43LDC37RJIJIIJI",
+      "source": "businessdesk.co.nz",
+      "card_text": "Rocket Lab third-quarter revenue ahead of guidance"
+    },
+    {
+      "rank": 10,
+      "title": "Radio New Zealand is in trouble",
+      "url": "https://thestandard.nz/radio-new-zealand-is-in-trouble",
+      "source": "thestandard.nz",
+      "card_text": "Radio New Zealand is in trouble Yesterday Radio New Zealand released its annual report indicating a $12 million deficit had accrued. Mass redundancies have been announced. But a deeper dive into the figures suggests that this is not the crisis that it is being portrayed to be. The Standard Today 10:31 am Opinion"
+    },
+    {
+      "rank": 11,
+      "title": "BREAKING: Power bill shock for Canterbury households as $1.3 billion plan revealed",
+      "url": "https://chrislynchmedia.com/news-items/breaking-power-bill-shock-for-canterbury-households-as-1-3-billion-plan-revealed",
+      "source": "chrislynchmedia.com",
+      "card_text": "BREAKING: Power bill shock for Canterbury households as $1.3 billion plan revealed"
+    },
+    {
+      "rank": 12,
+      "title": "Professor Jason Mika | Faculty of Business and Economics Associate Dean Māori",
+      "url": "https://waateanews.com/2026/11/10/professor-jason-mika-faculty-of-business-and-economics-associate-dean-maori",
+      "source": "waateanews.com",
+      "card_text": "Professor Jason Mika | Faculty of Business and Economics Associate Dean Māori"
+    },
+    {
+      "rank": 13,
+      "title": "The bank that’s pulling in the most first-home buyers",
+      "url": "https://interest.co.nz/banking/141018/asb-drawing-biggest-chunk-first-home-buyers-nz-across-big-banks-average-age-first",
+      "source": "interest.co.nz",
+      "card_text": "The bank that’s pulling in the most first-home buyers"
+    },
+    {
+      "rank": 14,
+      "title": "The End of the Two-Party Era",
+      "url": "https://goodoil.news/the-end-of-the-two-party-era",
+      "source": "goodoil.news",
+      "card_text": "The End of the Two-Party Era The votes have been counted, but there is no clear victor. Instead, New Zealanders delivered a clear message to both major parties and rewarded the smaller. Will lessons be learned? The Good Oil Today 8:30 am Opinion"
+    },
+    {
+      "rank": 15,
+      "title": "Election 2026 live updates: National, Labour hold first caucus meetings",
+      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-national-labour-hold-first-caucus-meetings/ERVDAJBYWNAG3K6PO3GJBE33XY",
+      "source": "nzherald.co.nz",
+      "card_text": "Election 2026 live updates: National, Labour hold first caucus meetings"
+    },
+    {
+      "rank": 16,
+      "title": "Tama Potaka | National Party MP",
+      "url": "https://waateanews.com/2026/11/10/tama-potaka-national-party-mp-2",
+      "source": "waateanews.com",
+      "card_text": "Tama Potaka | National Party MP Waatea News Today 10:00 am"
+    },
+    {
+      "rank": 17,
+      "title": "Data-crunch reveals scale of National’s rout in Auckland",
+      "url": "https://newsroom.co.nz/2026/11/10/data-reveals-nationals-rout-in-auckland-opportunitys-weak-spots",
+      "source": "newsroom.co.nz",
+      "card_text": "Data-crunch reveals scale of National’s rout in Auckland"
+    },
+    {
+      "rank": 18,
+      "title": "Foodstuffs break-up might cut 1% off grocery prices – biosecurity, labour costs, regs all bigger factors, Coriolis report",
+      "url": "https://nzherald.co.nz/business/companies/retail/foodstuffs-break-up-would-only-shave-1-3-off-nz-grocery-prices-biosecurity-labour-costs-bigger-factors-coriolis-report/premium/7NA2UZBEY5ABNBYHEMLWZDHOKA",
+      "source": "nzherald.co.nz",
+      "card_text": "Foodstuffs break-up might cut 1% off grocery prices – biosecurity, labour costs, regs all bigger factors, Coriolis report"
+    },
+    {
+      "rank": 19,
+      "title": "Opportunities to mitigate multimillion-dollar RNZ budget blowout likely missed: experts",
+      "url": "https://odt.co.nz/business/opportunities-to-mitigate-multimillion-dollar-rnz-budget-blowout-likely-missed-experts-c603mbup",
+      "source": "odt.co.nz",
+      "card_text": "Opportunities to mitigate multimillion-dollar RNZ budget blowout likely missed: experts"
+    },
+    {
+      "rank": 20,
+      "title": "Brent Impey: RNZ Chair on the public broadcaster's anticipated deficit ballooning from $470k to almost $12m",
+      "url": "https://newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/brent-impey-rnz-chair-on-the-public-broadcasters-anticipated-deficit-ballooning-from-470k-to-almost-12m",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Brent Impey: RNZ Chair on the public broadcaster's anticipated deficit ballooning from $470k to almost $12m"
+    },
+    {
+      "rank": 21,
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "url": "https://bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Russia's leading independent newspaper closes after eviction"
+    },
+    {
+      "rank": 22,
+      "title": "‘It’s all about the machines’: Trump reverts to claims of election interference in midterms",
+      "url": "https://stuff.co.nz/world-news/361057195/its-all-about-machines-trump-deflects-claims-election-interference-midterms",
+      "source": "stuff.co.nz",
+      "card_text": "‘It’s all about the machines’: Trump reverts to claims of election interference in midterms"
+    },
+    {
+      "rank": 23,
+      "title": "League pay debate reignites as Toa Samoa's Spencer Leniu faces ban for money gesture",
+      "url": "https://rnz.co.nz/news/pacific/2489011/league-pay-debate-reignites-as-toa-samoa-s-spencer-leniu-faces-ban-for-money-gesture",
+      "source": "rnz.co.nz",
+      "card_text": "League pay debate reignites as Toa Samoa's Spencer Leniu faces ban for money gesture"
+    },
+    {
+      "rank": 24,
+      "title": "Liam Lawson reportedly closing in on new deal as F1 form surges",
+      "url": "https://stuff.co.nz/sport/361057292/liam-lawson-reportedly-closing-new-racing-bulls-deal-f1-form-surges",
+      "source": "stuff.co.nz",
+      "card_text": "Liam Lawson reportedly closing in on new deal as F1 form surges"
+    },
+    {
+      "rank": 25,
+      "title": "Lawson fights to eighth in Brazilian Grand Prix",
+      "url": "https://kiwikidsnews.co.nz/lawson-fights-to-eighth-in-brazilian-grand-prix",
+      "source": "kiwikidsnews.co.nz",
+      "card_text": "Lawson fights to eighth in Brazilian Grand Prix"
+    },
+    {
+      "rank": 26,
+      "title": "Black Caps v India: Rain forecast all day in Hamilton",
+      "url": "https://nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-rain-forecast-all-day-in-hamilton/N45ZVRNEEBDD7IFLGX77ZMT7FQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Black Caps v India: Rain forecast all day in Hamilton"
+    },
+    {
+      "rank": 27,
+      "title": "Half of middle-aged women live with chronic pain. Here's what we know",
+      "url": "https://rnz.co.nz/life/wellbeing/half-of-middle-aged-women-live-with-chronic-pain-here-s-what-we-know",
+      "source": "rnz.co.nz",
+      "card_text": "Half of middle-aged women live with chronic pain. Here's what we know"
+    },
+    {
+      "rank": 28,
+      "title": "Council reminded of obligations during extended water outages",
+      "url": "https://odt.co.nz/news/dunedin/council-reminded-of-obligations-during-extended-water-outages-ijueg66d",
+      "source": "odt.co.nz",
+      "card_text": "Council reminded of obligations during extended water outages"
+    },
+    {
+      "rank": 29,
+      "title": "Explainer: What are physician associates, and how might they change health care?",
+      "url": "https://nzherald.co.nz/nz/explainer-what-are-physician-associates-and-how-might-they-change-health-care/3YX4I2GSUZAWZOWNPXUR2Q6CQA",
+      "source": "nzherald.co.nz",
+      "card_text": "Explainer: What are physician associates, and how might they change health care?"
+    },
+    {
+      "rank": 30,
+      "title": "Visitor inadvertently let woman out of secure dementia unit, care company indicates",
+      "url": "https://thepress.co.nz/nz-news/361112863/visitor-inadvertently-let-woman-out-secure-dementia-unit-care-company-indicates",
+      "source": "thepress.co.nz",
+      "card_text": "Visitor inadvertently let woman out of secure dementia unit, care company indicates"
+    },
+    {
+      "rank": 31,
+      "title": "The Pacific's water security challenge during a searing El Niño",
+      "url": "https://rnz.co.nz/news/pacific/2481612/the-pacific-s-water-security-challenge-during-a-searing-el-nino",
+      "source": "rnz.co.nz",
+      "card_text": "The Pacific's water security challenge during a searing El Niño"
+    },
+    {
+      "rank": 32,
+      "title": "Drones pinpoint methane hotspots",
+      "url": "https://businessdesk.co.nz/companies/startups/drones-pinpoint-methane-hotspots/ATSJPL7IIBAL5LL3SHC5KQ5NFY",
+      "source": "businessdesk.co.nz",
+      "card_text": "Drones pinpoint methane hotspots BusinessDesk Today 5:00 am"
+    },
+    {
+      "rank": 33,
+      "title": "Fast-tracked $506m Otago wind farm Mahinerangi breaks ground",
+      "url": "https://rnz.co.nz/news/business/2480553/fast-tracked-506m-otago-wind-farm-mahinerangi-breaks-ground",
+      "source": "rnz.co.nz",
+      "card_text": "Fast-tracked $506m Otago wind farm Mahinerangi breaks ground"
+    },
+    {
+      "rank": 34,
+      "title": "Knife-edge Kiwi election shows National forgetting John Key’s lessons",
+      "url": "https://pointofordernz.wordpress.com/2026/11/10/knife-edge-kiwi-election-shows-national-forgetting-john-keys-lessons",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Knife-edge Kiwi election shows National forgetting John Key’s lessons"
+    },
+    {
+      "rank": 35,
+      "title": "Seymour hints RNZ boss should go early after $11.8m financial blowout",
+      "url": "https://stuff.co.nz/nz-news/361057169/seymour-hints-rnz-boss-should-go-early-after-118m-financial-blowout",
+      "source": "stuff.co.nz",
+      "card_text": "Seymour hints RNZ boss should go early after $11.8m financial blowout"
+    },
+    {
+      "rank": 36,
+      "title": "NZQA backs AI marking of NCEA writing, despite one-in-five scoring differences",
+      "url": "https://nzherald.co.nz/nz/nzqa-backs-ai-marking-of-ncea-writing-despite-one-in-five-scoring-differences/YPBJRZPGNRHT3KL6JWRZRU6IYY",
+      "source": "nzherald.co.nz",
+      "card_text": "NZQA backs AI marking of NCEA writing, despite one-in-five scoring differences"
+    },
+    {
+      "rank": 37,
+      "title": "Fleur Fitzsimons | National Secretary of the Public Service Association",
+      "url": "https://waateanews.com/2026/11/10/fleur-fitzsimons-national-secretary-of-the-public-service-association",
+      "source": "waateanews.com",
+      "card_text": "Fleur Fitzsimons | National Secretary of the Public Service Association"
+    },
+    {
+      "rank": 38,
+      "title": "RNZ’s $12m financial disaster: Where does the accountability lie?",
+      "url": "https://newsroom.co.nz/2026/11/10/rnzs-12m-financial-disaster-where-does-the-accountability-lie",
+      "source": "newsroom.co.nz",
+      "card_text": "RNZ’s $12m financial disaster: Where does the accountability lie?"
+    },
+    {
+      "rank": 39,
+      "title": "Shane Jones warns Electricity Authority about future as NZ First holds firm on gentailer split",
+      "url": "https://businessdesk.co.nz/energy/shane-jones-warns-electricity-authority-about-future-as-nz-first-holds-firm-on-gentailer-split/SFSXDHUUJBBCVFF6E2MVM6U6MQ",
+      "source": "businessdesk.co.nz",
+      "card_text": "Shane Jones warns Electricity Authority about future as NZ First holds firm on gentailer split"
+    },
+    {
+      "rank": 40,
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "url": "https://bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Trump questions midterm elections integrity after previously accepting results"
+    },
+    {
+      "rank": 41,
+      "title": "'Nail in the coffin': Wellington's Penthouse Cinema could face closure if council rates change",
+      "url": "https://rnz.co.nz/news/business/2480531/nail-in-the-coffin-wellington-s-penthouse-cinema-could-face-closure-if-council-rates-change",
+      "source": "rnz.co.nz",
+      "card_text": "'Nail in the coffin': Wellington's Penthouse Cinema could face closure if council rates change"
+    },
+    {
+      "rank": 42,
+      "title": "Former high-flying Otago Uni employee accused of $190k fraud",
+      "url": "https://odt.co.nz/news/dunedin/former-high-flying-otago-uni-employee-accused-of-190k-fraud-dzrsbrdh",
+      "source": "odt.co.nz",
+      "card_text": "Former high-flying Otago Uni employee accused of $190k fraud"
+    },
+    {
+      "rank": 43,
+      "title": "Over 2.5 million Kiwis turn to TVNZ for election coverage",
+      "url": "https://stoppress.co.nz/news/over-2-5-million-kiwis-turn-to-tvnz-for-election-coverage",
+      "source": "stoppress.co.nz",
+      "card_text": "Over 2.5 million Kiwis turn to TVNZ for election coverage"
+    },
+    {
+      "rank": 44,
+      "title": "Advance vs E-Day votes",
+      "url": "https://kiwiblog.co.nz/2026/11/advance_vs_e-day_votes.html",
+      "source": "kiwiblog.co.nz",
+      "card_text": "Advance vs E-Day votes Votes Advance E-Day Provisional National 474,856 29.2% 231,824 29.3% 706,680 29.2% Labour 491,114 30.2% 219,216 27.7% 710,330 29.4% Greens 232,609 14.3% 89,293 11.3% 321,902 13.3% ACT 168,263 10.3% 95,858 12.1% 264,121 10.9% NZF 149,381 9.2% 87,249 11.0% 236,630 9.8% TOP 89,296 5.5% 55,002 7.0% 144,298 6.0% TPM 9,706 0.6% 4,139 0.5% 13,845 0.6% Other 12,112 […] The post Advance vs E-Day votes first appeared on... Kiwiblog Today 7:00 am Politics"
+    },
+    {
+      "rank": 45,
+      "title": "How the different parties are positioning themselves for coalition negotiations",
+      "url": "https://thespinoff.co.nz/politics/10-11-2026/how-the-parties-are-positioned-ahead-of-coalition-negotiations",
+      "source": "thespinoff.co.nz",
+      "card_text": "How the different parties are positioning themselves for coalition negotiations"
+    },
+    {
+      "rank": 46,
       "title": "Watch: Opportunity arrives at Parliament as NZ waits with bated breath for next PM | Stuff.co.nz",
       "url": "https://youtube.com/watch?v=pLf0IdZv1Dc",
       "source": "youtube.com",
       "card_text": "Watch: Opportunity arrives at Parliament as NZ waits with bated breath for next PM | Stuff.co.nz"
     },
     {
-      "rank": 3,
+      "rank": 47,
       "title": "All the numbers: Reporters react to election night result",
       "url": "https://goodoil.news/all-the-numbers-reporters-react-to-election-night-result",
       "source": "goodoil.news",
       "card_text": "All the numbers: Reporters react to election night result"
     },
     {
-      "rank": 4,
-      "title": "Swarbrick accuses Luxon of 'voter suppression' and lying about enrolment change",
-      "url": "https://odt.co.nz/news/national/swarbrick-accuses-luxon-of-voter-suppression-and-lying-about-enrolment-change-ycrd32mf",
-      "source": "odt.co.nz",
-      "card_text": "Swarbrick accuses Luxon of 'voter suppression' and lying about enrolment change"
-    },
-    {
-      "rank": 5,
+      "rank": 48,
       "title": "Its The Big Day Out - NZ Trotting Cup Day",
       "url": "https://whatsoninvers.nz/its-the-big-day-out-nz-trotting-cup-day",
       "source": "whatsoninvers.nz",
       "card_text": "Its The Big Day Out - NZ Trotting Cup Day"
     },
     {
-      "rank": 6,
+      "rank": 49,
       "title": "RNZ faces almost 60 job cuts after $11.8 million loss and unauthorised overdraft",
       "url": "https://chrislynchmedia.com/news-items/rnz-faces-almost-60-job-cuts-after-11-8-million-loss-and-unauthorised-overdraft",
       "source": "chrislynchmedia.com",
       "card_text": "RNZ faces almost 60 job cuts after $11.8 million loss and unauthorised overdraft"
     },
     {
-      "rank": 7,
+      "rank": 50,
       "title": "Tongan music scholar Helen Pahulu wins prestigious Pacific Arts Prize",
       "url": "https://kanivatonga.co.nz/2026/11/tongan-music-scholar-helen-pahulu-wins-prestigious-pacific-arts-prize",
       "source": "kanivatonga.co.nz",
       "card_text": "Tongan music scholar Helen Pahulu wins prestigious Pacific Arts Prize"
-    },
-    {
-      "rank": 8,
-      "title": "Meridian’s 420MW Western Bays Solar Farm referred for fast-track consent",
-      "url": "https://businessdesk.co.nz/energy/meridians-420mw-western-bays-solar-farm-referred-for-fast-track-consent/AL7GECQVS5GMZOXFYGWC5HTMXQ",
-      "source": "businessdesk.co.nz",
-      "card_text": "Meridian’s 420MW Western Bays Solar Farm referred for fast-track consent"
-    },
-    {
-      "rank": 9,
-      "title": "Opportunity will negotiate with one bloc at a time, rather than 'playing off each side'",
-      "url": "https://interest.co.nz/public-policy/141021/new-zealanders-have-felt-really-left-dark-previous-elections-qiulae-wong",
-      "source": "interest.co.nz",
-      "card_text": "Opportunity will negotiate with one bloc at a time, rather than 'playing off each side'"
-    },
-    {
-      "rank": 10,
-      "title": "RNZ’s Lisa Owen takes to RNZ’s chair over $12m budget blowout",
-      "url": "https://thespinoff.co.nz/business/09-11-2026/rnzs-lisa-owen-takes-to-rnzs-chair-over-dollar12m-budget-blow-out",
-      "source": "thespinoff.co.nz",
-      "card_text": "RNZ’s Lisa Owen takes to RNZ’s chair over $12m budget blowout"
-    },
-    {
-      "rank": 11,
-      "title": "The ‘if onlies’ of an election the Opposition could’ve & should’ve won, but now probably won’t",
-      "url": "https://thekaka.substack.com/p/the-if-onlies-of-an-election-the",
-      "source": "thekaka.substack.com",
-      "card_text": "The ‘if onlies’ of an election the Opposition could’ve & should’ve won, but now probably won’t"
-    },
-    {
-      "rank": 12,
-      "title": "From Lautoka to NZ parliament – the remarkable journey of Qiulae Wong",
-      "url": "https://asiapacificreport.nz/2026/11/09/from-lautoka-to-nz-parliament-the-remarkable-journey-of-qiulae-wong",
-      "source": "asiapacificreport.nz",
-      "card_text": "From Lautoka to NZ parliament – the remarkable journey of Qiulae Wong"
-    },
-    {
-      "rank": 13,
-      "title": "News Briefing: 9 November 2026",
-      "url": "https://democracyproject.org.nz/p/news-briefing-9-november-2026",
-      "source": "democracyproject.org.nz",
-      "card_text": "News Briefing: 9 November 2026 1. Farah Hancock (RNZ): Election uncertainty: What happens now? Labour, the Greens, Te Pāti Māori and Opportunity would need to outperform their election-night result by about seven percentage points in the special votes to reach a majority, according to modelling by RNZ’s data journalist Farah Hancock. If the 399,365 specials fall the way they did in 2023, the current coalition narrowly keeps its majority.... Democracy Project Yesterday Politics"
-    },
-    {
-      "rank": 14,
-      "title": "Election 2026 live updates: New MPs arrive at Parliament as election remains too close to call",
-      "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-opportunity-in-box-seat-but-christopher-luxon-confident-he-wont-need-them/OOSNJP6GL5DJJLHZOFCV22UZP4",
-      "source": "nzherald.co.nz",
-      "card_text": "Election 2026 live updates: New MPs arrive at Parliament as election remains too close to call"
-    },
-    {
-      "rank": 15,
-      "title": "Watch: Price tag of Parliament to increase as NZ sees biggest overhang in MMP history | Stuff.co.nz",
-      "url": "https://youtube.com/watch?v=Qxhp5wyyDl8",
-      "source": "youtube.com",
-      "card_text": "Watch: Price tag of Parliament to increase as NZ sees biggest overhang in MMP history | Stuff.co.nz"
-    },
-    {
-      "rank": 16,
-      "title": "Overhang, low voter turnout mark Election 2026 in the history books",
-      "url": "https://goodoil.news/overhang-low-voter-turnout-mark-election-2026-in-the-history-books",
-      "source": "goodoil.news",
-      "card_text": "Overhang, low voter turnout mark Election 2026 in the history books"
-    },
-    {
-      "rank": 17,
-      "title": "Ruapehu mayor says data centre power fears are 'scaremongering' as mill site plan unveiled",
-      "url": "https://rnz.co.nz/news/regions/2471929/ruapehu-mayor-says-data-centre-power-fears-are-scaremongering-as-mill-site-plan-unveiled",
-      "source": "rnz.co.nz",
-      "card_text": "Ruapehu mayor says data centre power fears are 'scaremongering' as mill site plan unveiled"
-    },
-    {
-      "rank": 18,
-      "title": "Left Leaning RNZ Loss Hits $11.8m, 58 Jobs To Go",
-      "url": "https://whatsoninvers.nz/left-leaning-rnz-loss-hits-11-8m-58-jobs-to-go",
-      "source": "whatsoninvers.nz",
-      "card_text": "Left Leaning RNZ Loss Hits $11.8m, 58 Jobs To Go"
-    },
-    {
-      "rank": 19,
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "url": "https://bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says"
-    },
-    {
-      "rank": 20,
-      "title": "Explosion at steel plant in western Turkey leaves 6 dead and 8 missing",
-      "url": "https://stuff.co.nz/world-news/361057113/explosion-steel-plant-western-turkey-leaves-6-dead-and",
-      "source": "stuff.co.nz",
-      "card_text": "Explosion at steel plant in western Turkey leaves 6 dead and 8 missing"
-    },
-    {
-      "rank": 21,
-      "title": "Nvidia's shares slide as tech giant probes CEO’s relationship with suspected Chinese spy",
-      "url": "https://odt.co.nz/news/world/nvidias-shares-slide-as-tech-giant-probes-ceos-relationship-with-suspected-chinese-spy-ccr2hn7u",
-      "source": "odt.co.nz",
-      "card_text": "Nvidia's shares slide as tech giant probes CEO’s relationship with suspected Chinese spy"
-    },
-    {
-      "rank": 22,
-      "title": "Pacific news in brief for 9 November",
-      "url": "https://rnz.co.nz/news/pacific/2471182/pacific-news-in-brief-for-9-november",
-      "source": "rnz.co.nz",
-      "card_text": "Pacific news in brief for 9 November RNZ Yesterday"
-    },
-    {
-      "rank": 23,
-      "title": "Steve Gurney: mental skills coach on the All Blacks' performance after the death of Logan Cadwallader",
-      "url": "https://newstalkzb.co.nz/on-air/sportstalk/audio/steve-gurney-mental-skills-coach-on-the-all-blacks-performance-after-the-death-of-logan-cadwallader",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Steve Gurney: mental skills coach on the All Blacks' performance after the death of Logan Cadwallader"
-    },
-    {
-      "rank": 24,
-      "title": "Shaun Johnson hits out at ‘diabolical’ officiating in Samoa’s loss to Kangaroos",
-      "url": "https://stuff.co.nz/sport/361056818/shaun-johnson-hits-out-diabolical-officiating-samoas-world-cup-semifinal-loss-australia",
-      "source": "stuff.co.nz",
-      "card_text": "Shaun Johnson hits out at ‘diabolical’ officiating in Samoa’s loss to Kangaroos"
-    },
-    {
-      "rank": 25,
-      "title": "Black Caps forced into pace bowling reshuffle ahead of Hamilton ODI, India test series",
-      "url": "https://thepress.co.nz/sport/361114515/black-caps-bowlers-matt-henry-kyle-jamieson-switch-focus-white-ball-test-cricket-change-plans",
-      "source": "thepress.co.nz",
-      "card_text": "Black Caps forced into pace bowling reshuffle ahead of Hamilton ODI, India test series"
-    },
-    {
-      "rank": 26,
-      "title": "Pacific Island teams fall short in RLWC semifinals despite historic campaigns",
-      "url": "https://rnz.co.nz/news/pacific/2465317/pacific-island-teams-fall-short-in-rlwc-semifinals-despite-historic-campaigns",
-      "source": "rnz.co.nz",
-      "card_text": "Pacific Island teams fall short in RLWC semifinals despite historic campaigns"
-    },
-    {
-      "rank": 27,
-      "title": "Woman died of heart attack after hospital doctors dismissed pain as mental crisis",
-      "url": "https://stuff.co.nz/nz-news/361057023/woman-died-heart-attack-after-hospital-doctors-dismissed-pain-mental-crisis",
-      "source": "stuff.co.nz",
-      "card_text": "Woman died of heart attack after hospital doctors dismissed pain as mental crisis"
-    },
-    {
-      "rank": 28,
-      "title": "Sale of Wānaka medical practice sparks concerns",
-      "url": "https://odt.co.nz/otago/wanaka/sale-of-wanaka-medical-practice-sparks-concerns-ks959qal",
-      "source": "odt.co.nz",
-      "card_text": "Sale of Wānaka medical practice sparks concerns"
-    },
-    {
-      "rank": 29,
-      "title": "Cancer patient left unmonitored for hours before collapsing in hospital bed",
-      "url": "https://stuff.co.nz/nz-news/361057032/cancer-patient-left-unmonitored-hours-collapsing-hospital-bed",
-      "source": "stuff.co.nz",
-      "card_text": "Cancer patient left unmonitored for hours before collapsing in hospital bed"
-    },
-    {
-      "rank": 30,
-      "title": "World Vision calls for child-centered climate financing ahead of COP 31",
-      "url": "https://rnz.co.nz/news/pacific/2464300/world-vision-calls-for-child-centered-climate-financing-ahead-of-cop-31",
-      "source": "rnz.co.nz",
-      "card_text": "World Vision calls for child-centered climate financing ahead of COP 31"
-    },
-    {
-      "rank": 31,
-      "title": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
-      "url": "https://nzherald.co.nz/nz/auckland/auckland-beach-warnings-after-thunderstorms-wash-untreated-wastewater-into-waitemata-harbour/3N7HMBDVMZBE5PVAB56OEP73UM",
-      "source": "nzherald.co.nz",
-      "card_text": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour"
-    },
-    {
-      "rank": 32,
-      "title": "Another Invercargill treefall, but whose tree was it?",
-      "url": "https://thepress.co.nz/nz-news/361109839/another-invercargill-treefall-whose-tree-was-it",
-      "source": "thepress.co.nz",
-      "card_text": "Another Invercargill treefall, but whose tree was it?"
-    },
-    {
-      "rank": 33,
-      "title": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance",
-      "url": "https://rnz.co.nz/news/pacific/2380049/pacific-warns-of-debt-pressure-as-commonwealth-looks-to-strengthen-climate-finance",
-      "source": "rnz.co.nz",
-      "card_text": "Pacific warns of debt pressure as Commonwealth looks to strengthen climate finance"
-    },
-    {
-      "rank": 34,
-      "title": "Thirteen migrants die after boat sinks off Crete",
-      "url": "https://bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Thirteen migrants die after boat sinks off Crete"
-    },
-    {
-      "rank": 35,
-      "title": "Greek authorities find 12 bodies in a boat carrying migrants south of Crete",
-      "url": "https://stuff.co.nz/world-news/361057100/greek-authorities-find-12-bodies-boat-carrying-migrants",
-      "source": "stuff.co.nz",
-      "card_text": "Greek authorities find 12 bodies in a boat carrying migrants south of Crete"
-    },
-    {
-      "rank": 36,
-      "title": "Have you seen Emma? Police, family concerned for missing woman",
-      "url": "https://odt.co.nz/canterbury/selwyn/have-you-seen-emma-police-family-concerned-for-missing-canterbury-woman-vckflb3i",
-      "source": "odt.co.nz",
-      "card_text": "Have you seen Emma? Police, family concerned for missing woman"
-    },
-    {
-      "rank": 37,
-      "title": "Election weekend police operation catches bus driver four times over alcohol limit",
-      "url": "https://rnz.co.nz/news/crime-and-justice/2471519/election-weekend-police-operation-catches-bus-driver-four-times-over-alcohol-limit",
-      "source": "rnz.co.nz",
-      "card_text": "Election weekend police operation catches bus driver four times over alcohol limit"
-    },
-    {
-      "rank": 38,
-      "title": "NCEA exams start tomorrow: Parents of high schoolers urged to ‘show them love’",
-      "url": "https://newstalkzb.co.nz/news/national/ncea-exams-start-tomorrow-parents-of-high-schoolers-urged-to-show-them-love",
-      "source": "newstalkzb.co.nz",
-      "card_text": "NCEA exams start tomorrow: Parents of high schoolers urged to ‘show them love’"
-    },
-    {
-      "rank": 39,
-      "title": "Labour Leads the Votes, National Leads the Seats – What Happens Next?",
-      "url": "https://goodoil.news/labour-leads-the-votes-national-leads-the-seats-what-happens-next",
-      "source": "goodoil.news",
-      "card_text": "Labour Leads the Votes, National Leads the Seats – What Happens Next?"
-    },
-    {
-      "rank": 40,
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "url": "https://bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Krakow shooting suspect has died in hospital, police say"
-    },
-    {
-      "rank": 41,
-      "title": "What Wigram voters kept telling Labour’s new MP during campaign",
-      "url": "https://chrislynchmedia.com/news-items/what-wigram-voters-kept-telling-labours-new-mp-during-campaign",
-      "source": "chrislynchmedia.com",
-      "card_text": "What Wigram voters kept telling Labour’s new MP during campaign"
-    },
-    {
-      "rank": 42,
-      "title": "Seven burning questions about the election and negotiations, answered",
-      "url": "https://thespinoff.co.nz/politics/09-11-2026/seven-burning-questions-about-the-election-and-negotiations-answered",
-      "source": "thespinoff.co.nz",
-      "card_text": "Seven burning questions about the election and negotiations, answered"
-    },
-    {
-      "rank": 43,
-      "title": "Hipkins has almost no path to power",
-      "url": "https://kiwiblog.co.nz/2026/11/hipkins_has_almost_no_path_to_power.html",
-      "source": "kiwiblog.co.nz",
-      "card_text": "Hipkins has almost no path to power The path to power for Chris Hipkins is incredibly small. At the moment the count is 67 for the Government, 57 for Labour/Greens/TPM and seven for Opportunity so 67 to 64. There is a decent chance that NZ First could lose a party vote seat to Greens (or Opportunity) on specials. A friend has run […] The post Hipkins has almost no path to power first appeared on Kiwiblog . Kiwiblog Yesterday Opinion"
-    },
-    {
-      "rank": 44,
-      "title": "New Zealand dollar little changed after tight election result",
-      "url": "https://businessdesk.co.nz/news/new-zealand-dollar-little-changed-after-tight-election-result/Z36RDCJFNBGQ7LCSMTMBWETY6U",
-      "source": "businessdesk.co.nz",
-      "card_text": "New Zealand dollar little changed after tight election result"
-    },
-    {
-      "rank": 45,
-      "title": "Advocacy group warns proposed US Census changes could deepen inequalities in Pacific territories",
-      "url": "https://asiapacificreport.nz/2026/11/09/advocacy-group-warns-proposed-us-census-changes-could-deepen-inequalities-in-pacific-territories",
-      "source": "asiapacificreport.nz",
-      "card_text": "Advocacy group warns proposed US Census changes could deepen inequalities in Pacific territories"
-    },
-    {
-      "rank": 46,
-      "title": "John Tamihere | President of Te Pāti Māori",
-      "url": "https://waateanews.com/2026/11/09/john-tamihere-president-of-te-pati-maori-53",
-      "source": "waateanews.com",
-      "card_text": "John Tamihere | President of Te Pāti Māori"
-    },
-    {
-      "rank": 47,
-      "title": "In the Zuru mansion with the rich listers behind the new campaign to get rid of MMP",
-      "url": "https://newsroom.co.nz/2026/11/09/who-is-behind-the-new-campaign-to-get-rid-of-mmp",
-      "source": "newsroom.co.nz",
-      "card_text": "In the Zuru mansion with the rich listers behind the new campaign to get rid of MMP"
-    },
-    {
-      "rank": 48,
-      "title": "The end of the two-party era",
-      "url": "https://pointofordernz.wordpress.com/2026/11/09/the-end-of-the-two-party-era",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "The end of the two-party era Simon O’Connor writes – The votes have been counted, but there is no clear victor. Instead, New Zealanders delivered a clear message to both major parties and rewarded the smaller. Will lessons be learned? Winners and losers It is remarkable to go through an election and emerge with no clear sense of who has won … Continue reading The end of the two-party era → Point of Order Yesterday Opinion"
-    },
-    {
-      "rank": 49,
-      "title": "Democracy Briefing: How the overhang put the right ahead",
-      "url": "https://democracyproject.org.nz/p/democracy-briefing-how-the-overhang",
-      "source": "democracyproject.org.nz",
-      "card_text": "Democracy Briefing: How the overhang put the right ahead"
-    },
-    {
-      "rank": 50,
-      "title": "A tale of two islands: National property index slides on northern market chill",
-      "url": "https://thepress.co.nz/business/361114013/tale-two-islands-geographic-divide-widens-house-prices-diverge",
-      "source": "thepress.co.nz",
-      "card_text": "A tale of two islands: National property index slides on northern market chill"
     }
   ],
   "json_endpoints_observed": [
