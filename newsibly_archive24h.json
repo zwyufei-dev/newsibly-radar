@@ -1,9 +1,409 @@
 {
   "source": "Newsibly",
   "window": "rolling_24_hours",
-  "updated_at_utc": "2026-11-11T02:39:57.492363+00:00",
-  "count": 129,
+  "updated_at_utc": "2026-11-11T10:38:40.139200+00:00",
+  "count": 142,
   "items": [
+    {
+      "rank": 47,
+      "title": "The US dollar firmed broadly and the NZD hit a fresh low",
+      "url": "https://interest.co.nz/currencies/141039/strong-us-cpi-and-hawkish-fed-comments-saw-markets-fully-price-december-fed-hike",
+      "source": "interest.co.nz",
+      "card_text": "The US dollar firmed broadly and the NZD hit a fresh low",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 48,
+      "title": "Dai Henwood, 1978-2026",
+      "url": "https://newsroom.co.nz/2026/11/11/dai-henwood-1978-2026",
+      "source": "newsroom.co.nz",
+      "card_text": "Dai Henwood, 1978-2026 Dai Henwood in his own words from his bestselling memoir Newsroom Today 7:20 am Culture",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "The Greens reaped the rewards of TPM’s vote-splitting campaign",
+      "url": "https://stuff.co.nz/politics/361056724/live-updates-election-night-blog",
+      "source": "stuff.co.nz",
+      "card_text": "The Greens reaped the rewards of TPM’s vote-splitting campaign",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 17,
+      "title": "RNZ budget blowout: Questions mount over unauthorised $5m loan",
+      "url": "https://thepress.co.nz/business/361115360/rnz-budget-blowout-questions-mount-over-unauthorised-5m-loan",
+      "source": "thepress.co.nz",
+      "card_text": "RNZ budget blowout: Questions mount over unauthorised $5m loan",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 32,
+      "title": "Moa Point disaster: Wellington sewage treatment plant restart delayed after checks",
+      "url": "https://nzherald.co.nz/nz/wellington/moa-point-disaster-wellington-sewage-treatment-plant-restart-delayed-after-checks/WRJU4QOYRBEZPND2PVESTVH3ZE",
+      "source": "nzherald.co.nz",
+      "card_text": "Moa Point disaster: Wellington sewage treatment plant restart delayed after checks",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Terrible mismanagement at Radio NZ",
+      "url": "https://pointofordernz.wordpress.com/2026/11/11/terrible-mismanagement-at-radio-nz",
+      "source": "pointofordernz.wordpress.com",
+      "card_text": "Terrible mismanagement at Radio NZ David Farrar writes – Radio NZ reports: RNZ has revealed a near $12 million budget blowout after a litany of financial blunders, setting the stage for sweeping job cuts. In its just-published annual report, the public broadcaster set out plans to axe the equivalent of 58 full-time jobs – about one in six staff – … Continue reading Terrible mismanagement at Radio NZ → Point of Order Today 10:50 am Culture",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 14,
+      "title": "Billionaire Graeme Hart tops $2m in political donations to right bloc",
+      "url": "https://newsroom.co.nz/2026/11/11/billionaire-graeme-hart-tops-2m-in-political-donations-to-right-bloc",
+      "source": "newsroom.co.nz",
+      "card_text": "Billionaire Graeme Hart tops $2m in political donations to right bloc",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "She Survived the Holocaust",
+      "url": "https://goodoil.news/she-survived-the-holocaust",
+      "source": "goodoil.news",
+      "card_text": "She Survived the Holocaust She should never have had to survive Bondi. The Good Oil Today 12:00 pm Culture",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "The hangover hits from our overhang election",
+      "url": "https://thekaka.substack.com/p/the-hangover-hits-from-our-overhang",
+      "source": "thekaka.substack.com",
+      "card_text": "The hangover hits from our overhang election",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 11,
+      "title": "Dame Naida Glavish | Leader and Long‑Time Advocate for Tikanga and Cultural Integrity",
+      "url": "https://waateanews.com/2026/11/11/dame-naida-glavish-leader-and-long-time-advocate-for-tikanga-and-cultural-integrity",
+      "source": "waateanews.com",
+      "card_text": "Dame Naida Glavish | Leader and Long‑Time Advocate for Tikanga and Cultural Integrity",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 18,
+      "title": "Christchurch shooter worship mixed with ISIS guides: The terrifying rise of ‘salad bar’ extremism",
+      "url": "https://stuff.co.nz/world-news/361058016/christchurch-shooter-worship-mixed-isis-guides-terrifying-rise-salad-bar-extremism",
+      "source": "stuff.co.nz",
+      "card_text": "Christchurch shooter worship mixed with ISIS guides: The terrifying rise of ‘salad bar’ extremism",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 46,
+      "title": "RNZ Faces More Job Cuts After Loss",
+      "url": "https://goodoil.news/rnz-faces-more-job-cuts-after-loss",
+      "source": "goodoil.news",
+      "card_text": "RNZ Faces More Job Cuts After Loss Former RNZ board chairman Dr Jim Mather, whose eight-year tenure ended in June, described the financial result as extremely disappointing. The Good Oil Today 10:30 am Culture",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 1,
+      "title": "Journalism educators call on crisis-hit RNZ not to slash newsroom staff",
+      "url": "https://asiapacificreport.nz/2026/11/11/journalism-educators-call-on-crisis-hit-rnz-not-to-slash-newsroom-staff",
+      "source": "asiapacificreport.nz",
+      "card_text": "Journalism educators call on crisis-hit RNZ not to slash newsroom staff",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "New Zealand among 40 countries to cut fossil fuel emissions while growing their economies",
+      "url": "https://newstalkzb.co.nz/news/world/new-zealand-among-40-countries-to-cut-fossil-fuel-emissions-while-growing-their-economies",
+      "source": "newstalkzb.co.nz",
+      "card_text": "New Zealand among 40 countries to cut fossil fuel emissions while growing their economies",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "'I might be useless. I might be awesome': The new MPs entering NZ's Parliament",
+      "url": "https://interest.co.nz/public-policy/141047/former-all-blacks-captain-high-school-principal-these-are-new-zealands-newest",
+      "source": "interest.co.nz",
+      "card_text": "'I might be useless. I might be awesome': The new MPs entering NZ's Parliament",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "url": "https://bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Ministers dragged feet on support for Kaitāia mill; now it’s too late",
+      "url": "https://newsroom.co.nz/2026/11/11/ministers-dragged-feet-on-support-for-kaitaia-mill-now-its-too-late",
+      "source": "newsroom.co.nz",
+      "card_text": "Ministers dragged feet on support for Kaitāia mill; now it’s too late",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "‘My view is it was too negative’: Gerry Brownlee on the National Party campaign",
+      "url": "https://thespinoff.co.nz/politics/11-11-2026/it-was-too-negative-gerry-brownlee-on-the-national-party-campaign",
+      "source": "thespinoff.co.nz",
+      "card_text": "‘My view is it was too negative’: Gerry Brownlee on the National Party campaign",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 12,
+      "title": "Gerry Brownlee’s last laugh: Former Speaker shuts the door on a colourful political career",
+      "url": "https://nzherald.co.nz/nz/politics/gerry-brownlees-last-laugh-former-speaker-shuts-the-door-on-a-colourful-political-career/premium/IHJGO7DJYVH7XP5K5O7KPXKWAQ",
+      "source": "nzherald.co.nz",
+      "card_text": "Gerry Brownlee’s last laugh: Former Speaker shuts the door on a colourful political career",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 13,
+      "title": "Mrs Fix It returns",
+      "url": "https://cambridgenews.nz/2026/11/mrs-fix-it-returns",
+      "source": "cambridgenews.nz",
+      "card_text": "Mrs Fix It returns Cambridge News Today 5:00 pm",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 15,
+      "title": "Barbara Edmonds: Re-elected MP for Kenepuru",
+      "url": "https://newstalkzb.co.nz/on-air/wellington/wellington-mornings-with-nick-mills/audio/barbara-edmonds-re-elected-mp-for-kenepuru",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Barbara Edmonds: Re-elected MP for Kenepuru",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 16,
+      "title": "Retailers pin hopes on Christmas as cautious shoppers hold back – The Economy of Everything",
+      "url": "https://nzherald.co.nz/business/retailers-pin-hopes-on-christmas-as-cautious-shoppers-hold-back-the-economy-of-everything/SKVQLH5ZEBGEVDJCZERZBCAELU",
+      "source": "nzherald.co.nz",
+      "card_text": "Retailers pin hopes on Christmas as cautious shoppers hold back – The Economy of Everything",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 19,
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "url": "https://bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 20,
+      "title": "US Republicans derail bid to impeach Pentagon chief",
+      "url": "https://newstalkzb.co.nz/news/world/us-republicans-derail-bid-to-impeach-pentagon-chief",
+      "source": "newstalkzb.co.nz",
+      "card_text": "US Republicans derail bid to impeach Pentagon chief",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 21,
+      "title": "British comedian and children's author David Walliams accused of sexual misconduct",
+      "url": "https://thepress.co.nz/world-news/361115903/british-comedian-and-childrens-author-david-walliams-accused-sexual-misconduct",
+      "source": "thepress.co.nz",
+      "card_text": "British comedian and children's author David Walliams accused of sexual misconduct",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 22,
+      "title": "Simon Mannering: former Kiwis player ahead of the team's weekend clash against the Kangaroos",
+      "url": "https://newstalkzb.co.nz/on-air/sportstalk/audio/simon-mannering-former-kiwis-player-ahead-of-the-teams-weekend-clash-against-the-kangaroos",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Simon Mannering: former Kiwis player ahead of the team's weekend clash against the Kangaroos",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 23,
+      "title": "Sports Integrity Commission launches probe into North Harbour Hockey Association",
+      "url": "https://nzherald.co.nz/nz/sports-integrity-commission-launches-probe-into-north-harbour-hockey-association/premium/DOO2UJITFFG5LC4JS5IPPBOZD4",
+      "source": "nzherald.co.nz",
+      "card_text": "Sports Integrity Commission launches probe into North Harbour Hockey Association",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 24,
+      "title": "How ex-Highlanders forward gatecrashed England’s squad before huge All Blacks test",
+      "url": "https://stuff.co.nz/sport/361058104/why-england-have-turned-ultimate-world-cup-bolter-max-hic",
+      "source": "stuff.co.nz",
+      "card_text": "How ex-Highlanders forward gatecrashed England’s squad before huge All Blacks test",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 25,
+      "title": "Up-and-coming Australian jockey, 22, dies after New South Wales race fall",
+      "url": "https://thepress.co.nz/sport/361116003/australian-jockey-izzy-neale-22-dies-after-new-south-wales-race-fall",
+      "source": "thepress.co.nz",
+      "card_text": "Up-and-coming Australian jockey, 22, dies after New South Wales race fall",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 26,
+      "title": "WorkSafe records show string of incidents at Christchurch chemical plant where worker was critically hurt",
+      "url": "https://thepress.co.nz/nz-news/361112598/worksafe-records-show-string-incidents-chemical-plant-where-worker-was-critically-hurt",
+      "source": "thepress.co.nz",
+      "card_text": "WorkSafe records show string of incidents at Christchurch chemical plant where worker was critically hurt",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 27,
+      "title": "Waikato healthcare winners cut patient wait times and bring care to vulnerable children",
+      "url": "https://nzherald.co.nz/waikato-news/news/waikato-healthcare-winners-cut-patient-wait-times-and-bring-care-to-vulnerable-children/LK6ZNQQ2JVDK5M7VHYHQF7HENU",
+      "source": "nzherald.co.nz",
+      "card_text": "Waikato healthcare winners cut patient wait times and bring care to vulnerable children",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 28,
+      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+      "url": "https://bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 29,
+      "title": "Pacific faces water security challenges during a searing El Niño",
+      "url": "https://asiapacificreport.nz/2026/11/11/pacific-faces-water-security-challenges-during-a-searing-el-nino",
+      "source": "asiapacificreport.nz",
+      "card_text": "Pacific faces water security challenges during a searing El Niño",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 30,
+      "title": "Watch: Is your rubbish bin changing? Here’s what’s happening with Auckland’s bins | Stuff.co.nz",
+      "url": "https://youtube.com/watch?v=Hk6GEy_E-1I",
+      "source": "youtube.com",
+      "card_text": "Watch: Is your rubbish bin changing? Here’s what’s happening with Auckland’s bins | Stuff.co.nz",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 31,
+      "title": "Geologists ‘poles apart’ on risks new quarry poses to neighbours",
+      "url": "https://thepress.co.nz/nz-news/361115900/geologists-poles-apart-risks-new-quarry-poses-neighbours",
+      "source": "thepress.co.nz",
+      "card_text": "Geologists ‘poles apart’ on risks new quarry poses to neighbours",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 33,
+      "title": "Police say person who fired gun at officers still at large",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2540082/police-say-person-who-fired-gun-at-officers-still-at-large",
+      "source": "rnz.co.nz",
+      "card_text": "Police say person who fired gun at officers still at large",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 34,
+      "title": "Jenee Tibshraeny: NZ Herald Wellington business editor on Westpac looking to limit lending against flood and slip-prone properties",
+      "url": "https://newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/jenee-tibshraeny-nz-herald-wellington-business-editor-on-westpac-looking-to-limit-lending-against-flood-and-slip-prone-properties",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Jenee Tibshraeny: NZ Herald Wellington business editor on Westpac looking to limit lending against flood and slip-prone properties",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 35,
+      "title": "St Bede's abuse inquiry to cover 50 years of school's history",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2536289/st-bede-s-abuse-inquiry-to-cover-50-years-of-school-s-history",
+      "source": "rnz.co.nz",
+      "card_text": "St Bede's abuse inquiry to cover 50 years of school's history",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 36,
+      "title": "Victims come forward after late minister named a child sex offender",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2534119/victims-come-forward-after-late-minister-named-a-child-sex-offender",
+      "source": "rnz.co.nz",
+      "card_text": "Victims come forward after late minister named a child sex offender",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 37,
+      "title": "Two gunshots fired at Napier police after pursuit",
+      "url": "https://nzherald.co.nz/hawkes-bay-today/news/two-gunshots-fired-at-napier-police-after-pursuit/MWOTVFFKPBG2FFQB3TEU3UMI4E",
+      "source": "nzherald.co.nz",
+      "card_text": "Two gunshots fired at Napier police after pursuit",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 38,
+      "title": "Senior health boss who took $258k in medical supplier kickbacks avoids prison",
+      "url": "https://stuff.co.nz/nz-news/361058252/senior-health-boss-who-took-258k-medical-supplier-kickbacks-avoids-prison",
+      "source": "stuff.co.nz",
+      "card_text": "Senior health boss who took $258k in medical supplier kickbacks avoids prison",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 39,
+      "title": "Victims come forward after minister who worked in Otago and Southland named a child sex offender",
+      "url": "https://odt.co.nz/news/dunedin/victims-come-forward-after-minister-who-worked-in-otago-and-southland-named-a-child-sex-offender-uhznwf3q",
+      "source": "odt.co.nz",
+      "card_text": "Victims come forward after minister who worked in Otago and Southland named a child sex offender",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 40,
+      "title": "'I've got a class on a hall stage': Concerns over Ministry's response to school roll growth",
+      "url": "https://newstalkzb.co.nz/news/education/ive-got-a-class-on-a-hall-stage-concerns-over-ministrys-response-to-school-roll-growth",
+      "source": "newstalkzb.co.nz",
+      "card_text": "'I've got a class on a hall stage': Concerns over Ministry's response to school roll growth",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 41,
+      "title": "Two arrested after firearm brandished following assault at Dargaville shop",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2538083/two-arrested-after-firearm-brandished-following-assault-at-dargaville-shop",
+      "source": "rnz.co.nz",
+      "card_text": "Two arrested after firearm brandished following assault at Dargaville shop",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 42,
+      "title": "‘A natural doofus’, ‘a comedian’s comedian’: Dai Henwood, remembered",
+      "url": "https://thespinoff.co.nz/culture/11-11-2026/dai-henwood-template",
+      "source": "thespinoff.co.nz",
+      "card_text": "‘A natural doofus’, ‘a comedian’s comedian’: Dai Henwood, remembered",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 43,
+      "title": "Fourth term secured",
+      "url": "https://cambridgenews.nz/2026/11/fourth-term-secured",
+      "source": "cambridgenews.nz",
+      "card_text": "Fourth term secured He returned to Wellington this week assured of a fourth term as Waikato MP – but not certain how the machinations of MMP will play out. Tim van de Molen was at Tamahere’s Punnet Eatery... Cambridge News Today 4:00 pm Politics",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 44,
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 45,
+      "title": "Pacific journalists to amplify island voices at COP31 in Türkiye",
+      "url": "https://asiapacificreport.nz/2026/11/11/pacific-journalists-to-amplify-island-voices-at-cop31-in-turkiye",
+      "source": "asiapacificreport.nz",
+      "card_text": "Pacific journalists to amplify island voices at COP31 in Türkiye",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 49,
+      "title": "Tokoroa flooding: Vehicles stuck as roads closed in South Waikato",
+      "url": "https://nzherald.co.nz/waikato-news/news/tokoroa-flooding-vehicles-stuck-as-roads-closed-in-south-waikato/XLRIJSQLZJHMZMLYDYZSGGZQX4",
+      "source": "nzherald.co.nz",
+      "card_text": "Tokoroa flooding: Vehicles stuck as roads closed in South Waikato",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
+    {
+      "rank": 50,
+      "title": "New Plymouth Boys’ High School lockdown: Parents in dark, students under desks as armed police probed threat on first day of NCEA exams",
+      "url": "https://nzherald.co.nz/nz/new-plymouth-boys-high-school-lockdown-parents-in-dark-students-under-desks-as-armed-police-probed-threat-on-first-day-of-ncea-exams/O2STTFU4BRHB5FTZBK5JV6H2WI",
+      "source": "nzherald.co.nz",
+      "card_text": "New Plymouth Boys’ High School lockdown: Parents in dark, students under desks as armed police probed threat on first day of NCEA exams",
+      "discovered_at_utc": "2026-11-11T10:38:40.139200+00:00"
+    },
     {
       "rank": 30,
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
@@ -74,14 +474,6 @@
       "url": "https://nzherald.co.nz/nz/politics/election-2026-live-updates-qiulae-wong-in-talks-with-national-labour-leaders-as-result-remains-on-knife-edge/REUHVHWFGRHJZC4TJ3LSLPPZNA",
       "source": "nzherald.co.nz",
       "card_text": "Election 2026 live updates: Multiple patients at Middlemore Hospital not given chance to vote",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 11,
-      "title": "The US dollar firmed broadly and the NZD hit a fresh low",
-      "url": "https://interest.co.nz/currencies/141039/strong-us-cpi-and-hawkish-fed-comments-saw-markets-fully-price-december-fed-hike",
-      "source": "interest.co.nz",
-      "card_text": "The US dollar firmed broadly and the NZD hit a fresh low",
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
@@ -157,14 +549,6 @@
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
-      "rank": 42,
-      "title": "Dai Henwood, 1978-2026",
-      "url": "https://newsroom.co.nz/2026/11/11/dai-henwood-1978-2026",
-      "source": "newsroom.co.nz",
-      "card_text": "Dai Henwood, 1978-2026 Dai Henwood in his own words from his bestselling memoir Newsroom Today 7:20 am Culture",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
       "rank": 19,
       "title": "Auckland Council backs move towards smaller kerbside rubbish bins",
       "url": "https://rnz.co.nz/news/regions_auckland/2526365/auckland-council-backs-move-towards-smaller-kerbside-rubbish-bins",
@@ -205,38 +589,6 @@
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
-      "rank": 1,
-      "title": "Live: Any claim of a ‘stolen election’ erodes democracy, Seymour says | Stuff",
-      "url": "https://stuff.co.nz/politics/361056724/live-updates-election-night-blog",
-      "source": "stuff.co.nz",
-      "card_text": "Live: Any claim of a ‘stolen election’ erodes democracy, Seymour says | Stuff",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 3,
-      "title": "RNZ budget blowout: Questions mount over unauthorised $5m loan",
-      "url": "https://thepress.co.nz/business/361115360/rnz-budget-blowout-questions-mount-over-unauthorised-5m-loan",
-      "source": "thepress.co.nz",
-      "card_text": "RNZ budget blowout: Questions mount over unauthorised $5m loan",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "Moa Point disaster: Wellington sewage treatment plant restart delayed after checks",
-      "url": "https://nzherald.co.nz/nz/wellington/moa-point-disaster-wellington-sewage-treatment-plant-restart-delayed-after-checks/WRJU4QOYRBEZPND2PVESTVH3ZE",
-      "source": "nzherald.co.nz",
-      "card_text": "Moa Point disaster: Wellington sewage treatment plant restart delayed after checks",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 5,
-      "title": "Terrible mismanagement at Radio NZ",
-      "url": "https://pointofordernz.wordpress.com/2026/11/11/terrible-mismanagement-at-radio-nz",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Terrible mismanagement at Radio NZ David Farrar writes – Radio NZ reports: RNZ has revealed a near $12 million budget blowout after a litany of financial blunders, setting the stage for sweeping job cuts. In its just-published annual report, the public broadcaster set out plans to axe the equivalent of 58 full-time jobs – about one in six staff – … Continue reading Terrible mismanagement at Radio NZ → Point of Order Today 10:50 am Culture",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
       "rank": 6,
       "title": "HDC finds Health NZ failed to recognise woman’s heart attack before she left Tauranga ED",
       "url": "https://newstalkzb.co.nz/news/national/hdc-finds-health-nz-failed-to-recognise-woman-s-heart-attack-before-she-left-tauranga-ed",
@@ -245,43 +597,11 @@
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
-      "rank": 7,
-      "title": "Billionaire Graeme Hart tops $2m in political donations to right bloc",
-      "url": "https://newsroom.co.nz/2026/11/11/billionaire-graeme-hart-tops-2m-in-political-donations-to-right-bloc",
-      "source": "newsroom.co.nz",
-      "card_text": "Billionaire Graeme Hart tops $2m in political donations to right bloc",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 8,
-      "title": "She Survived the Holocaust",
-      "url": "https://goodoil.news/she-survived-the-holocaust",
-      "source": "goodoil.news",
-      "card_text": "She Survived the Holocaust She should never have had to survive Bondi. The Good Oil Today 12:00 pm Culture",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 9,
-      "title": "The hangover hits from our overhang election",
-      "url": "https://thekaka.substack.com/p/the-hangover-hits-from-our-overhang",
-      "source": "thekaka.substack.com",
-      "card_text": "The hangover hits from our overhang election",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
       "rank": 10,
       "title": "Pacific artists use photography and storytelling to challenge global leaders at COP31",
       "url": "https://asiapacificreport.nz/2026/11/11/pacific-artists-use-photography-and-storytelling-to-challenge-global-leaders-at-cop31",
       "source": "asiapacificreport.nz",
       "card_text": "Pacific artists use photography and storytelling to challenge global leaders at COP31",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 12,
-      "title": "Dame Naida Glavish | Leader and Long‑Time Advocate for Tikanga and Cultural Integrity",
-      "url": "https://waateanews.com/2026/11/11/dame-naida-glavish-leader-and-long-time-advocate-for-tikanga-and-cultural-integrity",
-      "source": "waateanews.com",
-      "card_text": "Dame Naida Glavish | Leader and Long‑Time Advocate for Tikanga and Cultural Integrity",
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
@@ -298,14 +618,6 @@
       "url": "https://nzherald.co.nz/nz/rocket-lab-gets-270m-loan-from-us-dept-of-defence/325CTRBJJFGQBJAMQXNSY3AEGI",
       "source": "nzherald.co.nz",
       "card_text": "Rocket Lab gets $270m loan from US Dept of Defence",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Christchurch shooter worship mixed with ISIS guides: The terrifying rise of ‘salad bar’ extremism",
-      "url": "https://stuff.co.nz/world-news/361058016/christchurch-shooter-worship-mixed-isis-guides-terrifying-rise-salad-bar-extremism",
-      "source": "stuff.co.nz",
-      "card_text": "Christchurch shooter worship mixed with ISIS guides: The terrifying rise of ‘salad bar’ extremism",
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
@@ -370,14 +682,6 @@
       "url": "https://nzherald.co.nz/nz/time-of-use-charging-in-auckland-feedback-opens-on-city-fringe-and-motorway-plans/TD2IXMBRD5FJBIQ2MGRSRRLV6U",
       "source": "nzherald.co.nz",
       "card_text": "Time-of-use charging in Auckland: Feedback opens on city, fringe and motorway plans",
-      "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
-    },
-    {
-      "rank": 41,
-      "title": "RNZ Faces More Job Cuts After Loss",
-      "url": "https://goodoil.news/rnz-faces-more-job-cuts-after-loss",
-      "source": "goodoil.news",
-      "card_text": "RNZ Faces More Job Cuts After Loss Former RNZ board chairman Dr Jim Mather, whose eight-year tenure ended in June, described the financial result as extremely disappointing. The Good Oil Today 10:30 am Culture",
       "discovered_at_utc": "2026-11-11T02:39:57.492363+00:00"
     },
     {
@@ -835,206 +1139,6 @@
       "source": "bbc.co.uk",
       "card_text": "DR Congo sentences 66 soldiers to death for being 'cowards'",
       "discovered_at_utc": "2026-11-10T16:56:23.289711+00:00"
-    },
-    {
-      "rank": 44,
-      "title": "Tama Potaka | National Party MP",
-      "url": "https://waateanews.com/2026/11/10/tama-potaka-national-party-mp-2",
-      "source": "waateanews.com",
-      "card_text": "Tama Potaka | National Party MP Tama Potaka, a senior figure within the National Party who has held major ministerial responsibilities including Māori Development, Conservation and Whānau Ora, has emerged from the election with an enhanced […] Waatea News Today 10:00 am Politics",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 31,
-      "title": "Half of middle-aged women live with chronic pain. Here's what we know",
-      "url": "https://rnz.co.nz/life/wellbeing/half-of-middle-aged-women-live-with-chronic-pain-here-s-what-we-know",
-      "source": "rnz.co.nz",
-      "card_text": "Half of middle-aged women live with chronic pain. Here's what we know",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 34,
-      "title": "The Pacific's water security challenge during a searing El Niño",
-      "url": "https://rnz.co.nz/news/pacific/2481612/the-pacific-s-water-security-challenge-during-a-searing-el-nino",
-      "source": "rnz.co.nz",
-      "card_text": "The Pacific's water security challenge during a searing El Niño",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 33,
-      "title": "Fast-tracked $506m Otago wind farm Mahinerangi breaks ground",
-      "url": "https://rnz.co.nz/news/business/2480553/fast-tracked-506m-otago-wind-farm-mahinerangi-breaks-ground",
-      "source": "rnz.co.nz",
-      "card_text": "Fast-tracked $506m Otago wind farm Mahinerangi breaks ground",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 50,
-      "title": "NZQA backs AI marking of NCEA writing, despite one-in-five scoring differences",
-      "url": "https://nzherald.co.nz/nz/nzqa-backs-ai-marking-of-ncea-writing-despite-one-in-five-scoring-differences/YPBJRZPGNRHT3KL6JWRZRU6IYY",
-      "source": "nzherald.co.nz",
-      "card_text": "NZQA backs AI marking of NCEA writing, despite one-in-five scoring differences",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 2,
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "url": "https://bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Trump says more US attacks on Iran 'highly unlikely'",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 4,
-      "title": "COP31 opens in Türkiye as global temperature flirts with 1.5°C line",
-      "url": "https://rnz.co.nz/news/pacific/2498963/cop31-opens-in-turkiye-as-global-temperature-flirts-with-1-point-5-degreesc-line",
-      "source": "rnz.co.nz",
-      "card_text": "COP31 opens in Türkiye as global temperature flirts with 1.5°C line",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 15,
-      "title": "Charm offensive: Opportunity meets National, Labour and the Greens",
-      "url": "https://thepress.co.nz/politics/361115236/charm-offensive-opportunity-meets-national-labour-and-greens",
-      "source": "thepress.co.nz",
-      "card_text": "Charm offensive: Opportunity meets National, Labour and the Greens",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 17,
-      "title": "Westpac raises one home loan rate, cuts others",
-      "url": "https://nzherald.co.nz/business/westpac-raises-one-home-loan-rate-cuts-others/QNX4X4TKWNAWNCU2RB5XCYZSW4",
-      "source": "nzherald.co.nz",
-      "card_text": "Westpac raises one home loan rate, cuts others",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 19,
-      "title": "Trump says Iran war is ‘effectively over’ at snap news conference",
-      "url": "https://stuff.co.nz/world-news/361057378/trump-says-iran-war-effectively-over-snap-news-conference",
-      "source": "stuff.co.nz",
-      "card_text": "Trump says Iran war is ‘effectively over’ at snap news conference",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 20,
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "url": "https://bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 22,
-      "title": "Pacific territories face major population declines by 2100, US Census projects",
-      "url": "https://rnz.co.nz/news/pacific/2491256/pacific-territories-face-major-population-declines-by-2100-us-census-projects",
-      "source": "rnz.co.nz",
-      "card_text": "Pacific territories face major population declines by 2100, US Census projects",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 23,
-      "title": "Christchurch’s wettest Cup Day in 60 years is over, but the celebrations aren’t",
-      "url": "https://thepress.co.nz/nz-news/361114748/cup-day-live-christchurchs-biggest-day-racing",
-      "source": "thepress.co.nz",
-      "card_text": "Christchurch’s wettest Cup Day in 60 years is over, but the celebrations aren’t",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 24,
-      "title": "Watch: Hot favourite wins NZ Trotting Cup at rain-soaked Addington",
-      "url": "https://stuff.co.nz/sport/361057819/hot-favourite-leap-fame-wins-nz-trotting-cup-rain-soaked-addington",
-      "source": "stuff.co.nz",
-      "card_text": "Watch: Hot favourite wins NZ Trotting Cup at rain-soaked Addington",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 28,
-      "title": "Chip inquiry in US was halted after Nvidia intervention",
-      "url": "https://nzherald.co.nz/business/chip-inquiry-in-us-was-halted-after-nvidia-intervention/premium/TT5NDCLE5NDEJFWCM3ADBXZLTE",
-      "source": "nzherald.co.nz",
-      "card_text": "Chip inquiry in US was halted after Nvidia intervention",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 29,
-      "title": "New private hospital planned for Westgate: Urgent care, GPs, four operating theatres",
-      "url": "https://nzherald.co.nz/property/new-private-hospital-planned-for-westgate-urgent-care-gps-four-operating-theatres/premium/DI7TOCSIPNHABKCY777GCEGOUI",
-      "source": "nzherald.co.nz",
-      "card_text": "New private hospital planned for Westgate: Urgent care, GPs, four operating theatres",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 30,
-      "title": "Explainer: What are physician associates, and how might they change health care?",
-      "url": "https://rnz.co.nz/news/health/2482648/explainer-what-are-physician-associates-and-how-might-they-change-health-care",
-      "source": "rnz.co.nz",
-      "card_text": "Explainer: What are physician associates, and how might they change health care?",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 32,
-      "title": "Kerikeri Tool Hire to pay $473,000 for fatal trailer crash that killed Mandy MacKenzie",
-      "url": "https://nzherald.co.nz/nz/crime/kerikeri-tool-hire-to-pay-473000-for-fatal-trailer-crash-that-killed-mandy-mackenzie/BEW6QOH3QJEP3F5R6IBBJCAGT4",
-      "source": "nzherald.co.nz",
-      "card_text": "Kerikeri Tool Hire to pay $473,000 for fatal trailer crash that killed Mandy MacKenzie",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 35,
-      "title": "Police seek public help to find missing boys aged 12 and 14",
-      "url": "https://stuff.co.nz/nz-news/361057520/police-seek-public-help-find-missing-boys-aged-12-and-14",
-      "source": "stuff.co.nz",
-      "card_text": "Police seek public help to find missing boys aged 12 and 14",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 36,
-      "title": "Crash closes Cones Road, north of Rangiora",
-      "url": "https://thepress.co.nz/nz-news/361115548/crash-closes-cones-road-north-rangiora",
-      "source": "thepress.co.nz",
-      "card_text": "Crash closes Cones Road, north of Rangiora",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 37,
-      "title": "Polish unity on show in silent march to honour Krakow shooting victims",
-      "url": "https://bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Polish unity on show in silent march to honour Krakow shooting victims",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 39,
-      "title": "Mark Cox elected to Fonterra board as Cathy Quinn wins third term",
-      "url": "https://businessdesk.co.nz/primary-sector/mark-cox-elected-to-fonterra-board-as-cathy-quinn-wins-third-term/4OPBESUQJ5BBTKKBIJT2WZT6Y4",
-      "source": "businessdesk.co.nz",
-      "card_text": "Mark Cox elected to Fonterra board as Cathy Quinn wins third term",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 43,
-      "title": "Election delivers poor winner and sore loser",
-      "url": "https://newsroom.co.nz/2026/11/10/election-delivers-poor-winner-and-sore-loser",
-      "source": "newsroom.co.nz",
-      "card_text": "Election delivers poor winner and sore loser",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 48,
-      "title": "The young Kiwis heading to the world's biggest climate change gathering",
-      "url": "https://rnz.co.nz/news/environment_climate/2481758/the-young-kiwis-heading-to-the-world-s-biggest-climate-change-gathering",
-      "source": "rnz.co.nz",
-      "card_text": "The young Kiwis heading to the world's biggest climate change gathering",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
-    },
-    {
-      "rank": 49,
-      "title": "Burst water pipe forces Kelston Girls’ College to host first day of NCEA exams at Kelston Boys’ High School",
-      "url": "https://nzherald.co.nz/nz/auckland/burst-water-pipe-forces-kelston-girls-college-to-host-first-day-of-ncea-exams-at-kelston-boys-high-school/52HNE3GTQNCFJA5QDNCXFMUISM",
-      "source": "nzherald.co.nz",
-      "card_text": "Burst water pipe forces Kelston Girls’ College to host first day of NCEA exams at Kelston Boys’ High School",
-      "discovered_at_utc": "2026-11-10T08:11:54.804051+00:00"
     }
   ]
 }
