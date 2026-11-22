@@ -2,43 +2,43 @@
   "source": "Newsibly",
   "feed_url": "https://newsibly.nz/?mode=latest",
   "mode": "latest",
-  "retrieved_at_utc": "2026-11-21T22:59:15.182106+00:00",
+  "retrieved_at_utc": "2026-11-22T03:00:07.404899+00:00",
   "count": 50,
   "items": [
     {
       "rank": 1,
+      "title": "Four people injured after house slid off piles",
+      "url": "https://stuff.co.nz/nz-news/361062216/four-people-injured-after-house-slid-piles",
+      "source": "stuff.co.nz",
+      "card_text": "Four people injured after house slid off piles"
+    },
+    {
+      "rank": 2,
+      "title": "Family ‘disgusted’ as stepmother’s sentence for toddler’s death slashed",
+      "url": "https://odt.co.nz/news/national/family-disgusted-as-stepmothers-sentence-for-toddlers-death-slashed-rsnec63g",
+      "source": "odt.co.nz",
+      "card_text": "Family ‘disgusted’ as stepmother’s sentence for toddler’s death slashed"
+    },
+    {
+      "rank": 3,
       "title": "Everyone on Nassau is safe says Cook Islands PM",
       "url": "https://rnz.co.nz/news/pacific/2726758/everyone-on-nassau-is-safe-says-cook-islands-pm",
       "source": "rnz.co.nz",
       "card_text": "Everyone on Nassau is safe says Cook Islands PM"
     },
     {
-      "rank": 2,
-      "title": "A matter of life and death: Why the long wait for safety equipment for children with disabilities?",
-      "url": "https://thepress.co.nz/nz-news/361118349/appalling-long-waits-vulnerable-children-get-safety-critical-appointments",
-      "source": "thepress.co.nz",
-      "card_text": "A matter of life and death: Why the long wait for safety equipment for children with disabilities?"
-    },
-    {
-      "rank": 3,
-      "title": "Gisborne Mayor calls for national climate resilience framework",
-      "url": "https://newstalkzb.co.nz/news/national/gisborne-mayor-calls-for-national-climate-resilience-framework",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Gisborne Mayor calls for national climate resilience framework"
-    },
-    {
       "rank": 4,
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting"
+      "title": "Family of Harlee-Rose Niven, 2, killed by teen stepmum Jessica Mulford, ‘devastated’ by reduced sentence",
+      "url": "https://nzherald.co.nz/nz/family-of-harlee-rose-niven-2-killed-by-teen-stepmum-jessica-mulford-devastated-by-reduced-sentence/6VMVLSPF3RD4RHKEC65AGIISME",
+      "source": "nzherald.co.nz",
+      "card_text": "Family of Harlee-Rose Niven, 2, killed by teen stepmum Jessica Mulford, ‘devastated’ by reduced sentence"
     },
     {
       "rank": 5,
-      "title": "Person seriously injured in Port Chalmers aggravated robbery",
-      "url": "https://odt.co.nz/news/dunedin/police-conducting-reassurance-patrols-after-port-chalmers-incident-tzso7eaq",
-      "source": "odt.co.nz",
-      "card_text": "Person seriously injured in Port Chalmers aggravated robbery"
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "card_text": "How a teen gamer and his mother helped rescue a missing girl"
     },
     {
       "rank": 6,
@@ -77,136 +77,136 @@
     },
     {
       "rank": 11,
+      "title": "Southland Emergency Committee Acts On Storm Lessons",
+      "url": "https://whatsoninvers.nz/southland-emergency-committee-acts-on-storm-lessons",
+      "source": "whatsoninvers.nz",
+      "card_text": "Southland Emergency Committee Acts On Storm Lessons"
+    },
+    {
+      "rank": 12,
       "title": "Seven major tech incidents in a week – what’s going on, and what can we do?",
       "url": "https://interest.co.nz/technology/141179/string-major-tech-outages-major-tech-companies-and-their-infrastructure-raises",
       "source": "interest.co.nz",
       "card_text": "Seven major tech incidents in a week – what’s going on, and what can we do?"
     },
     {
-      "rank": 12,
-      "title": "Shrinking to Greatness",
-      "url": "https://pointofordernz.wordpress.com/2026/11/21/shrinking-to-greatness",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Shrinking to Greatness Roger Partridge writes – New Zealand’s two largest political parties have made good progress towards becoming smaller ones. On election night, neither National nor Labour reached 30 percent. Together they managed just 58.6 percent, a record low for their combined vote. Years of careful work have gone into making the parties small targets. Too many … Continue reading Shrinking to Greatness → Point of Order Yesterday Opinion"
+      "rank": 13,
+      "title": "Poland’s failure to call Putin’s bluff over missile attack exposes NATO fragility",
+      "url": "https://stuff.co.nz/world-news/361062219/polands-failure-call-putins-bluff-exposes-nato-fragility",
+      "source": "stuff.co.nz",
+      "card_text": "Poland’s failure to call Putin’s bluff over missile attack exposes NATO fragility"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Rates cap could delay disaster recovery",
       "url": "https://odt.co.nz/canterbury/selwyn/rates-cap-could-delay-disaster-recovery-we8khx0i",
       "source": "odt.co.nz",
       "card_text": "Rates cap could delay disaster recovery Otago Daily Times Today 6:00 am"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "New survey shows the Chrises face tough task building their credibility | Stuff",
       "url": "https://stuff.co.nz/politics/361061758/new-survey-shows-chrises-face-tough-task-building-their-credibility",
       "source": "stuff.co.nz",
       "card_text": "New survey shows the Chrises face tough task building their credibility | Stuff"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "No regrets: Gerry Brownlee’s 30 years in politics",
       "url": "https://thepress.co.nz/nz-news/361119639/no-regrets-gerry-brownlees-30-years-politics",
       "source": "thepress.co.nz",
       "card_text": "No regrets: Gerry Brownlee’s 30 years in politics"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Pay equity ruling: Court finds discrimination, but law remains in force",
       "url": "https://goodoil.news/pay-equity-ruling-court-finds-discrimination-but-law-remains-in-force",
       "source": "goodoil.news",
       "card_text": "Pay equity ruling: Court finds discrimination, but law remains in force"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Failed pie business owner buys it back under new company, $500k tax debt unlikely to be paid",
       "url": "https://thepress.co.nz/nz-news/361121572/owner-liquidated-west-coast-pie-business-buys-it-back-under-new-company",
       "source": "thepress.co.nz",
       "card_text": "Failed pie business owner buys it back under new company, $500k tax debt unlikely to be paid"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Welcome to the roach motel. The sneaky tactic quietly draining your bank balance",
       "url": "https://stuff.co.nz/money/361061642/welcome-roach-motel-sneaky-tactic-quietly-draining-your-bank-balance",
       "source": "stuff.co.nz",
       "card_text": "Welcome to the roach motel. The sneaky tactic quietly draining your bank balance"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "AA adviser predicts petrol prices will fall further in lead up to Christmas",
       "url": "https://nzherald.co.nz/nz/petrol-prices-expected-to-fall-further-in-lead-up-to-christmas/5GGVVLIDTBGSPIQUHI4CJQH7MQ",
       "source": "nzherald.co.nz",
       "card_text": "AA adviser predicts petrol prices will fall further in lead up to Christmas"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "She went to Europe for the trip of a lifetime. Instead, she spent nights chasing a refund",
       "url": "https://stuff.co.nz/travel/361061552/it-was-meant-be-trip-lifetime-instead-she-spent-months-chasing-refund",
       "source": "stuff.co.nz",
       "card_text": "She went to Europe for the trip of a lifetime. Instead, she spent nights chasing a refund"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa | Stuff",
       "url": "https://stuff.co.nz/world-news/361062193/mexico-detains-top-cartel-boss-el-chapo-isidro-setting",
       "source": "stuff.co.nz",
       "card_text": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa | Stuff"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "url": "https://bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
       "card_text": "Russia-bound ship attacked in Gulf of Finland"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "US Agriculture Department, FBI breached by hackers: reports",
       "url": "https://nzherald.co.nz/world/us-agriculture-department-fbi-breached-by-hackers-reports/QITNIPQ3N5H3XDRA55DL3DGV24",
       "source": "nzherald.co.nz",
       "card_text": "US Agriculture Department, FBI breached by hackers: reports"
     },
     {
-      "rank": 24,
-      "title": "Cook Islands PM says relief supplies on standby as TC Xavier weakens",
-      "url": "https://rnz.co.nz/news/pacific/2719268/cook-islands-pm-says-relief-supplies-on-standby-as-tc-xavier-weakens",
-      "source": "rnz.co.nz",
-      "card_text": "Cook Islands PM says relief supplies on standby as TC Xavier weakens"
-    },
-    {
       "rank": 25,
-      "title": "Nations Championship: All Blacks finish second in standings as Springboks finish top despite Ireland defeat",
-      "url": "https://newstalkzb.co.nz/news/sport/nations-championship-all-blacks-finish-second-in-standings-as-springboks-finish-top-despite-ireland-defeat",
-      "source": "newstalkzb.co.nz",
-      "card_text": "Nations Championship: All Blacks finish second in standings as Springboks finish top despite Ireland defeat"
+      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+      "url": "https://stuff.co.nz/world-news/361062152/ballistic-missile-attack-zelenskyys-hometown-central-u",
+      "source": "stuff.co.nz",
+      "card_text": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores"
     },
     {
       "rank": 26,
-      "title": "'Overwhelmed with emotion': Kiwi runner wins US college cross country crown",
-      "url": "https://stuff.co.nz/sport/361062211/kiwi-runner-hannah-gapes-wins-ncaa-division-i-cross-country-title-record-time",
+      "title": "Watch: Kiwi UFC star knocks out former champ in statement win",
+      "url": "https://stuff.co.nz/sport/361062223/new-zealander-navajo-stirling-knocks-out-ji-prochzka-ufc",
       "source": "stuff.co.nz",
-      "card_text": "'Overwhelmed with emotion': Kiwi runner wins US college cross country crown"
+      "card_text": "Watch: Kiwi UFC star knocks out former champ in statement win"
     },
     {
       "rank": 27,
-      "title": "Deciding Dave Rennie’s All Blacks future: Why the murky waters must clear before Rugby World Cup",
-      "url": "https://thepress.co.nz/sport/361120370/results-and-respect-factors-new-zealand-rugby-will-consider-dave-rennie-and-all-blacks-coaching-job",
-      "source": "thepress.co.nz",
-      "card_text": "Deciding Dave Rennie’s All Blacks future: Why the murky waters must clear before Rugby World Cup"
+      "title": "All Blacks v England: World reacts to New Zealand’s catastrophic loss in London",
+      "url": "https://nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-england-world-reacts-to-new-zealands-catastrophic-loss-in-london/QRCEBPZRG5HITAJX4T246DAJUM",
+      "source": "nzherald.co.nz",
+      "card_text": "All Blacks v England: World reacts to New Zealand’s catastrophic loss in London"
     },
     {
       "rank": 28,
+      "title": "‘New age of digital chaos’: Welcome to the age of endless digital breakdowns",
+      "url": "https://nzherald.co.nz/business/new-age-of-digital-chaos-welcome-to-the-age-of-endless-digital-breakdowns/6LGCN5B6CBGJDFCDQIO7BGBP7I",
+      "source": "nzherald.co.nz",
+      "card_text": "‘New age of digital chaos’: Welcome to the age of endless digital breakdowns"
+    },
+    {
+      "rank": 29,
       "title": "Hackers are using AI to carry out cyber attacks. Experts say Kiwi organisations must act",
       "url": "https://rnz.co.nz/news/science-and-technology/2721958/hackers-are-using-ai-to-carry-out-cyber-attacks-experts-say-kiwi-organisations-must-act",
       "source": "rnz.co.nz",
       "card_text": "Hackers are using AI to carry out cyber attacks. Experts say Kiwi organisations must act"
-    },
-    {
-      "rank": 29,
-      "title": "Anthropic may have solved major maths problem Reimann hypothesis - BBC News",
-      "url": "https://bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Anthropic may have solved major maths problem Reimann hypothesis - BBC News"
     },
     {
       "rank": 30,
@@ -217,10 +217,10 @@
     },
     {
       "rank": 31,
-      "title": "Cyber attacks can happen within minutes thanks to AI",
-      "url": "https://rnz.co.nz/news/crime-and-justice/2719225/cyber-attacks-can-happen-within-minutes-thanks-to-ai",
-      "source": "rnz.co.nz",
-      "card_text": "Cyber attacks can happen within minutes thanks to AI"
+      "title": "A matter of life and death: Why the long wait for safety equipment for children with disabilities?",
+      "url": "https://thepress.co.nz/nz-news/361118349/appalling-long-waits-vulnerable-children-get-safety-critical-appointments",
+      "source": "thepress.co.nz",
+      "card_text": "A matter of life and death: Why the long wait for safety equipment for children with disabilities?"
     },
     {
       "rank": 32,
@@ -238,52 +238,52 @@
     },
     {
       "rank": 34,
-      "title": "Mining Middle-earth: The push to drill above Paradise",
-      "url": "https://thepress.co.nz/politics/361119117/mining-middle-earth-push-drill-above-paradise",
-      "source": "thepress.co.nz",
-      "card_text": "Mining Middle-earth: The push to drill above Paradise"
+      "title": "Has Wayne Brown met his match? - Heather du Plessis-Allan",
+      "url": "https://nzherald.co.nz/nz/has-wayne-brown-met-his-match-heather-du-plessis-allan/premium/W275WD376BCMRGWWPTOB5KL2II",
+      "source": "nzherald.co.nz",
+      "card_text": "Has Wayne Brown met his match? - Heather du Plessis-Allan"
     },
     {
       "rank": 35,
-      "title": "Person critically injured after crash in Clutha",
-      "url": "https://thepress.co.nz/nz-news/361121943/person-critically-injured-after-crash-clutha",
-      "source": "thepress.co.nz",
-      "card_text": "Person critically injured after crash in Clutha"
+      "title": "Letterbox port poisoning: Renewed push to solve death of Dave Davan",
+      "url": "https://rnz.co.nz/news/crime-and-justice/2727996/letterbox-port-poisoning-renewed-push-to-solve-death-of-dave-davan",
+      "source": "rnz.co.nz",
+      "card_text": "Letterbox port poisoning: Renewed push to solve death of Dave Davan"
     },
     {
       "rank": 36,
-      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-      "url": "https://stuff.co.nz/world-news/361062152/ballistic-missile-attack-zelenskyys-hometown-central-u",
-      "source": "stuff.co.nz",
-      "card_text": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores"
+      "title": "Law Society finds two lawyers engaged in unsatisfactory conduct over client failures",
+      "url": "https://newstalkzb.co.nz/news/national/law-society-finds-two-lawyers-engaged-in-unsatisfactory-conduct-over-client-failures",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Law Society finds two lawyers engaged in unsatisfactory conduct over client failures"
     },
     {
       "rank": 37,
-      "title": "Uber passenger ‘screaming uncontrollably’ found with loaded 3D-printed gun, drugs",
-      "url": "https://odt.co.nz/news/national/uber-passenger-screaming-uncontrollably-found-with-loaded-3d-printed-gun-drugs-jwrevock",
-      "source": "odt.co.nz",
-      "card_text": "Uber passenger ‘screaming uncontrollably’ found with loaded 3D-printed gun, drugs"
+      "title": "Two airlifted to hospital after house slips off foundations during move in Ruatōria",
+      "url": "https://newstalkzb.co.nz/news/national/two-airlifted-to-hospital-after-house-slips-off-foundations-during-move-in-ruat%C5%8Dria",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Two airlifted to hospital after house slips off foundations during move in Ruatōria"
     },
     {
       "rank": 38,
-      "title": "Ireland cling on to edge past Springboks in epic Dublin test",
-      "url": "https://stuff.co.nz/sport/361059853/live-ireland-v-south-africa-nations-championship-rugby-test",
-      "source": "stuff.co.nz",
-      "card_text": "Ireland cling on to edge past Springboks in epic Dublin test"
+      "title": "Renewed push in unsolved letterbox port poisoning case",
+      "url": "https://odt.co.nz/news/national/renewed-push-in-unsolved-letterbox-port-poisoning-case-tp2xb0i6",
+      "source": "odt.co.nz",
+      "card_text": "Renewed push in unsolved letterbox port poisoning case"
     },
     {
       "rank": 39,
-      "title": "From Bangladesh to LA: Black Caps’ long and winding road to the 2028 Olympics",
-      "url": "https://thepress.co.nz/sport/361118738/black-caps-hopes-2028-la-olympics-rest-qualifying-tournament-bangladesh",
-      "source": "thepress.co.nz",
-      "card_text": "From Bangladesh to LA: Black Caps’ long and winding road to the 2028 Olympics"
+      "title": "Four people injured after house slides off piles while being relocated",
+      "url": "https://rnz.co.nz/news/emergencies_local/2728240/four-people-injured-after-house-slides-off-piles-while-being-relocated",
+      "source": "rnz.co.nz",
+      "card_text": "Four people injured after house slides off piles while being relocated"
     },
     {
       "rank": 40,
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "bbc.co.uk",
-      "card_text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+      "card_text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting"
     },
     {
       "rank": 41,
@@ -294,66 +294,66 @@
     },
     {
       "rank": 42,
-      "title": "Who decides how taxpayers’ money is spent?",
-      "url": "https://pointofordernz.wordpress.com/2026/11/21/who-decides-how-taxpayers-money-is-spent",
-      "source": "pointofordernz.wordpress.com",
-      "card_text": "Who decides how taxpayers’ money is spent?"
+      "title": "CAA officer loses job after several failings, including letting bags through without checking X-rays",
+      "url": "https://newstalkzb.co.nz/news/national/caa-officer-loses-job-after-several-failings-including-letting-bags-through-without-checking-x-rays",
+      "source": "newstalkzb.co.nz",
+      "card_text": "CAA officer loses job after several failings, including letting bags through without checking X-rays"
     },
     {
       "rank": 43,
+      "title": "Public celebration of the life of Dai Henwood being held today after private funeral",
+      "url": "https://newstalkzb.co.nz/news/national/public-celebration-of-the-life-of-dai-henwood-being-held-today-after-private-funeral",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Public celebration of the life of Dai Henwood being held today after private funeral"
+    },
+    {
+      "rank": 44,
+      "title": "English critic: All Blacks aura is dead after this toothless display",
+      "url": "https://stuff.co.nz/sport/361062220/all-blacks-aura-dead-after-toothless-display",
+      "source": "stuff.co.nz",
+      "card_text": "English critic: All Blacks aura is dead after this toothless display"
+    },
+    {
+      "rank": 45,
+      "title": "Watch live: Dai Henwood’s life celebrated at public memorial service",
+      "url": "https://stuff.co.nz/nz-news/361062244/dai-henwood-be-celebrated-public-memorial-service",
+      "source": "stuff.co.nz",
+      "card_text": "Watch live: Dai Henwood’s life celebrated at public memorial service"
+    },
+    {
+      "rank": 46,
+      "title": "CAA officer loses job after several failings, including letting bags through without checking X-rays",
+      "url": "https://nzherald.co.nz/nz/caa-security-officer-loses-job-after-reading-book-during-airport-bag-screening/KI35MPJ75VH5RNVLBPEWXFO5DY",
+      "source": "nzherald.co.nz",
+      "card_text": "CAA officer loses job after several failings, including letting bags through without checking X-rays"
+    },
+    {
+      "rank": 47,
+      "title": "Gisborne Mayor calls for national climate resilience framework",
+      "url": "https://newstalkzb.co.nz/news/national/gisborne-mayor-calls-for-national-climate-resilience-framework",
+      "source": "newstalkzb.co.nz",
+      "card_text": "Gisborne Mayor calls for national climate resilience framework"
+    },
+    {
+      "rank": 48,
+      "title": "Southland storm review has 'done nothing to restore public trust' - farmer",
+      "url": "https://rnz.co.nz/news/regions/2720881/southland-storm-review-has-done-nothing-to-restore-public-trust-farmer",
+      "source": "rnz.co.nz",
+      "card_text": "Southland storm review has 'done nothing to restore public trust' - farmer"
+    },
+    {
+      "rank": 49,
+      "title": "Mining Middle-earth: The push to drill above Paradise",
+      "url": "https://thepress.co.nz/politics/361119117/mining-middle-earth-push-drill-above-paradise",
+      "source": "thepress.co.nz",
+      "card_text": "Mining Middle-earth: The push to drill above Paradise"
+    },
+    {
+      "rank": 50,
       "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
       "url": "https://stuff.co.nz/climate-change/361062166/climate-talks-overtime-nations-wrestle-response-t",
       "source": "stuff.co.nz",
       "card_text": "Climate talks in overtime as nations wrestle with response to worsening global warming"
-    },
-    {
-      "rank": 44,
-      "title": "Affordable housing build confirmed",
-      "url": "https://odt.co.nz/otago/queenstown/affordable-housing-build-confirmed-le5s2mzz",
-      "source": "odt.co.nz",
-      "card_text": "Affordable housing build confirmed A ground-breaking ceremony has been held to herald the construction of Queenstown’s second affordable housing complex at Remarkables Park. Otago Daily Times Today 5:00 am Housing"
-    },
-    {
-      "rank": 45,
-      "title": "Lodge conditions ‘watered down’",
-      "url": "https://odt.co.nz/otago/queenstown/lodge-conditions-watered-down-tykmrov5",
-      "source": "odt.co.nz",
-      "card_text": "Lodge conditions ‘watered down’ A community group alleges the local council's watered down conditions imposed on a controversial luxury lodge development at Queenstown's stunning Bob's Cove. Otago Daily Times Today 5:00 am Housing"
-    },
-    {
-      "rank": 46,
-      "title": "Planning puzzle still holding up hub",
-      "url": "https://odt.co.nz/otago/queenstown/planning-puzzle-still-holding-up-hub-rwyo09va",
-      "source": "odt.co.nz",
-      "card_text": "Planning puzzle still holding up hub A long-awaited plan to bring Queenstown’s community organisations and social-service providers under one roof remains mired in a complex planning wrangle, but the project’s backers say they’re finally gaining some traction. Otago Daily Times Today 5:00 am Housing"
-    },
-    {
-      "rank": 47,
-      "title": "Performing Arts Precinct to be considered for long term plan",
-      "url": "https://odt.co.nz/otago/wanaka/performing-arts-precinct-to-be-considered-for-long-term-plan-vx4kcr01",
-      "source": "odt.co.nz",
-      "card_text": "Performing Arts Precinct to be considered for long term plan"
-    },
-    {
-      "rank": 48,
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "card_text": "Fight over fossil fuels leaves COP31 climate talks in deadlock"
-    },
-    {
-      "rank": 49,
-      "title": "Stark warning over fossil fuels from Pacific at COP31",
-      "url": "https://rnz.co.nz/news/pacific/2709824/stark-warning-over-fossil-fuels-from-pacific-at-cop31",
-      "source": "rnz.co.nz",
-      "card_text": "Stark warning over fossil fuels from Pacific at COP31"
-    },
-    {
-      "rank": 50,
-      "title": "Western Taranaki seafood rāhui extended for two years",
-      "url": "https://rnz.co.nz/news/environment/2719020/western-taranaki-seafood-rahui-extended-for-two-years",
-      "source": "rnz.co.nz",
-      "card_text": "Western Taranaki seafood rāhui extended for two years"
     }
   ],
   "json_endpoints_observed": [
